@@ -1,0 +1,358 @@
+\input{am5sheetheadercompanion.tex}
+
+\chead{\textsc{\color{red}Confidentiel}}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Aliénor de Beaugency}
+%\birthname{N. de Naissance}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{+2}{+3}{}
+\perception{+2}{+3}{}
+\presence{+1}{+1}{}
+\communication{2}{+3}{}
+\strength{-1}{-1}{}
+\stamina{-1}{-1}{}
+\dexterity{+1}{+1}{}
+\quickness{+1}{+1}{}
+
+
+\size{-1}
+\age{20}{20}
+\soakbonus{-3}
+\confidence{2}{5}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Gente dame}{mineur, statut social}{
+Vous êtes un membre mineur d'une famille noble. Vous n'êtes pas en ligne pour hériter, mais on vous traite tout de même comme un membre de la famille et vous pouvez vous faire appeler Seigneur ou Dame. Vous habitez probablement près de l'alliance avec votre famille. Quoique vous ne manquiez de rien, vous n'avez aucune richesse propre. Vous pouvez occasionnellement demander à votre famille de vous acheter un équipement coûteux, mais vous devez leur donner une bonne raison. On s'attend à ce que vous serviez votre famille la majeure partie du temps, sous peine d'en perdre les avantages. Toutefois, vous conserverez votre Statut Social à condition de maintenir votre style de vie. La Vertu Majeure Richesse et le Vice Majeur Pauvreté vous affectent normalement. Cette Vertu est accessible aux hommes et aux femmes.
+}\sep
+\VFQ{Éducation privilégiée}{mineur, général}{\notimportant
+Vous avez grandi dans un environnement où vous aviez accès à des professeurs et du temps libre pour étudier. Vous avez 50 points d'expérience supplémentaires, qui peuvent être dépensés pour des Compétences générales, académiques ou martiales. Cependant, vous ne pouvez pas acheter de Compétences académiques ou martiales avec votre réserve normale de points d'expérience, à moins qu'une autre Vertu ne vous y autorise. L'explication la plus courante de cette Vertu est que votre famille était riche quand vous étiez enfant, mais si vous êtes encore riche maintenant, vous devriez prendre la Vertu Richesse.
+}\sep
+\VFQ{Caractéristiques Supérieures\entrad{Improved Caractéristics}}{mineur, général}{\notimportant
+Vous avez trois points supplémentaires à dépenser pour vos Caractéristiques, mais vous êtes toujours limité à un maximum de +3, à moins de prendre la vertu Excellente Caractéristique. Vous pouvez prendre cette vertu plusieurs fois.
+}\sep
+\VFQ{Grand voyageur}{mineur, général}{ \notimportant
+Vous avez beaucoup voyagé dans cette partie du monde, ce qui fait que vous vous entendez bien avec ses habitants. Vous avez cinquante points d’expérience à dépenser sur les Langues vivantes, Connaissances d'une région, Marchandage, Ripaille, Charme, Étiquette, Connaissance des gens, Tromperie.
+}\sep
+\VFQ{Regard perçant}{mineur, général}{
+Si vous fixez intensément une personne, elle se sent mal à l'aise, comme si vous observiez son âme. Les personnes ayant des intentions cachées, des choses à se reprocher ou des mensonges en bouche doivent effectuer un test contre un Trait de Personnalité approprié, Tromperie ou ce que le conteur juge adapté, pour rester calmes. De plus, vous bénéficiez d’un bonus de +3 sur les tests impliquant l'intimidation. Les êtres féeriques et les démons ne sont pas sensibles à votre pouvoir.
+}\sep
+\VFQ{Clarté de pensée}{mineur, général}{
+Vos pensées sont logiques et rationnelles. Vous bénéficiez d'un bonus de +3 sur tous les jets visant à résister aux mensonges, à la confusion, à l'embrouillement et à la falsification, que la tentative soit magique ou vulgaire.
+}\sep
+\VFQ{Lecteur perspicace}{mineur, général}{
+Vous êtes doué pour comprendre les écrits d'autrui. Lorsque vous étudiez depuis des livres, vous les considérez comme s'ils étaient de trois niveaux de qualité au-dessus de ce qu'ils sont réellement.
+}\sep
+\VFQ{Intuition}{mineur, général}{
+Votre sensibilité naturelle vous permet de prendre les bonnes décisions plus souvent que la simple chance ne pourrait l'expliquer. À chaque fois que vous êtes confronté à un choix où le hasard tient un rôle prépondérant, comme décider quel chemin suivre parmi trois possibilités, vous avez une bonne chance de choisir correctement. Le conteur lance un dé simple en secret. Sur un 6+, votre intuition vous guide vers ce qui pourrait être considéré comme la bonne décision. Sinon, vous n’avez aucun flash et devez prendre la décision par vous-même.
+}\sep
+\VFQ{Confiance en soi}{mineur, général}{
+Vous avez une confiance absolue en vos propres capacités, ce qui se traduit par une valeur de Confiance de deux. Vous entrez en jeu avec cinq points de Confiance, plutôt que trois (cf. p. 27 pour les règles sur la Confiance).
+}\sep
+\VFQ{Meneur Né}{mineur, général}{
+Le personnage est un individu dominant dont l'attitude incite les autres à faire ce qu'il dit. Sa prestance lui procure un bonus de +3 dans les situations sociales qui l'amènent à diriger d'autres personnages. Les gens sont plus susceptible de suivre ses ordres ou ses conseils. \notimportant S'il possède le don, ce bonus peut lui permettre de surmonter les difficultés sociales dues à son Don grâce à sa personalité dominante. Les membres de la maison Bjornaer initié tôt dans leur apprentissage possèdent souvent cette Vertu.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Amour véritable (Alexandre)}{majeur, histoire}{
+Vous avez trouvé la personne qui vous était destinée dans toute la création ; le lien entre vous est inaltérable. Quand vous êtes blessé, en danger ou rejeté, le simple fait de penser à votre aimé(e) vous donne la force de persévérer. Dans la pire des situations, il/ elle peut même venir à votre secours. Le plus souvent, il/elle sera en danger et ce sera à vous de le/la sauver. Si un enchantement vous retient loin de votre aimé(e), le pouvoir de votre dévotion peut probablement le briser. Votre amour est plus fort que la magie des mortels ; aucune magie ne peut vous faire haïr votre aimé(e) ou vous pousser à le/la trahir. Votre aimé(e) doit être un personnage non joueur (cf. la Vertu Amour véritable (PJ), p. 73 pour être amoureux d'un autre personnage joueur).
+Cette accroche peut être renommée « Véritable ami » pour couvrir des liens tout aussi forts, mais qui ne sont pas de nature romantique.
+Si l'aimé(e) est significativement plus faible que le personnage joueur, et qu'il/elle ne peut pas fournir d’assistance dans la plupart des situations, il s'agit d'un Vice Majeur. Si l'aimé(e) est compétent(e), égale ou supérieur(e) au personnage joueur, alors ce n'est qu’un Vice mineur. L'aimé(e) peut avoir besoin d'être sauvé(e) de temps en temps, mais le plus souvent, il/elle impliquera le personnage joueur dans ses plans.
+
+Aliénor est un PNJ, du coup il y a une inversion PJ/PNJ. Par ailleurs cette flaw est renforcé à Majeur, du fait des obstacle courant à cette relation
+}\sep
+\VFQ{Visions}{mineur, surnaturelle}{
+Vous voyez fréquemment des images liées à des évènements chargés d'émotions ou de magie. Venant du passé, d'un futur potentiel ou d'un lieu lointain, les visions sont souvent symboliques ou confuses. Vous avez ces visions dans des moments de détente ou dans des lieux liés à un puissant évènement émotionnel ou magique, comme le site d'un parricide ou d'un sacrifice diabolique. Vos visions peuvent vous prévenir de dangers à venir, ou vous impliquer dans des affaires que vous auriez préféré éviter.
+Les visions se déclenchent à la discrétion du conteur, et ne révèlent que ce qu'il souhaite révéler.
+}\sep
+\VFQ{Têtue}{mineur, général}{
+Aliénor est une tête de mule, lorsqu'elle a décidé de quelque chose il est très difficile de l'en convaincre autrement.
+}\sep
+\VFQ{Curiosité irrépressible}{majeur, général}{
+Aliénor est une personne terriblement curieuse, et elle laissera facilement tout tomber pour enquêter, se renseigner ou lire sur ce qui aiguise sa curiosité.
+}\sep
+\VFQ{Frêle}{mineur, général}{
+Ce personnage est de carrure faible et est aisément blessé lorsqu'elle accomplie des activités physiques. Elle a une pénalité de -3 à son Encaissement
+}\sep
+\VFQ{Petite Carrure}{mineur, général}{
+Vous êtes d'une carrure plus légère que la moyenne. Votre Taille est
+réduite à –1. Cela signifie que la sévérité des blessures que vous subissez augmente par tranches de quatre points au lieu de cinq (cf. p. 255). Vous ne pouvez pas prendre ce Vice en même temps que Sang de géant, Colosse ou Nain.
+}
+}
+
+\traits{
+\trait{Curieuse}{+3}\sep
+\trait{Déterminée}{+3}\sep
+\trait{Espiègle}{+2}\sep
+\trait{Gentille}{+1}\sep
+\trait{Rebelle}{+2}\sep
+\trait{Courageuse}{+2}
+}
+
+\reputations{}
+%\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}\sep
+%\reputation{??}{Type}{+??}
+
+
+\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+\closequarterweapon{Poings}{1}{0}{0}{1}{0}{0}
+\closequarterweapon{Couteau de chasse}{1}{0}{1}{1}{2}{0}
+}
+\abilities{
+\ability{Archerie}{arc court}{1}{5}\sep
+\ability{Artes Libérales}{logique}{1}{5}\sep
+\ability{Artisan. Broderie}{ne pas se piquer}{1}{5}\sep
+\ability{Attention}{secrets}{2}{15}\sep
+\ability{Bagarre}{esquiver}{1}{5}\sep
+\ability{Charme}{complices}{2}{15}\sep
+\ability{Chasse}{petit gibier}{1}{5}\sep
+\ability{Chirurgie}{blessures de combat}{1}{5}\sep
+\ability{Commandement}{servants}{2}{15}\sep
+\ability{Connaissance des gens}{Nobles}{3}{30}\sep
+\ability{\lore de la Féérie}{forêts}{1}{5}\sep
+\ability{\lore de la Magie}{créatures}{1}{5}\sep
+\ability{\lore de l'Église}{politique}{1}{5}\sep
+\ability{\lore de la Noblesse}{politique}{2}{15}\sep
+\ability{\lore régional Locale}{coin tranquille en forêt}{3}{30}\sep
+\ability{Discrétion}{le château}{2}{15}\sep
+\ability{Étiquette}{éconduire prétendants}{2}{15}\sep
+\ability{Équitation}{Folâtre}{2}{15}\sep
+\ability{Français}{noble}{5}{75}\sep
+\ability{Intrigue}{noblesse}{3}{30}\sep
+\ability{Latin}{ecclésiastique}{3}{30}\sep
+\ability{Marchandage}{son père}{3}{30}\sep
+\ability{Médecine}{truc de femmes}{1}{5}\sep
+\ability{Musique}{chant}{2}{15}\sep
+\ability{Nager}{nue}{1}{5}\sep
+\ability{Philosophiæ}{nature}{1}{5}\sep
+\ability{Ripaille}{sobriété}{2}{15}\sep
+\ability{Survie}{forêt}{1}{5}\sep
+\ability{Théologie}{histoire}{1}{5}\sep
+\ability{Tromperie}{son père}{2}{15}\sep
+}
+
+
+\equipment{
+Robe élégante\sep
+Chemise légère, pantalon solide, et cape chaude\sep
+Folâtre, sa jument personnelle\sep
+Un couteau de chasse
+}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\scshape {\color{red} Confidentiel}\par
+    \LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Description}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+\begin{center}
+\textsc{\Large\color{red}Confidentiel}
+\end{center}
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+\begin{center}
+\textsc{\Large\color{red}Confidentiel}
+\end{center}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Région :] Royaume de France
+\item[Année :] 1200
+\item[Famille :] de Beaugency
+\item[Résidence :] Château de Beaugency
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Féminin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+%\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :]
+\item[Lieu de Naissance :] Beaugency
+\item[Religion :] Catholique
+\item[Titre / Profession :] Fille de Baron\footnote{c'est à dire être une gentille fille bonne à marier, s'ennuyer et être marié à je ne sais quel chevalier bourrin, stupide et inintéressant}
+\item[Main directrice :] Ambidextre
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] Ahem \hspace{0pt}
+\item[Cheveux :] Blonds \hspace{0pt}
+\item[Yeux :] Bleu vif \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols}
+
+%\pagebreak
+
+\section*{Lore}
+Son couteau lui a été offert par Guy, un des éclaireurs de son père, duquel elle a obtenu quelque leçon sur la chasse, la survie, les arcs et la bagarre. Son père n'est pas particulièrement au courant.
+
+Aliénor est relativement futée et indépendante. Elle est relativement doué pour faire des choses dans le dos de son père, comme aller satisfaire sa curiosité sur des sujets pas du tout commun pour une gente dame, ou aller se poser tranquille en forêt. Elle a été particulièrement marqué par le décés de leur mère il y a dix ans de cela, et aimerai mieux connaitre la médecine.
+
+Elle sait qu'il y a des braconniers dans la forêt et en a déjà aperçu certains, mais ceux-ci savent qu'il vaut mieux l'éviter pour ne pas risquer de se faire prendre par le Comte.
+
+Elle a déjà éconduit un certain nombre de prétendants, chevaliers généralement de peu d'esprit, et particulièrement peu ouvert à ses envie de se cultiver, de sortir du carcan et d'être indépendante.
+
+Du château voilà un échantillon des personnes qu'elle connait :
+\begin{description}
+\item[Jean de Beaugency :] Son père, juste droit, mais souvent sévère et strict. Elle l'aime mais en même temps est souvent en conflit avec lui, et elle garde ses petits secrets par rapport à lui. Elle constate que celui-ci vieilli, son esprit est encore vif et acéré, mais sa vue baisse et sa jambe le gêne de plus en plus.
+
+\item[Isabelle :] Sa sœur ainée d'un an, on ne peut plus différente. Grande, bien formée, mondaine, et avec un charme incomparable, surtout envers les hommes, la calme brune Isabelle est l'opposé de la blonde Aliénor, qui est petit, frêle, vive et bien plus intelligente. Isabelle est souvent simpliste et ne comprends rien à Aliénor, mais elle est loyale. Elle est follement amoureuse de son fiancé, Enguerrand, un chevalier certe gentil et mignon, mais qui est parfois bête au possible. À chacun son truc. Aliénor espère qu'elle sera heureuse.
+
+\item[Geoffroy :] Son grand frère (le plus bête du monde parfois :p), avec qui elle aime à se chamailler gentiement, mais qui la défend souvent. Galant, musclé mais bien proportionné, il fera probablement un bon soldat, mais il n'est certainement pas aussi rusé que son père Jean.
+Sa fiancée, Blanche est une jeune fille douce et sage, et les deux se marient dans une semaine, et forme un couple tendre et mignon à voir.
+
+\item[Guy :] L'un des éclaireurs du Baron, un homme qui se déplace à cheval ou à pied, équipé légèrement, archer redoutable, plutôt bon chasseur et débrouillard, il approche ses trente cinq ans et ferme les yeux sur les petites excursion d'Aliénor et autres activités que son père n'approuverait pas forcément.
+
+\item[Charles :] Le capitaine de la garde, c'est un homme d'arme on ne peut plus sérieux et droit. Il est strict dans sa discipline mais a à cœur la cohésion de sa troupe. Par conséquent, il a souvent été la cible de plaisanteries d'Aliénor lorsqu'elle était plus jeune et il la regarde souvent avec un regard méfiant. Il reste un soldat discipliné qui obéit aux ordres qui semblent légitime.
+
+\item[Ghislain, Roland, Jacques :] Chevaliers de son père, plutôt la trentaine. Ils ont de l'humour eux contrairement à certains, et s'il ne fermeraient pas les yeux autant que Guy, ils apprécie ses blagues et la défendront des sanctions pour celle-ci.
+
+\item[André :] Le curée du village, qui apprécie la culture et l'intelligence d'Aliénor, et sa foi en Dieu, mais ne peux qu'hausser les bras quand à son caractère têtu, et ses tendances rebelles vis à vis des normes sociales. Il a supporté impassiblement les farces qu'Aliénor à pu lui faire, d'autant qu'elle n'ont jamais été blasphématoires et ont rarement perturbé les offices.
+
+\item[Aeldira :] Elle admire cette femme indépendante et ses connaissance en médecine. C'est frustrant qu'elle n'ai pas été là il y a dix ans pour sauver sa mère. Mais au moins maintenant on est entre de bonne main pour la santé.
+
+\item[Alexandre :] Une personne intéressante, très intéressante, cultivé, ouvert d'esprit, respectueux, drôle, attentionné, intelligent, et charmant accessoirement. Voilà quelqu'un avec qui elle aimerait passer le restant de ses jour, voyager à travers la France, l'Europe et la méditerranée. Voir Byzance, et avoir du temps à consacrer a ses études. Elle en est secrètement amoureuse.
+
+\item[Justinien :] Elle a aperçu ce collègue d'Alexandre, qui ressemble à un moine bizarre et calme, au fond e l'église chaque dimanche. Lui et André se connaissent manifestement un peu.
+
+\item[Ignace :] Encore plus bizarre et l'air un peu dangereux, il est clairement fervent chrétien lorsqu'il est à la messe pour les grandes fêtes, aux coté de Justinien, mais c'est pas le même genre du tout.
+
+\item[Lycus :] Ne connait pas son nom, mais l'a aperçu sous forme humaine à lors des grandes fêtes chrétienne ou l'église est comble. Elle a possiblement aussi aperçu de loin Lycus sous forme de loup, sans faire le rapprochement évidemment.
+
+\item[Caton, Muirgen :] Jamais vu ces mages. Une discussion avec Muirgen peut être intéressante.
+
+\end{description}
+
+\section*{Notes}
+Cette fiche est confidentielle, ne pas la laisser voir aux PJ.
+
+Si les PJ n'ont pas franchement avancé au bout de 24h, elle pourra partir discrètement du chateau et aller tambouriner à la porte de l'alliance, pour aller leur demander ce qu'ils font, et râler que si c'est eux qui ont enlevé ses frangins, elle aurait préféré que ce soit elle qui soit enlevée, elle qui s'ennuie et est bridée au château, et qui aimerait vivre avec Alexandre, plutôt que ses frangins qui sont à leur aise au château, et ont plein de choses à y faire.
+
+(Tâche au PJ d'avoir l'air un peu furieuse de pas avoir été enlevé, et qui balancera probablement un regard à Alexandre du style est-ce que tu m'aimes toi, et n'hésitera pas à foudroyer du regard d'autres mages, y compris Ignace).
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

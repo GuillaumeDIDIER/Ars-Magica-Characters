@@ -1,0 +1,394 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Ignace Flambeau}
+\birthname{Iñaki}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{+2}{+3}{}
+\perception{0}{0}{}
+\presence{0}{0}{}
+\communication{-1}{-1}{}
+\strength{0}{0}{}
+\stamina{+2}{+3}{}
+\dexterity{1}{1}{}
+\quickness{1}{1}{}
+
+\size{0}
+\age{25}{25}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+%\end{color}
+\VFQ{Talent en Ignem}{maison, hermétique}{
+\vspace{-2.5em}
+}\sep
+\VFQ{Talent en Creo}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur d'un Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l'Art dans le calcul du total. Il ne s'applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c'est le cas, le bonus ne s'applique pas au complément.
+}\sep
+\VFQ{Affinité pour Ignem}{mineur, hermétique}{\notimportant
+Les Totaux d'étude pour un Art hermétique sont augmentés de moitié, arrondi à l'entier supérieur. Lors de la création de personnage, les points d'expérience investis dans cet Art sont également augmentés de moitié (arrondi au-dessus), et vous pouvez dépasser les limites recommandées. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents.
+}\sep
+\VFQ{Expertise Magique Majeure (Flammes)}{majeur, hermétique}{
+Votre magie est bien plus puissante dans un domaine relativement limité, tel que le climat, la nécromancie, les oiseaux ou les émotions. Ce domaine devrait être plus réduit qu'un seul Art, mais il peut être réparti sur plusieurs Arts. Par exemple, la nécromancie couvre à la fois des effets de Corpus et de Mentem. Vous ne pouvez pas être un expert des activités de laboratoire en général, bien qu'une expertise puisse s'appliquer dans ce cadre.
+
+Lorsque vous lancez un sort ou générez un Total de laboratoire dans votre domaine, ajoutez la plus petite des valeurs d'Art deux fois. Si le sort a des compléments, la valeur la plus basse peut être l'un des compléments, plutôt que l'un des Arts principaux. Ainsi, si un mage expert des oiseaux lance un sort pour transformer un oiseau en flammes pures, donc MuAn(Ig), avec Muto 14, An 18 et Ig 10, son total serait
+de 34 + les autres modificateurs (14 de Muto et 20 d’Ignem deux fois). S'il lançait un sort pour transformer un oiseau en une autre espèce d'oiseau, donc MuAn sans complément, son
+total serait de 46 + les autres modificateurs (18 d’Animal et 28
+de Muto deux fois).
+
+Un personnage ne peut avoir qu'une expertise magique, qu'elle soit mineure ou majeure, quelle que soit la source de l'expertise.
+}\sep
+\VFQ{Immunité Majeure (feu)}{majeur, surnaturelle}{
+Vous êtes totalement immunisé contre un danger courant et potentiellement mortel. Par exemple, vous pourriez être immunisé contre le feu ou les armes en fer (et uniquement en fer). Vous ne pouvez pas choisir l'âge (cf. la Vertu Surnaturelle Mineure Verdeur, p. 87). Cette immunité s'applique aux versions vulgaires et magiques du danger. Si vous êtes immunisé contre le feu, vous l'êtes également contre le feu généré magiquement.
+}\sep
+\VFQ{Magie Cyclique positive (jour)}{mineur, hermétique}{
+Votre magie est accordée avec un cycle de la nature, solaire, lunaire ou saisonnière, par exemple. Vous êtes plus puissant lors de certaines périodes, où vous bénéficiez d'un bonus de +3 à tous les jets de sorts. Ce bonus s'applique également aux Totaux de laboratoire si la partie positive du cycle couvre toute la saison. Le cycle de votre magie doit être régulier et approuvé par le conteur. De plus, la Durée pendant laquelle le bonus s'applique doit être égale au temps durant lequel il ne s'applique pas.
+
+Ignace bénéficie de ce Bonus du lever au coucher du soleil, on comprends mieux pourquoi l'été est sa saison préférée.
+}\sep
+\VFQ{Renforcement Vital}{mineur, hermétique}{
+Vous pouvez augmenter le Total de lancement de vos sorts formels en dépensant des niveaux de Fatigue supplémentaires. Chaque niveau de Fatigue vous confère un bonus de +5 sur le jet, ce qui peut donner des totaux de Pénétration impressionnants. Vous pouvez dépenser plus de niveaux de Fatigue que vous n'en possédez. Dans ce cas, vous devez encaisser des Dégâts, sans l'aide d'une armure. Le total de Dégâts est de 5 par niveau de Fatigue supplémentaire dépensé, plus un dé de tension. Ainsi, si vous dépensez trois niveaux de Fatigue supplémentaires, vous devez encaisser des Dégâts de 15 + dé de tension avec votre Encaissement (sans l'armure) + dé de tension. Les niveaux de Fatigue dépensés ainsi sont perdus que le jet de lancement réussisse ou échoue. De même, les blessures subies ne dépendent pas de la réussite ou de l'échec du sort. Vous pouvez vous tuer de cette façon. Le nombre total de niveaux de Fatigue utilisé doit être fixé avant d'effectuer le jet de lancement.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Condition Nécessaire (claquer des doigts)}{majeur, hermétique}{
+Pour que votre magie fonctionne, vous devez effectuer une action spécifique durant le lancement du sort. Cela peut être quelque chose de simple, comme chanter ou tourner trois fois sur vous-même. Si vous êtes dans l'incapacité de réaliser cette action, vous ne pouvez plus lancer de sorts du tout.
+}\sep
+\VFQ{Ennemis (hérétiques)}{majeur, histoire}{\notimportant
+Quelqu'un vous cause des problèmes, comme un baron ou un évêque, une bande de hors-la-loi ou un aubergiste vraiment méchant. L'ennemi doit être assez puissant pour vous menacer. Discutez-en avec le conteur et le reste de la troupe.
+}\sep
+\VFQ{Obsession: hérétiques}{}{
+Vous êtes obnubilé par un objet, une action ou un idéal. Cela interfère avec l'accomplissement de tâches plus immédiates. Par exemple, un personnage obsédé par la protection des mages pourrait aller jusqu'à attaquer les personnes qui les insultent, et un autre obsédé par la propreté passerait son temps à se laver et se moquerait des personnes sales.
+
+Ignace est très fortement préoccupé par les hérétiques qui tentent de corrompre les croyants et les détourner de la seule vrai foi.
+}\sep
+\VFQ{Courroux}{majeur, personnalité}{
+Vous vous mettez en colère pour un rien. Votre fureur lorsque vous êtes contrarié pour un motif sérieux est un spectacle terrible.
+}
+}
+
+\traits{
+\trait{Fanatique}{+3}\sep
+\trait{Courageux}{+3}\sep
+\trait{Courroux}{+3}
+}
+
+\reputations{
+%\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}\sep
+%\reputation{??}{Type}{+??}
+}
+
+\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+\closequarterweapon{Poings}{2}{0}{0}{1}{0}{0}
+}
+\abilities{
+\ability{Artes Liberales}{géométrie}{1}{5}\sep
+\ability{Athlétisme}{courir}{2}{15}\sep
+\ability{Attention}{monter la garde}{3}{30}\sep
+\ability{Bagarre}{Esquive}{2}{15}\sep
+\ability{Concentration}{sorts}{1}{5}\sep
+\ability{Connaissance des Gens}{Autorités}{1}{5}\sep
+\ability{Discrétion}{s'infiltrer}{1}{5}\sep
+\ability{Finesse}{Ignem}{1}{5}\sep
+\ability{Latin}{hermétique}{4}{50}\sep
+\ability{Occitan}{Aquitaine}{5}{75}\sep
+\ability{Parma Magica}{Mentem}{1}{5}\sep
+\ability{Pénétration}{Ignem}{2}{15}\sep
+\ability{Survie}{garrigue}{1}{5}\sep
+\ability{Théologie}{Hérésies}{1}{5}\sep
+\ability{Théorie Magique}{Ignem}{3}{30}\sep
+\ability{Tromperie}{c'est pas moi}{2}{15}
+}
+
+\artCr{12+3}{78}{}
+\artIn{2}{3}{}
+\artMu{1}{1}{}
+\artPe{4}{10}{}%\footnote{Déficient}}
+\artRe{5}{15}{}
+      
+\artAn{0}{0}{}
+\artAq{0}{0}{}
+\artAu{0}{0}{}
+\artCo{3}{6}{}
+\artHe{0}{0}{}
+\artIg{15+3}{120 (80)}{\footnote{affinité}}
+\artIm{0}{0}{}
+\artMe{1}{1}{}
+\artTe{0}{0}{}
+\artVi{0}{0}{}
+
+\sigil{Odeur de feu de bois}
+
+\equipment{
+Robe de mage rouge à motif orange et or\sep
+Des robes en toile un peu grossière résistante souvent tâchées, aisément remplaçables
+}
+% Casting total CrIg : 50+3
+\spells{
+\spell{Boule de Flammes Abyssales}{CrIg}{35}{\RDT{Voix}{Mom}{Ind}}{50+3}{}{
+Une boule de feu jaillit de vos mains pour toucher une Cible unique, lui infligeant +30 Dégâts.
+Marius de Tremere personnalise ce sort en y ajoutant une bruyante déflagration lorsque la Cible est touchée. Son sceau est toujours de mauvais goût.
+
+Dans la version d'Ignace le feu est d'une teinte rouge et or assez magnifique et dégage une odeur de feu de bois prononcée.
+}{Base 25, +2 Voix, l'effet de la boule sortant de vos mains n'est qu'esthétique}
+\spell{Cercle de Flammes}{CrIg}{35}{\RDT{Voix}{Conc}{Ind}}{50+3}{}{
+Crée un cercle de flammes de deux mètres de haut. Le cercle est crée avec un rayon de soixante centimètres, mais vous pouvez le réduire en un pilier ou l'agrandir jusqu'à deux mètres de rayon en vous concentrant, si vous avez lancé le sort avec un complément Rego. Quiconque traverse les flammes subit +20 Dégâts. Vous ne pouvez déplacer le centre du cercle.
+}{Base 20, +2 Voix, +1 Concentration}
+\spell{Arc de Rubans Flamboyants}{CrIg}{25}{\RDT{Voix}{Mom}{Groupe}}{50+3}{}{
+Une douzaine de rubans enflammés multicolores sautent de vos mains et s'envolent aussi loin que porte votre voix, couvrant un angle de soixante degrés. Quiconque se trouve dans l'arc de cercle subit +10 Dégâts.
+}{Base 5, +2 Voix, +2 Groupe}
+\spell{Pilum de Feu}{CrIg}{20}{\RDT{Voix}{Mom}{Ind}}{50+3}{}{
+Un épais jet de feu en forme de lance, long de soixante centimètres, jaillit de vos paumes, causant +15 Dégâts à la personne touchée.
+}{Base 10, +2 Voix}
+\spell{Contacter la Flamme Vascillante}{InIg}{30}{\RDT{Touch.}{Con.}{Ind}}{24+3}{}{
+Vous engagez une conversation, généralement très chaotique, avec un feu qui est facilement distrait. Promettre plus de combustible à un feu ravive son attention. Les feux sont plutôt conscients de ce qu'ils ont brûlé et ont quelques notions de ce qui se passe autour d'eux.
+
+La version d'Ignace nécessite de mettre la main dans le feu, ce qu'il peut faire impunément de par son immunité, habituellement les mages doivent discuter à portée de voix.
+}{Base 20, +1 Toucher, +1 Conc}
+}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Flamboyant, colérique, fanatique, Ignace Flambeau est un combattant spécialiste du feu. Fervent Catholique et Loyal envers l'ordre, il incinère avec une redoutable efficacité les ennemis de Dieu et de l'Ordre, en plus il est ignifugé lui, contrairement à ceux que Dieu voue aux flammes de l'enfer.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Flambeau
+\item[Alliance :] Silva Solognæ
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Masculin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Basque / Aquitaine
+\item[Lieu de Naissance :] Biarritz
+\item[Religion :] Catholique
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] Blond paille \hspace{0pt}
+\item[Yeux :] Verts\hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Flambeau
+\item[Domus Magna :] Castra Solis
+\item[Primus :] Garus
+\item[Parens :] David Flambeau
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Castra Solis
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{1}{\footnote{+1 pour Ignem}}
+\effectrecognitionroll{0}{}
+\targetroll{1}{\footnote{+1 pour Ignem}}
+\concentrationroll{1}{\footnote{bonus de +1 pour jeter des sorts}}
+\mrroll{1}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & -2 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & -5 \\ \hline
+\end{tabularx}
+\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+
+\begin{multicols}{2}
+
+\end{multicols}
+
+\pagebreak
+
+\section*{Lore}
+Ignace est né au pays basque d'une famille catholique Occitane, il a été rapidement repéré par les Flmabeau de Castra Solis, surtout vu sa propension à causer des petits incendies et à ne pas subir le moindre dommage du feu. Il fut pris en apprentissage par l'un deux, David Flambeau, de l'école de combat du fondateur, particulièrement adapté aux Talents et à l'immunité naturelle d'Ignace, et ainsi Ignace devient un incorrigible adepte du feu sous toute ses forme, au détriment des autres formes.
+
+Fanatique, prompt à incinérer les hérétiques, il est censé assurer la défense de l'alliance et sert d'Hoplite au Quaesitor Justinien lorsque celui-ci à besoin d'un peu de force agressive. C'est d'ailleurs à la demande de Confluensis d'où vient Justinien qu'il a rejoint Silva Solognæ. Voilà ce que pense Ignace de ses confrère ou Sodales, pour les latins :
+\begin{description}
+\item[Alexandre Jerbiton :] Il parait plutôt chrétien, mais ces chrétiens d'orients sont parfois un peu étrange. Faut pas compter sur lui en combat, mais faut avouer qu'il est impressionnant avec sa musique et ses illusions. Et il a fondé cette magnifique alliance au milieu d'une forêt avec plein de combustible.
+\item[Justinien Guernicus :] Ils se sont rencontrés il y a de cela plus de six ans, pendant une marche des magiciens ordonnée par la mater de Justinien contre un diaboliste pas franchement ignifugé. David était évidemment de la partie avec son apprenti. Ignace respecte profondément Justinien, un saint homme, droit et juste, et sera toujours là pour le défendre. Il tâche de lui obéir lorsqu'il lui demande de retenir ou tempérer ses ardeurs.
+\item[Lycus Lupus :] Un mauvais plaisant qui aime les arbres. On ne peux pas dire que lui et Ignace s'entendent bien.
+\item[Caton Bonisagus :] Un mage brillant, et un puits de savoir, bien que renfermé en rochon. Ça lui ferait probablement du bien de passer une soirée en plein air autour d'un grand feu. Je ne sais pas pourquoi il s'intéresse aux autre éléments que le feu, mais au moins il a toujours des histoires intéressantes à raconter sur les feux.
+\item[Aeldira Tremere :] La discipline Tremere se voit nettement, elle parle un language militaire qui parle à Ignace, même si ses préoccupation de stratégie, de logistique lui passent parfois au dessus de la tête, et Ignace ne voit pas l'intérêt de la nécromancie, pourquoi utiliser des fantômes pour attaquer l'adversaire, c'est lâche. Une bonne boule de feu en pleine tête voilà qui est courageux. Il n'a toutefois jamais vu Aeldira combattre ainsi, ni combattre tout court. Il respecte par contre la compétence médicale de Aeldira, ça il l'a vu mise en pratique lorsqu'une bête sauvage lui a amoché le bras avant de finir rotie.
+\item[Muirgen Merinita :] \emph{Rougi}. Oui elle s'intéresse plus à l'eau qu'au feu, mais Aquam c'est aussi l'huile et elle a un super sort pour recouvrir les cibles d'huiles, plus qu'à incinérer. C'est vrai qu'elle est pas du tout croyante, mais au moins, elle, elle ne propage pas d'hérésie, et elle vient de chez les fées, elle s'éduque, ça viendra la foi on y travaille. Oh et puis je peux pas brûler une créature qui met de l'eau partout et si jolie en plus. %\footnote{
+(NDMJ, Ignace à le sang qui bout lorsqu'il pense à la magnifique et espiègle Muirgen, pas besoin de faire un dessin. Jusqu'où les choses sont allées est à la discrétion du PJ qui joue Muirgen)%}
+\end{description}
+
+\section*{Notes}
+\begin{itemize}
+\item Renforcement Vital permet d'accroitre la pénétration des sorts si besoin.
+\item Ne pas oublier l'immunité au feu ni le claquement de doigt requis pour faire de la magie
+\end{itemize}
+
+\pagebreak
+\newpage
+\NI{Ne pas écrire ici sauf au crayon de papier}
+\newpage
+
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

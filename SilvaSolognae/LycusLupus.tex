@@ -1,0 +1,515 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Lycus Lupus}
+\birthname{Cuán\footnote{\emph{petit loup} en Irlandais}}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{+2}{3}{}
+\perception{+2}{+3}{}
+\presence{-2}{-3}{}
+\communication{+1}{+1}{}
+\strength{-1}{-1}{}
+\stamina{+4}{+6}{Infatigable}
+\dexterity{0}{0}{}
+\quickness{+1}{+1}{}
+\newcommand{\wolfdex}{+2}
+\newcommand{\wolfqik}{+2}
+
+\size{0}
+\newcommand{\wolfsize}{-1}
+\age{25}{25}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+\VFQ{Animal de Cœur\entrad{Heartbeast}}{maison, hermétique}{
+Vous avez été initié au Mystère du dernier cercle de l'Animal de cœur \footnote{
+Les mages Bjornaer peuvent prendre la forme d'une unique créature vulgaire. Il s'agit en général d'un animal ou d'un oiseau, mais ce peut également être une plante. L'animal de cœur est toujours une chose vivante et, souvent, une créature noble. Par exemple, on ne connaît aucun mage qui ait eu pour animal de cœur un ver de terre. L'animal de cœur du mage est une représentation d'un aspect central de sa nature qui fait que sa personnalité, même sous forme humaine, sera semblable à celle de la créature. Les initiés au mystère Bjornaer gagnent la Compétence Animal de cœur. Elle ne peut pas être gagnée par un personnage n'ayant pas été initié au mystère. Pour les initiés au Mystère du dernier cercle, la compétence Animal de cœur ne peut être utilisée que lorsque quelque chose cherche à empêcher le mage de changer de forme. Dans ce cas, le joueur fait un jet d'Énergie + Animal de cœur contre un Facteur de Difficulté défini par le conteur, qui permettra à son personnage de se transformer quoi qu'il arrive.
+
+Un mage Bjornaer ne peut se transformer qu'en un seul type d'animal et cet animal ne peut pas être altéré par la magie hermétique. Il est possible de changer le Bjornaer transformé grâce à une magie Muto Animal, par exemple, mais il est impossible de changer le type de son animal de cœur. Un mage Bjornaer est son propre animal de cœur : le fait qu'il reste sous cette forme n'est pas considéré comme un effet mystique actif (cf. « Distorsion », p. 248). Bien entendu, il est également un véritable humain et le fait qu'il conserve sa forme humaine ne provoque pas non plus de Distorsion.
+
+La magie hermétique est incapable de dire si un animal est en réalité un Bjornaer et il en va de même pour la plupart des autres types de magie. (À supposer, évidemment, que le mage cherche à dissimuler sa nature.) De ce fait, un Bjornaer sous sa forme animale est affecté par les sorts Animal, pas par les sorts Corpus ou Mentem. Cependant, les sorts déjà actifs avant la transformation restent actifs.
+Les mages Bjornaer peuvent lancer des sorts lorsqu'ils sont sous la forme de leur animal de cœur, mais ils ne peuvent ni parler ni faire les gestes appropriés, souffrant donc du malus normal de -15.
+La transformation ne prend qu'un instant et n'affecte que le mage. Aucune de ses possessions n'est transformée. Un Bjornaer que la magie aurait physiquement altéré peut essayer de reprendre sa forme normale ou la forme de son animal de cœur. Il doit réussir un jet d'Énergie + Animal de cœur contre un Facteur de Difficulté défini par le conteur. En guise de référence, 3 + la magnitude de la magie de métamorphose paraît un nombre raisonnable. Si le mage reprend l'une de ses formes naturelles, l'autre magie est dissipée.
+Les mages Bjornaer ne traitent pas les transformations physiques comme des effets magiques majeurs quand il s'agit de gagner des points de Distorsion. Cela dit, une transformation magique maintenue dans le temps fera gagner un point de Distorsion par an puisqu'il s’agira alors d'un effet mystique continu.
+Enfin, les mages Bjornaer ne peuvent pas se lier à un familier. Quant aux raisons de cela, elles sont sujettes à débat mais le phénomène ne prête pas à controverse.} ce qui fait de vous un membre de la maison Bjornaer. Notez que tous les mages Bjornaer reçoivent cette Vertu gratuitement lors de la création de personnage.
+}\sep
+\VFQ{Caractéristiques Supérieures\entrad{Improved Caractéristics}}{mineur, général}{\notimportant
+Vous avez trois points supplémentaires à dépenser pour vos Caractéristiques, mais vous êtes toujours limité à un maximum de +3, à moins de prendre la vertu Excellente Caractéristique. Vous pouvez prendre cette vertu plusieurs fois.
+}\sep
+\VFQ{Excellente Énergie}{mineur, général}{
+Vous pouvez augmenter une Caractéristique ayant déjà une valeur d'au moins +3 d'un point, sans dépasser +5. Assurez-vous de décrire ce qui justifie cette augmentation, comme une carrure massive, une grande maigreur ou un charisme extraordinaire. Vous pouvez prendre cette Vertu deux fois pour la même Caractéristique, ceci pour plusieurs Caractéristiques.
+}\sep
+\VFQ{Sorts Improvisés}{mineur, hermétique}{Le mage peut ajouter la magnitude d'un sort formel qu'il connait comme bonus à son \emph{Total de lancement} lorsqu'il lance spontanément un sort qui lui est similaire (voir Sorts similaire ArM5eFrp160). Cela fonctionne aussi pour le lancement rapide d'un sort identique ou similaire à un sort formel, sauf si ce sort est maitrisé pour le lancement rapide (dans ce cas, c'est le score en maitrise qui est ajouté à la place). Ce bonus ne peut s'ajouter à d'autre bonus sur le \emph{Total de lancement} (la plupart des bonus s'appliquent à la valeur de lancement), et il n'est pas cumulatif si le mage connait plusieurs sorts similaires.
+%The magus may add the magnitude of a formulaic spell he knows as a bonus to his Casting Total when spontaneously casting a spell that is similar to it (see Similar Spells, ArM5 page 101). This includes fast-casting a spell that is the same as or very similar to one of his for- mulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
+}\sep
+\VFQ{Magie Subtile}{mineur, hermétique}{
+Vous ne subissez pas de malus lorsque vous lancez des sorts sans faire de gestes. Vous n'obtenez aucun avantage à faire des gestes normaux, mais vous bénéficiez du bonus normal pour des gestes exagérés.
+}\sep
+\VFQ{Langue Déliée}{mineur, surnaturelle}{
+À chaque fois que le mage prend une forme non humaine (que ce soit du fait d'un sort, d'un objet magique, d'une malédiction ou son Animal de Cœur), il peut parler toutes les langues humaines qu'il connait sans la moindre gêne. S'il s'agit d'un mage il peut utiliser sa voix comme d'habitude pour lancer des sorts.
+}\sep
+\VFQ{Prudence en sorcellerie}{mineur, hermétique}{
+Vous êtes particulièrement prudent pour ce qui touche à la magie, ce qui fait que vous courez peu de risques
+d'échouer catastrophiquement lorsque vous échouez. Vous lancez trois dés de désastre de moins lorsque vous lancez des sorts (qu'ils soient spontanés ou formels) et lorsque vous travaillez en laboratoire. Cette Vertu ne peut pas réduire le nombre de dés de désastre en dessous d'un. Toutefois, ses effets sont appliqués avant tout autre effet réduisant le nombre de dés de désastre, comme la maîtrise des sorts (cf. p. 140), et ils peuvent réduire le nombre de dés de désastre à zéro.
+}\sep
+\VFQ{Magie spontanée vitalisée}{majeur, hermétique}{
+Les possibilités de votre magie spontanée peuvent dépasser celles de la plupart des mages, au prix de votre énergie vitale. Quand vous décidez d’utiliser cette capacité en lançant un sort spontané, vous déclarez le niveau de l'effet que vous souhaitez produire avant lancer le dé. Ce niveau peut inclure un certain nombre de niveaux de Pénétration (cf. p. 136). Par exemple, vous pouvez choisir de lancer un effet de niveau 10 au niveau 20 pour lui donner une Pénétration de 10 plus votre valeur de Pénétration.
+Faites un test pour lancer un sort spontané fatigant. Si votre résultat est plus élevé que le niveau que vous avez déclaré, vous dépensez un seul niveau de Fatigue, comme d'habitude. Si votre résultat est inférieur au niveau déclaré, vous dépensez un niveau de Fatigue supplémentaire par tranche de 5 points (même incomplète) de marge d'échec. Si vous n'avez plus de niveau de Fatigue, vous subissez une blessure. Le nombre de niveaux encore nécessaires pour le sort est traité comme le montant dépassant votre Encaisse- ment, et vous subissez la blessure correspondante. Vous pouvez mourir de cette façon.
+Un mage possédant cette Vertu peut toujours lancer normalement des sorts spontanés fatigants.}\sep
+\VFQ{Talent en Muto}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l'Art dans le calcul du total. Il ne s'applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c'est le cas, le bonus ne s'applique pas au complément.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Condition nécessaire: Présence d'un être vivant}{majeur, hermétique}{
+Pour que votre magie fonctionne, vous devez effectuer une action spécifique ou être dans une situation particulière durant le lancement du sort. Cela peut être quelque chose de simple, comme chanter ou tourner trois fois sur vous-même. Si vous êtes dans l'incapacité de réaliser cette action, vous ne pouvez plus lancer de sorts du tout.
+
+Lycus Lupus doit être en présence d'un autre être vivant (humain, animal ou plante) pour faire de la magie.
+}\sep
+\VFQ{Compulsion : Faire peur aux gens}{mineur, personnalité}{
+Une pulsion malheureuse est la source de vos problèmes. Il peut s’agir de boisson, de sexe, de perfection, de vantardise ou de jeu.
+
+Lycus Lupus ne peut pas se retenir s'il a la possibilité de faire peur ou faire sursauter les gens par pur espièglerie.
+}\sep
+\VFQ{Fierté}{majeur, personnalité}{
+Vous pensez être plus important que n'importe qui d'autre et vous vous attendez à être traité en conséquence. Les mages peuvent admettre un ou deux égaux, mais estiment ne pas avoir de supérieurs. Les vulgaires acceptent les supérieurs sociaux, mais ils se pensent tout de même fonda- mentalement supérieurs au roi, par exemple.
+}\sep
+\VFQ{Nuisance surnaturelle (fées marines)}{majeur, histoire}{
+Des entités surnaturelles d'un certain type interfèrent avec votre vie de façon mineure dès que vous êtes parmi elles. Ce Vice est différent de Harcelé par une entité surnaturelle par le fait que les nuisances n'ont pas de plans à long terme. Cela pourrait représenter un fantôme qui vous hante, ou une inimitié générale des êtres féeriques envers vous.
+}
+}
+
+\newcommand{\wolfvirtues}{
+\VFQ{Caractéristiques Supérieures\entrad{Improved Caractéristics} $\times 2$}{mineur, général}{\vspace{-2.5em}
+}\sep
+\VFQ{Férocité (affamé)}{mineur, animaux}{
+{\notimportant
+Grâce à cette vertu, un animal peut, comme un Compagnon ou un Mage avoir des points de Confiance (3 pts et un score de 1). Toutefois ces points ne peuvent être utilisés que dans certaines situations ou sa férocité animale est sollicité, comme quand il défend sa tanière ou combat un ennemi naturel. À chaque fois que cette vertu est prise il faut décrire la situation qui aiguillonnera la Confiance de l'espèce considérée et lui permettra d'utiliser ces points}
+
+Lycus possède déjà 3 pts de confiance, ceci est donc sans effet, mais c'est une caractéristique de l'espèce animale.
+}\sep
+\VFQ{Endurance}{mineur, général}{
+Vous tenez plus longtemps que la moyenne lors d'activités fatigantes, ce qui vous donne un bonus de +3 sur les jets de Fatigue. Ce bonus ne s'applique pas au lancement de sorts.
+}
+}
+
+\newcommand{\wolfflaws}{
+\VFQ{Compulsion : Faire peur aux gens}{mineur, personnalité}{
+Une pulsion malheureuse est la source de vos problèmes. Il peut s’agir de boisson, de sexe, de perfection, de vantardise ou de jeu.
+
+Lycus Lupus ne peut pas se retenir s'il a la possibilité de faire peur ou faire sursauter les gens par pur espièglerie.
+}\sep
+\VFQ{Tristement Célèbre}{mineur, général}{
+Les gens vous connaissent bien et vous maudissent dans leurs prières. Vous avez une mauvaise Réputation de niveau 4, spécifiant les actes horribles qui vous valent une telle antipathie.
+}\sep
+}
+
+\newcommand{\wolfqualities}{
+\VFQ{Agressif}{qualité}{
+Ajouter 1 à Ruse, confère Bagarre 5 (armes naturelles)
+}\sep
+\VFQ{Robuste}{qualité}{
+La créature est habituée à vivre dans des conditions rudes, elle reçoit Survie 5 (habitat) et un niveau de fatigue supplémentaire.
+}\sep
+\VFQ{Odorat puissant}{qualité}{
+Ajoute 1 à la perception et +3 à tous les jets sollicitant l'odorat, et +2 à tous les jets de chasse.
+}\sep
+\VFQ{Chef de Meute}{qualité}{
+Augmente de 1 la communication et octroie Commandement 5 (espèce)
+}\sep
+\VFQ{Chasse active}{qualité}{
+La bête chasse activement ses proies, les pistant grâce à son odorat ou en les pourchassant. Octroie Chasse 4 (proie), ainsi qu'un niveau de fatigue supplémentaire. La spécialisation en Bagarre de la bête change pour une de ses armes naturelles.
+}\sep
+\VFQ{Ouïe fine}{qualité}{
+Ajoute 1 à la perception et +3 aux jets sollicitant l'ouïe}\sep
+\VFQ{Fourrure épaisse}{qualité}{Ajoute 1 en Protection. Cette qualité se cumule avec la vertu Vigueur et la Qualirté Peau dure.}\sep
+\VFQ{Forte voix}{qualité}{La créature peut émettre des vocalisations impressionnantes telle qu'un rugissement ou un hurlement puissant, un beau chant ou assimilé. Communication passe à 0 (si valeur négative), ou augmente de 1 et Octroie Musique 3. Cette qualité peut être prise 2 fois si l'animal a des talents vocaux particulièrement impressionnants. Musique passerait alors à 5.}
+}
+
+\traits{
+\trait{Courageux}{+2}\sep
+\trait{Faire Peur}{+1}\sep
+\trait{Loyal}{+1}\sep
+\trait{Fier}{+3}\sep
+\trait{Loup: Courageux}{+3}
+}
+
+\reputations{
+\reputation{Loup: Bête mangeuse d'hommes}{Locale}{+4}
+}
+
+\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+\renewcommand{\magusdex}{\wolfdex}\renewcommand{\magusqik}{\wolfqik}\closequarterweapon{Loup: Dents}{6}{0}{3}{1}{1}{0}\sep\renewcommand{\magusdex}{+0}\renewcommand{\magusqik}{+1}\closequarterweapon{Poings}{0}{0}{0}{0}{0}{0}
+}
+\abilities{
+\ability{Loup: Athlétisme}{Longue Course}{5}{75}\sep
+\ability{Loup: Attention}{odeur}{3}{30}\sep
+\ability{Loup: Bagarre}{dents}{5}{75}\sep
+\ability{Loup: Chasse}{pister à l'odorat}{4}{50}\sep
+\ability{Loup: Commandement}{loups}{5}{75}\sep
+\ability{Loup: Survie}{hiver}{3}{30}\sep
+\ability{Animal de Cœur}{vers le loup}{2}{15}\sep
+\ability{Artes Liberales}{grammaire}{1}{5}\sep
+\ability{Athlétisme}{endurance}{2}{15}\sep
+\ability{Attention}{Animaux}{1}{5}\sep
+\ability{Charme}{femelles (H\&L)}{1}{5}\sep
+\ability{Chasse}{forêt}{1}{5}\sep
+\ability{Concentration}{sorts}{2}{15}\sep
+\ability{Connaissance des gens}{paysans}{1}{5}\sep
+\ability{\lore Bjornaer}{mystères}{1}{5}\sep
+\ability{\lore de la Magie}{animaux}{1}{5}\sep
+\ability{\lore de l'Ordre d'Hermès}{politique}{1}{5}\sep
+\ability{\lore régionale Sologne}{forêts}{2}{15}\sep
+\ability{Finesse}{précision}{1}{5}\sep
+\ability{Français}{Vendée}{5}{75}\sep
+\ability{Latin}{hermétique}{1}{5}\sep
+\ability{Parma Magica}{Ignem}{1}{5}\sep
+\ability{Pénétration}{Herbam}{2}{15}\sep
+\ability{Survie}{forêt}{2}{15}\sep
+\ability{Théorie Magique}{sorts}{4}{50}\sep
+\ability{Tromperie}{paysans}{1}{5}
+}
+
+\artCr{3}{6}{}
+\artIn{3}{6}{}
+\artMu{10+3}{55}{}
+\artPe{3}{6}{}%\footnote{Déficient}}
+\artRe{8}{36}{}
+      
+\artAn{7}{28}{}
+\artAq{2}{3}{}
+\artAu{2}{3}{}
+\artCo{3}{6}{}
+\artHe{7}{28}{}
+\artIg{0}{0}{}
+\artIm{3}{6}{}
+\artMe{3}{6}{}
+\artTe{2}{3}{}
+\artVi{2}{3}{}
+
+\sigil{Flocons de neige}
+
+\equipment{
+Une tunique de cuir robuste, adaptée à la forêt.
+}
+
+\spells{
+\spell{Lames de gazon, feuilles coupantes}{MuHe}{30}{\RDT{Voix}{Sol.}{Groupe}}{24}{}{Ce sort toutes les herbes et toute les feuilles d'un groupe de plantes aussi coupante que la lame d'une épée; ceci peut rendre une zone complètement infranchissable même pour quelqu'un avec la plus solide des armures
+}{Base 4, +2 Voix, +2 Soleil, +2 Group}
+\spell{Des vêtements au collier}{MuHe(An)}{30}{\RDT{Touch.}{Sol.}{Groupe}}{24}{}{
+Change l'ensemble des vêtements en un collier autour du cou. Utile pour pouvoir éviter de se retrouver nu en redevenant Humain
+}{Base 5, +1 Toucher, +2 Soleil +2 Groupe}
+\spell{Démêler la trame de Herbam}{PeVi}{15}{\RDT{Touch}{Mom}{Ind}}{14}{}{
+Ce sort annulera les effets de n'importe quel sort de la Forme Herbam dont le niveau est inférieur ou égal à (niveau du sort +15 + dé de tension[pas de désastre possible]), soit 30+dé. Il y a dix variantes de ce sort, une par Forme hermétique et quelques autres variantes, bien plus rares, pour différentes sortes de magie non-hermétique.
+}{Base 10, +1 Toucher}
+\spell{Forme de l'animal de cœur colérique}{MuAn}{20}{\RDT{Per}{Sol.}{Ind}}{24}{}{
+Ce sort est l'un des 4 version de ce sort, une par tempérament Animal. Ces sorts doivent être lancés sous formé animale car ils renforcent les affinités avec le tempérament de cette forme, alors que les humains ont par nature un tempérament plus équilibré que les autres animaux. Un mage Bjornaer peut reprendre forme humaine après avoir lancé ce sort et continuer à être affecté. Il n'est pas  nécessaire que la forme animale qu'il prend corresponde au tempérament du sort. Cependant si ces deux éléments s'accordent tous les bonus conférés par le sort sont augments de 1. Seule l'un de ces sorts peut être actif pour un personnage à un moment donné : une seule humeur peut être affectée de la sorte.
+Pour Lycus, dont l'animal de cœur est colérique, le bonus final est de +2 Dex, +4 à tous les jets pour suivre une piste ou trouver quelque chose qui a été délibérément caché. Confère temporairement le trait Courageux ou l'augmente de 4 s'il existe déjà.}{Base 5, +2 Soleil, +1 Complexité}
+\spell{Seigneur des Arbres}{ReHe}{25}{\RDT{Voix}{Conc.}{Ind}}{19}{}{
+Selon votre volonté, un arbre bouge ses branches et plie son tronc. Un grand arbre frappant avec ses branches a Initiative +5, Attaque +7 et Dégâts +10. Les armes convention- nelles sont quasiment inutiles contre de grands arbres.
+}{Base 4, +2 Voix, +1 Conc, +2 Taille}
+}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Lycus est un mage de la Maison Bjornaer, qui peut donc se changer en un animal précis, son Animal de Cœur, qui est dans son cas un loup. C'est un spécialiste de la magie Muto Herbam et Animal, c'est à dire transformer et contrôler les plantes et les animaux. C'est un mage fier, et qui ne peut pas s'empêcher de faire peur aux gens. Sa magie spontanée est particulièrement puissante.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{\subsection*{Forme de Loup}
+\begin{description}
+\item[Caractéristiques :] Identiques sauf Dex \wolfdex{} (+2 avec le sort de tempérament), Viv/\emph{Qik} \wolfqik
+\item[Taille\entrad{Size} :] \wolfsize
+\item[Vertus et Vices\entrad{Virtues and Flaws}:] \hspace{0pt} % \\
+\begin{itemize}
+\item 
+\renewcommand{\sep}{\sepshort}
+\renewcommand{\VFQ}{\shortVFQ}
+\wolfvirtues{}\sep\wolfflaws{}
+\end{itemize}
+\item[Qualités\entrad{Qualities}:] \hspace{0pt} % \\
+\begin{itemize}
+\item 
+\renewcommand{\sep}{\sepshort}
+\renewcommand{\VFQ}{\shortVFQ}
+\wolfqualities{}
+\end{itemize}
+\item[Encaissement/\emph{Soak} :] +5
+\item[Niveaux de Fatigue :] OK, 0/0, -1/-1, -3, -5, KO
+\item[Malus de Blessure :] \renewcommand{\woundbase}{\magusadd{\wolfsize}{5}} \woundsshort \renewcommand{\woundbase}{\magusadd{\magussize}{5}}
+\end{description}
+}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Bjornaer
+\item[Alliance :] Silva Solognæ
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Masculin
+\item[Taille :] \magussize
+\item[Taille (Loup) :] -1
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Irlande
+\item[Lieu de Naissance :] Irlande
+\item[Religion :] Catholique normal
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] Gris\hspace{0pt}
+\item[Yeux :] Bleus acier\hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\begin{tabularx}{\textwidth}{|Xrcrrr|Xrcrrr|}
+\hline
+\multicolumn{6}{|c|}{Mentales} & \multicolumn{6}{c|}{Physiques} \\ \hline
+Caractéristique &         & Desc.         & H.        & L.        & \NI{points}      & Caractéristique &         & Desc.         & H. & L.    & \NI{points}      \\ \hline
+Intelligence    & Int     & \magusintdesc & \magusint & \magusint & \NI{\magusintpt} & Force           & For/Str & \magusstrdesc & \magusstr & \magusstr & \NI{\magusstrpt} \\
+Perception      & Per     & \magusperdesc & \magusper & \magusper & \NI{\magusperpt} & Énergie         & Éné/Sta & \magusstadesc & \magussta & \magussta & \NI{\magusstapt} \\
+Présence        & Pré     & \maguspredesc & \maguspre & \maguspre & \NI{\magusprept} & Dexterité       & Dex     & \magusdexdesc & \magusdex & \wolfdex\footnote{Ou +2+2 avec le sort Forme de l'Animal de Cœur colérique}  & \NI{\magusdexpt} \\ 
+Communication   & Com     & \maguscomdesc & \maguscom & \maguscom & \NI{\maguscompt} & Vivacité        & Viv/Qik & \magusqikdesc & \magusqik & \wolfqik  & \NI{\magusqikpt} \\ \hline
+\end{tabularx}
+
+\paragraph*{}Total \magusadd{\magusadd{\magusadd{\magusintpt}{\magusperpt}}{\magusadd{\magusprept}{\maguscompt}}}{\magusadd{\magusadd{\magusstrpt}{\magusstapt}}{\magusadd{\magusdexpt}{\magusqikpt}}} pts.
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Forme de Loup}
+\renewcommand{\VFQ}{\longVFQ}
+\subsection*{Vertus}
+\wolfvirtues
+\subsection*{Vices}
+\wolfflaws
+\subsection*{Qualités}
+\wolfqualities
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+NB: Le trait courageux est augmenté de 4 avec le sort de la \emph{Forme l'Animal de Cœur colérique}
+
+\section*{Réputation}
+
+\reputationslong
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Bjornaer
+\item[Domus Magna :] Crintera
+\item[Primus :] Falke
+\item[Parens :] Felix Lynx
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Oléron
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{1}{\footnote{+2 sous forme de loup}}
+\effectrecognitionroll{1}{\footnote{+3 si sous forme de loup et qu'il utilise l'ouïe ou l'odorat}}
+\targetroll{2}{}
+\concentrationroll{2}{\footnote{bonus de +1 pour jeter des sorts}}
+\mrroll{1}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+Modifié par Magie Subtile
+
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & \sout{-2}-0 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & \sout{-5}-0 \\ \hline
+\end{tabularx}
+\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+
+\begin{multicols}{2}
+
+\end{multicols}
+
+%\pagebreak
+
+\section*{Lore}
+Repéré peu après sa naissance par Felix Lynx de passage dans le sud de l'Irlande, \magusbirthname fut élevé dans l'alliance d'Oléron. Il commença réellement son apprentissage vers ses cinq ans, et lors du Rituel des 12 ans découvrit le Loup comme Animal de Cœur. À la fin de son apprentissage, il quitta Oléron, ou les fées marines lui rendaient la vie fort pénible pour aller s'établir dans une forêt à l'intérieur des terres. Un Harmoniste, il souhaite que les humains laisse la forêt aux animaux et à ses autres habitants et essaie en échange de faire en sorte que les loups n'aille pas chasser les troupeaux des humains hors de la forêt.
+
+Peu après son arrivée à Silva Solognæ, il fut reconnu par la meute comme loup dominant, après le décés du précédent chef de la meute. Deux autres solides loups de la meute lui servent de Lieutenant.
+
+Sous sa forme de loup, les villageois le considèrent comme une bête féroce et sanguinaire, ce qu'il n'est pas, mais n'est pas infondé vu sa tendance à faire peur aux gens, et l'intimidation qu'il a pu exercer à leur encontre pour défendre la forêt.
+
+Lui et sa meute évitent généralement la zone humide un peu au Nord de l'alliance qui se trouve être le territoire des fées.
+
+Voilà son opinion de ses divers Sodales de l'alliance de Silva Solognæ :
+\begin{description}
+\item[Alexandre Jerbiton :] Un individu formidable et plein d'humour, capable de répliquer à un loup avec de magnifiques illusions terrifiantes. Lycus est assez reconnaissant qu'il ait instigué la création de cette alliance dans cette magnifique forêt loin de la mer.
+\item[Justinien Guernicus :] Venu de Confluensis, il est assez clair qu'il est là pour garder un œil sur les agissements de certains mages. Après les loups qui défendent la forêt c'est pas vraiment une interférence avec les mondains, surtout en Normandie. C'est un homme calme, posé, simple, presque un moine avec un foi catholique profonde et sincère. Un vrai Harmoniste.
+\item[Aeldira Tremere :] Elle l'a soigné de ses égratignure de retour de chasse un certain nombre de fois, une médecin très sympathique, bien que sérieuse et avec fort peu d'humour. Certain raconte que les médecins Tremere sont des nécromancien, mais Lycus n'a jamais vu Aeldira tremper dans ce genre de choses, et elle a toujours nié catégoriquement la chose lorsque certain ont insinué une pareil chose.
+\item[Muirgen Merinita :] Une vieille connaissance d'apprentissage. Lycus préfère souvent traiter avec elle sous forme de Loup, pour se mettre un peu plus à l'abri de ses charmes redoutable, au plus grand dam de celle-ci vu qu'elle est doué en Corpus et en Mentem, mais pas en Animal. Du coup, elle est obligé de se contenter de caresser la magnifique fourrure de Lycus, ce qu'elle fait fort bien. Enfin, sauf lorsque Lycus décide qu'il veut bien flirter et plus\footnote{Il n'a jamais oublié la première fois qu'elle lui a donné à Oléron, mais shhh}.
+Muirgen est aussi une excellente diplomate avec les fées qui lui a arrangé bon nombre de problèmes et Lycus est ravi qu'elle se soit occupé de trouver un accord avec les fées locales. Accessoirement son espièglerie en fait une excellente complice lorsqu'il s'agit de faire de blague, ou de ses faire des blagues mutuellement.
+C'est aussi un incorrigible séductrice libertine, qui saute un peu sur tout ce qui bouge. (Et talentueuse au lit, de ce que Lycus en sait).
+\item[Ignace Flambeau :] Un dangereux incendiaire qui va finir par mettre le feu à la forêt, un jour. Bon sinon il est aussi loyal qu'il est fanatique, colérique et amoureux de ses feux, ça compense. Voilà le genre de croyant intolérants qui ont causé la perte de la maison Diedne, et dont les Bjornaer aimerait bien ne pas faire les frais.
+Elle qui était son ainée de plusieurs d'année à Oléron, a maintenant l'air d'avoir le même age que les autres mage de l'alliance de part son sang Féérique.
+\item[Caton Bonisagus :] Un mage renfermé mais brillant, et spécialiste des éléments. Les intérêts de Lycus et les sien étant assez disjoint, ils ont peut d'occasion d'interagir. Lycus à constaté que Muirgen ne le traitait pas de la même façon que la plupart des mages, elle qui est habituellement aux mœurs libre, espiègle et taquine, et toujours en train de flirter avec tout ce qui bouge, elle semble s'inquiéter pour lui et être beaucoup plus délicate. Il n'a par contre jamais vu le mage y prêter attention.
+\end{description}
+
+\section*{Notes}
+La vertu Magie Spontanée Vitalisée (ou Life Linked Spontaneous Magic, LLSM), est très puissante mais peux s'avérer fatale en cas de désastre si le total visé est supérieur à 5 $\times$ (nombre de niveaux de fatigue disponibles - 1) + 20 ou 16 (selon la forme). Mais elle garanti la réussite des sorts lancé en l'utilisant (NB ce n'est pas obligatoire).
+
+Le sort \emph{Forme de l'Animal de Cœur colérique} est particulièrement puissant, ne pas oublier de l'utiliser et de ne pas oublier d'appliquer les différents boni.
+
+Ne pas oublier de même les modificateurs sous forme de loup suivant :
+\begin{itemize}
+\item Jets de Fatigue à +3
+\item Jets impliquant l'ouïe +3
+\item Jets impliquant l'odorat +3
+\item jets de Chasse +2 grâce à l'odorat, +4 supplémentaire avec le sort.
+\end{itemize}
+
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encaissement (Loup) : & +5 \\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rrlrcllll}
+\multicolumn{2}{c}{Dégats}              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+Humain              & Loup     &                     &            &    & Humain & Loup        &                 & \\
+                    &          & Indemne             &     \case  &    & \case  & \case       &                 & Dispos\\
+                    &          &                     &            &  0 & \case  & \case \case & {\small 2 min}  & Essouflé\\
+(\maguslightwound)  & (1--4)   & Blessures Légères   & \cinqcases & -1 & \case  & \case \case & {\small 10 min} & Las\\
+(\magusmediumwound) & (5--8)   & Blessures Moyennes  & \cinqcases & -3 & \case  & \case       & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & (9--12)  & Blessures Graves    & \cinqcases & -5 & \case  & \case       & {\small 1 h}    & Hagard\\
+(\magusincapwound)  & (13--16) & Incapacité          &     \case  &    & \case  & \case       & {\small 2 h}    & Inconscient\\
+(\magusdeadwound)   &  (17+)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

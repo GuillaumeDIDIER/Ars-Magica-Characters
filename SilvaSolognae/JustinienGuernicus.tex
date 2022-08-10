@@ -1,0 +1,454 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Justinien Guernicus}
+\birthname{Justinien}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{+3}{+6}{}
+\perception{+3}{+6}{}
+\presence{+1}{+1}{}
+\communication{+2}{+3}{}
+\strength{-4}{-6}{Petite carrure}
+\stamina{+2}{+3}{}
+\dexterity{-2}{-3}{}
+\quickness{-2}{-3}{}
+
+\size{-1}
+\age{25}{25}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+\VFQ{Prestige Hermétique}{maison, hermétique}{En raison d’un élément de votre historique, vous êtes bien considéré par les autres mages, même si vous n'avez rien fait pour gagner leur respect. Certains vous envient, et beaucoup attendront plus de vous que d'autres. Vous gagnez une Réputation de niveau 3 au sein de l’Ordre.}
+\VFQ{Magie Parfaite}{majeur, hermétique}{\notimportant
+Vous maîtrisez automatiquement tous les sorts que vous apprenez. Tous vos sorts commencent avec une valeur de 1 dans la Compétence correspondante. Vous pouvez choisir une propriété différente pour chacun de vos sorts. De plus, vous doublez le nombre de points d'expérience que vous consacrez aux Compétences de maîtrise des sorts.
+}\sep
+\VFQ{Expertise Magique Mineure (Vim quaesitorial)\entrad{Minor Magical Focus (quaesitorial vim)}}{mineur, hermétique}{
+Votre magie s'accorde plus particulièrement à un domaine étroit, tel que la transformation personnelle, les oiseaux de proie ou les soins. En général, ce domaine devrait être plus réduit qu'une combinaison d'une Technique et d'une Forme, mais il peut inclure des sections limitées de plusieurs combinaisons. Par exemple, la guérison fait partie de Creo Corpus et Creo Animal, voire Creo Herbam. Vous ne pouvez pas être un expert d'une activité de laboratoire, comme la création d'objets à charges, bien qu'une expertise puisse s'appliquer dans le cadre des activités de laboratoire.
+
+Lorsque vous lancez un sort dans votre domaine, ajoutez la plus petite des valeurs d'Art deux fois. Si le sort a des compléments, la valeur la plus basse peut être l'un des compléments, plutôt que l'un des Arts principaux. Ainsi, si un mage expert des oiseaux lance un sort pour transformer un oiseau en flammes pures, donc MuAn(Ig), avec Muto 14, An 18 et Ig 10, son total serait
+de 34 + les autres modificateurs (14 de Muto et 20 d’Ignem deux fois). S'il lançait un sort pour
+transformer un oiseau en une autre espèce d'oiseau, donc MuAn sans complément, son
+total serait de 46 + les autres modificateurs (18 d’Animal et 28
+de Muto deux fois).
+}\sep
+\VFQ{Parens Compétent}{mineur, hermétique}{\notimportant
+Votre parens étant plus puissant et un meilleur professeur que la moyenne. Vous obtenez 60 points d'expérience et 30 niveaux de sorts supplémentaires durant l’apprentissage. Cette Vertu n'a aucun effet sur vos études après l'apprentissage, mais vous conservez de bonnes relations avec un mage puissant.
+}\sep
+\VFQ{Talent en Intellego}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l’Art dans le calcul du total. Il ne s’applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c’est le cas, le bonus ne s’applique pas au complément.
+}\sep
+\VFQ{Clarté de pensée}{mineur, général}{
+Vos pensées sont logiques et rationnelles. Vous bénéficiez d'un bonus de +3 sur tous les jets visant à résister aux mensonges, à la confusion, à l'embrouillement et à la falsification, que la tentative soit magique ou vulgaire.
+}\sep
+\VFQ{Regard perçant}{mineur, général}{
+Si vous fixez intensément une personne, elle se sent mal à l'aise, comme si vous observiez son âme. Les personnes ayant des intentions cachées, des choses à se reprocher ou des mensonges en bouche doivent effectuer un test contre un Trait de Personnalité approprié, Tromperie ou ce que le conteur juge adapté, pour rester calmes. De plus, vous bénéficiez d'un bonus de +3 sur les tests impliquant l'intimidation. Les êtres féeriques et les démons ne sont pas sensibles à votre pouvoir.
+}\sep
+\VFQ{Magie Subtile}{mineur, hermétique}{
+Vous ne subissez pas de malus lorsque vous lancez des sorts sans faire de gestes. Vous n'obtenez aucun avantage à faire des gestes normaux, mais vous bénéficiez du bonus normal pour des gestes exagérés.
+}\sep
+\VFQ{Perception de la sainteté et de la malignité}{mineur, surnaturelle}{
+Vous pouvez percevoir la présence du bien et du mal. Dans les auras où l'influence divine ou infernale est particulièrement forte, votre sensibilité peut provoquer un malaise. Choisir cette Vertu confère la Compétence Perception de la sainteté et de la malignité\abilitynote{Le personnage peut sentir la présence du bien et du mal. Un jet de Perception + Perception de la sainteté et de la malignité contre un Facteur de Difficulté de 9 permet au personnage de percevoir la sainteté et la malignité dans une zone générale et, contre un Facteur de Difficulté de 15, dans une personne ou un objet. Les démons essayant généralement de cacher leur nature, le personnage doit en principe passer leur Résistance magique avec son jet. Néanmoins, il ne lui faut battre leur valeur que d'un point puisque les démons sont extrêmement mauvais. Les émissaires du paradis cherchent rarement à dissimuler leur nature, mais si tel est le cas, le personnage doit passer leur Résistance magique (cf. p. 269). Dans les auras d'influence divine ou infernale particulièrement fortes, la sensibilité du personnage peut être mise à vif. Cette Compétence lui est accordée par la Dimension divine, non par les Dimensions magique ou féerique, et de ce fait elle utilise la colonne Divine de la table d'Interaction entre les Dimensions (cf. p. 269). Spécialisations : bien ou mal. (Surnaturelle)} 1.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Arts incompatibles (MuMe, PeMe)}{mineur, hermétique}{
+Quelle qu'en soit la raison, vous êtes totalement incapable d'employer deux combinaisons de Techniques et de Formes, à l'exception de Vim et Corpus. Par exemple, vous êtes incapable d'utiliser Muto Mentem et Perdo Mentem.\notimportant Vous pouvez prendre ce Vice plusieurs fois, pour des combinaisons différentes, mais vous ne pouvez pas le combiner avec une Déficience.
+}\sep
+\VFQ{Piété}{majeur, personnalité}{
+Vous êtes un fidèle zélé de votre religion. Vous évitez ce qu'elle interdit et suivez ses obligations avec enthousiasme.
+}\sep
+\VFQ{Humilité}{mineur, personnalité}{Vous êtes humble, toujours prêt à croire que d'autres sont plus doués et meilleurs que vous. Ce n'est pas que vous sous-estimiez vos capacités, mais plutôt que vous surestimez celles des autres.
+}\sep
+\VFQ{Ennemis}{majeur, histoire}{
+Quelqu'un vous cause des problèmes, comme un baron ou un évêque, une bande de hors-la-loi ou un aubergiste vraiment méchant. L'ennemi doit être assez puissant pour vous menacer. Discutez-en avec le conteur et le reste de la troupe.
+}\sep
+\VFQ{Petite carrure}{mineur, général}{
+Vous êtes d'une carrure plus légère que la moyenne. Votre Taille est réduite à –1. Cela signifie que la sévérité des blessures que vous subissez augmente par tranches de quatre points au lieu de cinq (cf. p. 255). \notimportant Vous ne pouvez pas prendre ce Vice en même temps que Sang de géant, Colosse ou Nain.
+}\sep
+\VFQ{Piètre Force}{mineur, général}{
+\notimportant L'une de vos Caractéristiques est exceptionnellement basse ; baissez d'un point une Caractéristique dont la valeur est déjà de –3 ou moins. Décrivez ce à quoi vous le devez ; une carrure faiblarde, un visage hideux ou une stupidité à toute épreuve. Vous pouvez prendre ce Vice deux fois pour une même Caractéristique, l'amenant à –5, ou pour des Caractéristiques différentes.
+}
+}
+
+\traits{
+\trait{Juste}{+3}\sep
+\trait{Facilement Ému}{+2}\sep
+\trait{Pieux}{+3}\sep
+\trait{Humble}{+1}
+}
+
+\reputations{
+\reputation{Quaesitor Incorruptible}{Hermétique}{+3}
+}
+
+\weapons{
+\closequarterweapon{Poings}{1}{0}{0}{0}{0}{0}
+}
+
+\abilities{
+\ability{Artes Liberales}{logique}{1}{5}\sep
+\ability{Attention}{indices}{2}{15}\sep
+\ability{Athlétisme}{marcher longtemps}{1}{5}\sep
+\ability{Bagarre}{Esquive}{1}{5}\sep
+\ability{Charme}{suspects}{1}{5}\sep
+\ability{Concentration}{sorts}{2}{15}\sep
+\ability{Connaissance des Gens}{religieux}{2}{15}\sep
+\ability{\lore de l'Ordre d'Hermés}{Normandie}{2}{15}\sep
+\ability{\lore de l'Église}{moines}{1}{5}\sep
+\ability{\lore du Divin}{interaction des dim.}{1}{5}\sep
+\ability{\lore de la Féérie}{Farces des fées}{1}{5}\sep
+\ability{\lore de l'Infernal}{détecter crimes}{1}{5}\sep
+\ability{\lore de la Magie}{Enquêtes}{1}{5}\sep
+\ability{\lore régionale T. de Normandie}{Confluensis}{1}{5}\sep
+\ability{Droit Civil et Canon}{France}{1}{5}\sep
+\ability{Droit Hermétique}{Normandie}{2}{15}\sep
+\ability{Français}{Sologne}{3}{30}\sep
+\ability{Intrigue}{démêler le V./F.}{2}{15}\sep
+\ability{Italien}{campanie}{5}{75}\sep
+\ability{Latin}{hermétique}{4}{50}\sep
+\ability{Parma Magica}{Ignem}{1}{5}\sep
+\ability{Pénétration}{Intellego}{1}{5}\sep
+\ability{Perception de la Sainteté
+et de la Malignité
+\abilitynote{Le personnage peut sentir la présence du bien et du mal. Un jet de Perception + Perception de la sainteté et de la malignité contre un Facteur de Difficulté de 9 permet au personnage de percevoir la sainteté et la malignité dans une zone générale et, contre un Facteur de Difficulté de 15, dans une personne ou un objet. Les démons essayant généralement de cacher leur nature, le personnage doit en principe passer leur Résistance magique avec son jet. Néanmoins, il ne lui faut battre leur valeur que d"un point puisque les démons sont extrêmement mauvais. Les émissaires du paradis cherchent rarement à dissimuler leur nature, mais si tel est le cas, le personnage doit passer leur Résistance magique (cf. p. 269). Dans les auras d"influence divine ou infernale particulièrement fortes, la sensibilité du personnage peut être mise à vif. Cette Compétence lui est accordée par la Dimension divine, non par les Dimensions magique ou féerique, et de ce fait elle utilise la colonne Divine de la table d"Interaction entre les Dimensions (cf. p. 269). Spécialisations : bien ou mal. (Surnaturelle)}
+}{infernal}{1}{5}\sep
+\ability{Théologie}{magie}{1}{5}\sep
+\ability{Théorie Magique}{sorts}{4}{50}\sep
+\ability{Tromperie}{suspects}{1}{5}
+}
+
+\artCr{6}{21}{}
+\artIn{9+3}{45}{}
+\artMu{1}{1}{}
+\artPe{2}{3}{}
+\artRe{5}{15}{}
+      
+\artAn{0}{0}{}
+\artAq{0}{0}{}
+\artAu{0}{0}{}
+\artCo{2}{3}{}
+\artHe{0}{0}{}
+\artIg{0}{0}{}
+\artIm{2}{3}{}
+\artMe{7}{28}{}
+\artTe{1}{1}{}
+\artVi{9}{45}{}
+
+\sigil{Ordonne la poussière ou de petits objet.}
+
+\equipment{
+Vêtement simple, similaire à un bure de moine, mais enchanté\sep
+Parchemin et plumes\sep
+Petite croix de baptême\sep
+Lettre de Bilera l'accréditant comme Quaesitor en Exerciece
+}
+
+\soakbonus{+3}
+
+\spells{
+\spell{L'Oreille de la Vérité}{InMe}{30}{\RDT{Per}{Conc}{Ouïe}}{24}{\masteries{3}{30}{Sens accrue $\times 2$, Concentration}}{
+Le lanceur peut savoir s'il entend la vérité ou non. Si la Résistance magique du locuteur bloque le sens augmenté, le lanceur en aura conscience comme une absence de sens. De nombreux Quaesitores développent une grande maitrise de ce sort et s'en serve avec la compétence de Sens accrus pour un résultat plus efficace.
+
+\emph{Il bénéficie d'un +3 au jet de Concentration pour utiliser ce sort.}
+}{Base 10, +1 Conc., +3 Ouïe}
+\spell{Odeur de la Magie Persistante}{InVi}{30}{\RDT{Per}{Conc}{Odorat}}{35}{\masteries{3}{30}{Sens accrue $\times 2$, Concentration}}{
+Ce sort permet au mage de sentir la magie active ou les traces magiques d'une magnitude de -1 ou supérieur. Avec du temps et de la patience le mage peut localiser tous les sorts actifs et les traces récentes. Une fois qu'il les a repérées, il peut utiliser d'autre forme de magie pour les raviver et les étudier.
+
+\emph{Il bénéficie d'un +3 au jet de Concentration pour utiliser ce sort.}
+}{Base 15, +1 Conc., +2 Odorat}
+\spell{Restauration des fils disparus}{CrVi}{30}{\RDT{Touch}{Diam}{Cercle}}{24}{\masteries{1}{5}{Lancement Multiple}}{
+Lorsque le personnage trouve ou soupçonne la présence d'une trace, ce sort lui permet de la révéler pour l'étudier. Il restaure et ravive temporairement les traces magiques (comme si elle venaient tout juste de disparaître). Ce sort restaure les traces d'une magnitude négative jusqu'à -3.
+
+\emph{Il peut lancer 2 copies du sort en même temps, en faisant 2 jets}
+}{Base 20, +1 Au toucher, +1 Diamètre}
+\spell{Impression du Sceau Disparu}{InVi}{30}{\RDT{Per}{Mom}{Toucher}}{34}{\masteries{2}{15}{Sens accrue $\times 2$}}{
+Ce sort permet au mage d'étudier la magie de magnitude positive. S'il existe plus d'une trace magique sur l'objet toucher, le mage peut en identifier une seule par lancement. Dans le cas des effets hermétiques, ce sort révèle la Technique et la Forme, les détails de base de l'effet et le sceau de lancement du magicien responsable. Il permet également de détecter si un effet hermétique a été généré par un sort ou un objet magique. S'il s'agit d'un effet non-hermétique, ce sort permet de récupérer des informations similaires mais un Quaesitor n'ayant pas de connaissances de cette forme de magie ne sera pas capable de les interpréter.
+
+Ce sort fait souvent l'objet d'une certaine maitrise et combiné à une formation quaesitoriale, offre de bonnes chances de détecter les supercheries magiques.
+}{Base 10, +1 Au toucher, +3 Détails}
+\spell{Question Silencieuse}{InMe}{20}{\RDT{C.Visuel}{Mom}{Ind}}{24}{\masteries{3}{30}{Lancement silencieux $\times 2$, Penétration}}{
+Vous pouvez poser une question à la Cible, mentalement, puis détecter la réponse. La véracité de la réponse est limitée aux connaissances de la Cible. Des questions comme \og Que feriez- vous si... ? \fg ne reçoivent généralement que des réponses vagues. Vous percevrez ce que la Cible imagine faire dans ce cas, pas ce qu'elle ferait réellement. La Cible ne remarque pas qu'on lui a posé une question, à moins d'un jet de Résistance magique réussi.
+
+\emph{Pas de malus pour lancer sans paroles, de plus +3 aux jets de pénétrations}
+}{Base 15, +1 Contact Visuel}
+\spell{L'Œeil Clairvoyant}{InIm}{25}{\RDT{Per}{Sol}{Vision}}{19}{\masteries{3}{30}{Sens accrue $\times 2$, Pénétration}}{
+Version augmentée de Distinguer le vrai du faux, ce soret permet au lanceur de savoir si une image a été créée ou altérée par magie et de voir en même temps, les versions originales et falsifiées d'une images altérée. Ce sens augmenté fonctionne par extromission (les yeux envoie des espèces magiques). Si celles-ci rencontre une Résistance Magique, il est possible de les bloquer. Ainsi une zone protégée par une résistance magique apparaitra sous un aspect magique sombre aux yeux du lanceur. Quand il lance ce sort sans pénétration, le lanceur est capable de repérer les zones de Résistance Magique (qui incluraient par exemple un mage invisible). Pour détecter une illusion, ce sort doit être d'un niveau supérieur à d'au moins 15 points à celui de l'effet qui l'a généré (donc ici niveau 10). Néanmoins l'utilisation de la compétence de Maitrise sens accrus peut quand même permettre de détecter une anomalie. Si le personnage fait un désastre à son lancement, il prend les illusions pour la réalité et la réalité pour une illusion. Son discernement ne se limite pas aux illusions visuelles bien qu'il ne puisse identifier un son comme illusoire que s'il pose les yeux sur sa source apparente.
+
+\emph{Il bénéficie d'un bonus de +3 aux jets de pénétration pour ce sort}
+}{Base 10, +2 Sun, +1 Effet augmenté}
+\spell{Maniement de la Fronde Invisible}{ReTe}{10}{\RDT{Per}{Voix}{Ind}}{8}{\masteries{1}{5}{Lancement multiple}}{Lancez violemment tout objet proche sur n’importe quelle Cible à portée. L’objet doit pouvoir être lancé normalement par quelqu’un pour que le sort marche. Il ne doit pas être retenu d’une quelconque manière. Les Dégâts dépendent de l’objet envoyé, jusqu’à +5 pour une pierre de la taille d’un poing. Des compléments au lancer de la Forme appropriée sont nécessaires.%\emph{Source AM5eFr p233}
+
+\emph{Il peut lancer deux copies du sort en même temps en faisant deux jets}
+}{Base 4, +2 Voix}
+}
+
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Justinien est un enquêteur épris de justice, et un homme de foi épris de sainteté.
+            Pieux, humble simple, ce mage du sud de l'Italie à la petite carrure ressemble
+            plus à un moine qu'une magicien, mais son apparence cache un œil acéré, un esprit acéré et
+            un arsenal de sort d'investigation redoutable et parfaitement maitrisé.
+            }
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Guernicus
+\item[Alliance :] Silva Solognæ
+\item[Âge :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Masculin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Italien
+\item[Lieu de Naissance :] Capoue
+\item[Religion :] Catholiqe
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] \hspace{0pt}
+\item[Yeux :] Bleus gris \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Maison
+\item[Domus Magna :] Magvillus
+\item[Primus :] Bilera
+\item[Parens :] Oliva Guernicus
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Confluensis
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{0}{}
+\effectrecognitionroll{2}{}
+\targetroll{0}{}
+\concentrationroll{2}{\footnote{bonus de +1 pour jeter des sorts}}
+\mrroll{1}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+Modifié par Magie Subtile
+
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & \sout{-2}-0 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & \sout{-5}-0 \\ \hline
+\end{tabularx}
+%\pagebreak % Tweak Make page even
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\pagebreak
+\subsection*{Effets Spontanés utiles}
+
+\begin{multicols}{2}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+
+\longspell{Amertume de la Trahison}{InVi}{15}{\RDT{Per}{Sol}{Goût}}{32/2 (spont f.)}{}{
+Si le lanceur se retrouve sous l'effet d'une magie active quelle qu'elle soit, sa bouche s'emplit alors d'un goût amer. Les effets continue tels que l'Aegis du Foyer peuvent être ignorés mais les nouveaux effets seront repérés. Ce sort permet aux Quaesitor de détecter si leur Parma a été pénétrée. Il n'offre aucune autre information.
+}{Base 5, +2 Soleil}
+
+\end{multicols}
+
+%\pagebreak
+
+\section*{Lore}
+% Insert Lore here
+Né de parents paysans pauvres, il fut confié à son oncle, un moine italien, en raison de son inutilité au champs, de par sa trop faible carrure, et sa force inexistante, combiné à sa bizarrerie. Les moines accueillir l'enfant avec réticence, mais en prirent soin et l'éduquèrent , en constatant qu'il était aussi intelligent que bizarre. Aussi lorsque son chemin croisa un jour celui d'Oliva Bonisagus, un Quaesitrice du à l'époque affectée au Tribunal de Rome, les moines furent ravi de le voir partir vers des cieux plus adapté.
+
+De son séjour au monastère, il a toujours gardé un grande piété et remercie chaque jour Dieu poru la façon dont il l'a amené à servir Sa Volonté, en faisant, à son échelle, régner la justice dans le monde.
+
+Son fort sens moral l'a amené toutefois à se faire de nombreux ennemis et divers factiosn politique seraient ravies de lui causer des ennuis au Tribunal, au moindre prétexte plausible.
+
+C'est un petit homme, habillé simplement et sobrement de ce qui ressemble à une bure de moine, ce qui, combiné à son rythme de vie et la façon de vivre, fait que, de prime abord, on pourrait le confondre avec ces derniers.
+
+Il parle d'une voix posée, et donne souvent l'impression d'être plus âgé qu'il ne l'est vraiment, et laisse rarement poindre ses émotions. Toutefois les histoires d'amour et autres histoires magnifiques que raconte les trouvère, qui arrachent facilement des larmes à ce grand cœur plein d'amour pour ses prochains.
+
+Justinien connait bien le curé local, André, qui a remarqué son assiduité à la messe.
+
+Ce que pense Justinien de ses Sodales de l'alliance de Silva Solognæ :
+\begin{description}
+\item[Alexandre Jerbiton :] Comme tous les Jerbitons nobles, il vaut mieux garder un œil sur ses interaction avec les mondains, mais heureusement Alexandre à l'air de ne pas avoir tendance à causer de tort, et le code périphérique Normand est relativement flexible. Alexandre entretien d'excellentes relations avec André, il lui a même composé un ordinaire de messe, ce qui est formidable, et il met son Art au service de l'église comme de ses prochains.
+\item[Ignace Flambeau :] Un vieux camarade, ils se sont rencontré il y a plusieurs années de cela lors d'une marche des magiciens ordonnée par Oliva, auquel Ignace et son Parens ont participé. Un combattant loyal et efficace, très efficace même, pour incinérer les menaces de l'ordre et les mécréants. Toutefois il est impulsif et colérique et légèrement fanatique sur les bords. Justinien essaie donc de modérer ses velléités incendiaires de celui qui l'accompagne souvent en tant qu'Hoplite.
+\item[Aeldira Tremere :] Médecin loyale de la maison Tremere, on peut toujours compter sur elle si on a besoin d'être soigné. Regrettablement elle pourrait être plus croyante et demander l'aide du seigneur en plus de celle de la magie. Contrairement à ce que dit la rumeur Justinien ne l'a encore jamais vu pratiquer la nécromancie, une pratique plus que douteuse. (Heureusement qu'un sépulture religieuse met les âmes hors d'atteinte de la magie). Ses activités auprès des nobles de la région demande à être surveillés pour rester dans les bornes du code. Sa capacité à influencer les gens par magie ne plait guère à Justinien.
+\item[Caton Bonisagus :] Mage élémentaire brillant qui passe beaucoup de temps enfermé dans son laboratoire. Il souffre certainement de son don tapageur et ambitionne de faire un grande découverte pour être reconnu. Il en oubli certainement un peu Dieu dans tout ça, mais il est compréhensible qu'il n'aille pas à la messe, cela ce finirait probablement mal de part la réaction des mondains alarmés à tort.
+\item[Lycus Lupus :] Catholique normal sans plus, certainement espiègle mais bien intentionné (il n'est pas sanguinaire comme la plupart des loups). Il a clairement eu un impact bénéfique sur les relations entre les paysans et les loups dans la région.
+\item[Muirgen Merinita :] Aussi belle que dissolue celle là, certes son père est une fée, et elle a été éduqué au milieu de ces créatures païennes, mais cela ne la dispenserait pas de s'éduquer un peu et d'arrêter de jouer avec les gens de façon licencieuse. Certes elle n'est généralement pas mal intentionnée, mais son espièglerie, son impertinence causent beaucoup de désordres. Justinien prend bien garde à ses sentiments en sa présence.
+\end{description}
+
+Quelques autres opinions :
+\begin{itemize}
+\item La magie ets un talent donné par Dieu, qu'il faut utiliser pour servir Sa Plus Grande Gloire, et pour le salut des hommes, selon Sa Volonté. En Normandie son usage n'est un crime d'interférence avec les mondains que si quelqu'un s'en plaint, ce qui en général n'arrive que si l'usage qui en avait été fait était désordonné, c'est àa dire contraire à la volonté de Dieu.
+\item Manipuler mentalement les gens, quelle horreur.
+\end{itemize}
+\section*{Notes}
+La section sur le code d'Hermes, dans le livre des vrai lignés peut être particulièrement utile à lire.
+\pagebreak
+\newpage
+\NI{Ne pas écrire ici sauf au crayon de papier}
+\newpage
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item Bure de moine enchantée +3
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+NB: +1 de Bonus pour esquiver
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

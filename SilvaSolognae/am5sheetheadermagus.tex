@@ -1,0 +1,523 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{top=3cm,right=2cm,left=2cm,bottom=2.5cm}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{wasysym}
+\usepackage[normalem]{ulem}
+\usepackage{fancyhdr}
+
+\cfoot{\thepage}
+\rhead{\magusname}
+\lhead{\textsc{Les Enfants du Baron}}
+
+
+\newcommand{\lore}{C\textsuperscript{ce}}
+
+\newcommand{\entrad}[1]{\relax}
+\newcommand{\notimportant}{\color{gray} \small}
+\newcommand{\NI}[1]{{\color{gray} #1}}
+
+\newcommand{\sepshort}{\item}
+%\newcommand{\sepshort}{\\}
+%\newcommand{\sepshort}{, }
+\newcommand{\seplong}{\\}
+\newcommand{\sep}{}
+
+\newcommand{\case}[0]{{\Large $\Box$}}
+\newcommand{\cinqcases}[0]{\case \case \case \case \case}
+
+\newcommand{\magusadd}[2]{\the\numexpr#1+#2\relax}
+\newcommand{\magusaffine}[3]{\the\numexpr#1*#2+#3 \relax}
+
+\newcommand{\name}[1]{\newcommand{\magusname}{#1}}
+\newcommand{\birthname}[1]{\newcommand{\magusbirthname}{#1}}
+
+\newcommand{\intelligence }[3]{\newcommand{\magusint}{#1}\newcommand{\magusintpt}{#2}\newcommand{\magusintdesc}{#3}}
+\newcommand{\perception   }[3]{\newcommand{\magusper}{#1}\newcommand{\magusperpt}{#2}\newcommand{\magusperdesc}{#3}}
+\newcommand{\presence     }[3]{\newcommand{\maguspre}{#1}\newcommand{\magusprept}{#2}\newcommand{\maguspredesc}{#3}}
+\newcommand{\communication}[3]{\newcommand{\maguscom}{#1}\newcommand{\maguscompt}{#2}\newcommand{\maguscomdesc}{#3}}
+\newcommand{\strength     }[3]{\newcommand{\magusstr}{#1}\newcommand{\magusstrpt}{#2}\newcommand{\magusstrdesc}{#3}}
+\newcommand{\stamina      }[3]{\newcommand{\magussta}{#1}\newcommand{\magusstapt}{#2}\newcommand{\magusstadesc}{#3}}
+\newcommand{\dexterity    }[3]{\newcommand{\magusdex}{#1}\newcommand{\magusdexpt}{#2}\newcommand{\magusdexdesc}{#3}}
+\newcommand{\quickness    }[3]{\newcommand{\magusqik}{#1}\newcommand{\magusqikpt}{#2}\newcommand{\magusqikdesc}{#3}}
+
+\newcommand{\caractable}{
+\begin{tabularx}{0.5\textwidth}{|Xrcrr|}
+\hline
+Caractéristique &         & Description   & valeur & \NI{points}\\ \hline
+Intelligence    & Int     & \magusintdesc & \magusint & \NI{\magusintpt} \\
+Perception      & Per     & \magusperdesc & \magusper & \NI{\magusperpt} \\
+Présence        & Pré     & \maguspredesc & \maguspre & \NI{\magusprept} \\
+Communication   & Com     & \maguscomdesc & \maguscom & \NI{\maguscompt} \\
+Force           & For/Str & \magusstrdesc & \magusstr & \NI{\magusstrpt} \\
+Énergie         & Éné/Sta & \magusstadesc & \magussta & \NI{\magusstapt} \\
+Dexterité       & Dex     & \magusdexdesc & \magusdex & \NI{\magusdexpt} \\
+Vivacité        & Viv/Qik & \magusqikdesc & \magusqik & \NI{\magusqikpt} \\
+\hline
+\end{tabularx}
+
+Total \magusadd{\magusadd{\magusadd{\magusintpt}{\magusperpt}}{\magusadd{\magusprept}{\maguscompt}}}{\magusadd{\magusadd{\magusstrpt}{\magusstapt}}{\magusadd{\magusdexpt}{\magusqikpt}}} pts.
+}
+
+\newcommand{\caractableMP}{
+\begin{tabularx}{\textwidth}{|Xrcrr|Xrcrr|}
+\hline
+\multicolumn{5}{|c|}{Mentales} & \multicolumn{5}{c|}{Physiques} \\ \hline
+Caractéristique &         & Desc.         & valeur    & \NI{points}      & Caractéristique &         & Desc.         & valeur    & \NI{points}      \\ \hline
+Intelligence    & Int     & \magusintdesc & \magusint & \NI{\magusintpt} & Force           & For/Str & \magusstrdesc & \magusstr & \NI{\magusstrpt} \\
+Perception      & Per     & \magusperdesc & \magusper & \NI{\magusperpt} & Énergie         & Éné/Sta & \magusstadesc & \magussta & \NI{\magusstapt} \\
+Présence        & Pré     & \maguspredesc & \maguspre & \NI{\magusprept} & Dexterité       & Dex     & \magusdexdesc & \magusdex & \NI{\magusdexpt} \\ 
+Communication   & Com     & \maguscomdesc & \maguscom & \NI{\maguscompt} & Vivacité        & Viv/Qik & \magusqikdesc & \magusqik & \NI{\magusqikpt} \\ \hline
+\end{tabularx}
+
+\paragraph*{}Total \magusadd{\magusadd{\magusadd{\magusintpt}{\magusperpt}}{\magusadd{\magusprept}{\maguscompt}}}{\magusadd{\magusadd{\magusstrpt}{\magusstapt}}{\magusadd{\magusdexpt}{\magusqikpt}}} pts.
+}
+
+\newcommand{\size}[1]{\newcommand{\magussize}{#1}}
+\newcommand{\age}[2]{\newcommand{\magusage}{#1}\newcommand{\magusapparentage}{#2}}
+
+\newcommand{\magusdecrep}{0}
+\newcommand{\decrepitude}[1]{\renewcommand{\magusdecrep}{#1}}
+
+\newcommand{\maguswarpscore}{0}
+\newcommand{\maguswarppts}{0}
+\newcommand{\warping}[2]{\renewcommand{\maguswarpscore}{{#1}}\renewcommand{\maguswarppts}{{#2}}} % 3, with loist of scars ?
+
+\newcommand{\magusconfidencescore}{1}
+\newcommand{\magusconfidencepts}{3}
+\newcommand{\confidence}[2]{\renewcommand{\magusconfidencescore}{{#1}}\renewcommand{\magusconfidencepts}{{#2}}}
+
+\newcommand{\virtues}[1]{\newcommand{\magusvirtues}{#1}}
+\newcommand{\flaws}[1]{\newcommand{\magusflaws}{#1}}
+\newcommand{\VFQ}[3]{} % Name, kind, description
+\newcommand{\shortVFQ}[3]{{#1}}
+\newcommand{\longVFQ}[3]{\paragraph*{{#1}} {\small \emph{({#2})}\\{#3}}}
+\newcommand{\shortVFQs}{
+\renewcommand{\sep}{\sepshort}
+\renewcommand{\VFQ}{\shortVFQ}
+\magusvirtues{}\sep\magusflaws{}}
+\newcommand{\longVFQs}{
+\renewcommand{\VFQ}{\longVFQ}
+\renewcommand{\sep}{}
+\section*{Vertus}
+\magusvirtues
+\section*{Vices}
+\magusflaws
+}
+% Name, value (with +/-)
+\newcommand{\trait}[2]{}
+\newcommand{\traitshort}[2]{{#1} {#2}}
+\newcommand{\traitlong}[2]{{#1} & {#2}}
+
+\newcommand{\traits}[1]{\newcommand{\magustraits}{#1}}
+
+\newcommand{\traitsshort}{
+\renewcommand{\trait}{\traitshort}
+\renewcommand{\sep}{\sepshort}
+\magustraits
+}
+
+\newcommand{\traitslong}{
+\renewcommand{\trait}{\traitlong}
+\renewcommand{\sep}{\seplong}
+\begin{tabular}{lr}
+\magustraits\\
+\end{tabular}
+}
+
+% Reputation, type, value
+\newcommand{\reputation}[3]{}
+\newcommand{\reputationlong}[3]{{#1}&({#2}) & {#3}}
+\newcommand{\reputationshort}[3]{{#1} ({#2}) {#3}}
+
+\newcommand{\magusreputations}{Aucune}
+
+\newcommand{\reputations}[1]{\renewcommand{\magusreputations}{#1}}
+
+\newcommand{\reputationsshort}{
+\renewcommand{\reputation}{\reputationshort}
+\renewcommand{\sep}{\sepshort}\sep
+\magusreputations
+}
+
+\newcommand{\reputationslong}{
+\renewcommand{\reputation}{\reputationlong}
+\renewcommand{\sep}{\seplong}
+\begin{tabularx}{\columnwidth}{lrr}
+\magusreputations\\
+\end{tabularx}
+}
+
+% Bug fix todo : default empty reputation with correct formatting for no reputation
+
+\newcommand{\magusencumbrance}{0}
+\newcommand{\magusload}{0}
+
+\newcommand{\encumbrance}[2]{\renewcommand{\magusencumbrance}{#1}\renewcommand{\magusload}{#2}}
+
+% Name, Competence, Init, Atk, Def, Dam, Load, Range
+\newcommand{\weapon}[8]{}
+
+\newcommand{\weaponinit}[1]{\magusadd{\magusadd{\magusqik}{#1}}{\magusencumbrance}}
+\newcommand{\weaponatk}[2]{\magusadd{\magusadd{\magusdex}{#1}}{#2}}
+\newcommand{\weapondef}[2]{\magusadd{\magusadd{\magusqik}{#1}}{#2}}
+\newcommand{\weapondam}[1]{\magusadd{\magusstr}{#1}}
+
+\newcommand{\weaponlong}[8]{
+{#1} &
+\magusqik & #3 & \magusencumbrance & \weaponinit{#3} &
+\magusdex & #2 & #4 & \weaponatk{#2}{#4} &
+\magusqik & #2 & #5 & \weapondef{#2}{#5} &
+\magusstr & #6 & \weapondam{#6} & #7 & #8\\
+}
+
+\newcommand{\norange}{}
+\newcommand{\range}[1]{}
+
+\newcommand{\norangeshort}{}
+\newcommand{\norangelong}{---}
+\newcommand{\rangeshort}[1]{, Range #1}
+\newcommand{\rangeslong}[1]{#1}
+
+\newcommand{\weaponshort}[8]{#1 : Ini \weaponinit{#3}, Atk \weaponatk{#2}{#4}, Déf \weapondef{#2}{#5}, Dég \weapondam{#6}{#8}}
+
+\newcommand{\rangedweapon}[8]{\weapon{#1}{#2}{#3}{#4}{#5}{#6}{#7}{\range{#8}}}
+\newcommand{\closequarterweapon}[7]{\weapon{#1}{#2}{#3}{#4}{#5}{#6}{#7}{\norange}}
+
+\newcommand{\magusweapons}{\closequarterweapon{Poings}{0}{0}{0}{0}{0}{0}}
+\newcommand{\weapons}[1]{\renewcommand{\magusweapons}{#1}}
+
+\newcommand{\weaponsshort}{
+\renewcommand{\weapon}{\weaponshort}
+\renewcommand{\range}{\rangeshort}
+\renewcommand{\norange}{\norangeshort}
+\renewcommand{\sep}{\item}
+\magusweapons
+}
+
+
+\newcommand{\weaponslong}{
+\renewcommand{\weapon}{\weaponlong}
+\renewcommand{\range}{\rangelong}
+\renewcommand{\norange}{\norangelong}
+\renewcommand{\sep}{}
+{ \small%\scriptsize
+\begin{tabularx}{\textwidth}{
+>{\small}l@{ }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} -- }
+>{\scriptsize}r@{\scriptsize{} = }
+>{\small}r@{ }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} = }
+>{\small}r@{ }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} = }
+>{\small}r@{ }
+>{\scriptsize}r@{\scriptsize{} + }
+>{\scriptsize}r@{\scriptsize{} = }
+>{\small}r@{ 
+}>{\small}c@{ }
+>{\small}c}
+Arme &  Viv & Arme &  Enc & Init & Dex & Comp & Arme & Atk & Viv & Comp & Arme & Def & For & Arme & Dam & Chg. & Port.\\ \hline 
+\magusweapons
+\end{tabularx}
+}
+}
+
+% Armor and other bonuses to soak
+\newcommand{\magussoak}{\magussta}
+\newcommand{\soakbonus}[1]{\renewcommand{\magussoak}{\magusadd{\magussta}{#1}}}
+
+\newcommand{\magusfatigueshort}{OK, 0, -1, -3, -5, KO}
+\newcommand{\fatigue}[1]{\renewcommand{\magusfatigueshort}{#1}}
+
+\newcommand{\woundbase}{\magusadd{\magussize}{5}}
+\newcommand{\maguslightwound}{1--\woundbase}
+\newcommand{\magusmediumwound}{\magusadd{\woundbase}{1}--\magusaffine{\woundbase}{2}{0}}
+\newcommand{\magusheavywound}{\magusaffine{\woundbase}{2}{1}--\magusaffine{\woundbase}{3}{0}}
+\newcommand{\magusincapwound}{\magusaffine{\woundbase}{3}{1}--\magusaffine{\woundbase}{4}{0}}
+\newcommand{\magusdeadwound}{\magusaffine{\woundbase}{4}{1}+}
+
+\newcommand{\woundsshort}{-1 (\maguslightwound), -3 (\magusmediumwound), -5 (\magusheavywound), Incapacité (\magusincapwound), Mort \magusdeadwound}
+
+% \ability{Name}{Spé}{Rank}{xp}
+\newcommand{\ability}[4]{\longability}
+\newcommand{\shortability}[4]{{#1} ({#2}) {#3}}
+\newcommand{\longability}[4]{{#1} & ({#2}) & {#3} & \NI{#4}}
+
+
+
+\newcommand{\abilitynotelong}[1]{\footnote{#1}}
+\newcommand{\abilitynoteshort}[1]{}
+\newcommand{\abilitynote}[1]{}
+
+\newcommand{\abilities}[1]{\newcommand{\magusabilities}{#1}}
+
+\newcommand{\abilitiesshort}{
+\renewcommand{\ability}{\shortability}
+\renewcommand{\sep}{\sepshort}
+\renewcommand{\abilitynote}{\abilitynoteshort}
+\magusabilities}
+
+\newcommand{\abilitieslong}{
+\renewcommand{\ability}{\longability}
+\renewcommand{\sep}{\seplong}
+\renewcommand{\abilitynote}{\abilitynotelong}
+{
+\small
+\begin{tabularx}{\columnwidth}{Xrrr}
+Compétence & Spécialité & lvl & xp\\\hline
+\magusabilities\\
+\end{tabularx}
+}
+}
+
+% Name, Level, xp
+\newcommand{\magusArt}[5]{}
+
+\newcommand{\magusArtshort}[5]{{#1}{#5} #3}
+
+\newcommand{\magusArtlong}[5]{#2{#5} & #1 & #3 & \NI{#4}}
+
+\newcommand{\artCr}[3]{\newcommand{\magusCr}{\magusArt{Cr}{Creo}{#1}{#2}{#3}}}
+\newcommand{\artIn}[3]{\newcommand{\magusIn}{\magusArt{In}{Intellego}{#1}{#2}{#3}}}
+\newcommand{\artMu}[3]{\newcommand{\magusMu}{\magusArt{Mu}{Muto}{#1}{#2}{#3}}}
+\newcommand{\artPe}[3]{\newcommand{\magusPe}{\magusArt{Pe}{Perdo}{#1}{#2}{#3}}}
+\newcommand{\artRe}[3]{\newcommand{\magusRe}{\magusArt{Re}{Rego}{#1}{#2}{#3}}}
+                                                           
+\newcommand{\artAn}[3]{\newcommand{\magusAn}{\magusArt{An}{Animal}{#1}{#2}{#3}}}
+\newcommand{\artAq}[3]{\newcommand{\magusAq}{\magusArt{Aq}{Aquam}{#1}{#2}{#3}}}
+\newcommand{\artAu}[3]{\newcommand{\magusAu}{\magusArt{Au}{Auram}{#1}{#2}{#3}}}
+\newcommand{\artCo}[3]{\newcommand{\magusCo}{\magusArt{Co}{Corpus}{#1}{#2}{#3}}}
+\newcommand{\artHe}[3]{\newcommand{\magusHe}{\magusArt{He}{Herbam}{#1}{#2}{#3}}}
+\newcommand{\artIg}[3]{\newcommand{\magusIg}{\magusArt{Ig}{Ignem}{#1}{#2}{#3}}}
+\newcommand{\artIm}[3]{\newcommand{\magusIm}{\magusArt{Im}{Imaginem}{#1}{#2}{#3}}}
+\newcommand{\artMe}[3]{\newcommand{\magusMe}{\magusArt{Me}{Mentem}{#1}{#2}{#3}}}
+\newcommand{\artTe}[3]{\newcommand{\magusTe}{\magusArt{Te}{Terram}{#1}{#2}{#3}}}
+\newcommand{\artVi}[3]{\newcommand{\magusVi}{\magusArt{Vi}{Vim}{#1}{#2}{#3}}}
+                                                         
+%\newcommand{\magusArtsShort}{
+%\renewcommand{\magusArt}{\magusArtshort}
+%\begin{multicols}{3}
+%\magusCr\\\magusIn\\\magusMu\\\magusPe\\\magusRe\\
+%\magusAn\\\magusAq\\\magusAu\\\magusCo\\\magusHe\\
+%\magusIg\\\magusIm\\\magusMe\\\magusTe\\\magusVi
+%\end{multicols}
+%}
+
+\newcommand{\magusArtsShort}{
+\renewcommand{\magusArt}{\magusArtshort}
+\begin{tabularx}{\columnwidth}{XXX}
+\magusCr & \magusAn & \magusIg \\
+\magusIn & \magusAq & \magusIm \\
+\magusMu & \magusAu & \magusMe \\
+\magusPe & \magusCo & \magusTe \\
+\magusRe & \magusHe & \magusVi \\
+\end{tabularx}
+}
+
+\newcommand{\magusArtsLongOld}{
+\renewcommand{\magusArt}{\magusArtlong}
+\begin{tabularx}{\textwidth}{lrrr}
+\hline 
+Art & & Score & xp \\
+\hline \multicolumn{4}{c}{Techniques (Te)}\\ \hline
+\magusCr
+\magusIn
+\magusMu
+\magusPe
+\magusRe
+\hline \multicolumn{4}{c}{Formes (Fo)}\\ \hline
+\magusAn
+\magusAq
+\magusAu
+\magusCo
+\magusHe
+\magusIg
+\magusIm
+\magusMe
+\magusTe
+\magusVi
+\hline
+\end{tabularx}
+}
+
+\newcommand{\magusArtsLong}{
+\renewcommand{\magusArt}{\magusArtlong}
+\begin{tabularx}{\textwidth}{|Xrrr|Xrrr|Xrrr|}
+\hline
+\multicolumn{4}{|c|}{Techniques (Te)} & \multicolumn{8}{c|}{Formes (Fo)} \\ \hline
+Art & & Score & xp & Art & & Score & xp & Art & & Score & xp \\ \hline
+\magusCr & \magusAn & \magusIg \\
+\magusIn & \magusAq & \magusIm \\
+\magusMu & \magusAu & \magusMe \\
+\magusPe & \magusCo & \magusTe \\
+\magusRe & \magusHe & \magusVi \\
+\hline
+\end{tabularx}
+}
+
+\newcommand{\sigil}[1]{\newcommand{\magussigil}{{#1}}}
+
+\newcommand{\magusscarsshort}{Néant}
+\newcommand{\magusscarslong}{\begin{itemize}
+\item
+\end{itemize}
+}
+
+\newcommand{\scars}[1]{
+\renewcommand{\magusscarsshort}{\renewcommand{\sep}{\sepshort}#1}
+\renewcommand{\magusscarslong}{\renewcommand{\sep}{\item}\begin{itemize}
+\item #1
+\end{itemize}
+}
+}
+
+\newcommand{\equipment}[1]{\newcommand{\magusequipment}{#1}}
+
+\newcommand{\equipmentshort}{\renewcommand{\sep}{\sepshort}\magusequipment}
+\newcommand{\equipmentlong}{\renewcommand{\sep}{\item }
+\begin{itemize}
+\item \magusequipment
+\end{itemize}
+}
+
+\newcommand{\castingformulas}{
+\paragraph*{Valeur de Lancement (VL) :}\hspace{0pt}\\
+Éné/\emph{Sta} + Te + Fo + Aura
+\paragraph*{Sort formel :} VL + dé \\
+Sort lancé si $\ge$ Niveau - 10,
+gain de fatigue < Niveau.
+\NI{\paragraph*{Rituel} VL + Art. Lib. + Philos + dé}
+\paragraph*{Spont. Fatiguant:} (VL + Dé de tension) / 2
+\paragraph*{Spont. Non-fatiguant :} VL / 5
+}
+
+\newcommand{\fastcastroll}[2]{ % Finesse
+\paragraph*{Vitesse d'incantation rapide}\hspace{0pt}\\
+(+ dé de tension)
+\begin{tabularx}{\columnwidth}{c@{ + }c@{ = }c}
+\magusqik & #1 & \magusadd{\magusqik}{#1}{#2}\\
+{\small Viv/\emph{Qik}} & {\small Finesse} & Total
+\end{tabularx}
+}
+
+\newcommand{\effectrecognitionroll}[2]{ % Awareness
+\paragraph*{Reconnaitre un effet magique}\hspace{0pt}\\
+(+ dé vs 15 - mag.)
+\begin{tabularx}{\columnwidth}{c@{ + }c@{ = }c}
+\magusper & #1 & \magusadd{\magusper}{#1}{#2}\\
+{\small Per} & {\small Attention} & Total
+\end{tabularx}
+}
+
+\newcommand{\targetroll}[2]{ % Finesse
+\paragraph*{Cibler}\hspace{0pt}\\
+(+ dé)
+\begin{tabularx}{\columnwidth}{c@{ + }c@{ = }c}
+\magusper & #1 & \magusadd{\magusqik}{#1}{#2}\\
+{\small Per} & {\small Finesse} & Total
+\end{tabularx}
+}
+
+\newcommand{\concentrationroll}[2]{ % Finesse
+\paragraph*{Concentration}\hspace{0pt}\\
+(+ dé)
+\begin{tabularx}{\columnwidth}{c@{ + }c@{ = }c}
+\magussta & #1 & \magusadd{\magussta}{#1}{#2}\\
+{\small Éné/\emph{Sta}} & {\small Conc.} & Total
+\end{tabularx}
+}
+
+\newcommand{\mrroll}[2]{
+\paragraph*{Résistance Magique}\hspace{0pt}\\
+(+ Forme)
+\begin{tabularx}{\columnwidth}{c@{ $\times$ }c@{ = }c}
+#1 & 5 & \magusaffine{#1}{5}{0}{#2}\\
+{\small Parma} & & Total
+\end{tabularx}
+}
+
+\newcommand{\RDT}[3]{\textbf{R:} {#1}, \textbf{D:} {#2}, \textbf{T:} {#3}}
+\newcommand{\masteries}[3]{Mastery: {#1}, xp: {#2}: {#3}\\}
+
+\newcommand{\shortspell}[3]{\emph{#1} (#2) +#3\\}
+\newcommand{\shortspellinternal}[8]{\shortspell{#1}{#2 #3}{#5}}
+\newcommand{\spells}[1]{\newcommand{\savespells}{{#1}}}
+\newcommand{\longspell}[8]{% {Name}{TeFo}{Level}{\RDT{R}{D}{T}}{Total}{\masteries{mastery}{xp}{masteries}}{Description}{Computation}
+\paragraph*{#1} +{#5}\\
+\textbf{#2} lvl. {#3}, 
+{#4}\\
+{#6}
+{#7}\\
+\emph{(#8)}
+}
+\newcommand{\spell}[8]{}
+
+\newcommand{\shortspells}{
+\renewcommand{\spell}{\shortspellinternal}
+\savespells}
+
+\newcommand{\longspells}{
+\renewcommand{\spell}{\longspell}
+\savespells}
+
+\newcommand{\shortlist}[1]{\renewcommand{\sepshort}{\item}
+\hspace{0pt}
+\begin{itemize}
+\item #1
+\end{itemize}
+}
+
+\newcommand{\shortlistnoitem}[1]{
+\renewcommand{\sepshort}{\\}
+\hspace{0pt} \\
+#1
+}
+
+\newcommand{\shortsheet}[1]{
+\section*{\magusname}
+\begin{multicols*}{2}
+\begin{description}
+\item[Caractéristiques :] Int \magusint, Per \magusper, Pré \maguspre, Com \maguscom, For/\emph{Str} \magusstr, Éné/\emph{Sta}  \magussta, Dex \magusdex, Viv/\emph{Qik} \magusqik
+\item[Taille\entrad{Size} :] \magussize
+\item[Âge :] \magusage{} (\magusapparentage)
+\item[Décrépitude :] \magusdecrep
+\item[Distorsion\entrad{Warping} :] \maguswarpscore{} (\maguswarppts)
+\item[Confiance\entrad{Confidence} :] \magusconfidencescore{} (\magusconfidencepts)
+\item[Vertus et Vices\entrad{Virtues and Flaws}:] \hspace{0pt} % \\
+\begin{itemize}
+\item \shortVFQs
+\end{itemize}
+\item[Traits de Personnalité\entrad{Personality Traits} :] \hspace{0pt} %\\
+\begin{itemize}
+\item \traitsshort
+\end{itemize}
+\item[Réputation :] \hspace{0pt}
+\reputationsshort % This one is a table
+\item[Combat :] \shortlist{\weaponsshort}
+\item[Encaissement/\emph{Soak} :] \magussoak
+\item[Niveaux de Fatigue :] \magusfatigueshort
+\item[Malus de Blessure :] \woundsshort
+\item[Compétences :] \shortlist{\abilitiesshort}
+\item[Arts :] \hspace{0pt} \\ \magusArtsShort
+\item[Sigil :] \magussigil 
+\item[Marque de Crépuscule :] \magusscarsshort
+\item[Équipement :] \shortlist{\equipmentshort}
+\item[Encombrement :] \magusencumbrance{} (\magusload)
+\item[Sorts connus :]\hspace{0pt}\\
+\shortspells
+\end{description}
+{#1}
+\end{multicols*}
+\pagebreak
+}

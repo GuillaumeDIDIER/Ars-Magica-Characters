@@ -1,0 +1,414 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Caton Bonisagus}
+\birthname{Guiscard}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{5}{+6}{Brillant}
+\perception{2}{3}{}
+\presence{0}{0}{}
+\communication{+3}{+6}{}
+\strength{-3}{-6}{}
+\stamina{+3}{+6}{}
+\dexterity{-2}{-3}{}
+\quickness{1}{1}{}
+
+\size{0}
+\age{26}{26}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+%\end{color}
+\VFQ{Talent pour la Théorie Magique}{maison, hermétique}{
+Vous êtes particulièrement doué pour une Compétence, et ajoutez 2 à sa valeur dès que vous l'utilisez. Ce qui n'est pas le cas lorsque vous l'apprenez, l'enseignez ou écrivez à son propos. Vous pouvez prendre cette Vertu plusieurs fois, mais une seule fois par Compétence.
+}\sep
+\VFQ{Magie Élémentaire}{majeur, hermétique}{
+Vous avez été entraîné à manipuler les formes élémentaires pures (Ignem, Auram, Terram et Aquam), que vous voyez comme un tout unifié plutôt que comme quatre Arts séparés. Lorsque vous étudiez l'un de ces Arts avec succès (c'est-à-dire que vous gagnez au moins un point d'expérience par l'étude), vous gagnez de l'expérience supplémentaire correspondant à la moitié de la qualité de la source dans chacun des trois autres.
+
+Votre magie élémentaire est également plus flexible que celle des autres mages ; il n'y a aucun désavantage à ajouter des compléments de forme élémentaire à un sort élémentaire. Si un sort Aquam, Auram, Ignem ou Terram a un autre élément en complément, vous pouvez l'ignorer. Vous devez tout de même utiliser l’Art principal, même si le complément est plus élevé.
+}\sep
+\VFQ{Talent en Intellego}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l’Art dans le calcul du total. Il ne s'applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c'est le cas, le bonus ne s'applique pas au complément.
+}\sep
+\VFQ{Parens Compétent}{mineur, hermétique}{\notimportant
+Votre parens étant plus puissant et un meilleur professeur que la moyenne. Vous obtenez 60 points d'expérience et 30 niveaux de sorts supplémentaires durant l’apprentissage. Cette Vertu n'a aucun effet sur vos études après l'apprentissage, mais vous conservez de bonnes relations avec un mage puissant.
+}\sep
+\VFQ{Excellente Intelligence $\times 2$}{mineur, général}{
+\notimportant
+Vous pouvez augmenter une Caractéristique ayant déjà une valeur d'au moins +3 d'un point, sans dépasser +5. Assurez-vous de décrire ce qui justifie cette augmentation, comme une carrure massive, une grande maigreur ou un charisme extraordinaire. Vous pouvez prendre cette Vertu deux fois pour la même Caractéristique, ceci pour plusieurs Caractéristiques.
+}\sep
+\VFQ{Caractéristiques Supérieures\entrad{Improved Caractéristics} $\times 2$}{mineur, général}{\notimportant
+Vous avez trois points supplémentaires à dépenser pour vos Caractéristiques, mais vous êtes toujours limité à un maximum de +3, à moins de prendre la vertu Excellente Caractéristique. Vous pouvez prendre cette vertu plusieurs fois.
+}\sep
+\VFQ{Expertise Magique Mineure (communiquer avec les éléments)\entrad{Minor Magical Focus (talk with elements)}}{mineur, hermétique}{
+Votre magie s'accorde plus particulièrement à un domaine étroit, tel que la transformation personnelle, les oiseaux de proie ou les soins. En général, ce domaine devrait être plus réduit qu'une combinaison d'une Technique et d'une Forme, mais il peut inclure des sections limitées de plusieurs combinaisons. Par exemple, la guérison fait partie de Creo Corpus et Creo Animal, voire Creo Herbam. Vous ne pouvez pas être un expert d'une activité de laboratoire, comme la création d'objets à charges, bien qu'une expertise puisse s'appliquer dans le cadre des activités de laboratoire.
+
+Lorsque vous lancez un sort dans votre domaine, ajoutez la plus petite des valeurs d'Art deux fois. Si le sort a des compléments, la valeur la plus basse peut être l'un des compléments, plutôt que l'un des Arts principaux. Ainsi, si un mage expert des oiseaux lance un sort pour transformer un oiseau en flammes pures, donc MuAn(Ig), avec Muto 14, An 18 et Ig 10, son total serait
+de 34 + les autres modificateurs (14 de Muto et 20 d’Ignem deux fois). S'il lançait un sort pour
+transformer un oiseau en une autre espèce d'oiseau, donc MuAn sans complément, son
+total serait de 46 + les autres modificateurs (18 d’Animal et 28
+de Muto deux fois).
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Don tapageur}{majeur, hermétique}{
+Les gens se rendent rapidement compte que vous avez quelque chose
+d'étrange, même s'ils ne savent pas que vous êtes un mage. Les animaux sont extrêmement perturbés, effrayés, voire enragés par votre présence. Vous subissez un malus de –6 sur tous les tests d'interaction avec des animaux et des personnes normales (cf. p. 122 pour les effets du Don).
+}\sep
+\VFQ{Mentor}{mineur, histoire}{
+\notimportant
+Une personne notable, riche ou sage s'intéresse à vous, vous fournissant parfois une aide matérielle mineure et des conseils. Cependant, votre mentor finira par vous demander une petite faveur ou deux. Il n'apprécie pas nécessairement votre relation avec l’alliance, que vous devrez peut-être garder secrète. Le mentor doit être un PNJ.
+}\sep
+%\VFQ{Courroux}{majeur, personnalité}{
+%Vous vous mettez en colère pour un rien. Votre fureur lorsque vous êtes contrarié pour un motif sérieux est un spectacle terrible.
+%}\sep
+\VFQ{Maladresse}{mineur, général}{
+Votre manque de grâce et votre tendance à faire tomber les choses vous imposent un malus de –3 sur les jets associés. De plus, vous lancez un dé de désastre supplémentaire lorsque vous effectuez des actions relatives à la Dextérité. Pensez à interpréter votre maladresse.
+}\sep
+\VFQ{Vulnérabilité au pouvoir infernal}{mineur, hermétique}{
+Vous êtes particulièrement sensible aux pouvoirs occultes. Dans une aura infernale, vous devez effectuer un jet d'Énergie égal ou supérieur à la valeur de l'aura pour éviter d'être malade (–1 à tous les jets). Seule la moitié de votre valeur de Résistance magique s'applique à la magie infernale. Si quelqu'un d’autre vous protège à l'aide de sa Parma Magica, elle fonctionne normalement.
+}\sep
+\VFQ{Détermination}{majeur, personnalité}{
+Vous vous êtes fixé un but que vous êtes déterminé à réaliser. Cela doit être quelque chose d'important, l'objectif de toute une vie. Mais si vous en voyez le bout, vous le remplacerez immédiatement par autre chose.
+}\sep
+\VFQ{Peur (tomber amoureux)}{mineur, personnalité}{
+Vous êtes effrayé par une chose que vous pouvez croiser relativement souvent. En sa présence, vous êtes tendu et mal à l'aise.
+
+Caton a beaucoup souffert du rejet de ses semblables en particulier des femmes, et du coup préfère généralement garder ses distances et son cœur verrouillé pour ne pas être blessé à nouveau.
+}
+}
+
+\traits{
+\trait{Curieux}{+2}\sep
+\trait{Déterminé}{+3}\sep
+\trait{Souffre du rejet}{+1}\sep
+\trait{Peur de l'amour}{+3}\sep
+\trait{Râleur}{+2}
+}
+
+\reputations{
+%\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}\sep
+%\reputation{??}{Type}{+??}
+}
+
+%\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+%\closequarterweapon{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}
+%}
+\abilities{
+\ability{Artes Liberales}{logique}{1}{5}\sep
+\ability{Charme}{magi}{2}{15}\sep
+\ability{Commandement}{magi}{1}{5}\sep
+\ability{Connaissance des gens}{magi}{2}{15}\sep
+\ability{Concentration}{sorts}{2}{15}\sep
+\ability{\lore de la Magie}{esprits}{1}{5}\sep
+\ability{\lore de l'Ordre d'Hermès}{Bonisagus}{2}{15}\sep
+\ability{Discrétion}{au sein d'un groupe}{2}{15}\sep
+\ability{Droit Hermétique}{recherche originale}{1}{5}\sep
+\ability{Enseignement}{magi}{1}{5}\sep
+\ability{Finesse}{précision}{2}{15}\sep
+\ability{Français}{Normandie}{5}{75}\sep
+\ability{Latin}{hermétique}{4}{50}\sep
+\ability{Parma Magica}{Mentem}{2}{15}\sep
+\ability{Pénétration}{Auram}{2}{15}\sep
+\ability{Prof. Scribe}{livre hermétiques}{1}{5}\sep
+\ability{Théorie Magique}{éléments}{4+2}{50}
+}
+
+\artCr{7}{28}{}
+\artIn{7+3}{28}{}
+\artMu{5}{15}{}
+\artPe{5}{15}{}%\footnote{Déficient}}
+\artRe{5}{15}{}
+      
+\artAn{0}{0}{}
+\artAq{10}{8+48}{}
+\artAu{13}{12+80}{}
+\artCo{0}{0}{}
+\artHe{0}{0}{}
+\artIg{10}{8+48}{}
+\artIm{0}{0}{}
+\artMe{0}{0}{}
+\artTe{10}{8+48}{}
+\artVi{0}{0}{}
+
+\sigil{Odeur de Figue}
+
+\equipment{
+Une robe de laboratoire de magicien en cuir robuste\sep
+Des plumes et du parchemin\sep
+Un carnet de notes
+}
+
+\spells{
+\spell{Vents de protection tournoyants}{Cr(Re)Au}{20}{\RDT{Touch.}{Conc.}{Ind}}{21}{}{
+Vous entoure de vents qui tournoient à grande vitesse. Les vents emportant la poussière et les petits objets trainant, vous pouvez être quelque peu masqué. Quiconque se trouve à proximité pour vous attaquer avec une arme doit faire un jet de tension de Taille à 9+ au début de chaque tour ou être repoussé. Les attaques de mêlée que vous subissez sont faites à -3 et les projectiles ou attaques à distance à -9.
+}{Base 3, +1 Toucher, +1 Conc, +2 car non naturel, +1 effet Rego}
+\spell{Conjuration de la Foudre}{CrAu}{35}{\RDT{Voix}{Mom}{Ind}}{23}{}{
+Des éclairs jaillissent de vos bras écartés dans la direction choisie, infligeant +30 Dégâts à la Cible touchée. Rien ne doit se trouver entre vous et votre Cible. Quiconque se trouvant à proximité doit effectuer un jet de tension à 6+ sur la Taille pour rester debout.
+}{Base 5, +2 Voix, +4 non naturel}
+\spell{Ouvrir la porte Chtonienne}{MuTe(Au)}{15}{\RDT{Touch.}{Mom}{Part.}}{18}{}{
+Change une grande section de terre ou de pierre en une fumée lourde et sombre, plus lourde que l'air.
+Ce sort peut permettre de traverser des murs ou d'ouvrir des gouffres sous les pieds d'ennemis.
+Passer à travers la fumée la dérange naturellement, donc les murs affectés par ce sort sont généralement très abimés après la fin du sort, a moins d'utiliser un sort en Rego pour maintenir leur forme.
+Lorsqu'il s'agit de faire chuter des ennemis la profondeur peut être altérée selon l'effet voulu, par exemple ensevelir jusqu'à la taille un ennemi à immobiliser, ou complètement enterré un ennemi à détruire après une chute conséquente.
+
+Dans la version de Caton une odeur de figue se répand de la fumée qui prend la couleur de la chair de la figue, plus prononcée lorsqu'on respire la fumée. Respirer la fumée est toutefois peu recommandé si l'on ne veut pas se retrouver avec de la terre dans les poumons.
+}{Base 3, +1 Touch, +1 Part, +1 affect stone, +1 Size} % Source : Querneus Ex. Misc
+\spell{Récit de l'Esprit Forgé}{InTe}{45}{\RDT{Touch.}{Sol.}{Ind}}{33}{}{
+Similaire a Indiscrétion de la pierre, ce sort peut également être utilisé sur des objets de métal. 
+Il vous permet donc de parler avec une pierre, naturelle ou artificielle ou un objet en métal. Une réponse d'une pierre semble lente et pondérée mais ne prend pas plus de temps qu'une conversation normale. Bien qu'une pierre soit plutôt disposée à parler, son sens de l'orientation et sa perception des êtres mobiles, comme une personne, est limitée.
+
+L'esprit de l'objet fait état de sa fonction de ce qu'il a expérimenté. Il se peut qu'il possède certains traits de son propriétaire. Le niveau précis de coopération et de perception dont l'esprit fait preuve dépend du conteur.
+}{Base 30, +1 Toucher, +2 Soleil}
+\spell{Rêve de l'esprit Immobile}{InTe}{45}{\RDT{Touch}{Sol}{Ind}}{33}{}{
+Ce sort permet au personnage de sonder les souvenirs d'un esprit enfermé dans un objet de pierre naturelle. Il embellit également les souvenirs comme le fait le sort \emph{Le Bon Témoin}. Sonder les souvenirs de ce type d'esprit est un processus extrêmement long. Une session normale prends entre six et douze heures, pendant lesquels le lanceur n'a pas conscience du monde extérieur. Le sort permet au lanceur de percevoir les souvenirs de l'esprit. Les sens de cette esprit sont lents et limités mais le souvenir qu'il en a est très long. Lorsqu'il utilise ce sort, le lanceur peut revivre les évènements dont l'esprit s'est fait témoin, tels que ce dernier se les rappelle. Les plus gros objets en pierre renferment un esprit plus puissant et ont donc de meilleurs perceptions. Le niveau précis de détails qu'un esprit individuel peut percevoir est déterminé par le conteur.
+}{Base 30, +1 Toucher, +2 Soleil}
+\spell{Paroles de la Flamme Vascillante}{InIg}{35}{\RDT{Voix}{Conc}{Ind}}{33}{}{
+Vous engagez une conversation, généralement très chaotique, avec un feu qui est facilement distrait. Promettre plus de combustible à un feu ravive son attention. Les feux sont plutôt conscients de ce qu'ils ont brûlé et ont quelques notions de ce qui se passe autour d'eux.
+}{Base 20, +2 Voix, +1 Conc}
+\spell{Voix de la fontaine}{InAq}{30}{\RDT{Touch.}{Conc.}{Ind}}{33}{\masteries{}{}{}}{
+Vous pouvez tenir une conversation avec un point d'eau, naturel ou artificiel. Celui-ci connait ce qui le concerne directement, les bateaux ou les poissons surtout. Les grands lacs sont généralement trop importants pour que ce sort ait un effet.
+}{Base 20, +1 Toucher, +1 Concentration}
+}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Caton est un mage chercheur, peu à l'aise socialement, du fait d'un Don tapageur, beaucoup plus prononcé que celui des autres mages. Brillant intellectuellement, bon communicant, il est maladroit de ses mains. Il a une grande curiosité et surtout une détermination sans faille pour ses recherche. C'est un spécialiste de la magie élémentaire, et il discute aisément avec les éléments, ou les utilises efficacement pour se défendre.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Bonisagus
+\item[Alliance :] Silva Solognæ
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1174
+\item[Sexe :] Masculin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Normand
+\item[Lieu de Naissance :] Rouen
+\item[Religion :] Baptisé, il y a longtemps
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Aucune
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] En bataille\hspace{0pt}
+\item[Yeux :] Marrons \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Bonisagus
+\item[Domus Magna :] Durnenmar
+\item[Primus :] Murion
+\item[Parens :] Prudentius
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Durnenmar
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{2}{}
+\effectrecognitionroll{0}{}
+\targetroll{3}{}
+\concentrationroll{2}{bonus de +1 pour jeter des sorts)}
+\mrroll{2}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & -2 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & -5 \\ \hline
+\end{tabularx}
+\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+
+\begin{multicols}{2}
+
+\end{multicols}
+
+\pagebreak
+
+\section*{Lore}
+Caton est né à Rouen d'une famille de Marchand. Bien éduqué et très studieux, il est rapidement ostracisé par les autres enfants du fait de son don tapageur, et subi bien des rejets. Recueilli par un mage Bonisagus de passage, il fait ses études au cœur de l'ordre, ou il est beaucoup plus à l'aise au milieu de ses semblables. Toutefois ses relations avec les mondains ont laissé des traces douloureuses, et ses quelques échecs en amour l'ont profondément meurtris. Il se lance donc à corps perdu dans ses recherches et perd peu de temps à socialiser, et évite en général les situations sociales avec les femmes (parler de science avec des mages des deux genre ne lui pose pas trop de problème, et c'est même un très bon communiquant).
+
+Voilà ce qu'il pense de ces divers camarades de Silva Solognæ
+\begin{description}
+\item[Alexandre Jerbiton :] Pincement de Jalousie pour un mage qui ne subi pas les effets négatifs du Don, et en plus quelqu'un de très à l'aise socialement. C'est aussi une personne formidable, qui a fondé cette alliance, et qui a une vrai volonté de faire en sorte que chacun puisse vaquer à ses propres occupations, et qui tient à améliorer le cadre de travail. Accessoirement de bon conseil lorsqu'il s'agit de trouver la bonne formulation et la plus élégante. Caton lui est reconnaissant pour tout ce qu'il fait.
+\item[Justinien Guernicus :] Un saint homme qui fait régner la justice dans l'ordre, toujours obligé de voyager par monts et par vaux pour empêcher les Tytalus de faire je ne sais quel démonerie. Merci à lui de se dévouer pour nous laisser chercher en paix.
+\item[Muirgen Merinita :] Pas mauvaise en Aquam, il parait, et elle a toujours été sympa avec moi, mais je garde mes distances. Je veux bien discuter avec elle de science, mais entre sa beauté naturelle, et sa tendance à jouer avec les hommes, je ne peux pas prendre le risque de baisser ma garde et de finir blessé. Qu'elle s'amuse avec les autres mages, genre Ignace et Lycus (le feu et l'eau ça fera bon ménage j'en suis sûr, et elle a le même humour débile que Lycus, en plus ils viennent tout les deux d'Oléron).
+\item[Lycus Lupus :] Un mauvais plaisant qui empêche de travailler tranquille. Non mais ça va pas la tête de faire peur aux gens comme ça, espèce de grand loup débile ?
+\item[Ignace Flambeau :] Un grand, grand spécialiste du feu, ignifugé de surcroit. Caton a déjà échangé avec lui sur la question des élémentaires de feu, et autres esprits de feu. Il trouve toutefois que celui-ci est un peu borné, et pas très curieux. Plutôt un spécialiste de brûler tout ce qui bouge.
+\item[Aeldira Tremere :] Professionnelle, sérieuse, fiable, excellente médecin. Caton est un peu plus à l'aise avec elle que d'autres membres de la gente féminine. Il reste un peu jaloux de son don de velours. Il lui est reconnaissant pour avoir soigné certaines brûlure lié à un accident de laboratoire. Après il sait que les Tremere ont un jour tenté de dominer l'ordre, ce qui n'est pas vraiment dans l'esprit du fondateur Bonisagus et dans l'intérêt de sa maison ou de l'ordre. Et accessoirement il parait que les médecins Tremere sentent un peu la nécromancie.
+\end{description}
+
+\section*{Notes}
+Bien penser à incarner la maladresse (accessoirement -3 au jets utilisant ses deux mains gauches, +1 dé de désastre si applicable)
+
+\pagebreak
+%\newpage
+%\NI{Ne pas écrire ici sauf au crayon de papier}
+%\newpage
+
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

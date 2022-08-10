@@ -1,0 +1,583 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Muirgen Merinita}
+\birthname{Inconnu}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{2}{3}{}
+\perception{2}{3}{}
+\presence{2+1}{3}{}
+\communication{2}{3}{}
+\strength{-3}{-6}{}
+\stamina{2}{3}{}
+\dexterity{1}{1}{}
+\quickness{-2}{-3}{}
+
+\size{0}
+\age{28}{23,5}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+\VFQ{Magie Féérique\entrad{Faerie Magic}}{maison, hermétique}{
+Vous avez été initié au Mystère du dernier cercle de la Magie féerique ce qui fait de vous un membre de la maison Merinita.
+
+Les personnages initiés à la magie féerique sont en harmonie avec les auras magiques et féeriques, ne gagnant donc de point de Distorsion d'aucune d'entre elles. De plus, ils profitent des pleins avantages de ces deux types d'aura. La magie que manipulent ces mages compte comme une puissance féerique : quiconque gagne un point de Distorsion de l'un de leurs sorts peut donc être initié au mystère.
+Ils ont accès à des Portées, des Durées et des Cibles spéciales. Ils peuvent les combiner à une magie spontanée et formelle. Les sorts intégrant ces paramètres ne peuvent être appris que par les personnages ayant Magie féerique.
+\begin{itemize}
+\item Route (Portée) : le mage peut cibler toute personne ou chose située sur la même route ou le même sentier que lui. L'identité des routes et des sentiers n'étant pas toujours évidente, la troupe doit décider de la difficulté des choses. Deux sentiers peuvent se croiser mais ne peuvent pas n'en devenir qu'un seul. Dans ce cas, l'un des deux sentiers rejoint l'autre ou le point de croisement correspond à la rencontre de trois sentiers. Le mage n'a pas besoin de voir sa Cible mais doit être en mesure de déceler sa présence d'une façon ou d'une autre, à moins que le sort ne soit un effet d'Intellego destiné à découvrir s'il y a bien quelque chose.
+Ne sont considérées comme étant sur une route que les personnes situées entre les limites du sentier, au moins en partie. Les bâtiments ne sont situés sur une route que si leur entrée principale est accessible depuis cette route. Les plantes et les petits objets doivent être entre les limites du sentier.
+En ce qui concerne le calcul du niveau du sort, Route a le même niveau de Portée que Voix.
+
+\item Marchandage (Durée) : un sort de Durée Marchandage ne peut être lancé que sur quelqu'un venant juste de conclure un marché ou un accord avec le mage. Le total de Pénétration du mage est doublé et, si le sort pénètre la Résistance magique de la Cible, rien ne se passe hormis si la Cible rompt le marché. Si tel est le cas, le sort prend effet sans avoir besoin de repasser la Résistance magique. Les sorts de Marchandage ont une seconde Durée qui détermine combien de temps ils durent après avoir pris effet. Pour calculer le niveau d'un sort de Marchandage, calculez le niveau du sort prenant effet au moment où le marché est rompu et ajoutez-y trois magnitudes. Le sort ne permet de faire respecter un marché que pour une Durée maximale d'une année.
+
+\item Feu (Durée) : les sorts de Durée Feu ne peuvent être lancés que sur des feux et durent jusqu'à ce que le feu ciblé s'éteigne. Le feu étant la Cible, la Forme du sort ne peut être qu'Ignem ou Imaginem. Il est possible que le sort dure indéfiniment si le feu est soigneusement entretenu. Feu a le même niveau de Durée que Lune.
+
+\item Lignée (Cible) : une lignée regroupe tous les descendants de sang d'une personne donnée, la Cible immédiate. Seule la Cible immédiate doit être à portée du sort mais tous les membres de sa lignée sont aussitôt affectés. Les époux ne comptent pas comme des membres de la lignée. Le sort s'applique à tous les membres de la lignée nés pendant la Durée du sort, ainsi qu'à tous ceux déjà vivants au moment du lancement. Comme pour tous les sorts ciblant plusieurs personnes, chaque individu bénéficie de sa Résistance magique, s'il en a une. Cette catégorie de Cible a le même niveau que Structure. Il est possible de concevoir un sort de Cible Lignée de manière à ce qu'il ne distorde pas les membres d'une lignée donnée (cf. « Distorsion », p. 248).\end{itemize}
+}\sep
+\VFQ{Sang Féérique de Sidhe Saillant \entrad{Strong Faerie Blood: Sidhe}}{majeur, surnaturelle}{
+Le sang féerique coule à flot dans les veines de \magusname, son père était un puissant prince féérique de la côte armoricaine. Cela lui confère plusieurs capacités. --- Premièrement, elle a naturellement une grande espérance de vie. Elle ne commence à effectuer des tests de Vieillissement qu'à cinquante ans, au lieu de trente-cinq. Ses jets de Vieillissement sont à -3, ce qui se cumule avec d'autres bonus. --- Deuxièmement, elle a des yeux féeriques. Cela lui donne la Vertu Double vue gratuitement. Elle voit à travers les déguisements et les dissimulations illusoires, y compris l'invisibilité. Elle voit également les choses naturellement invisibles, comme les esprits et les frontières entre les niveaux de \emph{regio}. Choisir cette Vertu confère la Compétence Double vue 1 (cf. p. 105). Elle peut voir normalement dans l'obscurité et la pénombre, par exemple dans les bois ou la nuit. Ses yeux paraissent ordinaires, mais ils ont une couleur vive et inhabituelle. --- Troisièmement, elle peut apprendre Connaissance de la Féerie durant la création de personnage.
+
+Enfin, elle obtient les avantages d'un type d'héritage féerique, ici le sang des Sidhes. Son héritage féerique est clairement visible, \magusname possède des yeux dorées à l'iris d'un bleu vif et à la pupille d'un bleu profond et une abondante chevelure bleue. Elle descend d'un prince de la côte armoricaine, à cause de ses qualités remarquables et inhabituelles, elle augmente sa Présence de +1, sans dépasser +3. De nombreux mortels la considèrent fascinante ou attirante.
+}\sep
+\VFQ{Magie sous influence Féérique}{majeur, hermétique}{
+Le temps passé auprès des fées, et dans la Dimension féérique, a habitué le personnage à inventer des sorts très rapidement. Les sorts formels sont, pour lui, comme autant de pouvoirs innées qu'il est possible de développer par l'observation et l'expérimentation. Il peut ainsi apprendre des sorts en dehors de son laboratoire. Il est possible de dépenser des points d'exposition et d'aventure ou de Pratique pour développer des sorts qui reproduisent des pouvoirs féériques ou d'autres pouvoirs surnaturels dont le eprsonnage a été témoin lors de la saison.
+
+Pour inventer un sort de cette manière, le total Technique + Forme + Intelligence + Théorie Magique doit être supérieur à (Niveau du sort -10). Il faut aussi dépenser un nombre de points d'expérience égal à magnitude du sort + 4 (ou niveau du sort pour un sort d'un niveau entre 1 et 4).
+
+Le mage ne peut inventer de sort rituel en suivant la procédure.
+
+Si le mage connait déjà un sort similaire, les points d'expérience dépensés pour apprendre ce sort sont multiplier par 1,5.
+
+Cette vertu inclue aussi Sort Improvisés :
+%\VFQ{Sorts Improvisés}{mineur, hermétique}{
+Le mage peut ajouter la magnitude d'un sort formel qu'il connait comme bonus à son \emph{Total de lancement} lorsqu'il lance spontanément un sort qui lui est similaire (voir Sorts similaire ArM5eFrp160). Cela fonctionne aussi pour le lancement rapide d'un sort identique ou similaire à un sort formel, sauf si ce sort est maitrisé pour le lancement rapide (dans ce cas, c'est le score en maitrise qui est ajouté à la place). Ce bonus ne peut s'ajouter à d'autre bonus sur le \emph{Total de lancement} (la plupart des bonus s'appliquent à la valeur de lancement), et il n'est pas cumulatif si le mage connait plusieurs sorts similaires.
+%The magus may add the magnitude of a formulaic spell he knows as a bonus to his Casting Total when spontaneously casting a spell that is similar to it (see Similar Spells, ArM5 page 101). This includes fast-casting a spell that is the same as or very similar to one of his for- mulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
+%}\sep
+Enfin si cette vertu est prise à la création du personnage le vice Éducation féérique doit aussi être pris.
+}\sep 
+\VFQ{Bénédiction de Vénus\entrad{Blessing of Venus}}{mineur, général}{
+Vous êtes attirant, ce qui vous donne un bonus de +3 sur les tests de Communication et de Présence avec des personnes sexuellement compatibles dans une situation appropriée. C'est utile la plupart du temps, mais parfois embêtant.
+}\sep
+%\VFQ{Parens Compétent\entrad{Skilled Parens}}{mineur, hermétique}{\notimportant
+%Votre \emph{parens} étant plus puissant et un meilleur professeur que la moyenne. Vous obtenez 60 points d'expérience et 30 niveaux de sorts supplémentaires durant l'apprentissage. Cette Vertu n'a aucun effet sur vos études après l'apprentissage, mais vous conservez de bonnes relations avec un mage puissant.
+%}\sep
+%\VFQ{Familiarité avec les fées}{mineur, surnaturelle}{
+%Muirgen a une compréhension naturelle du comportement des fées, de part son éducation au milieu d'elles. Elle obtient un bonus de +2 à tous les jets d'interactions sociales avec les fées. Elle gagne aussi l'effet de la Vertu Bon Sens mais uniquement lorsque la situation implique des fées. (Bon Sens : Dès que vous êtes sur le point d’agir à l’encontre de ce qui est raisonnable dans le monde du jeu, le bon sens (par l'intermédiaire du conteur) vous prévient de votre erreur. C’est une excellente Vertu pour un joueur débutant, puisqu'elle légitime l'aide que peut donner le conteur.)
+%}
+\VFQ{Magie Subtile}{mineur, hermétique}{
+Vous ne subissez pas de malus lorsque vous lancez des sorts sans faire de gestes. Vous n'obtenez aucun avantage à faire des gestes normaux, mais vous bénéficiez du bonus normal pour des gestes exagérés.
+}\sep
+\VFQ{Forme de Prédilection Mentem}{mineur, hermétique}{
+Vous êtes particulièrement doué pour une Forme. Vous ne subissez pas de malus au Total de lancement lorsque vous lancez des sorts de cette Forme en utilisant des paroles ou des gestes inhabituels (cf. p. 134), y compris si vous n'utilisez ni paroles, ni gestes parce que vous êtes sous forme non-humaine. Les sorts dont la Portée est Voix ont tout de même une Portée déterminée par la force de votre voix.
+}\sep
+\VFQ{Talent en Rego\entrad{Puissant Rego}}{mineur, hermétique}{%vspace{-2.5em}}\sep
+%\VFQ{Talent en Aquam\entrad{Puissant Aquam}}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l'Art dans le calcul du total. Il ne s'applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c'est le cas, le bonus ne s'applique pas au complément.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Restriction (fer)\entrad{Restriction (iron)}}{majeur, hermétique}{
+Vous ne pouvez pas lancer de sorts dans certaines conditions inhabituelles. Elles peuvent concerner votre état, comme toucher la terre directement ou ne pas avoir de barbe, ou la Cible, comme les oiseaux ou le verre, ou l'endroit où vous tentez d'utiliser la magie, comme un petit bateau ou lors d'une tempête. La Restriction s'applique également aux effets générés par les objets que vous enchantez.
+Les sorts déjà lancés restent en place même si la restriction survient plus tard. Ainsi, si votre restriction consiste à ne pas avoir de barbe, et que vous lancez un sort dont la Durée est Année, le sort ne se termine pas prématurément si vous vous laissez pousser une barbe.
+En l'occurrence vous ne pouvez lancer de sort si vous êtes en contact avec du fer, une restriction commune pour les être féériques dont vous avez hérité.
+}\sep
+\VFQ{Libertine\entrad{Libertine}}{majeur, personnalité}{
+\magusname est de mœurs plutôt libres et aiment flirter / jouer / prendre des plaisirs romantiques ou charnels avec d'autres humains. (Pas des fées). \footnote{Jusqu'où ces petites aventures vont est laissé à la libre appréciation du PJ.}
+}\sep
+\VFQ{Éducation féérique\entrad{Faerie Upbringing}}{mineur, personnalité}{
+Peut-être avez-vous été abandonné par vos véritables parents, et recueilli par les êtres féeriques. Peut-être votre famille vivait-elle dans une forêt féerique, ou les fées vous ont-elles enlevé quand vous n'étiez qu'un bébé. Bien que vous soyez maintenant de retour dans la société humaine, vous comprenez et êtes plus à l'aise avec les êtres féeriques, leur magie et d'autres choses étranges. D'ailleurs, vous trouvez étrange la société humaine, notamment la religion. Vous pouvez apprendre Connaissance de la Féerie lors de la création de personnage.}
+\VFQ{Héritage Féérique}{majeur, histoire}{\notimportant
+Ce vice peux être pris seulement par les personnage dotés d'un sang féérique, saillant ou non. Votre naissance a été intentionnellement organisé par une fée hautement instruite afin de remplir un aspect de son rôle. Vous avez un rôle à jouer dans les histoires de votre parent féérique, cependant vous êtes n'êtes initialement pas au courant de son intérêt pour votre vie. Avant de vous impliquer dans ses plans votre "bienfaiteur" testera probablement votre aptitude pour ce rôle par des épreuves, dans lesquelles il ou elle ne vous sera d'aucune aide.
+}
+}
+
+
+\traits{
+\trait{Insouciante}{+2}\sep
+\trait{Libertine}{+3}\sep
+\trait{Joueuse / Espiègle}{+2}\sep
+\trait{Gentille}{+1}
+}
+
+\reputations{
+\reputation{Fille du prince d'Armorique}{Féérie}{+2}\sep
+\reputation{Magicienne libertine}{Locale}{+1}
+}
+
+\abilities{
+\ability{Artes Liberales}{incantation cérémonielle}{1}{5}\sep
+\ability{Breton}{histoires}{5}{75}\sep
+\ability{Charme}{manipuler les H.}{2}{15}\sep%95
+\ability{Concentration}{sorts}{1}{5}\sep
+\ability{Connaissance des Gens}{hommes}{2}{15}\sep%115
+\ability{\lore des la Féérie}{diplomatie}{3}{30}\sep
+%\ability{\lore de la Magie}{créatures}{1}{5}\sep
+\ability{\lore régionale France}{Féérie}{1}{5}\sep%150
+\ability{\lore de l'Ordre d'Hermés}{fées}{0}{1}\sep%151
+\ability{Double Vue\abilitynote{Le personnage est capable de voir au travers des camouflages et des déguisements illusoires, ce qui inclut l'invisibilité, et peut naturellement voir les choses invisibles telles que les esprits et les frontières entre les niveaux de regio. Le Facteur de Difficulté pour voir au travers des illusions est normalement égal à 6 + la magnitude de la puissance de la créature responsable de l'effet ou à 6 + la magnitude du sort hermétique. En général, cette Compétence permet au personnage de voir au travers des illusions hermétiques d'Imaginem mais pas des autres types. La Résistance magique de la créature dissimulée, si elle en a une, n'interfère pas avec la Double vue du personnage. Si une chose a été véritablement transformée, par exemple au moyen d'un sort MuCo, le personnage ne peut pas en déterminer la vraie forme. Le Facteur de Difficulté pour voir une chose naturellement invisible est normale- ment de 9 et le Facteur de Difficulté pour voir les niveaux de regio est précisé à la p. 276. Tous les jets de Double vue se font avec Perception + Double vue. Spécialisations : regio, choses invisibles, déguisements illusoires, fées, fantômes. (Surnaturelle)}}{fées}{1}{5}\sep
+\ability{Étiquette}{fées}{1}{5}\sep%161
+\ability{Finesse}{précision}{3}{30}\sep%191
+\ability{Français}{Orléanais}{4}{50}\sep%241
+\ability{Intrigue}{histoires de cœurs}{2}{15}\sep
+\ability{Latin}{hermétique}{4}{50}\sep
+\ability{Nager}{nue}{2}{15}\sep%321
+\ability{Marchandage}{femmes}{1}{5}\sep
+\ability{Parma Magica}{Ignem}{1}{5}\sep
+\ability{Pénétration}{Rego}{3}{30}\sep%361
+\ability{Ripaille}{paillardise}{1}{5}\sep
+\ability{Théorie Magique}{sorts}{3}{30}\sep
+\ability{Tromperie}{farces}{1}{5}%401
+}
+%401 +121 = 527 + 78 +5 = 610
+% Todo : xp en stock 120 + 240 + 150 + 90  + 5 = 605 
+% 
+%
+% If we recover 40 xp we are good (and can add 4 extra xp in arts)
+% Alernatively, we can drop a few spells.
+% 15 xp in charm can be recovered given the Presence at +3 10 xp in Area Lore + 5 order of Hermes Lore + 10 Guile Ok
+
+%170
+%230
+% 300
+%325
+% 360
+% 390
+% 420
+
+%425
+%/350 xp
+%
+%170 arts :
+%               Aq 5 Me 8 Im 8 Co 5
+%- 36 Rego 8+3    25   28   28   25
+%- 36 Mu   8      22   25   25   22
+%- 21 Cr   6      20   23   23   20
+%- 10 Pe   4      18   20   20   18
+%-  0 In          
+%
+%- 15 Aquam
+%- 36 Im
+%- 36 Me
+%- 15 Co
+%
+%72 + 72 + 60 + 1 = 205
+%
+%Int 2 + Mag Th 4 + Aura 3 = 9
+%
+%Re Aq/Im/Me = 28
+%Mu Aq/Im/Me = 25
+%Re Co = 25
+%Mu Co = 22
+%
+%Cr Aq = 23
+%Cr Im/Me = 23
+%Cr Co = 20
+%
+%Spont : 2 + Aura
+%Re Aq/Me/Im 18 -> 20 avant Aura
+%Mu Aq/Me/Im
+%Re/Co : 12
+%Cr Im/Aq/Me :
+%Cr Co :
+
+% Sorts en stock 150
+
+\artCr{6}{21}{}
+\artIn{0}{0}{}
+\artMu{1}{1}{}
+\artPe{2}{3}{}%TBD
+\artRe{8+3}{36}{}
+
+% 18 + 36 + 21 = 61
+
+\artAn{0}{0}{}
+\artAq{5}{15}{}
+\artAu{0}{0}{}
+\artCo{5}{15}{}
+\artHe{0}{0}{}
+\artIg{0}{0}{}
+\artIm{5}{15}{}
+\artMe{5}{15}{\footnote{Forme de prédilection, pas de malus de Geste ou Paroles}}
+\artTe{0}{0}{}
+\artVi{0}{0}{}
+
+% 60
+
+\sigil{Rend les choses mouillées (elle ou la cible)}
+
+\equipment{
+Robe de magicien bleu\sep
+Bijoux\sep
+Un petit anneau enchanté qu'elle active pour ne pas tomber enceinte
+}
+
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+\spells{
+\spell{Dague de Glace}{Cr(Re)Aq}{10}{\RDT{Voix}{Mom}{Ind}}{13}{}{
+Ce sort crée un stalactite tranchante de trente centimètre de long et la projette sur la cible. Si elle pénètre la résistance magique la pointe de glace touche toujours. Elle inflige +5 dégâts (en partie par sa pointe acérée). Après l'impact elle se brise en fragment minuscules qui ne tardent pas à disparaitre.
+}{Base 3, +2 voix, +1 complément Rego}
+\spell{Chaussée Glissante*}{CrAq}{10}{\RDT{Route}{Diam}{Ind}}{13}{}{
+Ce sort recouvre une portion de route de 100m2 d'une graisse non inflammable et glissante. Un jet de dextérité est nécessaire pour rester debout dés qu'un personnage sur l'huile essaie de faire quoi que ce soit de plus difficile que marcher. Un jet de 6+ est nécessaire pour une manœuvre moyenne, avec des jets à 15+ pour par exemple faire un virage à pleine vitesse sur une surface lisse et graissée.
+Yselda a gardé les gestes amusants du magicien plein d'humour qui avait inventé les empreintes huileuse, et lorsqu'elle les utilises (ce qui ne lui est pas nécessaire), elle se tient sur chacune des jambe en frottant la plante de l'autre pied, comme si elle y appliquait une pommade.
+}{Base 3, +2 Route, +1 Diam}
+\spell{Regard de la Tâche d'Huile*}{CrAq}{20}{\RDT{Vue}{Sol}{Ind}}{13}{}{
+Ce sort sature une surface poreuse d'huile inflammable. Les gestes (rarement utilisés par Muirgen), corresponde à une chiquenaude avec les doigts afin d'envoyer une goute invisible vers la cible. Une goutte d'huile apparaît sur votre Cible après que le sort est fini et se répand lentement sur ses vêtements jusqu'à la recouvrir complètement. Si vous l'utilisez sur une personne et l'enflammez, l'huile cause +12 Dégâts le premier tour, +6 le deuxième et +0 le troisième.
+}{Base 3, +3 Vue, +2 Soleil}
+\spell{Fers de Glace gelée}{ReAq}{20}{\RDT{Voix}{Sol.}{Part}}{18}{}{
+Ce sort fait geler une portion circulaire d'une étendue d'eau, la transformant en glace solide. Quiconque marchant ou nageant dans cette eau se retrouve piégé dans la glace. La Résistance magique n'empêche pas la glace de se refermer sur le personnage et de l'immobiliser rapidement. La zone affectée par le sort fait la même taille qu'un individu de base d'eau, soit un volume formant un énorme bol d'environ 5 pas de long et 2 de large.
+
+La Glace étant magique elle n'inflige des dégâts de froids que si elle pénètre la résistance magique. Les règles des dégâts de froids sont à AM5eFrp216. La glace crée par ce sort inflige les dégâts de base de +1. Les personnage complètement pris dans la glace commencent à suffoquer.
+
+Une personne piégée peut se libérer avec un jet de force. Il peut également couper la glace au moyen d'outil ou d'armes mais cela prends du temps. Certaines magie y compris les sorts PeAq ou CrIg peuvent libérer les personnes instantanément.
+\begin{tabular}{ccc}
+Étendu de la glace & FD Force & Temps pour découper \\ \hline
+Un pied & 6 & 30s \\
+Les Deux pieds & 9 & 1 min \\
+Aux genous & 12 & 3 min \\
+À la taille & 15 & 10 min \\
+À la poitrine & 18 & 15 min \\
+Au cou & 21 & 20 min \\
+Entièrement & 21 & selon profondeur \\
+\end{tabular}
+}{Base 3, +2 Voix, +1 Partie}
+\spell{Malédiction physiologique*}{ReCo}{5}{\RDT{Route}{Mom}{Part}}{18}{}{
+Cette variante personnelle de Muirgen de la Malédiction de la Vessie du Bébé lui permet de provoquer d'autre réaction physiologiques plus variés, sous réserve de la réussite d'un jet de finesse. L'action des muscles ne prends qu'un moment mais la récupération peut prendre un moment. Les réactions amusantes possibles inclue le rougissement et la bouffé de chaleur, la réactions physiologiques d'excitation (sexuelle), très déconcentrantes, et leur contraire, en plus du vidage de vessie impromptu.
+}{Base 2, +2 Route, +1 Partie}
+\spell{Amélioration du plaisir au Lit*}{ReCo}{10}{\RDT{Touch.}{Conc}{Part}}{18}{\masteries{1}{5}{Lancement Silencieux}}{
+Une variante des sorts précédent développé en observant et expérimentant à l'aide de son amant féérique de l'époque. Il permet d'exercer un certain contrôle sur les réactions physiologiques de l'amant afin d'augmenter (ou diminuer voir annihiler) le plaisir et sa durée.
+
+Le sort est spécialement conçu pour être lancé pendant cette occupation (qui n'impacte donc pas la concentration requise), et pénètre la résistance magique de façon non hermétique, en reproduisant le lien qui existe entre une fée et son partenaire pendant l'acte, avec un bonus au multiplicateur de pénétration de +4.
+
+Ce sort échappe un peu à la théorie magique et Muirgen n'est pas en mesure de l'apprendre à d'autre.\footnote{De plus, il ne fonctionne que si un des deux amants au moins à un sang féérique saillant. Mais Muirgen ne connait pas ce détail vu qu'elle est toujours impliqué dans l'affaire lorsqu'elle le lance}
+\emph{Les malus de lancement silencieux sont réduit de 5 (Aucune Voix -5, Calme à 0, Ferme 0, Forte +1)}
+}{Base 2, +1 Touch, +1 Partie, +1 Conc, +1 effet non hermétique}
+\spell{Contrôle Physiolgique*}{ReCo}{25}{\RDT{Sight}{Diam}{Groupe}}{18}{}{
+Ce sort est une version plus développée de la Malédiction Physiologique, qui permet de cible à vue un groupe de personne.
+Un jet de Finesse permet d'obtenir des effets de beaucoup plus grande ampleur, ou qui persistent beaucoup plus longtemps. (Une bande de soldat dont le corps vient de subi un orgasme et souille le pantalon ne seront pas très capable de combattre).
+De façon général les effets peuvent être désagréable ou perturbant à souhait.
+%Certains effets peuvent être combattus avec un jet de 
+}{Base 2, +3 Vue, +2 Groupe, +1 Diam.}
+\spell{Que cette conversation reste clandestine*}{Mu(Re)Im}{10}{\RDT{Touch}{Anneau}{Cercle}}{8}{}{
+Les \emph{species} sonores et visuelles produites par quiconque était à l'intérieur du cercle dessiné par le lanceur du sort au lancement, sont brouillées pour tout observateur situé en dehors du cercle au moment du lancement. Ceci inclue toute personne essayent d'espionner a distance. Ceux situés dans le cercle peuvent continuer de s'entendre et de se voir normalement, grâce au complément en Rego qui permet au sort de n'affecter que les \emph{species} allant dans certaines directions.
+
+La nature des sensations brouillées dépens de la conception du sort et incluent en général le sceau du magicien, et rend ceux à l'intérieur impossible à identifier par leur apparence ou leur sons.
+}{Base 2, +1 Toucher, +2 Anneau, +1 Complément}
+\spell{Voile d’Invisibilité Personnelle}{PeIm}{15}{\RDT{Per}{Sol}{Ind}}{9}{}{
+Le lanceur est maintenant complètement indétectable, quoi qu'elle fasse, mais son ombre est toujours visible. (Il n'est pas inaudible ou inodore)
+}{Base 4, +2 Soleil, +1 Image changeante}
+\spell{Embuscade sur une route Déserte}{PeIm}{15}{\RDT{Touch.}{Conc.}{Cercle}}{9}{}{
+Ce sort détruit toutes les \emph{species} que le groupe d'objets se trouvant à l'intérieur du Cercle émet dans une seule direction. Il permet, par exemple, de rendre le groupe de voyageurs du mage invisibles depuis la direction d'un autre groupe que le premier souhaite prendre en embuscade. Le niveau de base du sort inclut un ajustement qui tient compte de la capacité du mage à réorienter tout doucement la direction de l'effet afin qu'au moment ou le groupe passe à coté, il ne puisse pas percevoir le groupe caché. Les autres personnes, comme les membres de la compagnie du mage, peuvent toujours se voir les uns les autres puisque les \emph{species} qui atteignent leur œil ne sont pas obstruées. Pour que la transparence soit convaincante il faut réussir un jet de Perception + Finesse contre un facteur de difficulté de 9
+}{Base 5, +1 Toucher, +1 Concentration}
+\spell{Pas de côté}{ReIm}{10}{\RDT{Per}{Sol}{Ind}}{18}{}{
+Votre image apparaît jusqu'à un mètre de vous, les attaques vous ciblant ayant donc toutes les chances de vous rater. Si l'image est touchée avec succès, elle disparaît pour apparaître ailleurs.
+
+En combat, les premières attaques ciblent l'image et vous ratent donc automatiquement. Dès que l'image a été touchée, vous obtenez un +9 en Défense, vos attaquants devant essayer de vous trouver dans une zone plutôt vaste.
+}{Base 2, +2 Soleil, +1 Image changeante, +1 Image déplacée en accord avec les modifications}
+\spell{Message silencieux*}{CrMe}{15}{\RDT{Vue}{Conc}{Ind}}{13}{}{
+Permet de parler dans l'esprit d'une personne. Celle-ci reconnait votre voix et sait que le message est d'origine surnaturelle, mais ne peux vous répondre.
+}{Base 3, +3 Vue, +1 Conc.}
+\spell{Aguicher le regard*}{CrMe}{15}{\RDT{Vue}{Mom}{Ind}}{13}{}{
+Ce sort attire le regard suffisamment pour pouvoir lancer un sort de cible Contact Visuel juste après. Ceci permet un lancement plus facile d'un sort en porté Eye, beaucoup plus discret que la portée Voix.
+}{Base 4, +3 Vue}
+\spell{Passion Croissante*}{CrMe}{15}{\RDT{CV}{Sol.}{Ind}}{13}{}{
+Provoque un désir charnel surnaturel dans l'esprit de la cible.
+La cible n'a aucun contrôle sur celle-ci et est susceptible d'agir de façon inappropriée.
+}{Base 1, +1 Contact Visuel, +1 Soleil}
+\spell{À l'aide*}{CrMe}{20}{\RDT{Route}{Sun}{Ind}}{13}{}{
+Ce sort place une suggestion dans l'esprit de la cible que Muirgen doit être protégé du danger. Dans la plupart des cas c'est suffisant pour que même un ennemi vienne à sa défense. Ceux sous l'influence du sort doivent réussir un jet de personnalité à +9 pour entreprendre toute action au détriment d'elle. La bénédiction de Venus inflige un -3 à ces jets.
+}{Base 4, +2 Road, +2 Sun}
+\spell{Foi de l’enfant}{PeMe}{10}{\RDT{Regard}{Diam}{Ind}}{9}{}{
+La Cible perd tout jugement et croit presque tout mensonge plausible le temps du sort. Un jet de tension d'Intelligence de 6+ est permis pour résister. Des mensonges vraiment grossiers facilitent les jets de résistance.
+}{Base 4, +1 Contact visuel, +1 Diamètre}
+\spell{Léger Trou de Mémoire}{PeMe}{15}{\RDT{Regard}{Mom}{Ind}}{9}{}{
+Supprime jusqu'à cinq minutes continues de souvenirs de l'esprit d'une Cible, laissant un blanc. Vous ciblez la perte de mémoire sur un évènement spécifique ou une période. Sur un jet de tension d'Intelligence à 9+, la Cible réalise qu'il lui manque une partie de ses souvenirs. Ce Facteur de Difficulté peut changer, selon l'importance des souvenirs manquants et les circonstances entourant l'évènement. Une introspection minutieuse et durable permet de reconstituer ce vide, mais pas intégralement. Des détails sont à jamais perdus.
+}{Base 10, +1 Contact visuel}
+\spell{Appel de Morphée}{ReMe}{10}{\RDT{Voix}{Mom}{Ind}}{18}{}{
+Le sommeil gagne la Cible qui s'endort en quelques secondes.
+}{Base 4, +2 Voix}
+\spell{Le marchand de sable va passer*}{ReMe}{25}{\RDT{Touch.}{Conc.}{Struct.}}{18}{}{
+Lorsque ce sort est lancé, toutes les personnes présentes dans la structure au lancement s'endorment et ne peuvent être réveillées tant que le sort dure.
+}{Base 4 +1 Touch, +3 Structure, +1 Concentration}
+\spell{Lévitation Inquiétante de la Lourde Pierre}{ReTe}{15}{\RDT{Voix}{Conc}{Ind}}{13}{}{
+Ce sort déplace une pierre dans les air aussi rapidement qu'un oiseau. Quand le lanceur cesse de se concentrer, la pierre retombe aussitôt au sol.
+
+Le nom du sort fait référence à l'une de ses applications les plus courantes, qui consiste à lâcher une lourde pierre sur quelqu'un. Étant donné que la pierre tombe naturellement, ce genre d'attaque n'est pas sujet à la résistance magique. Au lieu de cela, il faut réussir un jet de visée pour toucher la cible voulue (Per + Finesse +dé). Il faut normalement deux tours pour porter une attaque avec ce sort : un pour déplacer la pierre au dessus de la cible, et un autre pour viser et lâcher la pierre.
+
+Les dégâts infligés dépendent généralement de la taille de la pierre : +5 pour une pierre de la taille du poing, +10 pour une pierre de construction normale, jusqu'à +21 pour un gros rocher (cf la Table d'Impact, en p266 d'ArM5eFr). Les pierres particulièrement grosses peuvent endommager les structures comme les créatures.
+
+La principale limite d'efficacité de ce sort en combat tient à la disponibilité de grosses pierres. Vilano lui-même se plaignait qu'il n'y avait jamais de bon rocher à porté lorsqu'il en avait besoin.
+}{Base 3, +2 Voix, +1 Concentration, +1 Pierre}
+\spell{Otez donc vos Vêtements Crasseux*}{ReTe}{20}{\RDT{Voix}{Mom}{Groupe}}{13}{}{
+Ce sort téléporte instantanément les vêtements d'un volume équivalent à 10m3 de 5 pas. Un jet de Finesse est nécessaire pour contrôler là ou les vêtements apparaissent, mais ils ne peuvent aller au delà de 5 pas de leur point de départ.
+
+Ce sort marche sur toute sorte d'objets qui ne sont pas fait de pierre ou de métal. Des complément au lancement en Animal et/ou Herbam sont nécessaire en général pour les vêtements, ce qui revient au même pour Muirgen.
+}{Base 4, +2 Voix, +2 Groupe}
+}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Muirgen Merinita est à demi fée, et a l'air d'avoir 23 lorsqu'elle en a 28. C'est une femme à la beauté étrange, aux yeux dorées à l'iris bleu vif et à la pupille bleu sombre, qui est née à la cour des fées d'Armorique et agit comme diplomate entre les fées et les humains, et occupe son temps libre s'amuser à tirer les hommes par le bout du nez. Spécialiste de l'eau, des illusions, et de l'esprit et en moindre mesure du corps des hommes et des femmes, elle est de mœurs libres, pas religieuse, farceuse et espiègle, mais au fond bien intentionnée. Si elle est plus à l'aise parmi les fées que les humains, elle est beaucoup plus intéressé par ces derniers.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Merinita
+\item[Alliance :] Silva Solognæ
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1170
+\item[Sexe :] Féminin
+\item[Taille :] \magussize
+\item[Confiance :] 1(3)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Bretonne
+\item[Lieu de Naissance :] Armorique
+\item[Religion :] C'est quoi la religion
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Gauche
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] bleus\hspace{0pt}
+\item[Yeux :] dorées, iris d'un bleu vif, pupille bleu profond \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Merinita
+\item[Domus Magna :] Irencillia
+\item[Primus :] Handri
+\item[Parens :] Gwenaëlle Merinita
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Oléron
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{3}{}
+\effectrecognitionroll{0}{}
+\targetroll{4}{}
+\concentrationroll{1}{\footnote{bonus de +1 pour jeter des sorts}}
+\mrroll{1}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+Modifié par Magie Subtile. Ne pas oublié la forme de prédilection Mentem, qui supprime les malus.
+
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & \sout{-2}-0 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & \sout{-5}-0 \\ \hline
+\end{tabularx}
+
+%\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+
+
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+
+%\begin{multicols}{2}
+
+%\end{multicols}
+
+%\pagebreak
+
+\section*{Lore}
+
+Muirgen est née d'Agnès une jeune angevine et du Prince d'Armorique, un Monarque féérique qui règne sur la côte nord de la Bretagne, qui avait "invité" la première dans son domaine. Il fut rapidement clair Muirgen avait hérité de son père plus qu'une simple apparence étrange, et il fut décidé de la confier à une mage de l'ordre de d'Hermès pour la former et en faire un pont entre les fées et les hommes. Peut-être que son père à d'autre plans en tête mais il les gardes secrets. Quand à sa mère elle parvint à retrouver ses semblables après dix ans passé en Armorique féérique, secourue par un chevalier de passage en quête, mais ses souvenirs sont pour le moins flou sur ces années en féérie. Elle a fini par épouser le chevalier en lui donnant de magnifiques enfants (mais qui semblent avoir hérité d'une légère influence féérique). Sachant que sa mère est heureuse dans cette nouvelle vie, Muirgen n'a pas trop cherché à renouer le contact avec sa mère afin d'éviter de perturber son bonheur.
+
+Après un apprentissage qui l'a mené à voyager un peu partout dans les cours féérique de France, d'Irlande, et de Germanie, elle s'est installé dans cette alliance, dont elle a permis la création en négociant avec les fées locales.
+
+L'accord prévoit que les mages ne doivent pas assécher les ruisseaux et cours d'eaux de la forêt sans autorisation, ni déboiser. Par ailleurs, les fées ont souveraineté sur une aire de la forêt qui se trouve quelque part au Nord de l'alliance. Il est généralement admis que le personnel de l'alliance ne s'aventure pas hors des chemins connus dans cette partie de la forêt. Enfin, chaque printemps, les mages doivent laisser une offrande de blé et de vin au fées. Celle-ci sont déposé devant le temple de Pluton après que les mages en ont récupéré le Vis Terram, qui apparait dans une caisse de pièce d'argent laissé entre le solstice d'hiver et l'équinoxe de printemps dans la crypte du temple en ruine.
+
+La Dame de Sologne est le monarque féérique local, il s'agit d'une séduisante fée pâle au long cheveux bleus et verts, et aux yeux entièrement bleu (de plusieurs nuances). Elle et sa court sont des fées plutôt aquatique et quelque peu discrètes.
+
+Toutefois Muirgen est beaucoup plus intéressé par la société humaine que par les fées qu'elle connait déjà très bien. En effet son éducation au milieu des fées ne lui a pas laissé beaucoup d'occasion d'apprendre la culture humaine et elle est particulièrement curieuse et intrigué.
+
+Elle ne fréquente pas l'église, la religion étant un concept étranger pour elle, mais elle passe régulièrement à la taverne du village pour observer les gens ou discuter et flirter avec des jeunes hommes. Elle fait toujours sensation lors du bal du village, s'attirant en général une certaine inimité de la gente féminine locale. Elle n'est toutefois pas particulièrement méchante ni jalouse. Elle a parfois du mal a comprendre l'exclusivité qu'exige certaines demoiselle vis à vis de leur conquêtes, mais limite ses conquêtes aux jeunes gens non mariés. Toutefois c'est une personne qui n'hésite pas à conseiller ou aider les gens dans leurs histoires de cœur ou de relations, du mieux qu'elle peut. \footnote{À la discrétion du joueur, la gente féminine peut être une cible secondaire de ses avances}
+
+
+
+Ses intérêts magique portent sur l'eau et les humains en majorité, mais elle est souvent éloignée de son laboratoire et dans les divers cours féériques du Tribunal de Normandie, en particulier Brocéliande (ou elle croise régulièrement son père). Lorsqu'elle est à l'alliance voilà ce qu'elle pense de ses Sodales, lorsqu'ils sont présents :
+\begin{description}
+\item[Alexandre Jerbiton :] Un barde talentueux, mais quelque peu coincé. Son cœur est peut-être pris, mais en tout cas il a jamais répondu à ses avances. Muirgen est en désaccord avec lui sur la beauté des fées mais apprécié son art, ses talents sociaux et ses explications de la société mondaine.
+
+\item[Justinien Guernicus :] Messire le moine chaste, le plus coincé de tous. Il est pas très drôle et à l'air de ne pas te faire beaucoup confiance pour ne pas violer le code en interférant avec les mondains.
+Mais c'est un Quaesitor juste, droit et loyal, et particulièrement doué avec sa magie d'investigation.
+
+\item[Ignace Flambeau :] Le vilain lanceur de boule de feu, et colérique en plus. Loyal envers Justinien, à qui il sert d'hoplite lorsque ce dernier à besoin d'un peu de force. Ça reste un mage assez classe et chaud. L'histoire entre les deux est probablement un peu tumultueuse.
+
+\item[Aeldira Tremere :] Une soldate sérieuse (comprendre pas drôle) de l'armée Tremere. Mais c'est une excellente médecin, et Muirgen n'hésite pas à rediriger des jeunes filles embarrassées vers elle pour certains petits problèmes. Par contre niveau plaisir, elle vaut pas mieux qu'un corps, est-ce parce qu'elle tremperai dans la nécromancie comme certain de ses collègues médecin Tremere en ont la réputation ? (Muirgen ne l'a jamais vu pratiquer une telle chose, mais ça serait cohérent après tout)
+
+\item[Lycus Lupus :] Oh qu'il est mignon le petit loup. Et un fervent défenseur de la forêt et donc un allié de poids pour éviter que les cours féérique voient leurs territoire détruit par les humains et envahi par le Dominion. C'est aussi quelqu'un qu'elle connait intimement depuis bien longtemps, vu qu'ils ont fait leur apprentissage ensemble à Oléron, elle étant quelques années au dessus de lui. Elle s'est fait un plaisir de persuader Alexandre d'inviter Lycus, et de constater que le jeune apprenti qu'elle a régulièrement sauvé des nuisances des fées d'Oléron était devenu un mage fort amusant, même s'il ne ressemble pas à grand chose, et un loup fort effrayant, et infatigable\footnote{y compris au lit, ce qu'elle a observé il y a 8 ans, mais shh}. Elle et lui sont particulièrement complice lorsqu'il s'agit de faire des blagues, ou de se faire mutuellement des blagues
+
+\item[Caton Bonisagus :] Un mage ronchon, qui souffre de son don tapageur, et de ses sentiments blessés. Un mage brillant que Muirgen admire, et dont elle voudrait le bonheur. Contrairement à beaucoup d'homme avec lesquels elle a envie de flirter / s'amuser, ses sentiments pour Caton sont beaucoup plus profond, mais celui-ci semble s'être murée et pour l'instant n'a pas souhaité répondre à des invitations beaucoup plus délicate de Muirgen. C'est en tout cas un spécialiste des éléments avec qui il discute avec une aisance incroyable.
+\end{description}
+
+\magusname{} aura certainement eu des flirts ou aventures avec certaines membres de l'alliance. Jusqu'où cela est allée et avec lesquels est laissé libre à l'appréciation du PJ, mais Alexandre et Justinien étant assez pieux, ils n'auront probablement pas cédé à ses avances, pas plus que Caton (à son grand regret).
+
+
+% Insert Lore here
+
+\section*{Notes}
+
+Sorts Improvisé est très fort, le bonus n'étant pas divisé par 2 ou 5, ceci rend la magie spontanée non-fatiguante beaucoup plus utile.
+
+
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+
+\end{document}

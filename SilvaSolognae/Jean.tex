@@ -1,0 +1,231 @@
+\input{am5sheetheadercompanion.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Nom}
+%\birthname{N. de Naissance}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{0}{0}{}
+\perception{0}{0}{}
+\presence{0}{0}{}
+\communication{0}{0}{}
+\strength{0}{0}{}
+\stamina{0}{0}{}
+\dexterity{0}{0}{}
+\quickness{0}{0}{}
+
+\size{0}
+\age{25}{25}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{}{}{\notimportant
+Blah
+}\sep
+\VFQ{??}{??, statut social}{
+Blah
+}\sep
+%\end{color}
+\VFQ{Nom\entrad{Name}}{??, générale}{
+??
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Nom\entrad{Name}}{??}{??
+}\sep
+\VFQ{Nom\entrad{Name}}{??}{
+??
+}
+}
+
+\traits{
+\trait{??}{+??}\sep
+\trait{??}{+??}\sep
+\trait{??}{+??}
+}
+
+\reputations{}
+%\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}\sep
+%\reputation{??}{Type}{+??}
+
+
+%\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+%\closequarterweapon{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}
+%}
+\abilities{
+\ability{Nom\entrad{Name}}{Spé\entrad{spe}}{1}{5}\sep
+\ability{Nom\entrad{Name}}{Spe\entrad{spe}}{1}{5}
+}
+
+\equipment{
+A\sep
+B
+}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Description}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Région :] Entité Politique %Royaume de France
+\item[Année :] 1200
+\item[Famille :] Famille %de Beaugency
+\item[Résidence :] Lieu de Résidence %Château de Beaugency
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Masculin/Féminin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+%\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :]
+\item[Lieu de Naissance :] TBD
+\item[Religion :] TBD
+\item[Titre / Profession :] TBD
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] \hspace{0pt}
+\item[Yeux :] \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Lore}
+% Insert Lore here
+
+%\section*{Notes}
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

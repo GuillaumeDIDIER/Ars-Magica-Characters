@@ -1,0 +1,414 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Alexandre Jerbiton de Corfou}
+\birthname{Alexandros II de Corfou}
+
+\intelligence{+2}{+3}{}
+\perception{+2}{+3}{}
+\presence{+2}{+3}{}
+\communication{+3}{6}{}
+\strength{-3}{-6}{}
+\stamina{+2}{+3}{}
+\dexterity{+1}{+1}{}
+\quickness{-2}{-3}{}
+
+\size{0}
+\age{25}{25}
+
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+%\end{color}
+\VFQ{Créativité Foisonnante\entrad{Free Expression}}{maison, général}{
+Vous avez l'imagination et la créativité nécessaires pour composer une nouvelle balade ou pour peindre un tableau original. Vous avez le potentiel pour devenir un grand artiste. Vous obtenez un bonus de +3 sur tous les jets visant à créer une œuvre d'art inédite.}\sep
+\VFQ{Don de Velours\entrad{Gentle Gift}}{majeur, hermétique}{
+Contrairement aux autres mages, dont la nature hermétique perturbe les gens normaux et les animaux, votre Don est subtil et insensible. Vous ne subissez pas les malus habituels lorsque vous interagissez avec les gens et les animaux.
+}\sep
+\VFQ{Linguiste\entrad{Linguist}}{mineur, général}{\notimportant
+Le personnage est extrêmement doué pour l'apprentissage de nouvelles Langues. Tous ses totaux d'étude pour les Langues sont augmentés d'un quart, tout comme les points d'expérience investis dans les langues lors de la création du personnage. Cette Vertu augmente les Langues anciennes aussi bien que les Langues vivantes.
+\entrad{You are extremely proficient learning new languages. All Study Totals for any Language are increased by a quarter, as any experience points you put into any language at character generation. Both Living and Dead languages are augmented with this Virtue.}\emph{Source HoH:TL 25}
+}\sep
+\VFQ{Talent en Creo\entrad{Puissant Creo}}{mineur, hermétique}{\vspace{-2.5em}}\sep
+\VFQ{Talent en Imaginem\entrad{Puissant Imaginem}}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l’Art dans le calcul du total. Il ne s’applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c’est le cas, le bonus ne s’applique pas au complément.
+}\sep
+\VFQ{Caractéristiques Supérieures\entrad{Improved Caractéristics}}{mineur, général}{\notimportant
+Vous avez trois points supplémentaires à dépenser pour vos Caractéristiques, mais vous êtes toujours limité à un maximum de +3, à moins de prendre la vertu Excellente Caractéristique. Vous pouvez prendre cette vertu plusieurs fois.
+}\sep
+\VFQ{Musique Enchanteresse\entrad{Enchanting Music}}{mineur, surnaturel}{
+Lorsque vous vous concentrez sur votre tâche, vous pouvez transmettre magiquement des émotions et des croyances aux personnes qui écoutent votre musique. Choisir cette Vertu confère la Compétence Musique enchanteresse 1 (cf. infra).
+% Move this later in the doc ?
+
+%Lorsque le personnage se met en condition, il peut influencer les autres avec sa musique. Pour un effet spécifique, il doit chanter des paroles que les autres comprennent. Il peut apaiser le désespoir simple- ment avec des airs mais il lui faut des paroles pour convaincre les paysans de se soulever contre le seigneur local. Les effets généraux fonctionnent sur les animaux mais les effets spécifiques ne fonctionnent que sur les créatures comprenant les mots. Lorsqu'il utilise Musique enchanteresse, le personnage lance un dé (dé de tension ou dé simple, en fonction de la situation) et additionne Communication et Musique enchanteresse. Un Facteur de Difficulté de 9 ou plus apaisera les personnes bouleversées, un FD de 12 permettra de gagner l'amour d'une personne, un FD de 15 permettra d'inciter à la révolte et un FD de 24 permettra éventuellement de récupérer une âme des mains du Prince des ténèbres. Si le personnage fait un jet désastreux, il inspire une émotion non-recherchée.
+%
+%Si la Cible a une Résistance magique, le personnage doit passer cette résistance, cf. p. 269 pour les règles.
+%
+%Le personnage devrait également faire un jet pour déterminer la qualité de sa représentation musicale mais l'effet magique en est indépendant, à moins qu'il ne fasse un jet désastreux. Si son jet de Musique est désastreux, il ne parvient à produire aucune musique pour quelque raison que ce soit et sa Compétence surnaturelle échoue automatiquement. Spécialisations : une émotion particulière, un genre de personnes en particulier. (Surnaturelle)
+}\sep
+\VFQ{Parens Compétent\entrad{Skilled Parens}}{mineur, hermétique}{\notimportant
+Votre \emph{parens} étant plus puissant et un meilleur professeur que la moyenne. Vous obtenez 60 points d'expérience et 30 niveaux de sorts supplémentaires durant l'apprentissage. Cette Vertu n'a aucun effet sur vos études après l'apprentissage, mais vous conservez de bonnes relations avec un mage puissant.
+}\sep
+\VFQ{Magie de Représentation\entrad{Performance Magic}}{mineur, hermétique}{Le personnage peut déguiser son usage de la magie en jouant de la musique. Il doit réellement jouer de la musique pour pouvoir déguiser ainsi sa magie. Jouer d'un instrument permet de remplacer les geste et les paroles, la porté Voix est étendue jusque là ou porte le son de l'instrument. Chanter seulement permet de remplacer les paroles mais pas les gestes. Un mage hermétique ne détermine pas automatiquement la forme d'un tel usage de la magie (cf. les sources pour le jet).
+
+Donne accès à la durée \emph{Performance} équivalente à Diam. et Conc. Il faut réussir un jet de Com + Musique + dé à 3 pour l'utiliser, mais le sort est alors maintenu jusqu'à ce que le mage cesse de jouer. Un échec ou un désastre de ce jet provoque celui du sort. \emph{Source HoH:S 58 / TMRE 29}
+}
+}
+
+\flaws{
+\VFQ{Liens Familiaux Étroits\entrad{Close Family Ties}}{mineur, histoire}{Votre famille est la chose la plus importante dans votre vie. Ses membres vous soutiennent et vous aident quand c'est possible, même s'ils doivent prendre des risques pour cela. Ils n'hésitent pas à vous accorder des faveurs en leur pouvoir, et peuvent faire appel à leurs amis et voisins pour vous aider. Mais l'inverse est également vrai. Un jour, votre famille peut avoir besoin de vous.
+}\sep
+\VFQ{Perdo Déficient\entrad{Deficient Perdo}}{majeur, hermétique}{
+Tous les totaux, dont les Totaux de laboratoire et de lancement, impliquant une Technique spécifique sont divisés par deux. Les Totaux de progression ne sont pas divisés par deux. Les points d'expérience nécessaires sont basés sur la valeur réelle de la Technique, plutôt que sur la moitié.}\sep
+\VFQ{Compassion\entrad{Compassion}}{majeur, personnalité}{
+Vous aidez toujours les personnes blessées et les gens ayant des problèmes. Vous ne supportez pas la souffrance chez les autres, quoique vous vous démeniez vous-même jusqu'à l'épuisement.
+}\sep
+\VFQ{Rituel de Longévité Difficile\entrad{Difficult Longevity Ritual}}{majeur, hermétique}{\notimportant
+Quelque chose dans votre nature rend difficile la conception d'un Rituel de longévité efficace sur vous. Toute personne, vous y compris, créant un Rituel de longévité pour vous doit diviser par deux son Total de laboratoire. Vous pouvez sans problème créer des Rituels de longévité pour d'autres.
+}
+}
+
+\traits{
+\trait{Compassion}{+3}\sep
+\trait{Pieux}{+1}\sep
+\trait{Esthète}{+2}
+}
+
+\reputations{
+\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}
+}
+
+\abilities{
+\ability{Artes Liberales\entrad{Artes Liberales}}{musique\entrad{music}}{2}{15}\sep
+\ability{Artisan Architecte\entrad{Craft. Architecture}}{belle constructions\entrad{beautiful building}}{4}{40}\sep
+\ability{Charme\entrad{Charm}}{public\entrad{audience}}{2}{15}\sep
+\ability{Concentration\entrad{Concentration}}{sorts\entrad{spells}}{1}{5}\sep
+\ability{Connaissance des Gens\entrad{Folk Ken}}{public\entrad{audience}}{2}{15}\sep
+\ability{\lore{} de l'Ordre d'Hermès\entrad{Order of Hermes Org. Lore}}{Jerbiton\entrad{Jerbiton}}{1}{5}\sep
+\ability{\lore{} régionale France\entrad{Area Lore France}}{Trouvères\entrad{trouvères}}{1}{5}\sep
+\ability{\lore{} régionale Grèce\entrad{Area Lore Greece}}{Arts\entrad{Arts}}{1}{5}\sep
+\ability{Équitation\entrad{Ride}}{confort\entrad{comfort}}{1}{5}\sep
+\ability{Étiquette\entrad{Etiquette}}{Noblesse\entrad{nobility}}{2}{15}\sep
+\ability{Finesse\entrad{Finesse}}{belles choses\entrad{beautiful things}}{3}{30}\sep
+\ability{Français\entrad{French}}{poésie\entrad{poetic}}{4}{40}\sep
+\ability{Grec Classique\entrad{Classical Greek}}{hermétique\entrad{hermetic}}{4}{40}\sep
+\ability{Grec Médiéval\entrad{Romaic Greek}}{Épire\entrad{Epirus}}{5}{60}\sep
+\ability{Latin\entrad{Latin}}{hermétique\entrad{hermetic}}{4}{40}\sep
+\ability{Marchandage\entrad{Bargain}}{gîte et couvert\entrad{roof and meal}}{1}{5}\sep
+\ability{Musique\entrad{Music}}{Luth et chant\entrad{lute and song}}{3}{30}\sep
+\ability{Musique Enchanteresse\entrad{Enchanting Music}\abilitynote{
+Lorsque le personnage se met en condition, il peut influencer les autres avec sa musique. Pour un effet spécifique, il doit chanter des paroles que les autres comprennent. Il peut apaiser le désespoir simple- ment avec des airs mais il lui faut des paroles pour convaincre les paysans de se soulever contre le seigneur local. Les effets généraux fonctionnent sur les animaux mais les effets spécifiques ne fonctionnent que sur les créatures comprenant les mots. Lorsqu'il utilise Musique enchanteresse, le personnage lance un dé (dé de tension ou dé simple, en fonction de la situation) et additionne Communication et Musique enchanteresse. Un Facteur de Difficulté de 9 ou plus apaisera les personnes bouleversées, un FD de 12 permettra de gagner l'amour d'une personne, un FD de 15 permettra d'inciter à la révolte et un FD de 24 permettra éventuellement de récupérer une âme des mains du Prince des ténèbres. Si le personnage fait un jet désastreux, il inspire une émotion non-recherchée.
+
+Si la Cible a une Résistance magique, le personnage doit passer cette résistance, cf. p. 269 pour les règles.
+
+Le personnage devrait également faire un jet pour déterminer la qualité de sa représentation musicale mais l'effet magique en est indépendant, à moins qu'il ne fasse un jet désastreux. Si son jet de Musique est désastreux, il ne parvient à produire aucune musique pour quelque raison que ce soit et sa Compétence surnaturelle échoue automatiquement. Spécialisations : une émotion particulière, un genre de personnes en particulier. (Compétence Surnaturelle)}}{luth et chant\entrad{lute and song}}{2}{15}\sep
+\ability{Nager\entrad{Swim}}{mer\entrad{sea}}{1}{5}\sep
+\ability{Parma Magica\entrad{Parma Magica}}{Corpus\entrad{Corpus}}{1}{5}\sep
+\ability{Prof. Trouvère\entrad{Prof: Trouvère}}{Noble public\entrad{Noble audience}}{3}{30}\sep
+\ability{Théorie Magique\entrad{Magic Theory}}{sorts\entrad{spells}}{3}{30}\sep
+\ability{Tromperie\entrad{Guile}}{fausse identité\entrad{false identity}}{1}{5}
+}
+
+\artCr{8+3}{36}{}
+\artIn{2}{3}{}
+\artMu{5}{15}{}
+\artPe{0}{0}{\footnote{Déficient}}
+\artRe{5}{15}{}
+      
+\artAn{3}{6}{}
+\artAq{2}{3}{}
+\artAu{0}{0}{}
+\artCo{0}{0}{}
+\artHe{3}{6}{}
+\artIg{0}{0}{}
+\artIm{8+3}{36}{}
+\artMe{2}{3}{}
+\artTe{5}{15}{}
+\artVi{0}{0}{}
+
+\sigil{Odeur d'une oliveraie méditerranéenne}
+
+\equipment{
+Luth\sep
+Parchemins et plume\sep
+Costume de Trouvère raffiné\sep
+Robe et chapeau conique de mage raffiné (bleu à motif en étoile)\sep
+Costume de Noble Grec
+}
+
+\spells{
+\spell{Cercle de l'Architecte}{CrIm}{30}{\RDT{Per}{Mom}{Ind}}{24}{}{Crée une illusion complexe qui affecte la vue dans un cercle. Celle-ci peut être altérée en ne concentrant, par exemple une cathédrale}{Base 1, +1 Touch, +2 Anneau/Cercle, +3 complexité, +1 Eclairage, +2 changement possible}
+\spell{Histoire Contée}{CrIm}{20}{\RDT{Voix}{Perf}{Ind}}{24}{}{Crée les images et les sons d'une histoire chanté ou racontée par le barde. Les illusions suivent en suivant l'histoire. Ce sort crée une petite scène en 3D, et utilise la magie de spectacle (Performance Magic)}{Base 2, +2 voix, +1 Perf, +2 images changeantes, +1 complexité}
+\spell{Histoire de Légende}{CrIm}{35}{\RDT{Voix}{Perf}{Groupe}}{24}{}{Comme Histoire Contée, mais jusqu'à 100 personnes, etc...}{Base 2, +2 voix, +1 perf, +2 groupe, +1 taille, +2 changing image, +1 intricacy}
+\spell{Saveur des Herbes et des Épices}{MuIm}{5}{\RDT{Touch.}{Sol.}{Ind}}{18}{}{Un plat ou une boisson prend le goût que vous  desirez}{Base 2, +1 Touch., +2 Soleil}
+\spell{Déguisement du Barde}{MuIm}{5}{\RDT{Pers}{Sol.}{Ind}}{18}{}{Déguise l'apparence d'Alexandre}{Base 3, +2 Soleil}
+\spell{Aura de Présence Enjôlante}{MuIm}{10}{\RDT{Touch.}{Sol.}{Ind}}{18}{}{+3 au jet pour gagner la confiance ou des amis. (En débat, +3 en défense sur la base de charme)}{Base 3, +1 Touch, +2 Soleil}
+\spell{Pas de Coté}{ReIm}{10}{\RDT{Per}{Sol.}{Ind}}{18}{}{Votre image apparaît jusqu'à un mètre de vous, les attaques vous ciblant ayant donc toutes les chances de vous rater. Si l'image est touchée avec succès, elle disparaît pour apparaître ailleurs.
+En combat, les premières attaques ciblent l'image et vous ratent donc automatiquement. Dès que l'image a été touchée, vous obtenez un +9 en Défense, vos attaquants devant essayer de vous trouver dans une zone plutôt vaste. %\emph{Source AM5eFr p222}
+}{Base 2, +2 Soleil, +1 Image changeante, +1 Image déplacée en accord avec les modifications}
+\spell{Illusion du Jardin de Corfou}{CrIm}{30}{\RDT{Voix}{Anneau}{Groupe}}{24}{}{Dans l'Anneau, crée l'llusion d'un jardin méditerranéen avec ses sons et ses odeurs}{Base 3, +2 Voix, +2 Groupe, +2 Anneau, +1 Complexité} % FIXME en Touch, ajouter plus de détails.
+%\spell{Maniement de la Fronde Invisible}{ReTe}{10}{\RDT{Voix}{Mom}{Ind}}{12}{}{Lancez violemment tout objet proche sur n’importe quelle Cible à portée. L’objet doit pouvoir être lancé normalement par quelqu’un pour que le sort marche. Il ne doit pas être retenu d’une quelconque manière. Les Dégâts dépendent de l’objet envoyé, jusqu’à +5 pour une pierre de la taille d’un poing. Des compléments au lancer de la Forme appropriée sont nécessaires.%\emph{Source AM5eFr p233}
+\spell{Fronde de Vilano}{ReTe}{10}{\RDT{Toucher}{Mom}{Ind}}{12}{}{
+Ce sort projette une pierre (d'une taille qui permettrait de la lancer avec un fronde vulgaire) sur une cible à portée. Contrairement à la version normale de Maniement de la Fronde invisible, ce sort envoie la pierre comme un projectile. Il faut réussir un jet de visée pour toucher la cible voulue. En cas de réussite, la Résistance magique n'offre alors aucune protection. La pierre inflige +5 dégâts à l'impact et a un facteur de portée de 20 pas.
+}{Base 5, +1 Toucher}
+}
+
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries Alexandre Jerbiton de Corfou\par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Alexandre est un artiste, un mage intéressé par la beauté dans le monde et qui a à cœur d'embellir le monde. Issue d'une noble famille byzantine, possédant l'ile de Corfou, à l'ouest de la grèce sur la mer Adriatique, il a parcouru le monde avant d'être à l'origine de l'alliance de Silva Solognæ. C'est un musicien talentueux, et il se produit régulièrement en se présentant comme Trouvère, sous le nom de Gregoris le barde Grec. Il possède une curiosité pour l'architecture et en particulier celle des cathédrale du style Français, dont deux magnifique exemple commencent à s'élever à Bourges et à Chartres. Sa magie est particulièrement portée sur les illusions, au service de ses divers passions artistiques.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} Alexandre Jerbiton de Corfou}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Jerbiton
+\item[Alliance :] Silva Solognæ
+\item[Âge :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Masculin
+\item[Taille :] +0
+\item[Confiance :] 1(3)
+\columnbreak
+\item[Nom de Naissance :] Alexandros II de Corfou
+\item[Ethnie /  Nationalité :] Grec Byzantin
+\item[Lieu de Naissance :] Corfou
+\item[Religion :] Chrétien Orthodoxe
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] \hspace{0pt}
+\item[Yeux :] \hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+
+\end{multicols*}
+\pagebreak
+
+
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Jerbiton
+\item[Domus Magna :] Valnastium (Grandes Alpes)
+\item[Primus :] Andru Jerbiton filu Astrolabe
+\item[Parens :] Harmonia Jerbiton
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :]
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{3}{}
+\effectrecognitionroll{0}{}
+\targetroll{3}{}
+\concentrationroll{1}{\footnote{bonus de +1 pour jeter des sorts}}
+\mrroll{1}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & -2 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & -5 \\ \hline
+\end{tabularx}
+\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+
+\begin{multicols}{2}
+
+\end{multicols}
+
+\pagebreak
+
+\section*{Lore}
+Né en 1175 sur l'île de Corfou, à l'ouest de la grèce sur l'Adriatique, fils ainé du Strategos\footnote{équivalent dans le système byzantin des Seigneurs et Comtes occidentaux} de Corfou, il commence son apprentissage auprès Harmonia Jerbiton en 1180. DE 1185 à 1191 son île natale est envahie par les Normands avant d'être reconquise par le Basileus. En tant que mage il ne peut pas hériter de terres, mais ses enfants éventuels seraient dans la ligne de succession.
+
+Comme la plupart des mages originaires du Tribunal de Thèbes il est capable de lancer ses sorts en incantant en Grec Classique en plus du Latin.
+
+Comme tous les Jerbitons, il consacre sa vie à la beauté et à rendre le monde plus beau. Il met ses talents au service de la société afin de permettre plus de beauté dans le monde. C'est un musicien accompli qui voyage régulièrement sous l'identité d'un trouvère. Sa musique enchanteresse et sa magie de performance sont particulièrement discrète à employer dans ces circonstances.
+
+Il est aussi intéressé par l'architecture, et suit de très près les chantiers des Cathédrales de Bourges et Chartres, qui ont commencé peut après la fin de son apprentissage. À cette fin, il est l'instigateur de la fondation de l'alliance de Silva Solognæ, qui se situe à mi chemin entre ces deux villes.
+
+Il se produit souvent dans les châteaux de nobles familles et très régulièrement à Beaugency. Il planche aussi sur la musique religieuse et il discute ou plutôt débat régulièrement avec André, le curé du village, sur la musique sacré et sur les divergence entre entre les orthodoxe de sa Grèce natale et les latins.
+Alexandre a composé un ordinaire de messe qu'André utilise régulièrement (même si Alexandre a été déçu par le résultat des consignes stricts du curé, qui ont selon lui résulté en une composition un peu fade, André apprécie beaucoup celui-ci)
+
+Alexandre est un habitué du château de Beaugency, et est particulièrement apprécié par Jean et ses 3 enfants (sa femme est morte il y a bientôt dix ans) :
+\begin{description}
+\item[Jean :] Agé de 50 ans c'est homme âgé, expérimenté.
+Aime les épopées de campagnes, en particulier la chanson de Roland.
+Assez vif intellectuellement mais sa vue commence à baisser.
+C'est un homme juste et droit, et apprécié de sa maison. Sa jambe est devenue boiteuse suite à sa dernière campagne, lors de laquelle il s'est pris une flèche des perfides anglais.
+\item[Geoffroy :] 25 ans, le fils ainé du Baron et un chevalier. Il réclame moults épopées épiques et a apprécie de découvrir les légendes de certains héros grecs ou byzantins. (Héro Préféré, Achille ?). Il se marie dans un semaine à Blanche et Alexandre est censé jouer à son mariage.
+\item[Isabelle :] La cadette du seigneur Jean, une ravissante brunette de 21 ans, est fort sociable, polie et adore les romances en attendant le retour de son fiancé Enguerrand qui sert dans l'ost du roy Philippe\footnote{plus tard connu sous le nom de Philippe II Auguste}, qui guerroie contre les Anglois. Cette parfaite jeune fille noble hésite entre Pénelope et Hélène de Troie pour son personnage préféré.
+\item[Aliénor :] Vive, discrète et au caractère bien trempé la petite dernière du Baron, du haut de ses vingt ans est d'un autre genre que sa sœur, et ne se plait pas beaucoup dans le carcan de la noblesse de l'époque. Aussi curieuse si ce n'est plus qu'elle est jolie, la blonde Aliénor presse Alexandre de questions sur le vaste monde dés qu'elle en a l'occasion. Elle a aussi un vrai intérêt pour les arts, dans toute leur diversité. Son héros préféré est le héros aux mille ruses, Ulysse. Au fond de son cœur, Alexandre n'est pas indifférent à cette jeune fille au caractère bien trempé. Toutefois il n'est pas sûr que le Baron verrait de tel sentiment d'un bon œil en encore moins probable qu'il accepterait d'avoir pour gendre quelqu'un qui ne lui semble pas noble et respectable, et Alexandre ne s'est pas ouvert à Aliénor quand à ses sentiments.
+\end{description}
+
+Opinion de Alexandre sur les mages de l'alliance de Silva Solognæ, dont certain sont en ce moment absents.
+\begin{description}
+\item[Justinien Guernicus :] Un quaesitor, juste, humble, simple et pieux. Ça se voit que ce petit homme à été élevé dans un monastère avant de rejoindre l'ordre. C'est un investigateur efficace pour enquêter sur les traces de magique et son point de vue sur l'utilisation par les mages de leurs talents données par Dieu est plutôt compatible avec la Philosophie d'Alexandre quand à l'usage de la magie pour rendre en monde de beau. Heureusement que ce n'est pas un Quaesitor tatillon sur les interaction avec les mondains. Tant que les activités des mages ne provoquent pas de protestation ou de plainte tout va bien.
+\item[Caton Bonisagus :] Un mage Brillant, un digne successeur de Bonisagus. Il est vrai que son Don Tapageur l'a fait beaucoup souffrir, et injustement, mais heureusement parmi les mages il est a son aise. Toutefois il faut éviter de le mécontenter, son courroux est assez terrible.
+\item[Ignace Flambeau :] \og Le feu, le Feu, le Feu !!!! Les Hérétiques, le Feu ! \fg{} voilà les seuls mots que Ignace a à la bouche, et en plus ce fanatique de service serait tout à fait capable de qualifier d'hérétique les chrétiens d'Orient en désaccord avec le Pape. Heureusement que Justinien dont il/elle est l'hoplite modère en général ses ardeurs et à un point de vu beaucoup plus sain sur la religion chrétienne. Alexandre garde généralement ses distances et évite si possible de croiser son chemin lorsqu'il est en colère.
+\item[Aeldira Tremere :] C'est une médecin compétente, et elle fréquente occasionellement le château, en soignant ses nobles habitants comme elle soigne une bonne partie de la Noblesse de la région. Elle reste toutefois une Tremere, maison basée en Transylvannie et qui a par le passé tenté d'envahir le tribunal de Thèbes. En plus, de façon générale les médecins Tremere ont une réputation de tremper un peu dans la nécromancie, même Alexandre n'a encore jamais vu Aeldira en faire. Il est clair qu'elle prend très au sérieux son serment d'Hippocrate et que l'on peut toujours compter sur elle pour soigner du mieux qu'elle peut, à condition qu'elle soit dans les parages.
+\item[Lycus Lupus :] Il est fier d'être un beau et infatigable loup celui-là. Une vraie source d'inspiration pour conter des histoires qui font peur. Sa tendance parfois pénible à faire peur au gens, juste parce que ça l'amuse est une excellente source d'idée. Heureusement pour lui qu'il n'est pas sanguinaire comme la majorité de ses congénaires, et en particulier la meute locale. D'ailleurs il semblerait que le village de Beaugency aie beaucoup moins de bêtes mangées que d'autres, est-ce son œuvre ? D'ailleurs lui aussi il semble ne pas être un grand fan des êtres féériques, ce qui pourrait expliquer son départ d'Oléron, une alliance assez lié aux fées.
+\item[Muirgenn Merinita :] Il est fort regrettable qu'elle ne saisissent pas le mensonge que représente la beauté extérieur des fée, cachant un intérieur hideux. Les fées vivent aux crochets de l'humanité. Heureusement Muirgenn est elle une humaine aussi magnifique qu'elle est malicieuse et douée pour mener les gens par le bout du nez. Il est judicieux de bien garder son cœur à coté d'elle lorsqu'elle n'est pas à Brocéliande ou dans une autre cour féérique. Heureusement que celle-ci agi pour pacifier les relations entre les humains et les fées en général, et donc limiter les nuisances de certaines fées.
+%\item[Mercere]
+%\item[Tytalus]
+%\item[Ex. Misc. ?]
+\end{description}
+
+Quelques opinions supplémentaires :
+\begin{itemize}
+\item N'aime pas les Vénitiens, hostile à son île natale.
+\item Au delà des querelles entre le Pape et les Patriarches orientaux, latins et orthodoxes sont tous chrétiens et il espère que ces différents pourront être aplanis dans le futur.
+\end{itemize}
+
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}

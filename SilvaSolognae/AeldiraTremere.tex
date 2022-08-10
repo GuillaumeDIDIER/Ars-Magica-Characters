@@ -1,0 +1,439 @@
+\input{am5sheetheadermagus.tex}
+
+% The real character stuff begins here
+%------------------------------------------
+
+\name{Aeldira Charus Tremere}
+\birthname{Inconnu}
+
+% Score, points, description (pour les excellente caracs)
+\intelligence{+2}{+3}{}
+\perception{+1}{+1}{}
+\presence{+3}{+6}{}
+\communication{0}{0}{}
+\strength{-3}{-6}{}
+\stamina{+3}{+6}{}
+\dexterity{+2}{+3}{}
+\quickness{-3}{-6}{}
+
+\size{0}
+\age{25}{25}
+
+% Vertues suite \VFQ{Nom}{Type}{Description} séparées par \sep
+\virtues{
+\VFQ{Le Don\entrad{The Gift}}{gratuit, spéciale}{\notimportant
+Vous pouvez pratiquer la magie.
+}\sep
+\VFQ{Mage Hermétique}{gratuit, statut social}{\notimportant
+Vous êtes membre de l’Ordre d’Hermès. Tous les mages doivent prendre ce statut social, et eux seuls le peuvent.
+}\sep
+\VFQ{Don de Velours\entrad{Gentle Gift}}{majeur, hermétique}{
+Contrairement aux autres mages, dont la nature hermétique perturbe les gens normaux et les animaux, votre Don est subtil et insensible. Vous ne subissez pas les malus habituels lorsque vous interagissez avec les gens et les animaux.
+}\sep
+\VFQ{Expertise Magique Mineure (Certamen)\entrad{Minor Magical Focus (Certamen)}}{maison, hermétique}{
+Votre magie s'accorde plus particulièrement à un domaine étroit, tel que la transformation personnelle, les oiseaux de proie ou les soins. En général, ce domaine devrait être plus réduit qu'une combinaison d'une Technique et d'une Forme, mais il peut inclure des sections limitées de plusieurs combinaisons. Par exemple, la guérison fait partie de Creo Corpus et Creo Animal, voire Creo Herbam. Vous ne pouvez pas être un expert d'une activité de laboratoire, comme la création d'objets à charges, bien qu'une expertise puisse s'appliquer dans le cadre des activités de laboratoire.
+
+Lorsque vous lancez un sort dans votre domaine, ajoutez la plus petite des valeurs d'Art deux fois. Si le sort a des compléments, la valeur la plus basse peut être l'un des compléments, plutôt que l'un des Arts principaux. Ainsi, si un mage expert des oiseaux lance un sort pour transformer un oiseau en flammes pures, donc MuAn(Ig), avec Muto 14, An 18 et Ig 10, son total serait
+de 34 + les autres modificateurs (14 de Muto et 20 d’Ignem deux fois). S'il lançait un sort pour
+transformer un oiseau en une autre espèce d'oiseau, donc MuAn sans complément, son
+total serait de 46 + les autres modificateurs (18 d’Animal et 28
+de Muto deux fois).
+}\sep
+\VFQ{Parens Compétent\entrad{Skilled Parens}}{mineur, hermétique}{\notimportant
+Votre \emph{parens} étant plus puissant et un meilleur professeur que la moyenne. Vous obtenez 60 points d'expérience et 30 niveaux de sorts supplémentaires durant l'apprentissage. Cette Vertu n'a aucun effet sur vos études après l'apprentissage, mais vous conservez de bonnes relations avec un mage puissant.
+}\sep
+\VFQ{Talent en Corpus\entrad{Puissant Corpus}}{mineur, hermétique}{\vspace{-2.5em}}\sep
+\VFQ{Talent en Mentem\entrad{Puissant Mentem}}{mineur, hermétique}{
+Vous ajoutez 3 à la valeur de l'Art pour toutes ses utilisations. Cela signifie tous les totaux comprenant la valeur de l’Art dans le calcul du total. Il ne s’applique pas aux Totaux de progression. Vous pouvez prendre cette Vertu deux fois, pour deux Arts différents. Si un sort a des compléments, incluez le bonus de Talent en Art pour savoir si cet Art est le plus élevé. Si c’est le cas, le bonus ne s’applique pas au complément.
+}\sep
+\VFQ{Talent pour la Médecine}{mineur, général}{\vspace{-2.5em}}\sep
+\VFQ{Talent pour la Chirurgie}{mineur, général}{
+Vous êtes particulièrement doué pour une Compétence, et ajoutez 2 à sa valeur dès que vous l'utilisez. Ce qui n'est pas le cas lorsque vous l'apprenez, l'enseignez ou écrivez à son propos. Vous pouvez prendre cette Vertu plusieurs fois, mais une seule fois par Compétence.
+}\sep
+\VFQ{Renforcement vital}{mineur, hermétique}{
+Vous pouvez augmenter le Total de lancement de vos sorts formels en dépensant des niveaux de Fatigue supplémentaires. Chaque niveau de Fatigue vous confère un bonus de +5 sur le jet, ce qui peut donner des totaux de Pénétration impressionnants. Vous pouvez dépenser plus de niveaux de Fatigue que vous n'en possédez. Dans ce cas, vous devez encaisser des Dégâts, sans l'aide d'une armure. Le total de Dégâts est de 5 par niveau de Fatigue supplémentaire dépensé, plus un dé de tension. Ainsi, si vous dépensez trois niveaux de Fatigue supplémentaires, vous devez encaisser des Dégâts de 15 + dé de tension avec votre Encaissement (sans l’armure) + dé de tension. Les niveaux de Fatigue dépensés ainsi sont perdus que le jet de lancement réussisse ou échoue. De même, les blessures subies ne dépendent pas de la réussite ou de l'échec du sort. Vous pouvez vous tuer de cette façon. Le nombre total de niveaux de Fatigue utilisé doit être fixé avant d'effectuer le jet de lancement.
+}\sep
+%\VFQ{Lancement méthodique}{mineur, hermétique}{
+%Vous êtes doué pour les sorts formels, ayant développé une méthode sûre et précise pour les lancer. Vous
+%obtenez un bonus de +3 sur les sorts formels que vous lancez. Toutefois, si vous changez quoi que ce soit à votre méthode, en altérant vos gestes ou votre voix, vous n'obtenez pas ce bonus.
+%}\sep
+\VFQ{Doigté}{mineur, général}{
+Vous avez une coordination main-œil exceptionnelle, et vous êtes doué pour les gestes précis et rapides. Vous obtenez un bonus de +1 sur tous les
+jets impliquant la manipulation subtile d’objets (comme le pickpocket ou la chirurgie) et lancez un dé de désastre de moins que ce que vous devriez lors de ses activités, avec un minimum de 1. Ce bonus ne s'applique pas à l'archerie, mais il compte pour les instruments de musique.
+}
+}
+
+% Idem
+\flaws{
+\VFQ{Liens Familiaux Étroits (Maison Tremere)}{mineur, histoire}{\notimportant
+Votre famille est la chose la plus importante dans votre vie. Ses membres vous soutiennent et vous aident quand c'est possible, même s'ils doivent prendre des risques pour cela. Ils n'hésitent pas à vous accorder des faveurs en leur pouvoir, et peuvent faire appel à leurs amis et voisins pour vous aider. Mais l'inverse est également vrai. Un jour, votre famille peut avoir besoin de vous.
+}\sep
+\VFQ{Perdo Déficient\entrad{Deficient Perdo}}{majeur, hermétique}{
+Tous les totaux, dont les Totaux de laboratoire et de lancement, impliquant une Technique spécifique sont divisés par deux. Les Totaux de progression ne sont pas divisés par deux. Les points d'expérience nécessaires sont basés sur la valeur réelle de la Technique, plutôt que sur la moitié.}\sep
+\VFQ{Visions}{mineur, surnaturel}{
+Vous voyez fréquemment des images liées à des évènements chargés d'émotions ou de magie. Venant du passé, d'un futur potentiel ou d'un lieu lointain, les visions sont souvent symboliques ou confuses. Vous avez ces visions
+dans des moments de détente ou dans des lieux liés à un puissant évènement émotionnel ou magique, comme le site d'un parricide ou d'un sacrifice diabolique. Vos visions peuvent vous prévenir de dangers à venir, ou vous impliquer dans des affaires que vous auriez préféré éviter.
+
+Les visions se déclenchent à la discrétion du conteur, et ne révèlent que ce qu'il souhaite révéler.
+}\sep
+\VFQ{Rituel de Longévité Difficile\entrad{Difficult Longevity Ritual}}{majeur, hermétique}{\notimportant
+Quelque chose dans votre nature rend difficile la conception d'un Rituel de longévité efficace sur vous. Toute personne, vous y compris, créant un Rituel de longévité pour vous doit diviser par deux son Total de laboratoire. Vous pouvez sans problème créer des Rituels de longévité pour d'autres.
+}\sep
+\VFQ{Créativité asséchée}{mineur, hermétique}{\notimportant
+Vous avez des difficultés à inventer de nouvelles choses dans un laboratoire. Vous recevez un malus de -3 sur les Totaux de laboratoire lorsque vous inventez de nouveaux sorts, que vous fabriquez des objets magiques ou préparez des potions, à moins que vous ne travailliez depuis un texte de laboratoire. Si vous expérimentez, lancez deux fois plus de dés sur la table d'expérimentation.
+}\sep
+\VFQ{Vœu (Serment d'Hippocrate))}{mineur, personnalité}{
+Vous avez juré de tenir un objectif difficile, et vous prenez ce vœu au sérieux. Par exemple, vous pourriez avoir juré de ne jamais lever une arme, de ne jamais parler ou de vivre dans la pauvreté. Si vous violez votre vœu, vous devez expier, que ce soit par une pénitence religieuse ou en acceptant votre échec d'une façon ou d'une autre. De plus, votre valeur de Confiance baisse d'un point jusqu'à ce que vous ayez expié. Selon votre vœu, certaines personnes peuvent respecter votre résolution, vous donnant une bonne Réputation de niveau 1 parmi eux.
+}
+}
+
+\traits{
+\trait{Courageuse}{+1}\sep
+\trait{Loyale}{+3}\sep
+\trait{Compassion}{+2}
+}
+
+\reputations{
+%\reputation{Trouvère qui habite chez les érudits}{Locale}{+1}\sep
+\reputation{Médecin}{Locale}{+1}
+}
+
+%\weapons{
+%\newcommand{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}{Range}
+%\closequarterweapon{Name}{Competence}{Init}{Atk}{Def}{Dam}{Load}
+%}
+\abilities{
+\ability{Artes Liberales}{rituels}{1}{5}\sep
+\ability{Athlétisme}{courir}{1}{5}\sep
+\ability{Attention}{vigilance}{1}{5}\sep
+\ability{Bagarre}{esquive}{1}{5}\sep
+\ability{Charme}{obtenir des infos}{1}{5}\sep
+\ability{Chirurgie}{diagnostique}{3+2}{30}\sep
+\ability{Commandement}{convaincre}{1}{5}\sep
+\ability{Concentration}{sorts}{2}{15}\sep
+\ability{Connaissance des Gens}{Nobles}{1}{5}\sep
+%\ability{\lore de l'Ordre d'H.}{Spé\entrad{spe}}{1}{5}\sep
+\ability{\lore Tremere}{exarch. Stonehenge}{2}{15}\sep
+\ability{Droit Hermétique}{punitions}{1}{5}\sep
+\ability{Équitation}{longue distance}{1}{5}\sep
+\ability{Étiquette}{Nobles}{1}{5}\sep
+\ability{Finesse}{précision}{2}{15}\sep
+\ability{Français}{médical}{5}{75}\sep
+\ability{Intrigue}{découvrir}{1}{5}\sep
+\ability{Latin}{hermétique}{4}{50}\sep
+\ability{Marchandage}{livres}{1}{5}\sep
+\ability{Médecine}{praticien}{3+2}{30}\sep
+\ability{Nager}{eau turbulente}{1}{5}\sep
+%\ability{Parma Magica}{Imaginem}{3}{30}\sep
+\ability{Parma Magica}{Imaginem}{2}{15}\sep
+\ability{Pénétration}{Muto}{1}{5}\sep
+\ability{Philosophie}{Physique d'Aristote}{1}{5}\sep
+\ability{Survie}{forêt}{1}{5}\sep
+\ability{Théorie Magique}{inventions}{3}{30}\sep
+\ability{Tromperie}{Nobles}{1}{5}
+}
+
+\artCr{7}{28}{}
+\artIn{7}{28}{}
+\artMu{6}{21}{}
+\artPe{0}{0}{\footnote{Déficient}}
+%\artRe{1}{1}{}
+\artRe{6}{21}{}
+
+\artAn{0}{0}{}
+\artAq{0}{0}{}
+\artAu{0}{0}{}
+\artCo{8+3}{36}{}
+\artHe{0}{0}{}
+\artIg{0}{0}{}
+\artIm{0}{0}{}
+\artMe{8+3}{36}{}
+\artTe{0}{0}{}
+\artVi{0}{0}{}
+
+\sigil{Pouvoir relaxant pour les humains et animaux}
+
+\equipment{
+Robe de mage Tremere de couleur Sombre\sep
+Équipement de chirurgie et de médecine\sep
+Plume et parchemin\sep
+Carte de la région
+}
+
+\spells{
+\spell{Question Silencieuse}{InMe}{20}{\RDT{Regard}{Mom}{Ind}}{21}{}{
+Vous pouvez poser une question à la Cible, mentalement, puis détecter la réponse. La véracité de la réponse est limitée aux connaissances de la Cible. Des questions comme \og Que feriez- vous si... ? \fg{} ne reçoivent généralement que des réponses vagues. Vous percevrez ce que la Cible imagine faire dans ce cas, pas ce qu'elle ferait réellement. La Cible ne remarque pas qu'on lui a posé une question, sauf si elle résiste magiquement.
+}{Base 15, +1 Regard}
+\spell{Incursion dans l’esprit humain}{InMe}{30}{\RDT{Regard}{Mom}{Ind}}{21}{}{
+Vous pouvez sonder en profondeur et comprendre le contenu de l'esprit d'une Cible, y compris ses motivations à court et long terme, ses forces et faiblesses et autres informations pertinentes.
+}{Base 25, +1 Regard}
+\spell{Purification des Plaies Envenimées}{CrCo}{25}{\RDT{Touch.}{Lune}{Ind}}{21}{}{
+La Cible obtient un bonus de +12 aux jets de Récupération pour guérir de blessures ou de maladies, à condition qu'il soit sous l'influence du sort le temps du rétablissement. Le temps de rétablissement se calcule à partir du lancer du sort, on ne considère pas le temps qui s'est écoulé avant.
+}{Base 4, +1 Toucher, +3 Lune}
+\spell{Quête Inexorable}{InCo}{20}{\RDT{Arc}{Conc}{Ind}}{21}{}{
+Localise une personne spécifique. Pour lancer le sort, vous devez avoir une carte et un Lien mystique (ou connection Arcanique). Après avoir lancé le sort, vous pouvez bouger votre doigt sur la carte à raison d'un mètre carré par heure. Lorsque votre doigt passe au-dessus de la localisation de votre Cible, vous sentez sa présence. Si la personne n'est pas dans la zone couverte par la carte, rien ne se passe. La précision est équivalente à la largeur d'un doigt sur la carte. Un sort similaire vous permet de localiser un cadavre. (Suivre la piste fétide du mort.)
+}{Base 4, +4 Lien mystique, +1 Conc}
+\spell{Bras du nouveau-né}{MuCo}{20}{\RDT{Voix}{Sol.}{Part.}}{20}{\masteries{2}{15}{Lancement Rapide, Lancement Multiple}}{
+Diminue de moitié la taille des bras d'un individu et les rend potelés, comme ceux d'un enfant.
+
+\emph{Aeldira peut lancer ce sort en 3 exemplaires simultanéement, et peut lancer ce sort de la même façon qu'un sort spontané lancé rapidement. Pénalité de -10, et 2 dés de désastres supplémentaires, compensés par sa maitrise de 2.}
+}{Base 3, +2 Voix, +2 Soleil, +1 Partie}
+\spell{Murmures par-delà la Porte Noire}{InCo(Me)}{15}{\RDT{Touch}{Conc}{Ind}}{21}{}{
+Vous pouvez parler au travers du voile (la « porte ») séparant les morts des vivants avec un cadavre qui n'a pas encore atteint le stade de squelette. Le cadavre ne doit pas avoir été enterré en terre consacrée, ni avoir appartenu à un esprit ayant directement rejoint le Paradis (par exemple, un saint ou un croisé). L'esprit avec lequel vous parlez n'a pas obligation de dire la vérité mais vous pouvez bien sûr trouver un moyen, par la ruse ou la contrainte, pour l'y obliger. Tous ceux qui vous entourent entendent également la voix du mort.
+}{Base 5, +1 Toucher, +1 Conc, rien pour le complément}
+\spell{Ficelles de la Marionette Récalcitrante}{ReCo}{25}{\RDT{Voix}{Conc}{Ind}}{20}{}{
+Vous contrôlez les mouvements d'une personne, comme marcher, se lever ou tourner. Si la Cible résiste, les mouvements sont saccadés. La Cible peut hurler, mais vous pouvez empêcher tout discours cohérent en contrôlant sa bouche. La Cible doit être consciente pour être dirigée.
+}{Base 10, +2 Voix, +1 Conc}
+\spell{Souvenir d'un Rêve Lointain}{CrMe}{20}{\RDT{Regard}{Sol.}{Ind}}{21}{}{
+Insère un souvenir complet dans l'esprit d'un individu. Si la Cible s'interroge sérieusement sur ce souvenir et réussit un jet d'Intelligence à 9+, celui-ci lui apparaîtra comme faux. La Durée expirée, le souvenir s'évapore, mais la Cible peut s'en rappeler.
+}{Base 5, +1 Contact visuel, +2 Soleil}
+}
+%\spell{Name}{TeFo}{Lvl}{\RDT{R}{Mom}{Ind}}{Casting Total}{\masteries{}{}{}}{Description}{Base X, +...}
+% The document starts here
+
+\begin{document}
+%\begin{titlepage}
+\begin{center}
+\vfill
+    {\Large\scshape Les Enfants du Baron\par}
+    \vspace{0.5cm}
+{Un Scénario Ars Magica 5e par Guillaume \textsc{Didier}\par}
+    \vfill
+    {\LARGE\bfseries \magusname \par}
+
+
+
+\vfill
+    \begin{center}
+        \parbox{.8\textwidth}{
+            Aeldira est une mage de la maison Tremere, qui est organisé comme une armée, et une spécialiste de la médecine. En somme, un médecin militaire. Doté du don de Velours elle exerce ses talents au quotidien dans la région. Elle considère son serment d'Hippocrate comme la chose la plus importante pour elle.}
+    \end{center}
+\vfill
+\end{center}
+\pagebreak
+%\end{titlepage}
+
+\shortsheet{}
+
+
+
+%\section*{Bio}
+% TODO Automate some of this
+\pagestyle{fancy}
+\thispagestyle{plain}
+{\Large \paragraph*{\Large Personnage :} \magusname}
+\begin{multicols}{2}
+\begin{description}
+\item[Saga / Scénario :] Les enfants du Baron
+\item[Tribunal :] Normandie
+\item[Année :] 1200
+\item[Maison :] Tremere
+\item[Alliance :] Silva Solognæ
+\item[Âge (âge apparent) :] \magusage{} (\magusapparentage)
+\item[Année de Naissance :] 1175
+\item[Sexe :] Féminin
+\item[Taille :] \magussize
+\item[Confiance :] \magusconfidencescore{} (\magusconfidencepts)
+\columnbreak
+\item[Nom de Naissance :] \magusbirthname
+\item[Ethnie /  Nationalité :] Française
+\item[Lieu de Naissance :] Inconnu
+\item[Religion :] Chrétienne
+\item[Titre / Profession :] Mage hermétique
+\item[Main directrice :] Droite
+\vspace{-1em}\begin{multicols}{2}
+\item[Taille :] \hspace{0pt}
+\item[Poids :] \hspace{0pt}
+\item[Cheveux :] Châtains\hspace{0pt}
+\item[Yeux :] Verts\hspace{0pt}
+\end{multicols}
+\end{description}
+\end{multicols}
+\begin{multicols}{2}
+\begin{description}
+\item[Décrépitude :] 0
+\item[Effets de l'âge :]\hspace{0pt}
+\begin{itemize}
+\item
+\end{itemize}
+\columnbreak
+\item[Distorsion :] 0
+\item[Effets de la distorsion :]\hspace{0pt}
+\magusscarslong
+\end{description}
+\end{multicols}
+\section*{Caractéristiques}
+%Présentation TBD
+
+%%\caractable
+
+\caractableMP
+
+\begin{multicols*}{2}
+
+\longVFQs
+
+\section*{Traits de Personnalité}
+
+\traitslong
+
+\section*{Réputation}
+
+\reputationslong
+
+
+
+\section*{Compétences}
+
+\abilitieslong
+
+\end{multicols*}
+
+\pagebreak
+
+\section*{Magie}
+\begin{multicols}{2}
+\begin{description}
+\item[Maison :] Tremere
+\item[Domus Magna :] Coeris
+\item[Primus :] Poena
+\item[Parens :] Timeus House Tremere
+\item[Alliance :] Silva Solognæ
+\item[Alliance d'Apprentissage :] Montverte
+\item[Sceau du magicien :] \magussigil
+\end{description}
+\end{multicols}
+\subsection*{Arts}
+
+\magusArtsLong
+
+\subsection*{Formules}
+\begin{multicols}{2}
+\castingformulas
+
+\begin{small}
+\fastcastroll{2}{}
+\effectrecognitionroll{2}{}
+\targetroll{3}{}
+\concentrationroll{2}{\footnote{bonus de +1 pour jeter des sorts)}}
+\mrroll{2}{}
+\end{small}
+
+\end{multicols}
+\subsection*{Paroles et Gestes}
+\begin{tabularx}{\textwidth}{|X|r|l||X|r|}
+\hline
+Voix   & Mod. & Portée                          & Gestes   & Mod. \\ \hline
+Forte  &  +1  & 50 pas                          & Exagérés & +1 \\
+Ferme  &  +0  & 15 pas                          & Assurés  & +0 \\
+Calme  &  -5  & 5 pas                           & Subtils  & -2 \\
+Aucune & -10  & 0 {\small (lanceur uniquement)} & Aucun    & -5 \\ \hline
+\end{tabularx}
+%\pagebreak
+\subsection*{Sorts Formels}
+\begin{multicols}{2}
+\longspells
+\end{multicols}
+\subsection*{Effets Spontanés utiles}
+Outre les effets listés ici, la plupart des sorts In/Mu/Cr Co/Me de niveau 15 ou moins du livre de Base peuvent être lancé spontanément.
+\begin{multicols}{2}
+\longspell{Lier les Chairs}{CrCo}{10}{\RDT{Touch}{Sol.}{Ind}}{21/2 (spont f.)}{}{
+Ce sort relie les chairs d'une plaie, afin que le patient puisse participer à n'importe quelle activité sans craindre que la blessure ne s'aggrave. Il subit toutefois toujours les malus et ne peut guérir naturellement tant que le sort agit.
+Typiquement, vous placez vos mains sur la Cible puis les bougez au-dessus de la plaie, qui se referme magiquement et cesse de saigner.
+}{Base 3, +1 Toucher, +2 Soleil}
+\longspell{Révélation des Tares de la Chair Mortelle}{InCo}{10}{\RDT{Touch}{Mom}{Ind}}{21/2 (spont f.)}{}{
+Vous êtes capable d'identifier tout défaut physique d'une personne ou être que vous touchez. Les informations obtenues sont supérieures en nombre et qualité par rapport à Œil du médecin.
+}{Base 5, +1 Toucher}
+\longspell{Yeux du Chat}{MuCo(An)}{5}{\RDT{Touch}{Sol.}{Ind}}{9/2 (spont f.)}{}{
+La Cible développe des yeux de chat, ce qui lui permet de voir dans l'obscurité (mais pas dans le noir complet, comme au fin fond d'une grotte sans lumière).
+}{Base 2, +1 Toucher, +2 Soleil, rien pour le complément}
+\end{multicols}
+
+%\pagebreak
+
+\section*{Lore}
+% Insert Lore here
+
+Aeldira est une mage de la maison Tremere, une maison très hiérarchisé qui se voit comme l'armée de l'ordre d'Hermès. Elle est envoyé en Sologne par son Exarche (qui couvre les tribunaux de Normandie, et des îles Britanniques), afin de garder un œil et rendre redevable les puissants de la région, auquel elle a accès en tant que médecin. Ressentant un fort devoir moral, et tenue par le serment d'Hippocrate, la médecine reste la première priorité de Aeldira, sérieuse et consciencieuse, pour soigner des gens comme dans sa vie en général.
+
+Elle est particulièrement au fait de la maison de baron Jean de Beaugency.
+\begin{description}
+\item[Jean :] le Baron, 50 ans, est un homme vieillissant, qui a dû rester cloué au lit un mois
+il y a 2 ans, mais qui a certainement encore de beaux jours devant lui. Ce n'est pas son patient le plus à risque, mais il vaut mieux garder un œil sur celui-ci. Sa dextérité et ses réflexes ne sont plus ce qu'ils étaient, mais reste encore normaux et sa force est encore intacte.
+Sa vue et son éloquence et son charisme par contre ont quelque peu baissé, tout comme son endurance mais c'est un vieux renard qui compense par l'expérience les qualités qu'il n'a plus, et il a plus d'un tour dans son sac pour apprendre aux chevaliers plus jeunes à ne pas se sur-estimer.
+Sa femme est décédé il y a une dizaine d'année, avant l'arrivée d'Aledira.
+\item[Geoffroy :] 25 ans, le fils ainé du Baron, est un fringuant chevalier, en parfaite santé qui se marie dans une semaine à la douce Blanche.
+\item[Isabelle :] La fille cadette du Baron, 21 ans, douce et obéissante est fiancé à Enguerrand, un jeune chevalier qui devrait revenir bientôt après avoir servi dans l'Ost du Roy Philippe\footnote{plus tard connu sous le nom de Philippe II Auguste}. Elle s'évanouit à la vue du sang et a en général le mal des transports, et une grande brune à beauté éblouissante.
+\item[Aliénor :] La benjamine de 20 ans est tout le contraire de sa sœur, vive d'esprit, au caractère bien trempé, curieuse. Une petite blonde, agile et rebelle. Elle a été particulièrement marqué par la mort de sa mère et s'intéresse à la médecine.
+\end{description}
+
+
+Voilà ce qu'elle pense par ailleurs de ses \emph{sodales} de l'Alliance de Silva Solgnæ:
+\begin{description}
+\item[Alexandre Jerbiton :] Un autre mage au don de velours qui fréquente le château. Comme tous les Jerbiton il faut garder un œil sur l'influence qu'il peut exercer sur la noblesse. Un artiste doué, on peut le remercier pour la création de cette alliance comfortable. (Aeldira n'est pas particulièrement versé sur l'art, plus sur ce qui est fonctionnel). Certains de ses sorts d'illusions pourrait avoir des applications utiles pour la planification militaire d'ailleurs.
+\item[Justinien Guernicus :] Droit et pieux, un peu une grenouille de bénitier sur les bords. Si la puissance du Divin est indéniable, ce n'est pas lui qui résoudra les problèmes de l'ordre. On peut compter sur Justinien pour contribuer à essayer de maintenir la paix et la loi dans l'ordre. Évidemment il garde un œil sur tous les mages de l'alliance pour le cas ou il nous prendrait à violer le code, il faut donc rester subtil dans nos intrigues avec les mondains.
+\item[Ignace Flambeau :] Un combattant de la maison flambeau, splendide au niveau individuel mais pas particulièrement discipliné et versé sur la cohésion du groupe, et les arts subtiles de la stratégie, de la planification et de la logistique. Nous parlons un peu la même langue martiale, mais c'est un pyromane particulièrement peu prudent. Son immunité le protège lui (et m'épargne du travaille), mais pas le reste du monde (et du coup son imprudence me donne beaucoup de travail).
+\item[Lycus Lupus :] Espiègle et pas très sérieux ce loup, il forme un duo infernal avec Muirgen, d'ailleurs ils ont été apprentis à Oléron ensemble.
+\item[Caton Bonisagus :] Brillant, mais un rat de laboratoire qui aurait grand besoin d'aller respirer le grand air. Son don tapageur ne l'a pas raté et apparemment des blessures passée le rendent mal à l'aise avec tout ce qui touche à l'amour.
+\item[Muirgen Merinita :] Les fées vieillissent lentement, à croire qu'elle murissent aussi lentement. Muirgen ne pense qu'à s'amuser, avec les hommes surtout. Pour le sérieux on repassera. Elle n'est pas mal intentionnée mais elle cause souvent de drames, des ragots de l'agitation, parfois juste pour s'amuser. Elle a redirigé plus d'une jeune fille requérant mon attention vers moi. Contrairement à d'autre je fais mon travail consciencieusement, même si ça me prend du temps.
+\end{description}
+
+\section*{Notes}
+Life Boost permet de lancer des sorts formels de façon garantie, avec de la pénétration, et/ou en compensant des malus de gestes ou de paroles. Bonus de +1 au jets qui nécessitent des doigts agiles, tels que la chirurgie.
+
+\pagebreak
+
+\section*{Combat}
+\begin{description}
+\item[Armure :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\end{itemize}
+\item[Modificateurs de combat :]\hspace{0pt}\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\end{description}
+\begin{tabular}{lr}
+Encaissement : & \magussoak\\
+Encombrement (Charge) : & \magusencumbrance{} (\magusload)\\
+\end{tabular}
+
+
+\subsection*{Pénalités : Blessure et Fatigue}
+
+\begin{tabular}{rlrclll}
+Dégats              & \multicolumn{2}{r}{\Large Blessures} && \multicolumn{3}{l}{\Large Fatigue}\\
+                    & Indemne             &     \case  &    & \case &                 & Dispos\\
+                    &                     &            &  0 & \case &  {\small 2 min} & Essouflé\\
+(\maguslightwound)  & Blessures Légères   & \cinqcases & -1 & \case & {\small 10 min} & Las\\
+(\magusmediumwound) & Blessures Moyennes  & \cinqcases & -3 & \case & {\small 30 min} & Fatigué\\
+(\magusheavywound)  & Blessures Graves    & \cinqcases & -5 & \case &  {\small 1 h}   & Hagard\\
+(\magusincapwound)  & Incapacité          &     \case  &    & \case &  {\small 2 h}   & Inconscient\\
+(\magusdeadwound)   & Mort                &     \case  &    & \multicolumn{3}{l}{Fatigue : }%TODO Lines
+\end{tabular}
+
+\subsection*{Blessures}
+% TODO turn this into a set of lines
+\begin{itemize}
+\item
+\item
+\item
+\item
+\end{itemize}
+\subsection*{Armes}
+
+\weaponslong
+
+\section*{Équipement}
+\equipmentlong
+
+\pagebreak
+\newpage
+\subsection*{Notes du Joueur}
+\NI{Cette feuille ne sera pas réutilisé contrairement au reste de la fiche}
+\newpage
+
+\end{document}
