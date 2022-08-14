@@ -9,7 +9,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Warping Score:** 0 (2)  
 **Confidence Score:** 1 (3)  
 
-###Virtues and Flaws:
+## Virtues and Flaws:
 
 - Life-Linked Spontaneous Magic
 - Ways of the Dream
@@ -38,7 +38,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-###Abilities:
+## Abilities:
 
 + Area Lore: Covenant 2 (people)
 + Art of Memory 1 (short messages)
@@ -60,7 +60,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Profession: Scribe 1 (copying)
 + Volshebnii Mechtateli Lore 1 (initiations)
 
-###Arts:
+## Arts:
 
 + Creo 7
 + Intellego 6
@@ -82,7 +82,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Equipment:** none  
 **Encumbrance:** 0 (0)
 
-###Spells Known:
+## Spells Known:
 
 + *Lucid Dreamer<sup>F</sup>* (Mu(In)Me 20/+25)
 + *Beginning of a Dream<sup>F</sup>* (CrMe 10/+24)
@@ -98,7 +98,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.  
 **Sigil:** Her hairs fluctuate while she is casting.
 
-##New Spells
+## New Spells
 
 **Beginning of a Dream**  
 CrMe 10  

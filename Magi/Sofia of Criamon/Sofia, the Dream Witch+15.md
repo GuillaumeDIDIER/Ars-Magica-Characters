@@ -7,7 +7,7 @@
 **Warping Score:** 3 (34)  
 **Confidence Score:** 1 (3)
 
-##Virtues and Flaws:
+## Virtues and Flaws:
 
 - Life-Linked Spontaneous Magic
 - Ways of the Dream
@@ -38,7 +38,7 @@
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-##Abilities:
+## Abilities:
 
 + Area Lore: Covenant 2 (people)
 + Area Lore: Novgorod 1 (places)
@@ -62,7 +62,7 @@
 + Profession: Scribe 1 (copying)
 + Volshebnii Mechtateli Lore 4 (initiations)
 
-##Arts:
+## Arts:
 
 + Creo 8
 + Intellego 7
@@ -85,7 +85,7 @@
 **Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
-##Spells Known:
+## Spells Known:
 
 + *Lucid Dreamer<sup>F</sup>* (Mu(In)Me 20/+27)
 + *Beginning of a Dream<sup>F</sup>* (CrMe 10/+29)
@@ -109,7 +109,7 @@
 **Sigil:** Her hairs fluctuate while she is casting.  
 **Activities in the last fifteen years:** Sofia, 15 years out of apprentice, has developed many spells to help her in dreams. When she reached 35, she commisioned a Longevity Ritual to a specialist really close to her Mater and she gained a Longevity Ritual modifier of 16. Sofia has undergone an Initiation in the mystery of the Greater Dream Grimoire through the Volshebnii Mechtateli cult and now she knows the Monarchs of the Veiled Court. One of them helped her studying the lore of the Cult and they also gave her the Laboratory Text of ""Opening the Portal to the Dreamscape"" through the same ritual for her first initiation in Dream Magic.
 
-##New Spells
+## New Spells
 
 **Beginning of a Dream**  
 CrMe 10  
@@ -146,7 +146,7 @@ This spell is usually taught after the dream magus has gained the trust of the M
 Similar spells exist that create portals to one’s imagination and memory, so that the traveler doesn’t need to search for a genuine one.  
 *(Base 20, +1 Touch, +1 Dream)*
 
-##Initiation Scripts
+## Initiation Scripts
 
 *Form to Substance*  
 **Ease Factor:** 15 (Minor Virtue known
