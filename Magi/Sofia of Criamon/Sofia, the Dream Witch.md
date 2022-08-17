@@ -5,7 +5,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Characteristics:** Int +3, Per +1, Pre +2, Com +1, Str -2, Sta +2, Dex -2, Qik -1  
 **Size:** 0  
 **Age:** 26  
-**Decrepitiude:** 0 (0)  
+**Decrepitude:** 0 (0)  
 **Warping Score:** 0 (2)  
 **Confidence Score:** 1 (3)  
 
@@ -25,7 +25,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 - Proud
 - Weird Magic
 
-* House Virtue
+\* House Virtue  
 ** Mystery Initiations and Ordeals
 
 **Personality Trait:** Curious +3, Brave +2, Proud +3  
@@ -41,19 +41,19 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 ## Abilities:
 
 + Area Lore: Covenant 2 (people)
-+ Art of Memory 1 (short messages)
++ Art of Memory 2 (short messages)
 + Artes Liberales 1 (cerimonial)
 + Athletics 1 (run)
 + Awareness 2 (dreaming)
 + Concentration 1 (spells)
-+ Dream Realm Lore 1 (inhabitants)
++ Dream Realm Lore 2 (inhabitants)
 + Enigmatic Wisdom 2 (comprehending)
 + Finesse 1 (Imaginem)
 + Folk Ken 2 (magi)
 + Guile 2 (magi)
 + Intrigue 1 (magi)
 + Latin 4 (hermetic usage)
-+ Magic Lore 1 (dream creatures)
++ Magic Lore 2 (dream creatures)
 + Magic Theory 3 (spells)
 + Organizaton Lore: Order of Hermes 1 (cults)
 + Parma Magica 1 (Imaginem)

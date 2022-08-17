@@ -2,8 +2,8 @@
 
 **Characteristics:** Int +3, Per +1, Pre +2, Com +1, Str -2, Sta +2, Dex -2, Qik -1  
 **Size:** 0  
-**Age:** 41  
-**Decrepitiude:** 0 (0)  
+**Age:** 41 (35)  
+**Decrepitude:** 0 (0)  
 **Warping Score:** 3 (34)  
 **Confidence Score:** 1 (3)
 
@@ -42,19 +42,20 @@
 
 + Area Lore: Covenant 2 (people)
 + Area Lore: Novgorod 1 (places)
-+ Art of Memory 1 (short messages)
++ Art of Memory 2 (short messages)
 + Artes Liberales 1 (cerimonial)
 + Athletics 1 (run)
 + Awareness 2 (dreaming)
 + Concentration 1 (spells)
 + Dream Realm Lore 2 (inhabitants)
 + Enigmatic Wisdom 3 (comprehending)
++ Faerie Lore 1 (spirits)
 + Finesse 2 (Imaginem)
 + Folk Ken 2 (magi)
 + Guile 2 (magi)
 + Intrigue 1 (magi)
 + Latin 5 (hermetic usage)
-+ Magic Lore 2 (dream creatures)
++ Magic Lore 3 (dream creatures)
 + Magic Theory 4 (spells)
 + Organizaton Lore: Order of Hermes 1 (cults)
 + Parma Magica 2 (Imaginem)
@@ -80,8 +81,7 @@
 + Terram 2
 + Vim 6
 
-**Twilight Scar:** none
-` `  
+**Twilight Scar:** none  
 **Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
@@ -107,7 +107,7 @@
 
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
 **Sigil:** Her hairs fluctuate while she is casting.  
-**Activities in the last fifteen years:** Sofia, 15 years out of apprentice, has developed many spells to help her in dreams. When she reached 35, she commisioned a Longevity Ritual to a specialist really close to her Mater and she gained a Longevity Ritual modifier of 16. Sofia has undergone an Initiation in the mystery of the Greater Dream Grimoire through the Volshebnii Mechtateli cult and now she knows the Monarchs of the Veiled Court. One of them helped her studying the lore of the Cult and they also gave her the Laboratory Text of ""Opening the Portal to the Dreamscape"" through the same ritual for her first initiation in Dream Magic.
+**Activities in the last fifteen years:** Sofia, 15 years out of apprentice, has developed many spells to help her in dreams. When she reached 35, she commisioned a Longevity Ritual to a specialist really close to her Mater and she gained a Longevity Ritual modifier of 15. Sofia has undergone an Initiation in the mystery of the Greater Dream Grimoire through the Volshebnii Mechtateli cult and now she knows the Monarchs of the Veiled Court. One of them helped her studying the lore of the Cult and they also gave her the Laboratory Text of "Opening the Portal to the Dreamscape" through the same ritual of her first initiation in Dream Magic.
 
 ## New Spells
 
