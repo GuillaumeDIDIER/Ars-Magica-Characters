@@ -1,6 +1,6 @@
 # Matilde, the Witch
 
-Matilde was born into a poor family and his parents blamed her for every mistake she and her brothers made. Her Gift impaired her so much during her childhood that she didn't have many friends, she usually wandered in the woods in search of animals and herbs. One day her father abandoned her during a trip in the woods and she was found by Catarina, a witch whose home was on a mountain. Catarina became her teacher and opened her Gift into the Folk Witch tradition. Matilde quickly found his new abilities very useful and enjoyed this new powers. Matilde finished her apprenticeship under her teacher Catarina already 7 years ago. In these years, she founded a new coven near the swamp of Venice with his *sister* Ida and there she saved three young girls that now are her apprentices.
+Matilde was born into a poor family and his parents blamed her for every mistake she and her brothers made. Her Gift impaired her so much during her childhood that she didn't have many friends, she usually wandered in the woods in search of animals and herbs. One day her father abandoned her during a trip in the woods and she was found by Catarina, a witch whose home was on a mountain. Catarina became her teacher and opened her Gift into the Folk Witch tradition. Matilde quickly found his new abilities very useful and enjoyed this new powers. During her studies Matilde found that her powers are somewhat tied to her hair, she found that she must have her hair long and free for her to make use of magic, cut her hair or tie them, and she is powerless. Matilde finished her apprenticeship under her teacher already 7 years ago and, recently, she founded a new coven near the swamp of Venice with his *sister* Ida, there she saved three young girls that now are her apprentices.
 
 **Characteristics:** Int +2, Per +2, Pre +1, Com +3, Str -3, Sta +1, Dex +0, Qik -1  
 **Size:** 0  
@@ -93,12 +93,12 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 
 **Curse of Warts**  
 Hex 18  
-This curse inflicts the Lesser Malediction Flaw. The victim is completely covered in warts, diminutive discolorations of the skin, and knobby protrusions. Social rolls that the target makes are penalized by –3, due to his repugnant countenance.  
+This curse inflicts the Lesser Malediction Flaw for an entire year. The victim is completely covered in warts, diminutive discolorations of the skin, and knobby protrusions. Social rolls that the target makes are penalized by –3, due to his repugnant countenance.  
 *(Base 6, -3 Season, +15 Year)*
 
 **Curse of Cataracts**  
 Hex 18  
-This curse inflicts the Lesser Malediction Flaw. The victim’s eyes become clouded and white, limiting his vision. Vision-based rolls, and Advancement Totals derived from reading, are penalized by –3.  
+This curse inflicts the Lesser Malediction Flaw for an entire year. The victim’s eyes become clouded and white, limiting his vision. Vision-based rolls, and Advancement Totals derived from reading, are penalized by –3.  
 *(Base 6, -3 Season, +15 Year)*
 
 **Curse of Night Terrors**  
@@ -113,8 +113,8 @@ This curse inflicts the Afflicted Tongue Flaw until the target drinks water.
 
 **Curse of the Faerie Ward**  
 Hex 21  
-This curse inflicts the Lesser Malediction Flaw until the target touches Gold. The target's skin burns in contact with iron.  
-*(Base 6, +12 Immediate, +3 Simple Condition (touch Gold))*
+This curse inflicts the Lesser Malediction Flaw until the target touches gold. The target's skin burns in contact with iron.  
+*(Base 6, +12 Immediate, +3 Simple Condition (touch gold))*
 
 **Curse of the Crow's Voice**  
 Hex 21  
@@ -133,5 +133,5 @@ This curse inflicts an Aging Crisis.
 
 **Curse of Binding**  
 Hex 21  
-This curse bind the target in his place, paralyzing him for an hour.  
+This curse binds the target in his place, paralyzing him for an hour.  
 *(Base 6, +12 Immediate, +3 Hour)*

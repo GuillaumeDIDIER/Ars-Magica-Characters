@@ -119,19 +119,19 @@ This curse inflicts the Plagued by Demons Flaw until the target completes a pilg
 
 **Curse of the Slow Death**  
 Hex 24  
-The target of this curse dies when a year passes. They have one year to find a way to break the curse.  
+The target of this curse dies when a year passes, they may find a way to break the curse but they only have one year.  
 *(base 30, -6 Year)*
 
 **Curse of Aging**  
 Hex 30  
-This curse inflicts the Greater Malediction Flaw until the target drinks from the Fountain of Youth. The victim must make an immediate Aging roll, followed by an additional Aging roll for every season that the Curse lasts.  
+This curse inflicts the Greater Malediction Flaw until the target drinks from the Fountain of Youth. The victim must make an immediate Aging roll, followed by an additional Aging roll for every season that the curse lasts.  
 *(Base 18, -3 Season, +15 Ultimate Condition (fountain of youth))*
 
 ## Initiation Scripts
 
 *Enriching Infusion*  
 **Ease Factor:** 15  
-**Script Bonus:** +8  
+**Script Bonus:** +8 (+1 Sympathetic bonus)  
 **Script Details:** The witch need to spend a season gathering herbs and items for the Mystagogue (+1 Time), then she need to find a Creature of Virtue, slay it and slowly drain his blood. After that she need to find one Herb of Virtue and let it soak in the blood for a season (+3 Quest) and, at the end of the season, she has to drink the blood with the soaked herb, gaining the Hallucinations Flaw (+3 Minor Ordeal) and the Enriching Cultivation Virtue.
 
 ## New Virtues
@@ -139,13 +139,14 @@ This curse inflicts the Greater Malediction Flaw until the target drinks from th
 **Enriching Infusion**  
 *Minor Supernatural Virtue*
 
-The Folk Witch may create enriched objects or herbs by infusing vis containing items with blood from creatures in her cauldron. Firstly, she chooses a General or Supernatural Virtue that the item will grant, secondly, she chooses an appropriate item (an appropiate herb or object) that will grant the chosen virtue. To infuse an item with a Virtue, a Folk Witch mixes the chosen item with blood from a creature that possess the chosen virtue, the process is a Seasonal Activity that uses a Magic Lore Laboratory Total (Int + Magic Lore + Folk Witch Theory + Aura).  
-Laboratory Total needed to infuse:  
+The Folk Witch may create enriched objects or herbs by infusing vis containing items with blood in her cauldron. Firstly, she chooses a General or Supernatural Virtue that the item will grant, secondly, she chooses an appropriate item (an appropiate herb or object) that will grant the chosen virtue. To infuse an item with a Virtue, a Folk Witch mixes the chosen item with blood from a creature that possess the chosen virtue, the process is similar to creating a potion using a Magic Lore Laboratory Total (Int + Magic Lore + Folk Witch Theory + Aura).  
 
-+ Minor General Virtue = 12
-+ Minor Supernatural Virtue = 15
-+ Major General Virtue = 18
-+ Major Supernatural Virtue = 21
+| **Virtue**                | **Minimum Brew Potency** | **Base Cost** |
+|---------------------------|--------------------------|---------------|
+| Minor General Virtue      | 12                       | 2             |
+| Minor Supernatural Virtue | 15                       | 3             |
+| Major General Virtue      | 18                       | 4             |
+| Major Supernatural Virtue | 21                       | 5             |
 
 To infuse Major Virtue, a considerable amount of blood from the creature is needed and the item should give/have an appropriate Minor Flaw.  
 An item created this way is automatically enriched and the base duration of item is 1 years but it may be extended using additional doses. Additional doses add that much years to the duration of the item and the doses may be also split into several identical items (years of duration need to be split too).  

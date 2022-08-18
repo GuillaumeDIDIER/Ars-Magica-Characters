@@ -111,7 +111,7 @@ This rod was created by the Matilde using Lesser Craft Magic to help one of her 
 **Vis Divining Rod**  
 Dowsing 25  
 **R:** Touch, **D:** Sun, **T:** Smell  
-This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.
+This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.  
 *(Base 15, +5 Touch, +5 Sun)*
 
 **Pain-striking Poppet**  
@@ -143,7 +143,7 @@ This curse inflicts an Incapacitating Wound.
 
 **Curse of Death**  
 Hex 42  
-This victim instantly dies.  
+The victim of this curse instantly dies.  
 *(Base 30, +12 Immediate)*
 
 ## New Theriac Formulas
@@ -159,7 +159,7 @@ roll against an Ease Factor of 9. The effects of this potion last until the next
 
 *Enriching Infusion*  
 **Ease Factor:** 15  
-**Script Bonus:** +8  
+**Script Bonus:** +8 (+1 Sympathetic bonus)  
 **Script Details:** The witch need to spend a season gathering herbs and items for the Mystagogue (+1 Time), then she need to find a Creature of Virtue, slay it and slowly drain his blood. After that she need to find one Herb of Virtue and let it soak in the blood for a season (+3 Quest) and, at the end of the season, she has to drink the blood with the soaked herb, gaining the Hallucinations Flaw (+3 Minor Ordeal) and the Enriching Cultivation Virtue.
 
 ## New Virtues

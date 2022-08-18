@@ -142,7 +142,7 @@ This rod was created by the Matilde using Lesser Craft Magic to help one of her 
 **Vis Divining Rod**  
 Dowsing 25  
 **R:** Touch, **D:** Sun, **T:** Smell  
-This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.
+This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.  
 *(Base 15, +5 Touch, +5 Sun)*
 
 **Pain-striking Poppet**  
@@ -160,9 +160,9 @@ Magic Lore Laboratory Total 21
 Matilde recreated a rather famous herb of Virtue often found in nature using a mundane blackthorn soaked in her blood for a season. This Blackthorn of Virtue functions in the same way of the usual one but contains 5 pawns of Perdo and so it last only 1 year.
 
 **Animal Cloak**  
-Shapeshifter 15
+Shapeshifter 15  
 **R:** Touch, **D:** Conc, **T:** Ind  
-Matilde was obtained the pelt from a Wolf of Virtue that she killed and made this cloak for her apprentice Giovanna.
+Matilde obtained the pelt from a Wolf of Virtue that she killed and made this cloak for her apprentice Giovanna.  
 *(Base 9, +5 Touch, +1 2/gg)*
 
 **Ruby of Virtue**  
@@ -171,7 +171,7 @@ Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that gr
 
 **Artemisia of Virtue**  
 Magic Lore Laboratory Total 21  
-This infused herb grants the owner the Chtonic Magic Virtue for 1 years (the herb contains 5 pawn of Perdo). If the owner have other supernatural powers and he incorporates a knowingly blasphemous action in his magic, he gains a +6 bonus to the roll and he may optionally incorporate Casting Items to also add their Shape & Material bonuses (up to his Folk Witch Magic Theory score if any).
+This infused herb grants the owner the Chtonic Magic Virtue for 1 years (the herb contains 5 pawn of Perdo) but the owner also gain the Witch Marks Flaw while she benefit from the Artemisia. If the owner have other supernatural powers and he incorporates a knowingly blasphemous action in his magic, he gains a +6 bonus to the roll and he may optionally incorporate Casting Items to also add their Shape & Material bonuses (up to his Folk Witch Magic Theory score if any).
 
 ## Theriac Formulas
 
@@ -184,10 +184,10 @@ This infused herb grants the owner the Chtonic Magic Virtue for 1 years (the her
 ## New Theriac Formulas
 
 **Aphrodisiac**  
-Theriac Level 5
-Potency: Weak
+Theriac Level 5  
+Potency: Weak  
 This potion is a powerful aphrodisiac that increases sexual desire, sexual attraction, sexual pleasure, or sexual behavior unless the target succeeds in a Stamina
-roll against an Ease Factor of 9. The effect of this potion last until the next day.
+roll against an Ease Factor of 9. The effect of this potion last until the next day.  
 *(Base 10, +0 Weak)*
 
 **Mixture of Herbs and Incense**  
@@ -206,7 +206,7 @@ When applied to a wound, this cataplasm grants a +6 to the patient’s next Woun
 
 *Enriching Infusion*  
 **Ease Factor:** 15  
-**Script Bonus:** +8  
+**Script Bonus:** +8 (+1 Sympathetic bonus)  
 **Script Details:** The witch need to spend a season gathering herbs and items for the Mystagogue (+1 Time), then she need to find a Creature of Virtue, slay it and slowly drain his blood. After that she need to find one Herb of Virtue and let it soak in the blood for a season (+3 Quest) and, at the end of the season, she has to drink the blood with the soaked herb, gaining the Hallucinations Flaw (+3 Minor Ordeal) and the Enriching Cultivation Virtue.
 
 ## New Virtues
