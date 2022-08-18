@@ -199,7 +199,7 @@ This mixture help in soothing the spirit and relaxing the tense muscles of the b
 **Cataplasm of Feverfew and Sage**  
 Theriac Level 10  
 Potency: Moderate  
-When applied to a wound, this cataplasm grants a +3 to the patient’s next Wound Recovery rolls for all Medium and Light Wounds.  
+When applied to a wound, this cataplasm grants a +6 to the patient’s next Wound Recovery rolls for all Medium and Light Wounds.  
 *(Base 4, +2 Moderate)*
 
 ## Initiation Scripts

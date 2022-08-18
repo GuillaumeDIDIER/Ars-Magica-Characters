@@ -185,7 +185,7 @@ ReMe 25
 This spell protects the caster from foreign dream manipulation of level less than or equal to 30. This spell is sometimes used by members of Volshebnii Mechtateli against their enemies in dreams, for them, it’s almost like an Aegis of the Heart while dreaming.  
 *(Base 15, +1 Dream, +1 complexity)*
 
-##Initiation Scripts
+## Initiation Scripts
 
 *Form to Substance*  
 **Ease Factor:** 15 (Minor Virtue known

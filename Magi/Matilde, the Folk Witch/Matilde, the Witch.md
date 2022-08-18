@@ -131,7 +131,7 @@ Hex 21
 This curse inflicts an Aging Crisis.  
 *(Base 24, -3 Season)*
 
-**Curse of Binding**
-Hex 21
-This curse bind the target in his place, paralyzing him for an hour.
+**Curse of Binding**  
+Hex 21  
+This curse bind the target in his place, paralyzing him for an hour.  
 *(Base 6, +12 Immediate, +3 Hour)*

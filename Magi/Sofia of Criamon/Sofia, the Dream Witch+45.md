@@ -214,7 +214,7 @@ CrMe 20
 **R**: Touch, **D**: Sun, **T**: Ind  
 This spell brings a nightmare to a sleeping person, with the caster's sigil being a key feature of the nightmare. The victim of this spell wakes up with a Long TermFatigue level lost. These Long Term Fatigue Levels are cumulative, so several bad nights leave him in bad shape. This spell was in vogue during the early times of the Volshebnii Mechtateli and was used, during the numerous marches, to wear down the enemy magi. The origin of this spell date back to Raisa who based it on the Weight of Thousand Hells spell.  
 
-##Initiation Scripts
+## Initiation Scripts
 
 *Form to Substance*  
 **Ease Factor:** 15 (Minor Virtue known

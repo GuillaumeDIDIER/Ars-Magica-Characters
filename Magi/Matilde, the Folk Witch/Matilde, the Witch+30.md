@@ -149,10 +149,10 @@ This victim instantly dies.
 ## New Theriac Formulas
 
 **Aphrodisiac**  
-Theriac Level 5
-Potency: Weak
+Theriac Level 5  
+Potency: Weak  
 This potion is a powerful aphrodisiac that increases sexual desire, sexual attraction, sexual pleasure, or sexual behavior unless the target succeeds in a Stamina
-roll against an Ease Factor of 9. The effects of this potion last until the next day.
+roll against an Ease Factor of 9. The effects of this potion last until the next day.  
 *(Base 10, +0 Weak)*
 
 ## Initiation Scripts
