@@ -28,8 +28,8 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 - Weird Magic
 
 \* House Virtue  
-** Mystery Initiations and Ordeals
-¹ Free virtue with Strong Faerie Blood
+** Mystery Initiations and Ordeals  
+¹ Free virtue with Strong Faerie Blood  
 ² Free virtue
 
 **Personality Trait:** Curious +3, Envious +2, Brave -2  

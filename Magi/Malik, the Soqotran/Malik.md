@@ -29,10 +29,10 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 - Warped Magic (objects tremble)
 
 \* Soqotran Tribe Virtue  
-** Mystery Initiations and Ordeals
-¹ Free virtue with Strong Faerie Blood
-² Free virtue with Strong Faerie Blood (Jinniyah)
-³ Similar to Well-Trained Folk Witch
+** Mystery Initiations and Ordeals  
+¹ Free virtue with Strong Faerie Blood  
+² Free virtue with Strong Faerie Blood (Jinniyah)  
+³ Similar to Well-Trained Folk Witch  
 ° Free virtue
 
 **Personality Trait:** Crafty +3, Impulsive -2, Greedy +3  
