@@ -9,7 +9,9 @@
 
 ## Virtues and Flaws:
 
-- Chtonic Magic
+- The Gift
+- Folk Witch
+- Chthonic Magic
 - Affinity with Hex
 - Cautious Witch
 - Herbalism
@@ -54,14 +56,14 @@
 + Awareness 2 (alertness)
 + Brawl 1 (dagger)
 + Chirurgy 2 (wounds)
-+ Chtonic Magic 1 (vis)
++ Chtonic Magic 1 (infernal vis)
 + Craft: Wood 3 (toys)
 + Dowsing 4 (vis)
 + Flight 3 (at night)
 + Folk Ken 2 (peasants)
 + Folk Witch Theory 8 (vis expenditure)
 + Folk Witches Lore 3 (initiations)
-+ Guile 2 (peasants)
++ Guile 2 (lying to authority)
 + Healing 4 (longevity ritual)
 + Herbalism 5 (theriacs)
 + Hex 10 (face to face)
@@ -99,7 +101,7 @@ The witch can't already cast these new hexes using the *Witches' Ritual* Virtue 
 
 **Shape of the Weakling**  
 Shapeshifter 18  
-This curse transform a person into a toad for Sun duration.  
+This curse transform a person into a turtle for Sun duration.  
 *(Base 9, +6 Voice, +3 Sun)*  
 
 **The Season's Problem**  
@@ -171,7 +173,7 @@ Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that gr
 
 **Artemisia of Virtue**  
 Magic Lore Laboratory Total 21  
-This infused herb grants the owner the Chtonic Magic Virtue for 1 years (the herb contains 5 pawn of Perdo) but the owner also gain the Witch Marks Flaw while she benefit from the Artemisia. If the owner have other supernatural powers and he incorporates a knowingly blasphemous action in his magic, he gains a +6 bonus to the roll and he may optionally incorporate Casting Items to also add their Shape & Material bonuses (up to his Folk Witch Magic Theory score if any).
+This infused herb grants the owner the Chthonic Magic Virtue for 1 years (the herb contains 5 pawn of Perdo) but the owner also gain the Witch Marks Flaw while they benefit from the Artemisia. If the owner have other supernatural powers and he incorporates a knowingly blasphemous action in his magic, he gains a +6 bonus to the roll and he may optionally incorporate Casting Items to also add their Shape & Material bonuses (up to his Folk Witch Magic Theory score if any).
 
 ## Theriac Formulas
 
@@ -188,7 +190,7 @@ Theriac Level 5
 Potency: Weak  
 This potion is a powerful aphrodisiac that increases sexual desire, sexual attraction, sexual pleasure, or sexual behavior unless the target succeeds in a Stamina
 roll against an Ease Factor of 9. The effect of this potion last until the next day.  
-*(Base 10, +0 Weak)*
+*(Base 5, +0 Weak)*
 
 **Mixture of Herbs and Incense**  
 Theriac Level 10  
