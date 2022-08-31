@@ -55,7 +55,7 @@
 + Finesse 2 (Imaginem)
 + Folk Ken 2 (magi)
 + Guile 2 (about the cult)
-+ Intrigue 1 (allieances)
++ Intrigue 1 (alliances)
 + Latin 5 (hermetic usage)
 + Magic Lore 3 (dream creatures)
 + Magic Theory 4 (spells)

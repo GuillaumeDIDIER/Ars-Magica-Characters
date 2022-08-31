@@ -53,7 +53,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Finesse 1 (Imaginem)
 + Folk Ken 2 (magi)
 + Guile 2 (about the cult)
-+ Intrigue 1 (allieances)
++ Intrigue 1 (alliances)
 + Latin 4 (hermetic usage)
 + Magic Lore 2 (dream creatures)
 + Magic Theory 3 (spells)
