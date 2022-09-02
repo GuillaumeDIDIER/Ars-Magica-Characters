@@ -9,7 +9,9 @@
 
 ## Virtues and Flaws:
 
-- Chtonic Magic
+- The Gift
+- Folk Witch
+- Chthonic Magic
 - Affinity with Hex
 - Cautious Witch
 - Herbalism
@@ -52,14 +54,14 @@
 + Awareness 2 (alertness)
 + Brawl 1 (dagger)
 + Chirurgy 1 (wounds)
-+ Chtonic Magic 1 (vis)
++ Chtonic Magic 1 (infernal vis)
 + Craft: Wood 3 (toys)
 + Dowsing 4 (vis)
 + Flight 2 (at night)
 + Folk Ken 1 (peasants)
 + Folk Witch Theory 6 (longevity ritual)
 + Folk Witches Lore 3 (initiations)
-+ Guile 2 (peasants)
++ Guile 2 (lying to authority)
 + Healing 4 (longevity ritual)
 + Herbalism 5 (theriacs)
 + Hex 8 (face to face)
@@ -153,7 +155,7 @@ Theriac Level 5
 Potency: Weak  
 This potion is a powerful aphrodisiac that increases sexual desire, sexual attraction, sexual pleasure, or sexual behavior unless the target succeeds in a Stamina
 roll against an Ease Factor of 9. The effects of this potion last until the next day.  
-*(Base 10, +0 Weak)*
+*(Base 5, +0 Weak)*
 
 ## Initiation Scripts
 

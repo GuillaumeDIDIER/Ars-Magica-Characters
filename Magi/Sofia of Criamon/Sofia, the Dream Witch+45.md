@@ -9,6 +9,8 @@
 
 ## Virtues and Flaws:
 
+- The Gift
+- Hermetic Maga
 - Life-Linked Spontaneous Magic
 - Ways of the Dream
 - Affinity with Imaginem
@@ -45,7 +47,7 @@
 + Area Lore: Covenant 2 (people)
 + Area Lore: Novgorod 1 (places)
 + Art of Memory 2 (short messages)
-+ Artes Liberales 1 (cerimonial)
++ Artes Liberales 1 (ceremonial magic)
 + Athletics 1 (run)
 + Awareness 3 (dreaming)
 + Concentration 2 (spells)
@@ -54,8 +56,8 @@
 + Faerie Lore 1 (spirits)
 + Finesse 2 (Imaginem)
 + Folk Ken 2 (magi)
-+ Guile 2 (magi)
-+ Intrigue 2 (magi)
++ Guile 2 (about the cult)
++ Intrigue 2 (alliances)
 + Latin 5 (hermetic usage)
 + Magic Lore 3 (dream creatures)
 + Magic Theory 5 (spells)
@@ -121,6 +123,8 @@
 + *Mystical Secrets of the Veiled Court<sup>F</sup>* (CrMe 30/+39)
 + *Curse of Morpheus<sup>F</sup>* (CrMe 20/+39)
 
+\* +3 dreams, +3 spirits
+
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
 **Sigil:** Her hairs fluctuate while she is casting.  
 **Activities in the last fifteen years:** In these fifteen years, Sofia refined her Arts and developed new spells to aid the cult. She created a talisman, a beautiful staff with an amethyst that she found in a dream and brought to reality using her spell. Years ago Sofia found a suitable apprentice, her name is Ania, she is a young girl but soon her apprenticeship will be over and Sofia will try to initiate her into the Volshebnii Mechtateli.
@@ -138,12 +142,12 @@ Phantasos, an Oneiros of the Gate of Horn and Ivory with Magic Might 10 (Imagine
 A staff made from a cypress tree shod in brass with an amethyst bound on top.
 
 **Attunement:** +3 dreams, +3 spirits  
-**Talisman Powers:** Hard more than Iron  
+**Talisman Powers:** Harder than Iron  
 
-*Hard more than Iron*  
+*Harder than Iron*  
 MuHe(Te) 19  
 **R**: Personal, **D**: Constant, **T**: Ind  
-This enchantment makes the staff harder than iron, tt is nearly unbreakable.  
+This enchantment makes the staff harder than iron, it is nearly unbreakable.  
 *(Base 4, +2 Sun, +1 extra hardness, +4 level to costant)*
 
 ## New Spells
@@ -208,11 +212,13 @@ This spell protects the caster from foreign dream manipulation of level less tha
 CrMe 30  
 **R**: Touch, **D**: Mom, **T**: Ind  
 This spell creates a perfect copy of a memory locus of the caster into the mind of the target. This spell is most common between the members of the Volshebnii Mechtateli because this is one of the methods to pass down the knowledge of Dream Magic through dreams. The memories are often books about the cult or lessons from a Mystagogue and they often are memories of memories of memories, someone thinks that some of them comes directly from Raisa, the first member of the Volshebnii Mechtateli.  
+*(Base 5, +1 Touch, +4 complexity)*
 
 **Curse of Morpheus**  
 CrMe 20  
 **R**: Touch, **D**: Sun, **T**: Ind  
 This spell brings a nightmare to a sleeping person, with the caster's sigil being a key feature of the nightmare. The victim of this spell wakes up with a Long TermFatigue level lost. These Long Term Fatigue Levels are cumulative, so several bad nights leave him in bad shape. This spell was in vogue during the early times of the Volshebnii Mechtateli and was used, during the numerous marches, to wear down the enemy magi. The origin of this spell date back to Raisa who based it on the Weight of Thousand Hells spell.  
+*(Base 4, +1 Touch, +2 Sun, +1 complex effect)*
 
 ## Initiation Scripts
 

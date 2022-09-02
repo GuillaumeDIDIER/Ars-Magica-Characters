@@ -11,7 +11,9 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 
 ## Virtues and Flaws:
 
-- Chtonic Magic
+- The Gift
+- Folk Witch
+- Chthonic Magic
 - Affinity with Hex
 - Cautious Witch
 - Herbalism
@@ -45,14 +47,14 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 + Awareness 1 (alertness)
 + Brawl 1 (dagger)
 + Chirurgy 1 (wounds)
-+ Chtonic Magic 1 (vis)
++ Chtonic Magic 1 (infernal vis)
 + Craft: Wood 2 (toys)
 + Dowsing 2 (vis)
 + Flight 1 (at night)
 + Folk Ken 1 (peasants)
 + Folk Witch Theory 4 (longevity ritual)
 + Folk Witches Lore 2 (initiations)
-+ Guile 2 (peasants)
++ Guile 2 (lying to authority)
 + Healing 3 (wounds)
 + Herbalism 3 (theriacs)
 + Hex 6 (face to face)

@@ -11,6 +11,8 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 
 ## Virtues and Flaws:
 
+- The Gift
+- Hermetic Maga
 - Life-Linked Spontaneous Magic
 - Ways of the Dream
 - Affinity with Imaginem
@@ -42,7 +44,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 
 + Area Lore: Covenant 2 (people)
 + Art of Memory 2 (short messages)
-+ Artes Liberales 1 (cerimonial)
++ Artes Liberales 1 (ceremonial magic)
 + Athletics 1 (run)
 + Awareness 2 (dreaming)
 + Concentration 1 (spells)
@@ -50,8 +52,8 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Enigmatic Wisdom 2 (comprehending)
 + Finesse 1 (Imaginem)
 + Folk Ken 2 (magi)
-+ Guile 2 (magi)
-+ Intrigue 1 (magi)
++ Guile 2 (about the cult)
++ Intrigue 1 (alliances)
 + Latin 4 (hermetic usage)
 + Magic Lore 2 (dream creatures)
 + Magic Theory 3 (spells)

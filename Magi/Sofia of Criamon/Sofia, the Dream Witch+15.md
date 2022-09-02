@@ -9,6 +9,8 @@
 
 ## Virtues and Flaws:
 
+- The Gift
+- Hermetic Maga
 - Life-Linked Spontaneous Magic
 - Ways of the Dream
 - Affinity with Imaginem
@@ -43,7 +45,7 @@
 + Area Lore: Covenant 2 (people)
 + Area Lore: Novgorod 1 (places)
 + Art of Memory 2 (short messages)
-+ Artes Liberales 1 (cerimonial)
++ Artes Liberales 1 (ceremonial magic)
 + Athletics 1 (run)
 + Awareness 2 (dreaming)
 + Concentration 1 (spells)
@@ -52,8 +54,8 @@
 + Faerie Lore 1 (spirits)
 + Finesse 2 (Imaginem)
 + Folk Ken 2 (magi)
-+ Guile 2 (magi)
-+ Intrigue 1 (magi)
++ Guile 2 (about the cult)
++ Intrigue 1 (alliances)
 + Latin 5 (hermetic usage)
 + Magic Lore 3 (dream creatures)
 + Magic Theory 4 (spells)
