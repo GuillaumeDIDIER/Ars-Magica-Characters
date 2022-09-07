@@ -63,6 +63,7 @@
 + Herbalism 4 (theriacs)
 + Hex 7 (face to face)
 + Infernal Lore 1 (demons)
++ Language (native): North Italian 5 (Piedmontese)
 + Magic Lore 3 (enriching)
 + Penetration 2 (Hex)
 + Premonitions 2 (self)
@@ -105,7 +106,7 @@ This rod was created by the Matilde using Lesser Craft Magic to help one of her 
 
 **Comb of Virtue**  
 Magic Lore Laboratory Total 12  
-This comb was enriched by Matilde using a drop of blood from his daughter Violante, that has the Venus' Blessing Virtue. This Comb of Virtue now grants the Venus' Blessing Virtue to its owner and it will remain enriched for 2 years (The Comb contains 2 pawn of Imaginem vis).
+This comb was enriched by Matilde using a drop of blood from his daughter Violante, that has the Venus' Blessing Virtue. This Comb of Virtue now grants the Venus' Blessing Virtue to its owner and it will remain enriched for 2 years (The Comb contains 3 pawn of Imaginem vis).
 
 ## Theriac Formulas
 

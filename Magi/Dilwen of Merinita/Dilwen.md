@@ -1,6 +1,6 @@
 # Dilwen of Merinita
 
-Dilwen was born in particular circumnstances in a village of South Scandinavia. His father was an honest man, but he was tricked by the huldra and in act of rage after finding out that she was a *monster*, he killed her mother. The pain was more than enough for him and he tried but couldn't kill a little creature like Dilwen, because she had his eyes, so he left her in the woods and never came back. Dilwen was saved by the fae, probably because she was almost one of their kind and slowly but steadly she became a young woman. Years after, a maga from House Merinita named Anniki, found her and told her she had the Gift and that she could became a maga herself and Dilwen agreed to follow her but before leaving, she took with her a little friend, his name is Puff, a pixie that enjoys making pranks to the young couples. Dilwen's magic is strongly related to the Faerie Realm, she can easily learn magical effects by studying faerie creatures and she is really skilled in animating little objects.
+Dilwen was born in particular circumnstances in a village of South Scandinavia. His father was an honest man, but he was tricked by an huldra to have a child. When he  found out her nature, in act of rage after finding out that the *monster* had a baby, he killed the huldra. The pain was more than enough for him and he tried but couldn't kill a little creature like Dilwen, because she had his eyes, so he left her in the woods and never came back. Dilwen was saved by the fae, probably because she was almost one of their kind and slowly but steadly she became a young woman. Years after, a maga from House Merinita named Anniki, found her and told her she had the Gift and that she could became a maga herself and Dilwen agreed to follow her but before leaving, she took with her a little friend, his name is Puff, a pixie that enjoys making pranks to the young couples. Dilwen's magic is strongly related to the Faerie Realm, she can easily learn magical effects by studying faerie creatures and she is really skilled in animating little objects.
 
 **Characteristics:** Int +2, Per +1, Pre +3, Com +2, Str -2, Sta +0, Dex -2, Qik +0  
 **Size:** -1  
@@ -11,6 +11,8 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 
 ## Virtues and Flaws:
 
+- The Gift
+- Hermetic Maga
 - Faerie-Raised Magic
 - Strong Faerie Blood (Huldra)
 - Faerie Magic*
@@ -57,10 +59,11 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 + Finesse 2 (Rego Craft magic)
 + Guile 2 (elaborate lies)
 + Intrigue 1 (faerie court)
-+ Latin 4 (hermetic usage)
++ Language (native): East Norse 5 (Swedish)
++ Language: Latin 4 (hermetic usage)
 + Magic Theory 3 (spells)
 + Music 1 (singing)
-+ Organization Lore: Order of Hermes 1 (cults)
++ Order of Hermes Lore 1 (cults)
 + Parma Magica 1 (Mentem)
 + Profession: Scribe 1 (copying)
 + Second Sight 1 (faeries)
@@ -103,4 +106,5 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 + *The Unseen Porter* (ReTe 10/+12)
 + *Maintain the Demanding Spell* (ReVi 10/+11)
 
-**Appearance:** Dilwen resembles an huldra, she is beatiful but her back is hollow and she has a cow tail and to hide those traits, Dilwen usually wear a long dress.
+**Appearance:** Dilwen resembles an huldra, she is beatiful but her back is hollow and she has a cow tail and to hide those traits, Dilwen usually wear a long dress.  
+**Sigil:** You can hear distant laughter when she cast a spell.  

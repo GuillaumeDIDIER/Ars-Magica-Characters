@@ -59,6 +59,7 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 + Herbalism 3 (theriacs)
 + Hex 6 (face to face)
 + Infernal Lore 1 (demons)
++ Language (native): North Italian 5 (Piedmontese)
 + Magic Lore 2 (herbs)
 + Penetration 2 (Hex)
 + Premonitions 2 (self)
@@ -104,8 +105,8 @@ This curse inflicts the Lesser Malediction Flaw for an entire year. The victimâ€
 *(Base 6, -3 Season, +15 Year)*
 
 **Curse of Night Terrors**  
-Hex 18
-This curse inflicts the Night Terrors Flaw for an entire year.
+Hex 18  
+This curse inflicts the Night Terrors Flaw for an entire year.  
 *(Base 6, -3 Season, +15 Year)*
 
 **Curse of the Twisted Tongue**  

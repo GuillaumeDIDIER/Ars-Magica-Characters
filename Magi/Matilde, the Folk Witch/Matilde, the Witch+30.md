@@ -66,6 +66,7 @@
 + Herbalism 5 (theriacs)
 + Hex 8 (face to face)
 + Infernal Lore 2 (demons)
++ Language (native): North Italian 5 (Piedmontese)
 + Magic Lore 4 (herbs)
 + Penetration 2 (Hex)
 + Premonitions 3 (self)
@@ -124,7 +125,7 @@ This poppet was created by the Matilde using Lesser Craft Magic and then initial
 
 **Mistletoe of Virtue**  
 Magic Lore Laboratory Total 15  
-In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 6 pawns of Intellego.  
+In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 5 pawns of Intellego.  
 
 **Blackthorn of Virtue**  
 Magic Lore Laboratory Total 21  

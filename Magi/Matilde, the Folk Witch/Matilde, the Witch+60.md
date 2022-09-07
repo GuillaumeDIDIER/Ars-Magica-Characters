@@ -68,7 +68,8 @@
 + Herbalism 5 (theriacs)
 + Hex 10 (face to face)
 + Infernal Lore 2 (demons)
-+ Latin 4 (hermetic)
++ Language (native): North Italian 5 (Piedmontese)
++ Language: Latin 4 (hermetic)
 + Magic Lore 5 (herbs)
 + Magic Theory 2 (integration)
 + Parma Magica 2 (Corpus)
@@ -155,7 +156,7 @@ This poppet was created by the Matilde using Lesser Craft Magic and then initial
 
 **Mistletoe of Virtue**  
 Magic Lore Laboratory Total 15  
-In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 6 pawns of Intellego.  
+In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 5 pawns of Intellego.  
 
 **Blackthorn of Virtue**  
 Magic Lore Laboratory Total 21  
@@ -169,7 +170,7 @@ Matilde obtained the pelt from a Wolf of Virtue that she killed and made this cl
 
 **Ruby of Virtue**  
 Magic Lore Laboratory Total 15  
-Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that grants the Painless Moon Virtue for 2 years (the ruby contains 5 pawns of Corpus).
+Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that grants the Painless Moon Virtue for 2 years (the ruby contains 4 pawns of Corpus).
 
 **Artemisia of Virtue**  
 Magic Lore Laboratory Total 21  

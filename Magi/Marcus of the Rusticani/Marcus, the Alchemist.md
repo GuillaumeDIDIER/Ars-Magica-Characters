@@ -11,6 +11,8 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 
 ## Virtues and Flaws:
 
+- The Gift
+- Hermetic Magus
 - Craft Magic*
 - Flawless Magic
 - Mythic Alchemy
@@ -50,10 +52,11 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 + Finesse 4+2 (Rego Craft magic)
 + Folk Ken 1 (peasants)
 + Guile 2 (about himself)
-+ Latin 4 (hermetic usage)
++ Language (native): Occitan 5 (Provencal)
++ Language: Latin 4 (hermetic usage)
 + Magic Theory 3 (spells)
 + Mythic Alchemy 2 (complex matter)
-+ Organization: Order of Hermes 1 (Rusticani)
++ Order of Hermes Lore 1 (Rusticani)
 + Parma Magica 1 (Terram)
 + Philosophiae 2 (reagents)
 + Profession: Scribe 1 (copying)
@@ -115,6 +118,7 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 ## New spells
 
 **The Alchemist Creation**  
+ReTe(An,He) 4  
 **R**: Touch, **D**: Mom, **T**: Ind  
 This spell combines raw ingredients to produce a reagent chosen at casting. The Ease Factor of the Perception + Finesse roll is equal to the Level of the formula + 9.  
 *(Base 3, +1 Touch)*
