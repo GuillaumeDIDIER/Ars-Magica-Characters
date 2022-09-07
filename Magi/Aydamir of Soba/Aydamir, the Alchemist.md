@@ -2,7 +2,7 @@
 
 Aydamir of Soba, having a Soban alchemist as a father, studied from young age the art of Alchemy, reading ancient texts and helping as an assistant in his father's laboratory. When he was 12 years old, his father arranged an agreement with the Ministry of Work to make him study the magical arts with Tapara of Soba, a really famous Soban alchemist. Aydamir studied with Tapara for 12 years and helped him to concoct potions, sovereign reagents and many other things. Now, Aydamir works for the Ministry of Work and he needs to repay the debt his father asked many years ago.
 
-Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he can extract and transfer vis using his Succurro Magicam Lab Total, he substitues Soban Alchemy for Magic Theory to determine the number of pawns he may use in a season, he may add his Soban Alchemy to his Lab Totals for creating any alchemical reagents, he can use Sovereign Reagents as a pawn of vis when creating potions,
+Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he can extract and transfer vis using his Succurro Magicam Lab Total, he substitues Soban Alchemy for Magic Theory to determine the number of pawns he may use in a season, he may add his Soban Alchemy to his Lab Totals for creating any alchemical reagents, he can use Sovereign Reagents as a pawn of vis when creating potions.
 
 **Characteristics:** Int +3, Per +1, Pre +1, Com +1, Str +0, Sta -1, Dex +0, Qik -1  
 **Size:** 0  
