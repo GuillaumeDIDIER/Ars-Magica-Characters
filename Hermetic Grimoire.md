@@ -58,6 +58,12 @@
 
 ## Rego Herbam
 
+**Carvings of the Magus**  
+ReHe 10  
+**R:** Touch, **D:** Mom, **T:** Ind  
+This spell carves a statue of a person or a creature from a single block of wood to use as a Sympathetic Connection. The piece of wood can be no larger than one cubic pace. This spell requires a Perception + Finesse roll with an Ease Factor of 12 to replicate the necessary Craft roll and the day's work. If this is botched the statue is ruined and it provide no bonus as a Connection. The model is good only for one use but there is a similar spell that craft a more precise statue that can be used as a long lasting representation (the Ease Factor is 18, as the work takes an entire month).  
+*(Base 5, +1 Touch)*
+
 # Ignem
 
 ## Creo Ignem
@@ -144,23 +150,29 @@ ReMe 15
 This spell reshapes the dream of the sleeping person into a dream concerning a subject the magus decides at casting. Many dream magi use this spell before sleeping to establish the subject of the current dream or to interpret the signs in someone else’s dream.  
 *(Base 5, +1 Touch, +1 Dream)*
 
+**Accuracy of the Skillful Magus**  
+ReMe 20  
+**R**: Per, **D**: Diam, **T**: Ind  
+The caster receives a +3 to all Finesse rolls regarding Rego Craft magic for the Duration of this spell, but automatically fails any Perception roll which does not involve Finesse and any Finesse rolls which does not involve Rego Craft magic.  
+*(Base 15, +1 Diameter)*
+
 **Blissful Dreams**  
 ReMe 20  
 **R**: Touch, **D**: Sun, **T**: Ind  
 This spell changes the dream of the sleeping person into a peaceful and calm dream. When he wakes up, the target gains a +2 bonus to rolls that require thought or concentration until the he sleeps again. There's an opposing version of this spell called Dreary Dreams that results in a -2 penalty.  
 *(Base 5, +1 Touch, +2 Sun)*
 
-**Faerie Chains of Slavery**  
-ReMe 30  
-**R**: Eye, **D**: Not (sleeping), **T**: Ind  
-This spell casts a foul curse on the target and make him completely obey the caster as long as he can see the caster and he doesn't sleep. Usually one of the first commands is to not sleep, but the body can't work properly after two or three days without sleep. Only those initiated to the Spell Timing Mystery can cast this curse.  
-*(Base 15, +1 Eye, +2 Not(sleeping))*
-
 **Erect the Dream Fortification**  
 ReMe 25  
 **R**: Per, **D**: Dream, **T**: Ind  
 This spell protects the caster from foreign dream manipulation of level less than or equal to 30. This spell is sometimes used by members of Volshebnii Mechtateli against their enemies in dreams, for them, it’s almost like an Aegis of the Heart while dreaming.  
 *(Base 15, +1 Dream, +1 complexity)*
+
+**Faerie Chains of Slavery**  
+ReMe 30  
+**R**: Eye, **D**: Not (sleeping), **T**: Ind  
+This spell casts a foul curse on the target and make him completely obey the caster as long as he can see the caster and he doesn't sleep. Usually one of the first commands is to not sleep, but the body can't work properly after two or three days without sleep. Only those initiated to the Spell Timing Mystery can cast this curse.  
+*(Base 15, +1 Eye, +2 Not(sleeping))*
 
 # Terram
 

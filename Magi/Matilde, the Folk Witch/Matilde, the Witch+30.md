@@ -107,18 +107,25 @@
 
 **Water Divining Rod**  
 Dowsing 19  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Smell  
 This rod was created by the Matilde using Lesser Craft Magic to help one of her apprentices in finding water.  
 *(Base 9, +5 Touch, +5 Sun)*
 
+**Comb of Virtue**  
+Magic Lore Laboratory Total 12  
+This comb was enriched by Matilde using a drop of blood from his daughter Violante, that has the Venus' Blessing Virtue. This Comb of Virtue now grants the Venus' Blessing Virtue to its owner and it will remain enriched for 2 years (The Comb contains 3 pawn of Imaginem vis).
+
 **Vis Divining Rod**  
 Dowsing 25  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Smell  
 This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.  
 *(Base 15, +5 Touch, +5 Sun)*
 
 **Pain-striking Poppet**  
 Hex 33  
+**Pen:** 0, unlimited uses per day  
 **R:** Sight, **D:** Mom, **T:** Ind  
 This poppet was created by the Matilde using Lesser Craft Magic and then initially given to one of her apprentices to deal with pesky boys in the village. When presented to a target and striken with a needle, the target feels an unbearable pain in the striked point. The pain is not sufficient to cause a Wound.  
 *(Base 18, +5 Sight, +10 unlimited)*

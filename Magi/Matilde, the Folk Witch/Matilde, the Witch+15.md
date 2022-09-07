@@ -100,6 +100,7 @@
 
 **Water Divining Rod**  
 Dowsing 25  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Smell  
 This rod was created by the Matilde using Lesser Craft Magic to help one of her apprentices in finding water.  
 *(Base 15, +5 Touch, +5 Sun)*
