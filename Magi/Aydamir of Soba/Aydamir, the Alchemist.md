@@ -29,7 +29,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 - Susceptibility to Faerie Power
 
 \* House Virtue  
-** Mystery Initiations and Ordeals
+** Mystery Initiations and Ordeals  
 ¹ It is Strong Amulet Magic for Alchemist
 
 **Personality Trait:** Greedy +3, Overconfident +3, Creative +2  
@@ -62,7 +62,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 + Medicine 1 (theriacs)
 + Philosophiae 4 (reagents)
 + Profession: Apothecary 3 (sovereign reagent)
-+ Ride 1 (speed)
++ Profession: Scribe 1 (copying)
 + Soban Alchemist Lore 1 (history)
 + Soban Alchemy 4 (solidity)
 
@@ -71,8 +71,8 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 + Tueor 2
 + Succurro 4
 + Vulnero 1
-+ Fortunam 11
-+ Magicam 8
++ Fortunam 8
++ Magicam 11
 + Salutem 7
 
 **Twilight Scar:** none  
