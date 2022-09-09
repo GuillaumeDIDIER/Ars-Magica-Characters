@@ -24,9 +24,9 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 - Deficient Technique (Perdo)
 - Enemies (Claudius of Verditius)
 - Weak Spontaneous Magic*
-- Ability Block (martial)
 - Gender Nonconforming
 - Noncombatant
+- Slow Caster
 - Small Frame
 
 \* House Virtue and Flaw  
@@ -54,7 +54,7 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 + Guile 2 (about himself)
 + Language (native): Occitan 5 (Provencal)
 + Language: Latin 4 (hermetic usage)
-+ Magic Theory 3 (spells)
++ Magic Theory 3 (Rego)
 + Mythic Alchemy 2 (complex matter)
 + Order of Hermes Lore 1 (Rusticani)
 + Parma Magica 1 (Terram)

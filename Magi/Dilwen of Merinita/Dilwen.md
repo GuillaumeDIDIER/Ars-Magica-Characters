@@ -61,7 +61,7 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 + Intrigue 1 (faerie court)
 + Language (native): East Norse 5 (Swedish)
 + Language: Latin 4 (hermetic usage)
-+ Magic Theory 3 (spells)
++ Magic Theory 3 (inventing spells)
 + Music 1 (singing)
 + Order of Hermes Lore 1 (cults)
 + Parma Magica 1 (Mentem)

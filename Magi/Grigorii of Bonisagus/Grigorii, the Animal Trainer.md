@@ -1,6 +1,6 @@
 # Grigorii of Bonisagus
 
-Grigorii is a young magus born into a family of animal breeder. He has always been good with animals, he could speak with them in a language no one understood and he liked it. He was found when he was 10 by the magus Crescentius of the House Bonisagus, he traveled with him to the covenant of the Three Lakes and there he stood until the end of his apprenticeship. He continued to meddle with animals, breed them, study magical animals and how they interact with the other Realms, because of this, his magic is really focused on animals, from taming them to understand them. His dream is to build a menagerie of magical animals where he can gather new and never seen exemplars and to breed the more endangered species.
+Grigorii is a young magus born into a family of animal breeder. He has always been good with animals, he could speak with them in a language no one understood and he liked it. He was found when he was 10 by the magus Crescentius of the House Bonisagus, he traveled with him to the covenant of the Three Lakes and there he stood until the end of his apprenticeship. He continued to meddle with animals, breed them, study magical animals and how they interact with the other Realms, because of this, his magic is really focused on animals, from taming them to understand them. His dream is to build a menagerie of magical animals where he can gather new and never seen exemplars and to breed the more endangered species. He has a little ferret as his Magical Animal Companion, it has Magic Might 15.  
 
 **Characteristics:** Int +3, Per +0, Pre +2, Com +1, Str +0, Sta +1, Dex -1, Qik -2  
 **Size:** 0  
@@ -58,7 +58,7 @@ Grigorii is a young magus born into a family of animal breeder. He has always be
 + Language: Kipchak 1 (Cuman)
 + Language: Latin 4 (hermetic usage)
 + Magic Lore 1+2 (creatures)
-+ Magic Theory 3+2 (spells)
++ Magic Theory 3+2 (inventing spells)
 + Order of Hermes Lore 1 (bonisagi)
 + Parma Magica 1 (Animal)
 + Penetration 1 (Animal)

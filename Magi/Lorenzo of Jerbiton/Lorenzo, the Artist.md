@@ -1,6 +1,6 @@
 # Lorenzo Bonfanti of Jerbiton
 
-Lorenzo was born into a wealthy family that raised him in an artistic environment and allowed him to study the art of sculpture. From a young age, Lorenzo showed the first signs of his artistic vein, he was able to sculpt pieces that some would have taken entire seasons and this quickly earned him an excellent reputation. Like so many artists, his inspiration faltered as much as his personality, sometimes he was confident and self-assured, other times he didn't believe that he would make it to become a famous artist. The years passed and, at the age of 12, a magus of Jerbiton, Giovanni Guicciardi, discovered that Lorenzo possessed the Gift and he wanted to make him his apprentice. Lorenzo followed the master, who promised him new ways to improve his art and this turned out to be actually true. Despite being focused on being an artist, Lorenzo studied the hermetic arts focusing on the arts of Rego and Terram, given his propensity for sculpture. He is not quick to cast spells and they cause him barely bearable pain so he tries to cast as little as possible.
+Lorenzo was born into a wealthy family that raised him in an artistic environment and allowed him to study the art of sculpture. From a young age, Lorenzo showed the first signs of his artistic vein, he was able to sculpt pieces that some would have taken entire seasons and this quickly earned him an excellent reputation. Like so many artists, his inspiration faltered as much as his personality, sometimes he was confident and self-assured, other times he didn't believe that he would make it to become a famous artist. The years passed and, at the age of 12, a magus of Jerbiton, Giovanni Guicciardi, discovered that Lorenzo possessed the Gift and he wanted to make him his apprentice. Lorenzo followed the master, who promised him new ways to improve his art and this turned out to be actually true. Despite being focused on being an artist, Lorenzo studied the hermetic arts focusing on the arts of Rego and Terram, given his propensity for sculpture but this affinity makes him not that good in Aquam. He is not quick to cast spells and they cause him barely bearable pain so he tries to cast as little as possible. When he was 18 years old, Lorenzo married Violante Ghinetti, a young woman that worked as a tailor assistant in a workshop, now she lives with him in the covenant and she started little by little her clothier workshop.
 
 **Characteristics:** Int +2, Per -1, Pre +0, Com +3, Str -1, Sta +0, Dex +3, Qik -3  
 **Size:** 0  
@@ -23,9 +23,9 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 - Puissant Craft: Sculptor
 - Painful Magic
 - True Love (NPC)
+- Deficient Form (Aquam)
 - Fickle Nature (Confident/Diffident)
 - Noncombatant
-- No Sense of Direction
 - Slow Caster
 
 \* House Virtue  

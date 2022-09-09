@@ -55,7 +55,7 @@ Baqir was born near the Covenant of Almunecar, a covenant of hermetic sahirs. He
 + Language: Latin 4 (hermetic usage)
 + Language: Tamazight 1 (Tuareg)
 + Magic Lore 1 (jinn)
-+ Magic Theory 3 (spells)
++ Magic Theory 3 (inventing spells)
 + Order of Hermes Lore 1 (hermetic sahir)
 + Parma Magica 1 (Corpus)
 + Penetration 1 (Sihr)

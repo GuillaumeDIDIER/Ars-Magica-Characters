@@ -5,7 +5,7 @@
 **Tending the Trees**  
 Aloe 9  
 **R**: Touch, **D**: Regrowth, **T**: Ind  
-Many sorcerer use this spell on their trees when they tend them and the spell regrows minor damages to a tree and makes it more resistant to insects and natural hazards.
+Many sorcerer use this spell on their trees when they tend them and the spell regrows minor damages to a tree and makes it more resistant to insects and natural hazards.  
 *(Base 6, +3 Touch)*
 
 **Gentle Repose to the Corpse**  
@@ -39,19 +39,19 @@ This spell grants a powerful immunity to Iron. This effect is sometimes used bef
 **See the Boundaries**  
 Myrrh 6  
 **R**: Per, **D**: Censer, **T**: Ind  
-This spell grants a +3 bonus to Second Sight rolls to see regio boundaries and navigate regios. Sorcerers use this spell when they're traveling through a regio to see boundaries and to not lose the way. Sometimes this spell is learnt at Sun duration, giving the sorcerer more time to navigate the regios.
+This spell grants a +3 bonus to Second Sight rolls to see regio boundaries and navigate regios. Sorcerers use this spell when they're traveling through a regio to see boundaries and to not lose the way. Sometimes this spell is learnt at Sun duration, giving the sorcerer more time to navigate the regios.  
 *(Base 3, +3 Censer)*
 
 **Follow the Path of Heroes**  
 Myrrh 6  
 **R**: Per, **D**: Censer, **T**: Ind  
-This spell grants the Premonitions Virtue. The character is able to perform the Ability as if he had a score of 4. Sorcerers often use this spell in dire situations or before a battle to commune with God and have a glipse of his knowledge.    
+This spell grants the Premonitions Virtue. The character is able to perform the Ability as if he had a score of 4. Sorcerers often use this spell in dire situations or before a battle to commune with God and have a glimpse of his knowledge.    
 *(Base 3, +3 Censer)*
 
 **Piercing Chant of the Ancient Sorcerer**  
 Myrrh 9  
 **R**: Per, **D**: Sun, **T**: Ind  
-This spell grants Puissant Penetration. This spell isn't very common because sorcerer don't usually need high Penetration for their spells, but with the Order of Hermes slowly crawling though the Arabic lands, the Soqotran sorcerers understood its importance.  
+This spell grants Puissant Penetration. This spell isn't very common because sorcerer don't usually need high Penetration for their spells, but with the Order of Hermes slowly crawling through the Arabic lands, the Soqotran sorcerers understood its importance.  
 *(Base 3, +6 Sun)*
 
 **Sight of the Olibanum Traces**  
@@ -69,7 +69,7 @@ This spell grants the Lesser Benediction Virtue, and the Gift of the Gab benedic
 **Bargaining with the Spirits**  
 Myrrh 9  
 **R**: Per, **D**: Sun, **T**: Ind  
-This spell grants a +3 bonus to Bargain rolls done with a Spirit ally or aide. This spell, with *The Continuance of Good Fortune* at Sun duration, is often used to deal with spirit allies or aides and bargain with them for magical servicies. A similar spell may help the sorcerer in bargaining with other sorcerers.
+This spell grants a +3 bonus to Bargain rolls done with a Spirit ally or aide. This spell, with *The Continuance of Good Fortune* at Sun duration, is often used to deal with spirit allies or aides and bargain with them for magical servicies. A similar spell may help the sorcerer in bargaining with other sorcerers.  
 *(Base 3, +6 Sun)*
 
 **Sleeping Touch of the Faerie**  
@@ -105,13 +105,13 @@ This spell grants the Tough Virtue. Warrior sorcerers often use this spell in ba
 **Towering Heights of the Mighty Giant**  
 Myrrh 12  
 **R**: Touch, **D**: Sun, **T**: Ind  
-This spell grants the Lesser Faerie Power Virtue and a *Change Size* power (MuCo(An, He) 25 Base 3, +2 Sun, +3 Size increase, +1 things carried transform with you) bringing a standard Human from Size +0 up to Size +10. This spell is secretly taught by the elders of the Myrrh Tribe as a secret weapon against the other Tribe for a future internal war.   
+This spell grants the Lesser Faerie Power Virtue and a *Change Size* power (MuCo(An, He) 25 Base 3, +2 Sun, +3 Size increase, +1 things carried transform with you) bringing a standard Human from Size +0 up to Size +10. This spell is kept by the elders of the Myrrh Tribe as a secret weapon against the other Tribe for a future internal war.   
 *(Base 3, +3 Touch, +6 Sun)*
 
 **Truesight of the Faeries**  
 Myrrh 12  
 **R**: Touch, **D**: Sun, **T**: Ind  
-This spell grants the Faerie Sight Virtue. Many Myrrh sorcerer already have this power but the ones who don't crave it.    
+This spell grants the Faerie Sight Virtue. Many Myrrh sorcerer already have this power but the ones who don't, crave it.    
 *(Base 3, +3 Touch, +6 Sun)*
 
 **Enduring the Ravages of Magic**  
@@ -173,7 +173,7 @@ This spell prevents demons from exiting or entering the circle or destroying it 
 **Rise of the Corpses**  
 Olibanum 18  
 **R**: Touch, **D**: Censer, **T**: Incensed  
-This spell animates a corpse and controls its movements. This spell is one of the spells taught by the elder in case of an internal war, they fear the powers of the Myrrh Tribe so much that they may use this wicked spell.  
+This spell animates corpses touched by the the smoke of the censer and controls their movements, a sorcerer, who usually stays in the rear, may use this spell during a battle to make the fallen warriors raise again against the enemies. This spell is one of the spells kept by the elder in case of an internal war, they fear the powers of the Myrrh Tribe so much that they may use this wicked spell.  
 *(Base 6, +3 Touch, +3 Censer, +6 Incensed)*
 
 **Chains of the Foul Being**  
@@ -191,7 +191,7 @@ This spell permanently grants a carpet the ability to fly. Because flying with a
 **This land will be your Tomb**  
 Olibanum 21  
 **R**: Touch, **D**: Mom, **T**: Ind  
-Create a hole in the earth and, when the enemies are swallowed, cover it. When an Olibanum sorcerer wants to literally cover his misdeeds, many spies and enemies end up like this.  
+Create a hole in the earth and, when the enemies are swallowed, cover it. This spell is for Olibanum sorcerers when they want to literally cover thir misdeeds, spies and enemies.  
 *(Base 18, +3 Touch)*
 
 **Summoning the Demonic Beast**  

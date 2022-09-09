@@ -55,7 +55,7 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 + Intrigue 1 (alliances)
 + Language (native): North Italian 5 (Piedmontese)
 + Language: Latin 4 (hermetic usage)
-+ Magic Theory 3 (spells)
++ Magic Theory 3 (Rego)
 + Music 1 (lyre)
 + Order of Hermes Lore 1 (Mercere)
 + Parma Magica 1 (Corpus)
