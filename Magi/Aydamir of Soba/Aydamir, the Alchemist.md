@@ -8,7 +8,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 **Size:** 0  
 **Age:** 26  
 **Decrepitude:** 0 (0)  
-**Warping Score:** 0 (0)  
+**Warping Score:** 1 (6)  
 **Confidence Score:** 1 (3)
 
 ## Virtues and Flaws:
@@ -28,8 +28,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 - Overconfident
 - Susceptibility to Faerie Power
 
-\* House Virtue  
-** Mystery Initiations and Ordeals  
+\* Mystery Initiations and Ordeals  
 ¹ It is Strong Amulet Magic for Alchemist
 
 **Personality Trait:** Greedy +3, Overconfident +3, Creative +2  
