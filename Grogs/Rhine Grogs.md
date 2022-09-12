@@ -1,5 +1,7 @@
 # Rhine Grogs
 
+This list of grogs is taken from [Atlas Forum - Lots of Grogs](https://forum.atlas-games.com/t/lots-of-grogs/167287), the author originally created these grogs mostly for the Rhine Tribunal giving them plot hooks and/or ways to adapt them into alternate Tribunals. They are very different from one another, the list goes from Odile, the Lusty Nun, to Golo, the Winemaker while passing through Krabat, the ex-Infernalist.  
+
 ## Brother Chaplain Paulus
 
 **Characteristics:** Int +2, Per +1, Pre +2, Com +1, Str +0, Sta -1, Dex +0, Qik +0  
