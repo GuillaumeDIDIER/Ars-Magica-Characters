@@ -121,7 +121,7 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 SuFa 25  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce.  
+This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
 *(Base 10, +1 Sun, +2 Group)*
 
 ### Succurro Magicam
@@ -144,7 +144,7 @@ This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alch
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants the target the *Premonitions* Virtue with a score of 4. Aydamir sometimes uses this powder before attending the councils of the Ministry of Work.  
+This powder grants the target the *Premonitions* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes uses this powder before attending the councils of the Ministry of Work.  
 *(Base 10, +1 Sun)*
 
 **Potion for a Gentler Collaboration**  
@@ -154,7 +154,7 @@ SuMa 25
 This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developped this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
 *(Base 10, +3 Season)*
 
-**Potion of Magical Empowerment**
+**Potion of Magical Empowerment**  
 SuMa 35  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
@@ -163,7 +163,7 @@ This potion grants the target the *Major Potent Magic* Virtue. Aydamir developpe
 
 ### Tueor Salutem
 
-**Protective Powder of the Cautious Alchemist**
+**Protective Powder of the Cautious Alchemist**  
 SuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  

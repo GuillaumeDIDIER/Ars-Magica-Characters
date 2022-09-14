@@ -84,7 +84,7 @@
 + Magicam 14
 + Salutem 14
 
-**Equipment:** 3 phials of Sovereign Reagent, 1 Potion of Rapid Healing
+**Equipment:** 3 phials of Sovereign Reagent, 1 Potion of Rapid Healing  
 **Encumbrance:** 0 (0)
 
 **Appearance:** Aydamir is young dark-skinned man who usually wears the traditional Soban alchemists clothes. Many people find his gaze a little disturbing but he doesn't care that much, even though he usually spends his time in the laboratory the Ministry of Work assigned him.
@@ -106,7 +106,7 @@
 *Greek Fire*: Reagent Level 15  
 *Water-purifying Stone*: Reagent Level 5  
 *Alchemical Mercury*: Reagent Level 10  
-*Fulminating Gold*: Reagent Level
+*Fulminating Gold*: Reagent Level 20  
 *Purified Haoma*: Reagent Level 15
 
 ## Theriacs Formulae
@@ -139,7 +139,7 @@ Similar to the *Cataplasme of Mandrake*, this theriac causes the character to be
 
 These books might have been written by Aydamir after reaching the top of the Soban Alchemist cult, while creating the Great Elixir but before gaining its benefit.
 
-*Ealaa Al-khawasi Al-Kimyayiya*: Soban Alchemy Tractatus Level 10  
+*Ealaa Al-khawasi Al-kimyayiya*: Soban Alchemy Tractatus Level 10  
 *Σχετικά με τις Αλχημικές Αρχές*: Soban Alchemy Summa Level 3 Quality 13  
 *Dawrat Al-Hayyat Al-Siriya*: Philosophiae Summa Level 4 Quality 10  
 
@@ -158,7 +158,7 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 SuFa 25  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce.  
+This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
 *(Base 10, +1 Sun, +2 Group)*
 
 **Potion of Rapid Healing**  
@@ -188,7 +188,7 @@ This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alch
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants the target the *Premonitions* Virtue with a score of 4. Aydamir sometimes uses this powder before attending the councils of the Ministry of Work.  
+This powder grants the target the *Premonitions* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes uses this powder before attending the councils of the Ministry of Work.  
 *(Base 10, +1 Sun)*
 
 **Potion for a Gentler Collaboration**  
@@ -198,16 +198,47 @@ SuMa 25
 This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developped this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
 *(Base 10, +3 Season)*
 
-**Potion of Magical Empowerment**
+**Potion of Magical Empowerment**  
 SuMa 35  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
 This potion grants the target the *Major Potent Magic* Virtue. Aydamir developped this potion to help him in brewing the Elixir and other very difficult potions or powders. He sometimes prepares one batch of potions to help his Soban Alchemy Ability but that is usually accomplished through powders because potions are very expensive. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +3 Season)*
 
+**Azurine Powder of the Weightless Body**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Many similar powders exist that grants other powers and sometimes pastille are created to grant the power to a large group of people. If created as a potion, it costs at least 3 doses of Sovereign Reagent or 3 pawns of vis.    
+*(Base 10, +1 Sun)*
+
+**Potion of Primordial Nature**  
+SuMa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming in a bird.  
+*(Base 20, +1 Sun)*
+
+**Potion of the Telepath**  
+SuMa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Greater Power* Virtue and a corresponding *Mind-Reader* Power for Sun duration. This potion is sometimes used when the alchemists need to spy on someone or to easily read the next move of an opponent. The power is something like this:
+
+>**Mind-Reader**  
+InMe 35  
+**R**: Sight, **D**: Conc, **T**: Ind  
+**Pen:** 0, 1 charge  
+This power lets the character read the target's surface thoughts for Conc duration.  
+Mastery (3): -3 Might cost, Cost: 1 (Base 4, -3 mastery), Init: Qik - 4 (Base Qik - 4), Fatigue: 1 Level, Penetration: -5  
+*(Base 15, +1 Conc, +3 Sight)*
+
+There are similar potions that may grant the *Fiery Breath* Power or the *Poisonus Skin* Power and many others.  
+*(Base 20, +1 Sun)*
+
 ### Tueor Salutem
 
-**Protective Powder of the Cautious Alchemist**
+**Protective Powder of the Cautious Alchemist**  
 SuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
@@ -248,7 +279,7 @@ This powder grants a +12 bonus to Recovery rolls for a single non-magical diseas
 SuSa 30  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 4 charges  
-This potion grants a +15 bonus to a person's Living Conditions modifier. One of the created charges will be the Lesser Elixir and the effects of the Elixir will remain active for 5 years. Aydamir found out that the legendary zoroastrian potion *Haoma* could be used in the brewing process, enhancing the potion of longevity. This Elixir costs 9 doses of Sovereign Reagents (or 9 pawns of vis) and an additional 15 pawns of vis for the effects of the Lesser Elixir.  
+This potion grants a +15 bonus to a person's Living Conditions modifier. One of the created charges will be the Lesser Elixir and the effects of the Elixir will remain active for 6 years. Aydamir found out that the legendary zoroastrian potion *Haoma* could be used in the brewing process, enhancing the potion of longevity. This Elixir costs 9 doses of Sovereign Reagents (or 9 pawns of vis) and an additional 18 pawns of vis for the effects of the Lesser Elixir.  
 *(Minimum Lab Total: 46, Effect: Base 15, +3 Season)*
 
 ### Vulnero Salutem
@@ -267,9 +298,9 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 *Bezoar*: +2 fertility, +2 against poison  
 *Cypress of Kashmar*: +3 enhance magic  
 *Soma*: +3 promote longevity  
-*Powdered Sapphire*: +2 vision
-*Vitriol*: +2 acidity
-*Fulminating Gold*: +3 explosion
+*Powdered Sapphire*: +2 vision  
+*Vitriol*: +2 acidity  
+*Fulminating Gold*: +3 explosion  
 
 ## Initiation Scripts
 
@@ -286,7 +317,7 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 *Lesser Elixir*  
 **Ease Factor:** 15 (-3 previous Ordeal)  
 **Script Bonus:** +5  
-**Script Details:** The alchemist have to spend a season working for the cult by initiating younger alchemist into other virtues (+1 Time). In another season, the alchemist needs to brew a number of Potion of Longevity equal to his (Age / 10) rounded up and drink them all at once with an equal number of pawns of Vim vis (+1 Goods) to attune his body to receive a more powerful potion. The magical forces inside his body will inflict the *Monstrous Blood* Flaw on him (+3 Minor Ordeal) but he will gain the *Lesser Elixir* Virtue, he will also gain a number of Elixir Points equal to the number of potions he drank divided by 2 (rounded up).
+**Script Details:** The alchemist have to spend a season working for the cult by initiating younger alchemist into other virtues (+1 Time). In another season, the alchemist needs to brew a number of Potion of Longevity equal to his (Age / 10) rounded up and drink them all at once with an equal number of pawns of Vim vis (+1 Goods) to attune his body to receive a more powerful potion. The magical forces inside his body will inflict the *Monstrous Blood* Flaw on him (+3 Minor Ordeal) but he will gain the *Lesser Elixir* Virtue, he will also gain a number of Elixir Points equal to the number of potions he drank divided by 2 (rounded up). The Monstrous Blood inside him grants him a *Lesser Power* that triggers involuntarily (while angry, or in an heated situation, while sneezing, while yawning, ...) and sends a short shockwave around him, sometimes breaking some objects.  
 
 *Unaging*  
 **Ease Factor:** 18 (-3 previous Ordeal)  
@@ -316,14 +347,14 @@ This virtue is similar to the hermetic *The Great Elixir* Virtue. The alchemist 
 TuSa(Ma) 50  
 **R**: Touch, **D**: Always On, **T**: Ind, Mystery Effect  
 **Pen:** 0, costant effect  
-If the Great Elixir works, the magus transforms into a being aligned to the Magic realm, making him a magical creature. This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.
+If the Great Elixir works, the magus transforms into a being aligned to the Magic realm, making him a magical creature. This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
 *(Unique Mystery)*
 
 > **Grant Might**  
 SuMa Gen  
 **R**: Touch, **D**: Always On, **T**: Ind, Mystery Effect  
 **Pen:** 0, costant effect  
-If the Great Elixir works, the magus gains Magic Might equal to half (effect level–20). This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.
+If the Great Elixir works, the magus gains Magic Might equal to half (effect level–20). This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
 *(Unique Mystery)*
 
 The other rules for *The Great Elixir* are the same.

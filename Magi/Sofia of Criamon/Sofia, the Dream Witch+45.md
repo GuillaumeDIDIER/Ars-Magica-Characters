@@ -145,11 +145,11 @@ A staff made from a cypress tree shod in brass with an amethyst bound on top.
 **Attunement:** +3 dreams, +3 spirits  
 **Talisman Powers:** Harder than Iron  
 
-*Harder than Iron*  
+>**Harder than Iron**  
 MuHe(Te) 19  
 **R**: Personal, **D**: Constant, **T**: Ind  
 This enchantment makes the staff harder than iron, it is nearly unbreakable.  
-*(Base 4, +2 Sun, +1 extra hardness, +4 level to costant)*
+*(Base 4, +2 Sun, +1 extra hardness, +4 level to constant)*
 
 ## New Spells
 

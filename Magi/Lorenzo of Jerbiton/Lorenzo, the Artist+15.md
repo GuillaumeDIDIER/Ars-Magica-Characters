@@ -106,6 +106,6 @@
 
 **Activities in the last fifteen years:** In these fifteen years, Lorenzo studied to become a better artist and he produced quite a few artwork to sell to benefactors. Lorenzo also refined his Arts and learnt new spells but he focused on his artistic career. He traveled to Milan, to sell one of his artwork to the archbishop Enrico I da Settala and there he got caught up in a thorny business with the *Motta* and the *Credenza* families.
 
-# Artistry
+## Artistry
 
 **Aesthetic Quality:** 17 (+3 Dex, +8 Craft: Sculptor, +2 Puissant, +3 Free Expression, +1 Artes Liberales)
