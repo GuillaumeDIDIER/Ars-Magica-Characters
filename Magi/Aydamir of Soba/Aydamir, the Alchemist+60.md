@@ -38,7 +38,7 @@
 ** Warping  
 ¹ It is Strong Amulet Magic for Alchemist
 
-**Personality Trait:** Greedy +3, Overconfident +3, Creative +2, Obsessed +3\**, Paranoid +6\**
+**Personality Trait:** Greedy +3, Overconfident +3, Creative +2, Obsessed +3\**, Paranoid +6\**  
 **Reputations:** Genius Alchemist 4
 
 **Combat:**  
@@ -158,7 +158,7 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 SuFa 25  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
+This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent or 5 pawns of vis to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
 *(Base 10, +1 Sun, +2 Group)*
 
 **Potion of Rapid Healing**  
@@ -181,7 +181,7 @@ This powder, crafted when needed, grants the *Minor Potent Magic* Virtue. Aydami
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemist usually use this powder before performing a difficult feat of Soban Alchemy.  
+This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemists usually use this powder before performing a difficult feat of Soban Alchemy.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  
@@ -209,21 +209,21 @@ This potion grants the target the *Major Potent Magic* Virtue. Aydamir developpe
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Many similar powders exist that grants other powers and sometimes pastille are created to grant the power to a large group of people. If created as a potion, it costs at least 3 doses of Sovereign Reagent or 3 pawns of vis.    
+This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Activating this Power costs a Fatigue level and needs Concentration. Many similar powders exist that grant other powers and sometimes pastille are created to grant the power to a larger group of people. If created as a potion, it costs at least 3 doses of Sovereign Reagent or 3 pawns of vis.    
 *(Base 10, +1 Sun)*
 
 **Potion of Primordial Nature**  
 SuMa 35  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming in a bird.  
+This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming into a bird. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.
 *(Base 20, +1 Sun)*
 
 **Potion of the Telepath**  
 SuMa 35  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Greater Power* Virtue and a corresponding *Mind-Reader* Power for Sun duration. This potion is sometimes used when the alchemists need to spy on someone or to easily read the next move of an opponent. The power is something like this:
+This potion grants the target the *Greater Power* Virtue and a corresponding *Mind-Reader* Power for Sun duration. This potion is sometimes used when the alchemists need to spy on someone or to easily read the next move of an opponent. Activating the Power costs a Fatigue level and needs Concentration, the specific Power is this:
 
 >**Mind-Reader**  
 InMe 35  
@@ -233,7 +233,7 @@ This power lets the character read the target's surface thoughts for Conc durati
 Mastery (3): -3 Might cost, Cost: 1 (Base 4, -3 mastery), Init: Qik - 4 (Base Qik - 4), Fatigue: 1 Level, Penetration: -5  
 *(Base 15, +1 Conc, +3 Sight)*
 
-There are similar potions that may grant the *Fiery Breath* Power or the *Poisonus Skin* Power and many others.  
+There are similar potions that may grant the *Fiery Breath* Power or the *Poisonus Skin* Power and many others. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +1 Sun)*
 
 ### Tueor Salutem
@@ -279,7 +279,7 @@ This powder grants a +12 bonus to Recovery rolls for a single non-magical diseas
 SuSa 30  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 4 charges  
-This potion grants a +15 bonus to a person's Living Conditions modifier. One of the created charges will be the Lesser Elixir and the effects of the Elixir will remain active for 6 years. Aydamir found out that the legendary zoroastrian potion *Haoma* could be used in the brewing process, enhancing the potion of longevity. This Elixir costs 9 doses of Sovereign Reagents (or 9 pawns of vis) and an additional 18 pawns of vis for the effects of the Lesser Elixir.  
+This potion grants a +15 bonus to a person's Living Conditions modifier. One of the created charges will be the Lesser Elixir and the effects of the Elixir will remain active for 6 years. Aydamir found out that the legendary zoroastrian potion *Haoma* could be used in the brewing process, enhancing the potion of longevity. This Elixir costs 9 doses of Sovereign Reagents (or 9 pawns of vis) and, now, an additional 18 pawns of vis for the effects of the Lesser Elixir.  
 *(Minimum Lab Total: 46, Effect: Base 15, +3 Season)*
 
 ### Vulnero Salutem
@@ -317,7 +317,7 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 *Lesser Elixir*  
 **Ease Factor:** 15 (-3 previous Ordeal)  
 **Script Bonus:** +5  
-**Script Details:** The alchemist have to spend a season working for the cult by initiating younger alchemist into other virtues (+1 Time). In another season, the alchemist needs to brew a number of Potion of Longevity equal to his (Age / 10) rounded up and drink them all at once with an equal number of pawns of Vim vis (+1 Goods) to attune his body to receive a more powerful potion. The magical forces inside his body will inflict the *Monstrous Blood* Flaw on him (+3 Minor Ordeal) but he will gain the *Lesser Elixir* Virtue, he will also gain a number of Elixir Points equal to the number of potions he drank divided by 2 (rounded up). The Monstrous Blood inside him grants him a *Lesser Power* that triggers involuntarily (while angry, or in an heated situation, while sneezing, while yawning, ...) and sends a short shockwave around him, sometimes breaking some objects.  
+**Script Details:** The alchemist have to spend a season working for the cult by initiating younger alchemists into other virtues (+1 Time). In another season, the alchemist needs to brew a number of Potion of Longevity equal to his (Age / 10) rounded up and drink them all at once with an equal number of pawns of Vim vis (+1 Goods) to attune his body to receive a more powerful potion. The magical forces inside his body will inflict the *Monstrous Blood* Flaw on him (+3 Minor Ordeal) but he will gain the *Lesser Elixir* Virtue, he will also gain a number of Elixir Points equal to the number of potions he drank divided by 2 (rounded up). The Monstrous Blood inside him grants him a *Lesser Power* that triggers involuntarily (while angry, or in an heated situation, while sneezing, while yawning, ...) and sends a short shockwave around him, sometimes breaking some objects.  
 
 *Unaging*  
 **Ease Factor:** 18 (-3 previous Ordeal)  
@@ -337,7 +337,7 @@ This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alche
 
 **Lesser Elixir**  
 *Minor Supernatural Virtue*  
-This virtue is similar to the hermetic *Lesser Elixir* Virtue. When the alchemist brews a potion that promotes longevity he may exceed the usual +10 limit to the Living Condition's modifier, but only for potions and when he creates such a potion, he may design one of the charges he created to be a Lesser Elixir by spending additional pawns of vis equal to (Age / 5), rounded up (this cost may not be paid with Sovereign Reagent). If the alchemists brews these potion through a Laboratory Text, the number of pawns of vis he can use is limited by Salutem and not Soban Alchemy. As per the hermetic virtue, the Lesser Elixir is brewed by adding special ingredients and the Elixir Level is determined by the Elixir Points, limited by Soban Alchemy score (as in TM:RE pp. 42). The Aging Bonus will be Living Condition's Modifier + Other Bonuses + Elixir Level and the Lesser Elixir remains active for a number of years equal to the alchemist's Soban Alchemy score or until the next Crisis, whichever comes first.
+This virtue is similar to the hermetic *Lesser Elixir* Virtue. When the alchemist brews a potion that promotes longevity he may exceed the usual +10 limit to the Living Condition's modifier, but only for potions and when he creates such a potion, he may design one of the charges he created to be a Lesser Elixir by spending additional pawns of vis equal to (Age / 5), rounded up (this cost may not be paid with Sovereign Reagent). If the alchemist brews these potion through a Laboratory Text, the number of pawns of vis he can use is limited by Salutem and not Soban Alchemy. As per the hermetic virtue, the Lesser Elixir is brewed by adding special ingredients and the Elixir Level is determined by the Elixir Points, limited by Soban Alchemy score (as in TM:RE pp. 42). The Aging Bonus will be Living Condition's Modifier + Other Bonuses + Elixir Level and the Lesser Elixir remains active for a number of years equal to the alchemist's Soban Alchemy score or until the next Crisis, whichever comes first.
 
 **The Great Elixir**  
 *Minor Supernatural Virtue*  

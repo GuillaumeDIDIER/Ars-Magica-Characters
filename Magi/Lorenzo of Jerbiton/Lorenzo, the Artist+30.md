@@ -101,7 +101,7 @@
 + *Wielding the Invisible Sling* (ReTe 10/+20)
 + *Supple Iron and Rigid Rope* (MuTe 10/+17)
 + *Fist of Shattering* (PeTe 10/+14)
-+ *Lord of the Statues<sup>F</sup>* (ReTe 20/+20)
++ *Lord of the Statues<sup>F</sup>* (ReTe 25/+20)
 + *Hand of the Antiquarian* (ReTe 15/+20)
 + *The Warped Mannequin* (CrVi 10/+13)
 
@@ -130,10 +130,10 @@ This enchantment makes the staff harder than iron, it is nearly unbreakable.
 ## New Spells
 
 **Lord of the Statues**  
-ReTe 20  
-**R**: Touch, **D**: Conc, **T**: Ind  
-This spell brings a stone or a clay statue to life and control its movement in a fine way. A stone statue striking with an arm has Initiative +3, Attack +7, Damage +12. Normal weapons are practically useless against a stone statue (consider an high Soak if you want to really damage it). A clay statue is much weaker, reduce the Damage to +8 and normal weapons may damage it.  
-*(Base 3, +1 Touch, +1 Conc, +1 stone, +1 precise movements, +1 Size)*
+ReTe 25  
+**R**: Touch, **D**: Conc, **T**: Part  
+This spell  make a stone or a clay statue move under the direct control of the caster with precise movements. A stone statue striking with an arm has Initiative +3, Attack +7, Damage +12. Normal weapons are practically useless against a stone statue (consider an high Soak if you want to really damage it). A clay statue is much weaker, reduce the Damage to +8 and normal weapons may damage it. For a Size +3 statue you should add +6 Damage and -4 Initiative and you might also add a bonus to Attack using the Aiming rules in ArM Core pp. 86. Part is necessary for statues that have a base to stand.  
+*(Base 3, +1 Touch, +1 Part, +1 Conc, +1 stone, +1 precise movements, +1 Size)*
 
 **The Warped Mannequin**  
 CrVi 10  

@@ -104,17 +104,18 @@
 + *Wielding the Invisible Sling* (ReTe 10/+24)
 + *Supple Iron and Rigid Rope* (MuTe 10/+20)
 + *Fist of Shattering* (PeTe 10/+16)
-+ *Lord of the Statues<sup>F</sup>* (ReTe 20/+36)
++ *Lord of the Statues<sup>F</sup>* (ReTe 25/+36)
 + *Hand of the Antiquarian* (ReTe 15/+24)
 + *The Warped Mannequin* (CrVi 10/+15)
-+ *Maintain the Demanding Spell* (ReVi 20/+18)
++ *Maintain the Demanding Spell* (ReVi 25/+18)
 + *The Weightless Menhir* (MuTe 20/+20)
-+ *Master the Airy Spirit of Earth* (ReTe 30/+24)
++ *The Master's Message* (ReVi 20/+18)
++ *The Evil Eye* (ReVi 20/+18)
 
 **Appearance:** Lorenzo is a young man with blonde hair, he usually dresses with expensive white clothes, when he have to attend some event or at the covenant, or his work clothes, when he's sculpting.  
 **Sigil:** His right hand shines as touched by light.
 
-**Activities in the last fifteen years:** In these fifteen years, Lorenzo reached an Artistic Reputation of 7 and gained a Muse, granting him a Personal Power. Lorenzo created some moving statues to help him in his laboratory and recently came in contact with an association of wizards that may have something he wants, this order is the Augustan Brotherhood. One of them approached Lorenzo as a benefactor to order a statue but then Lorenzo found out he was interested in his magical capabilities. Lorenzo was quite astonished to know that there were other magicians capable of so many magical feats but the most remarkable to him was the Practice of Animo, maybe his new friend may teach that to him, well, after a just reward or a bargain.  
+**Activities in the last fifteen years:** In these fifteen years, Lorenzo reached an Artistic Reputation of 7 and gained a Muse, granting him a Personal Power. Lorenzo created some moving statues to help him in his laboratory and recently came in contact with an association of wizards that may have something he wants, this order is the Augustan Brotherhood. One of them approached Lorenzo as a benefactor to order a statue but then Lorenzo found out he was interested in his magical capabilities. Lorenzo was quite astonished to know that there were other magicians capable of so many magical feats but the most remarkable to him was the Practice of Animo, maybe his new friend may teach that to him, well, after a just reward or a bargain. Lorenzo will also try to reach Artistic Reputation 11 and become a Legendary Artist but it will be difficult, he needs to find a wealthy patron soon and, to slowly reach Reputation 10, he will need an Aesthetic Quality of at least 31 (The Major Muse obtained at Artistic Reputation 9 could grant him the *Life-Linked Art* Virtue to achieve his goals).
 
 ## Artistry
 
@@ -151,10 +152,10 @@ This enchantment makes the chisel change shape to help the sculptor, it may beco
 ## New Spells
 
 **Lord of the Statues**  
-ReTe 20  
-**R**: Touch, **D**: Conc, **T**: Ind  
-This spell  make a stone or a clay statue move under the direct control of the caster with precise movements. A stone statue striking with an arm has Initiative +3, Attack +7, Damage +12. Normal weapons are practically useless against a stone statue (consider an high Soak if you want to really damage it). A clay statue is much weaker, reduce the Damage to +8 and normal weapons may damage it. For a Size +3 statue you should add +6 Damage and -4 Initiative and you might also add a bonus to Attack using the Aiming rules in ArM Core pp. 86.  
-*(Base 3, +1 Touch, +1 Conc, +1 stone, +1 precise movements, +1 Size)*
+ReTe 25  
+**R**: Touch, **D**: Conc, **T**: Part  
+This spell  make a stone or a clay statue move under the direct control of the caster with precise movements. A stone statue striking with an arm has Initiative +3, Attack +7, Damage +12. Normal weapons are practically useless against a stone statue (consider an high Soak if you want to really damage it). A clay statue is much weaker, reduce the Damage to +8 and normal weapons may damage it. For a Size +3 statue you should add +6 Damage and -4 Initiative and you might also add a bonus to Attack using the Aiming rules in ArM Core pp. 86. Part is necessary for statues that have a base to stand.  
+*(Base 3, +1 Touch, +1 Part, +1 Conc, +1 stone, +1 precise movements, +1 Size)*
 
 **The Warped Mannequin**  
 CrVi 10  
@@ -165,11 +166,11 @@ This spell inflicts one Warping Point to its target. Lorenzo uses this spell whe
 ## Magic Items
 
 **Heart of the Statue**  
-This little heart made of a magnet is positioned into a statue using a spell like *Hiding the Mystic Key* or *Rock of Viscid Clay* and its purpose it to control the statue.
+This little heart made with a magnet is positioned into a statue using a spell like *Hiding the Mystic Key* or *Rock of Viscid Clay* and its purpose it to control the statue.
 
 >**Movement of the Statue**  
 ReTe 39  
 **R**: Touch, **D**: Constant, **T**: Ind  
 **Pen:** 0  
-This spell make a stone or a clay statue move with purpose under the creator's control. The statue can move in a precise way so it can be used as an assistant in various tasks and also a guardian.  
+This enchantment makes a stone or a clay statue move with purpose under the creator's control. The statue can move in a precise way, so it can be used as an assistant in various tasks and also as a guardian.  
 *(Base 3, +1 Touch, +2 Sun, +1 stone, +1 precise movements, +2 move with purpose, +1 under creator's control, +4 levels to constant)*

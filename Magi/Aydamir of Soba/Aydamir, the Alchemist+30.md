@@ -129,7 +129,7 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 SuFa 25  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
+This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent or 5 pawns of vis to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
 *(Base 10, +1 Sun, +2 Group)*
 
 ### Succurro Magicam
