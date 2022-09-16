@@ -1,6 +1,6 @@
 # Sofia, the Dream Witch
 
-Sofia was born into a covenant family, her parents are custos in the Lecyzca covenant and she was born there. Her Gift was revelead very early, being Blatant, and caused much distress to her parents in her youth, this is why she never socialized very much with children of her age and spent a lot of time with books and teachers. Sofia focuses her magic around dreams, she can manipulate them and she's also able to navigate really well through them. When she was still an apprentice of her mater Kasina, a Criamon maga, she had a very vivid dream, she was visited by another magus (or a maga, she couldn't tell) by the name of Amani, they told her great stories about wonderful dreams and her powers, how she could manipulate and control dream matter at her will and Sofia was fascinated. Amani, through an ancient ritual passed down in the dream cult, instructed Sofia on how to gain access to Dream Magic and she gladly followed their teachings. Sofia now knows that the stories about the "Dream Witches", stories told by magi to scare the younger apprenticies, were true and she became one of them. Sworn an oath to the new reformed Volshebnii Mechtateli, Sofia vowed not to harm others in their dreams, nor manipulate them but it will not be that easy to convince all the Order that the cult is now better than before.
+Sofia was born into a covenant family, her parents are custos in the Lecyzca covenant and she was born there. Her Gift was revealed very early, being Blatant, and caused much distress to her parents in her youth, this is why she never socialized very much with children of her age and spent a lot of time with books and teachers. Sofia focuses her magic around dreams, she can manipulate them and she's also able to navigate really well through them. When she was still an apprentice of her mater Kasina, a Criamon maga, she had a very vivid dream, she was visited by another magus (or a maga, she couldn't tell) by the name of Amani, they told her great stories about wonderful dreams and her powers, how she could manipulate and control dream matter at her will and Sofia was fascinated. Amani, through an ancient ritual passed down in the dream cult, instructed Sofia on how to gain access to Dream Magic and she gladly followed their teachings. Sofia now knows that the stories about the "Dream Witches", stories told by magi to scare the younger apprenticies, were true and she became one of them. Sworn an oath to the new reformed Volshebnii Mechtateli, Sofia vowed not to harm others in their dreams, nor manipulate them but it will not be that easy to convince all the Order that the cult is now better than before.
 
 **Characteristics:** Int +3, Per +1, Pre +2, Com +1, Str -2, Sta +2, Dex -2, Qik -1  
 **Size:** 0  
@@ -54,10 +54,11 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Folk Ken 2 (magi)
 + Guile 2 (about the cult)
 + Intrigue 1 (alliances)
-+ Latin 4 (hermetic usage)
++ Language (native): West Slavonic 5 (Polish)
++ Language: Latin 4 (hermetic usage)
 + Magic Lore 2 (dream creatures)
 + Magic Theory 3 (spells)
-+ Organizaton Lore: Order of Hermes 1 (cults)
++ Order of Hermes Lore 1 (cults)
 + Parma Magica 1 (Imaginem)
 + Profession: Scribe 1 (copying)
 + Volshebnii Mechtateli Lore 1 (initiations)

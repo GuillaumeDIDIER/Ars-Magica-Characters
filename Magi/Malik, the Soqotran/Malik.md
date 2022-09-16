@@ -6,15 +6,17 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 **Size:** 0  
 **Age:** 23  
 **Decrepitude:** 0 (0)  
-**Warping Score:** 0 (0)  
+**Warping Score:** 1 (5)  
 **Confidence Score:** 1 (3)
 
 ## Virtues and Flaws:
 
+- The Gift
+- Soqotran Sorcerer
 - Major Potent Magic (Spirits)
 - Strong Faerie Blood (Jinniyah)
 - Apt Student
-- Careful Sorcerer
+- Cautious Sorcerer
 - Faerie Sight¹
 - Special Circumstances (through Omoch touch)
 - Puissant Olibanum*
@@ -30,8 +32,8 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 
 \* Soqotran Tribe Virtue  
 ** Mystery Initiations and Ordeals  
-¹ Free virtue with Strong Faerie Blood  
-² Free virtue with Strong Faerie Blood (Jinniyah)  
+¹ Free virtue with Strong Faerie Blood (Jinniyah)  
+² Free virtue with Strong Faerie Blood  
 ³ Similar to Well-Trained Folk Witch  
 ° Free virtue
 
@@ -65,13 +67,14 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 + Faerie Sympathy: Slavery -1
 + Finesse 2 (Olibanum Magic)
 + Folk Ken 1 (peasants)
++ Language (native): Arabic 5 (Khaliji)
++ Language: Soqotri 4 (spirits)
 + Magic Lore 2 (Soqotran)
 + Myrrh Magic 3 (faerie powers)
 + Olibanum 5+2 (attacks)
 + Penetration 2 (Olibanum)
 + Profession: Storyteller 1 (legends)
 + Second Sight 1 (spirits)
-+ Soqotri 4 (spirits)
 + Sorcerer of Soqotra Lore 1 (history)
 + Survival 1 (desert)
 + Swim 2 (diving)

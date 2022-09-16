@@ -68,7 +68,8 @@
 + Herbalism 5 (theriacs)
 + Hex 9 (face to face)
 + Infernal Lore 2 (demons)
-+ Latin 1 (hermetic)
++ Language (native): North Italian 5 (Piedmontese)
++ Language: Latin 1 (hermetic)
 + Magic Lore 5 (herbs)
 + Parma Magica 1 (Corpus)
 + Penetration 3 (Hex)
@@ -112,25 +113,32 @@
 
 **Water Divining Rod**  
 Dowsing 19  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Smell  
 This rod was created by the Matilde using Lesser Craft Magic to help one of her apprentices in finding water.  
 *(Base 9, +5 Touch, +5 Sun)*
 
+**Comb of Virtue**  
+Magic Lore Laboratory Total 12  
+This comb was enriched by Matilde using a drop of blood from his daughter Violante, that has the Venus' Blessing Virtue. This Comb of Virtue now grants the Venus' Blessing Virtue to its owner and it will remain enriched for 2 years (The Comb contains 3 pawn of Imaginem vis).
+
 **Vis Divining Rod**  
 Dowsing 25  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Smell  
 This rod was created by Matilde using Lesser Craft Magic to help one of her apprentices in finding vis.  
 *(Base 15, +5 Touch, +5 Sun)*
 
 **Pain-striking Poppet**  
 Hex 33  
+**Pen:** 0, unlimited uses per day  
 **R:** Sight, **D:** Mom, **T:** Ind  
 This poppet was created by the Matilde using Lesser Craft Magic and then initially given to one of her apprentices to deal with pesky boys in the village. When presented to a target and striken with a needle, the target feels an unbearable pain in the striked point. The pain is not sufficient to cause a Wound.  
 *(Base 18, +5 Sight, +10 unlimited)*
 
 **Mistletoe of Virtue**  
 Magic Lore Laboratory Total 15  
-In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 6 pawns of Intellego.  
+In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 5 pawns of Intellego.  
 
 **Blackthorn of Virtue**  
 Magic Lore Laboratory Total 21  
@@ -138,13 +146,14 @@ Matilde recreated a rather famous herb of Virtue often found in nature using a m
 
 **Animal Cloak**  
 Shapeshifter 15  
+**Pen:** 0, 2 uses per day  
 **R:** Touch, **D:** Conc, **T:** Ind  
 Matilde obtained the pelt from a Wolf of Virtue that she killed and made this cloak for her apprentice Giovanna.  
 *(Base 9, +5 Touch, +1 2/gg)*
 
 **Ruby of Virtue**  
 Magic Lore Laboratory Total 15  
-Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that grants the Painless Moon Virtue for 2 years (the ruby contains 5 pawns of Corpus).
+Using the healing properties of a ruby, Matilde infused a Ruby of Virtue that grants the Painless Moon Virtue for 2 years (the ruby contains 4 pawns of Corpus).
 
 ## Theriac Formulas
 
