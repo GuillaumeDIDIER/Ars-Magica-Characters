@@ -14,8 +14,8 @@
 - Soban Alchemy
 - Strong Alchemical Magic¹
 - Alchemist of Soba
-- Cautious Sorcerer
 - Inventive Genius
+- Minor Magical Focus (longevity)
 - Privileged Upbringing
 - Vulgar Alchemy*
 - Soban Philosophical Alchemy*
@@ -126,11 +126,11 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 *(Base 10, +3 Season)*
 
 **Pastille of Combat Enhancement**  
-SuFa 25  
+SuFa 20  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
 This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent or 5 pawns of vis to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
-*(Base 10, +1 Sun, +2 Group)*
+*(Base 10, +1 Sun, +1 Group)*
 
 ### Succurro Magicam
 
@@ -145,7 +145,14 @@ This powder, crafted when needed, grants the *Minor Potent Magic* Virtue. Aydami
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemist usually use this powder before performing a difficult feat of Soban Alchemy.  
+This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemists usually use this powder before performing a difficult feat of Soban Alchemy.  
+*(Base 10, +1 Sun)*
+
+**Emerald Powder of Natural Attunement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants a the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  
@@ -165,7 +172,7 @@ This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and o
 ### Tueor Salutem
 
 **Protective Powder of the Cautious Alchemist**  
-SuSa 15  
+TuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
 This powder grants a +10 bonus to Soak Total against damage caused by a laboratory explosion. Soban Alchemists usually experiment in laboratory to achieve greater heights and reach the pinnacle of alchemy but this is dangerous and they need a *safety net* in case something goes wrong. This powder may be crafted to grant a +20 bonus while lasting only Sun duration, in case the alchemist wants to experiment on many powders in that time frame.  
@@ -207,6 +214,22 @@ This powder grants a +12 bonus to Recovery rolls for a single non-magical diseas
 *Mercurius Praecipitatus*: +3 toxicity  
 *Bezoar*: +2 fertility, +2 against poison
 
+## Aydamir's Laboratory
+
+His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+
+**Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Precious Ingredients, Well Insulated  
+**Size:** +0  
+**Refinement:** +1  
+**Safety:** +4  
+**General Quality:** -1  
+**Upkeep:** +3  
+**Warping:** +0  
+**Health:** +0  
+**Aesthetics:** +4  
+
+**Specializations:** Experimentation +5, Items +1, Longevity +1, Vis Extraction +2
+
 ## Initiation Scripts
 
 *Vulgar Alchemy*  
@@ -223,4 +246,4 @@ This powder grants a +12 bonus to Recovery rolls for a single non-magical diseas
 
 **Soban Philosophical Alchemy (Minor)**  
 *Minor Supernatural Virtue*  
-This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties.  
+This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties. The alchemist may not experiment using this automatic process.  

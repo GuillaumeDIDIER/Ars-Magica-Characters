@@ -18,8 +18,8 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 - Soban Alchemy
 - Strong Alchemical Magic¹
 - Alchemist of Soba
-- Cautious Sorcerer
 - Inventive Genius
+- Minor Magical Focus (longevity)
 - Privileged Upbringing
 - Laboratory Magician
 - Favors (Ministry of Work)

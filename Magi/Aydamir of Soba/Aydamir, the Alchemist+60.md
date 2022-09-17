@@ -14,8 +14,8 @@
 - Soban Alchemy
 - Strong Alchemical Magic
 - Alchemist of Soba
-- Cautious Sorcerer
 - Inventive Genius
+- Minor Magical Focus (longevity)
 - Privileged Upbringing
 - Vulgar Alchemy*
 - Soban Philosophical Alchemy*
@@ -155,11 +155,11 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 *(Base 10, +1 Sun)*
 
 **Pastille of Combat Enhancement**  
-SuFa 25  
+SuFa 20  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
 This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent or 5 pawns of vis to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
-*(Base 10, +1 Sun, +2 Group)*
+*(Base 10, +1 Sun, +1 Group)*
 
 **Potion of Rapid Healing**  
 SuFa 20  
@@ -182,6 +182,13 @@ SuMa 15
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
 This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemists usually use this powder before performing a difficult feat of Soban Alchemy.  
+*(Base 10, +1 Sun)*
+
+**Emerald Powder of Natural Attunement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants a the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  
@@ -209,14 +216,28 @@ This potion grants the target the *Major Potent Magic* Virtue. Aydamir developpe
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Activating this Power costs a Fatigue level and needs Concentration. Many similar powders exist that grant other powers and sometimes pastille are created to grant the power to a larger group of people. If created as a potion, it costs at least 3 doses of Sovereign Reagent or 3 pawns of vis.    
+This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Activating this Power costs a Fatigue level and needs Concentration. Many similar powders exist that grant other powers and sometimes pastille are created to grant the power to a larger group of people. If created as a potion, it costs at least 3 doses of Sovereign Reagent or 3 pawns of vis.  
 *(Base 10, +1 Sun)*
 
 **Potion of Primordial Nature**  
 SuMa 35  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming into a bird. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.
+This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming into a bird. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
+*(Base 20, +1 Sun)*
+
+**Potion of Malevolence**  
+SuMa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Hex* Virtue and the corresponding Ability with a score of 4. Aydamir used once this potion to curse a person but this tainted power was too much for him to handle, so he stopped using it. Using a *Potion of Magical Empowerment* and a powder to boost this power, you can achieve high totals. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
+*(Base 20, +1 Sun)*
+
+**Potion of the Undying One**  
+SuMa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Corpse Magic* Virtue and the corresponding Ability with a score of 4. Aydamir learned of the existence of this power and of the Undying Ones when visiting Meroë, he had to bargain for his life when he was caught trespassing in a tomb. Using a *Potion of Magical Empowerment* and a powder to boost this power, you can achieve high totals. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
 *(Base 20, +1 Sun)*
 
 **Potion of the Telepath**  
@@ -233,17 +254,24 @@ This power lets the character read the target's surface thoughts for Conc durati
 Mastery (3): -3 Might cost, Cost: 1 (Base 4, -3 mastery), Init: Qik - 4 (Base Qik - 4), Fatigue: 1 Level, Penetration: -5  
 *(Base 15, +1 Conc, +3 Sight)*
 
-There are similar potions that may grant the *Fiery Breath* Power or the *Poisonus Skin* Power and many others. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
+There are similar potions that may grant the *Fiery Breath* Power or the *Tay al-Ard (Travel)* Power and many others but most of them are jinn powers that Aydamir saw in his travels and adventures. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +1 Sun)*
 
 ### Tueor Salutem
 
 **Protective Powder of the Cautious Alchemist**  
-SuSa 15  
+TuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
 This powder grants a +10 bonus to Soak Total against damage caused by a laboratory explosion. Soban Alchemists usually experiment in laboratory to achieve greater heights and reach the pinnacle of alchemy but this is dangerous and they need a *safety net* in case something goes wrong. This powder may be crafted to grant a +20 bonus while lasting only Sun duration, in case the alchemist wants to experiment on many powders in that time frame.  
 *(Base 5, +2 Month)*
+
+**Fumes of Fire Quenching**  
+TuSa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder-like substance is ignited in the middle of a city and a fog-like smoke quickly fills all the streets and alleys. The fumes grant a +20 bonus to Soak Total against fire, even someone completely engulfed by fire could survive. This substance was commisioned by the Ministry of Work to ensure that no fire could harm his people, it may be created with a longer duration or with *Structure* Target. This substance costs at least 7 doses of Sovereign Reagent or 7 pawns of vis to create.  
+*(Base 10, +1 Sun, +4 Boundary)*  
 
 ### Succurro Salutem
 
@@ -285,11 +313,18 @@ This potion grants a +15 bonus to a person's Living Conditions modifier. One of 
 ### Vulnero Salutem
 
 **Pastille of the Mortal Limb**  
-VuSa 25  
+VuSa 20  
 **R**: Touch, **D**: Mom, **T**: Group  
 **Pen:** 0, 1 charge  
 This pastille rend the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
-*(Base 15, +2 Group)*
+*(Base 15, +1 Group)*
+
+**Fumes of the Sleeping City**  
+VuSa 35  
+**R**: Touch, **D**: Mom, **T**: Group  
+**Pen:** 0, 1 charge  
+This powder-like substance is usually ignited near the middle of a city, in the sewers or in a dark alley by some spies and a fog-like smoke quickly fills all the buildings and streets of the city. The fume is tremendously vicious because it doesn't harm nor has a bad odor but quickly fills the lungs of every person caught in the fog and causes the loss of a Fatigue Level each minute until the person reach the Unconscious Level, they can't be woken up until the fog remain. This substance was commisioned by the Ministry of Work as a quick way to deal with opposing city without spilling too much blood, sometimes the fumes are created with *Structure* Target for specific missions. This substance costs at least 7 doses of Sovereign Reagent or 7 pawns of vis to create.  
+*(Base 10, +1 Sun, +4 Boundary)*
 
 ## Vulgar Alchemy Materials and Shapes
 
@@ -301,6 +336,25 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 *Powdered Sapphire*: +2 vision  
 *Vitriol*: +2 acidity  
 *Fulminating Gold*: +3 explosion  
+
+## Aydamir's Laboratory
+
+His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+
+**Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Precious Ingredients, Well Insulated, Assistants (2), Extensive Store, Lesser Feature (Mechanism), Faerie Ingredients¹  
+**Size:** +0  
+**Refinement:** +3  
+**Safety:** +8  
+**General Quality:** +8*  
+**Upkeep:** +2  
+**Warping:** +1  
+**Health:** +0  
+**Aesthetics:** +5  
+
+**Specializations:** Experimentation +6, Items +1, Longevity +1, Vis Extraction +3, Terram +1
+
+¹ Aydamir made a bargain with a Faerie Jinn to have these ingredients (faerie gems)  
+\* Assistants have Int + Soban Alchemy equal to 4
 
 ## Initiation Scripts
 
@@ -333,7 +387,7 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 
 **Soban Philosophical Alchemy (Minor)**  
 *Minor Supernatural Virtue*  
-This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties.  
+This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties. The alchemist may not experiment using this automatic process.  
 
 **Lesser Elixir**  
 *Minor Supernatural Virtue*  

@@ -14,8 +14,8 @@
 - Soban Alchemy
 - Strong Alchemical Magic¹
 - Alchemist of Soba
-- Cautious Sorcerer
 - Inventive Genius
+- Minor Magical Focus (longevity)
 - Privileged Upbringing
 - Vulgar Alchemy*
 - Laboratory Magician
@@ -119,7 +119,7 @@ This powder, crafted when needed, grants the *Minor Potent Magic* Virtue. Aydami
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +3 bonus to rolls for the Soban Alchemy Ability. Aydamir and other alchemist usually use this powder in conjunction with *Mystic Powder of Magical Enhancement* before performing a difficult feat of Soban Alchemy.  
+This powder grants a +3 bonus to rolls for the Soban Alchemy Ability. Aydamir and other alchemists usually use this powder in conjunction with *Mystic Powder of Magical Enhancement* before performing a difficult feat of Soban Alchemy.  
 *(Base 10, +1 Sun)*
 
 ### Vulnero Magicam
@@ -134,7 +134,7 @@ This powder wards the target against creature from the Magic Realm with Magic Mi
 ### Tueor Salutem
 
 **Protective Powder of the Cautious Alchemist**
-SuSa 15  
+TuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
 This powder grants a +10 bonus to Soak Total against damage caused by a laboratory explosion. Soban Alchemists usually experiment in laboratory to achieve greater heights and reach the pinnacle of alchemy but this is dangerous and they need a *safety net* in case something goes wrong. This powder may be crafted to grant a +20 bonus while lasting only Sun duration, in case the alchemist wants to experiment on many powders in that time frame.  
@@ -152,6 +152,22 @@ This powder grants a +5 bonus to a person's Living Conditions modifier. For the 
 ## Vulgar Alchemy Materials and Shapes
 
 *Powdered Ruby*: +2 growing rage
+
+## Aydamir's Laboratory
+
+His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+
+**Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Undecorated, Precious Ingredients, Well Insulated  
+**Size:** +0  
+**Refinement:** +0  
+**Safety:** +3  
+**General Quality:** -1  
+**Upkeep:** +2  
+**Warping:** +0  
+**Health:** +0  
+**Aesthetics:** +3  
+
+**Specializations:** Experimentation +4, Items +1, Longevity +1, Vis Extraction +2
 
 ## Initiation Scripts
 

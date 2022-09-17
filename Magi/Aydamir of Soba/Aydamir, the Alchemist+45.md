@@ -14,8 +14,8 @@
 - Soban Alchemy
 - Strong Alchemical Magic¹
 - Alchemist of Soba
-- Cautious Sorcerer
 - Inventive Genius
+- Minor Magical Focus (longevity)
 - Privileged Upbringing
 - Vulgar Alchemy*
 - Soban Philosophical Alchemy*
@@ -118,11 +118,11 @@ This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore 
 *(Base 10, +1 Sun)*
 
 **Pastille of Combat Enhancement**  
-SuFa 25  
+SuFa 20  
 **R**: Touch, **D**: Sun, **T**: Group  
 **Pen:** 0, 1 charge  
 This pastille grants a +3 bonus to all rolls for the Single Weapon Ability. The Ministry of Work requested this pastille to be produced when they feared that the war between two factions in a near city might spread to Soba itself. This pastille costs 5 doses of Sovereign Reagent or 5 pawns of vis to produce. Similar pastilles exist that grant the *Berserk* Virtue or the *Reserve of Strength* Virtue.  
-*(Base 10, +1 Sun, +2 Group)*
+*(Base 10, +1 Sun, +1 Group)*
 
 ### Succurro Magicam
 
@@ -137,7 +137,14 @@ This powder, crafted when needed, grants the *Minor Potent Magic* Virtue. Aydami
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemist usually use this powder before performing a difficult feat of Soban Alchemy.  
+This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemists usually use this powder before performing a difficult feat of Soban Alchemy.  
+*(Base 10, +1 Sun)*
+
+**Emerald Powder of Natural Attunement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants a the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  
@@ -164,11 +171,18 @@ This potion grants the target the *Major Potent Magic* Virtue. Aydamir developpe
 ### Tueor Salutem
 
 **Protective Powder of the Cautious Alchemist**  
-SuSa 15  
+TuSa 15  
 **R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
 This powder grants a +10 bonus to Soak Total against damage caused by a laboratory explosion. Soban Alchemists usually experiment in laboratory to achieve greater heights and reach the pinnacle of alchemy but this is dangerous and they need a *safety net* in case something goes wrong. This powder may be crafted to grant a +20 bonus while lasting only Sun duration, in case the alchemist wants to experiment on many powders in that time frame.  
 *(Base 5, +2 Month)*
+
+**Fumes of Fire Quenching**  
+TuSa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder-like substance is ignited in the middle of a city and a fog-like smoke quickly fills all the halleys. The fumes grant a +20 bonus to Soak Total against fire, even someone completely engulfed by fire could survive. This substance was commisioned by the Ministry of Work to ensure that no fire could harm his people, it may be created with a longer duration or with *Structure* Target. This substance costs at least 7 doses of Sovereign Reagent or 7 pawns of vis to create.  
+*(Base 10, +1 Sun, +4 Boundary)*  
 
 ### Succurro Salutem
 
@@ -210,11 +224,11 @@ This potion grants a +15 bonus to a person's Living Conditions modifier. One of 
 ### Vulnero Salutem
 
 **Pastille of the Mortal Limb**  
-VuSa 25  
+VuSa 20  
 **R**: Touch, **D**: Mom, **T**: Group  
 **Pen:** 0, 1 charge  
 This pastille rend the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
-*(Base 15, +2 Group)*
+*(Base 15, +1 Group)*
 
 ## Vulgar Alchemy Materials and Shapes
 
@@ -224,6 +238,24 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 *Cypress of Kashmar*: +3 enhance magic  
 *Soma*: +3 promote longevity  
 *Powdered Sapphire*: +2 vision
+
+## Aydamir's Laboratory
+
+His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+
+**Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Precious Ingredients, Well Insulated, Assistants (2), Extensive Store  
+**Size:** +0  
+**Refinement:** +2  
+**Safety:** +7  
+**General Quality:** +7*  
+**Upkeep:** +3  
+**Warping:** +0  
+**Health:** +0  
+**Aesthetics:** +4  
+
+**Specializations:** Experimentation +5, Items +1, Longevity +1, Vis Extraction +2
+
+\* Assistants have Int + Soban Alchemy equal to 4
 
 ## Initiation Scripts
 
@@ -246,7 +278,7 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 
 **Soban Philosophical Alchemy (Minor)**  
 *Minor Supernatural Virtue*  
-This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties.  
+This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alchemist uses his Succurro Magicam Lab Total to extract vis from Aura but he may add his score in Soban Alchemy when using automatic extraction of vis. He may also use this automatic process to brew batches of Sovereign Reagents and, in this yearly period, he can can make a maximum number of doses equal to twice his Profession: Apothecary Ability, however if they're making them using the city’s coin (e.g. by working for the Ministry of Work), they are typically required to use at least half of these doses discharging their duties. The alchemist may not experiment using this automatic process.  
 
 **Lesser Elixir**  
 *Minor Supernatural Virtue*  
