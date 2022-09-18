@@ -144,7 +144,7 @@ This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alch
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
+This powder grants the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  

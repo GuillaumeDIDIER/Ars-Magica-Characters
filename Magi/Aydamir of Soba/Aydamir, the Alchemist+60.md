@@ -188,7 +188,7 @@ This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alch
 SuMa 15  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
+This powder grants the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
 **Crystalline Powder of Vision**  
@@ -355,6 +355,24 @@ His laboratory was built under contract with the Minister of Labor but under his
 
 ¹ Aydamir made a bargain with a Faerie Jinn to have these ingredients (faerie gems)  
 \* Assistants have Int + Soban Alchemy equal to 4
+
+## Aydamir's Mobile Laboratory
+
+This laboratory was commissioned by Aydamir to be able to do some fieldwork, his laboratory in Soba is more secure and organized but it's far from cities where he had to work, so a mobile laboratory was a necessary choice for him.
+
+**Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Elementary (only powders and pastilles), Greater Focus (Alchemical Still), Superior Equipment, Mobile, Unstable, Servant  
+**Size:** -3  
+**Refinement:** +0  
+**Safety:** +1*  
+**General Quality:** -3  
+**Upkeep:** +0  
+**Warping:** +0  
+**Health:** +0  
+**Aesthetics:** +3  
+
+**Specializations:** Experimentation +8, Vis Extraction +1
+
+\* The Servant have Int equal to 2
 
 ## Initiation Scripts
 

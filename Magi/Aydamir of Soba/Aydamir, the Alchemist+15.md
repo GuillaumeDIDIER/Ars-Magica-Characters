@@ -122,6 +122,13 @@ SuMa 15
 This powder grants a +3 bonus to rolls for the Soban Alchemy Ability. Aydamir and other alchemists usually use this powder in conjunction with *Mystic Powder of Magical Enhancement* before performing a difficult feat of Soban Alchemy.  
 *(Base 10, +1 Sun)*
 
+**Emerald Powder of Natural Attunement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
+*(Base 10, +1 Sun)*
+
 ### Vulnero Magicam
 
 **Leaden Powder of Magical Protection**  
