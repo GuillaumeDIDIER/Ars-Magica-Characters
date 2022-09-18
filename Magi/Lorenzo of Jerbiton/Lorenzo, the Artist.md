@@ -103,6 +103,6 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 **Appearance:** Lorenzo is a young man with blonde hair, he usually dresses with expensive white clothes, when he have to attend some event or at the covenant, or his work clothes, when he's sculpting.  
 **Sigil:** His right hand shines as touched by light.
 
-# Artistry
+## Artistry
 
 **Aesthetic Quality:** 15 (+3 Dex, +6 Craft: Sculptor, +2 Puissant, +3 Free Expression, +1 Artes Liberales)
