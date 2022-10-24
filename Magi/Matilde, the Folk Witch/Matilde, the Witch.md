@@ -47,7 +47,7 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 + Awareness 1 (alertness)
 + Brawl 1 (dagger)
 + Chirurgy 1 (wounds)
-+ Chtonic Magic 1 (infernal vis)
++ Chthonic Magic 1 (infernal vis)
 + Craft: Wood 2 (toys)
 + Dowsing 2 (vis)
 + Flight 1 (at night)

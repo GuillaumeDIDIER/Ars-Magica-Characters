@@ -116,16 +116,16 @@
 
 ## Talisman
 
-A mason chisel made of lead with a blackthorn handle with bronze etchings.
+A mason chisel made of lead with a blackthorn handle and bronze etchings.
 
-**Attunement:** +3 dreams, +3 spirits  
+**Attunement:** +2 shape stone  
 **Talisman Powers:** Harder than Iron  
 
-*Harder than Iron*  
-MuHe(Te) 19  
+>**Harder than Iron**  
+MuTe 24  
 **R**: Personal, **D**: Constant, **T**: Ind  
-This enchantment makes the staff harder than iron, it is nearly unbreakable.  
-*(Base 4, +2 Sun, +1 extra hardness, +4 level to costant)*
+This enchantment makes the chisel harder than iron, it is nearly unbreakable.  
+*(Base 3, +2 Sun, +2 metal, +1 extra hardness, +4 level to constant)*
 
 ## New Spells
 

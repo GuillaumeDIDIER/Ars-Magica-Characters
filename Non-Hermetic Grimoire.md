@@ -1,3 +1,226 @@
+# Experimental Philosophy (Art & Academe)
+
+## Alchemical Reagents
+
+**Water-purifying Stone**  
+Reagent Level 5  
+Alteration: Slight  
+This porous stone purifies up to 100 paces³ of water, separating salt from the water and gathering it into the stone. When the process is finished, the stone will have a white color caused by the presence of salt.  
+*(Base 3, +0 Slight, +2 Size)*
+
+**Alchemical Mercury**  
+Reagent Level 10  
+Alteration: Major  
+This process purifies up to 1 pace³ of mercury in liquid form, granting it a +3 bonus to his Material bonuses (it will have a "+5 alter complex matter").  
+*(Base 3, +3 Major)*
+
+**Purified Haoma**  
+Reagent Level 15  
+Alteration: Substantial  
+This process purifies up to 50 inches³ of Haoma in liquid form, granting it a +2 bonus to its Material bonuses (it will have a "+7 promotes longevity").  
+*(Base 5, +2 Substantial)*
+
+**Fulminating Gold**  
+Reagent Level 20  
+Alteration: Major  
+This process uses powdered gold and creates an explosive substance that, when in contact with fire, explodes dealing +15 damage to everything within 5 paces, while dealing +5 damage to everything between 5 and 10 paces, the damage may vary based on how much the targets are covered, using the table in ArM Core pp. 181. This reagent was found by Aydamir and his assistants when they were experimenting with ammonium salts and Aydamir decided to keep the formula a secret even to the Ministry of Work, it might be too dangerous to share it.  
+*(Base 5, +3 Major)*
+
+## Pharmaceutical Theriacs
+
+**Aphrodisiac**  
+Theriac Level 5  
+Potency: Weak  
+This potion is a powerful aphrodisiac that increases sexual desire, sexual attraction, sexual pleasure, or sexual behavior unless the target succeeds in a Stamina
+roll against an Ease Factor of 9. The effect of this potion last until the next day.  
+*(Base 5, +0 Weak)*
+
+**Mixture of Herbs and Incense**  
+Theriac Level 10  
+Potency: Weak  
+This mixture help in soothing the spirit and relaxing the tense muscles of the body, it restores a Winded character to a non-fatiguing state or a Weary character to a Winded state.  
+*(Base 5, +1 Weak)*
+
+**Cataplasm of Feverfew and Sage**  
+Theriac Level 10  
+Potency: Moderate  
+When applied to a wound, this cataplasm grants a +6 to the patient’s next Wound Recovery rolls for all Medium and Light Wounds.  
+*(Base 4, +2 Moderate)*
+
+**Tincture of Ammonium and Valerian**  
+Theriac Level 10  
+Potency: Strong  
+Similar to the *Cataplasme of Mandrake*, this theriac causes the character to become Dazed (loss of four Fatigue levels), but reduces any Wound and Disease Penalty by 5. The body part remains numb until the lost Fatigue levels are recovered. Aydamir commisioned this tincture to his personal Apothecary to be able to create powders even when injured, reducing the Wound Penalty to -1 or -2 makes him able to do the necessary Lab work (More doses are needed to be able to create powders for several hours).  
+*(Base 3, +3 Strong)*
+
+# Learned Magic (Hedge Magic)
+
+## Magic Items
+
+### Succurro Fortunam
+
+**Amulet of the Insightful Alchemist**  
+SuFa 25  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet grants a +3 bonus to rolls for the Magic Lore Ability. This may help in Vulgar Alchemy rolls on in finding herbs and alchemical substances. A similar amulet could grant the *Puissant Magic Lore* Virtue that may also help in enriching Things of Virtue.  
+*(Base 10, +3 Season)*
+
+**Charm of Combat Enhancement**  
+SuFa 30  
+**R**: Touch, **D**: Sun, **T**: Group  
+This charm grants a +3 bonus to all rolls for the Single Weapon Ability. This charm is used by learned magician in battle when unexpected enemies are near but learned magician usually use a family of battle-inclined grogs to aid him because they can craft amulets with the Bloodline Target.  
+*(Base 10, +1 Touch, +2 Sun, +1 Group)*
+
+### Succurro Magicam
+
+**Charta of Magical Enhancement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This charta, crafted when needed, grants the *Minor Potent Magic* Virtue with a specific focus. Learned magician usually use this charta to boost the magical capabilities before attempting a difficult feat. Similar powders may grant *Minor Magical Focus* or *Puissant Art*.  
+*(Base 10, +1 Sun)*
+
+**Amethyst Powder of the Soban Alchemist**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants a +3 bonus to rolls for Soban Alchemy. Aydamir and other alchemists usually use this powder before performing a difficult feat of Soban Alchemy.  
+*(Base 10, +1 Sun)*
+
+**Charta of Natural Attunement**  
+SuMa 15  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants the *Natural Magician* Virtue. Learned magician use this charta or amulet before performing magic in a foreign aura.  
+*(Base 10, +1 Sun)*
+
+**Charm of Vision**  
+SuMa 20  
+**R**: Personal, **D**: Sun, **T**: Ind  
+This charm grants the target the *Premonitions* Virtue and the corresponding Ability with a score of 4.  
+*(Base 10, +2 Sun)*
+
+**Amuleet for a Gentler Collaboration**  
+SuMa 25  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet grants the target the *Unaffected by the Gift* Virtue. Learned magician developped this amulet to help them in working together when the penalties of the Gift were getting in the way of their work.  
+*(Base 10, +3 Season)*
+
+**Amulet of Magical Empowerment**  
+SuMa 35  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet grants the target the *Major Potent Magic* Virtue with a specific focus.  
+*(Base 20, +3 Season)*
+
+**Charm of the Weightless Body**  
+SuMa 25  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This powder grants the *Personal Power* Virtue and a corresponding *Flight of the Hummingbird* Power for Sun duration. Activating this Power costs a Fatigue level and needs Concentration. Many similar charm exist that grant other powers.  
+*(Base 10, +1 Touch, +2 Sun)*
+
+**Amulet of Primordial Nature**  
+SuMa 25  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4.  
+*(Base 20, +1 Sun)*
+
+**Amulet of Malevolence**  
+SuMa 25  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Hex* Virtue and the corresponding Ability with a score of 4. Claudio used once this amulet to curse a person but this tainted power was too much for him to handle, so he stopped using it.  
+*(Base 20, +1 Sun)*
+
+**Amulet of the Undying One**  
+SuMa 25  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Corpse Magic* Virtue and the corresponding Ability with a score of 4. Panoub learned of the existence of this power and of the Undying Ones when visiting Meroë, he had to bargain for his life when he was caught trespassing in a tomb. Using an *Amulet of Magical Empowerment* and a charta to boost this power, you can achieve high totals.  
+*(Base 20, +1 Sun)*
+
+**Amulet of the Telepath**  
+SuMa 25  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This potion grants the target the *Greater Power* Virtue and a corresponding *Mind-Reader* Power for Sun duration. This potion is sometimes used when the alchemists need to spy on someone or to easily read the next move of an opponent. Activating the Power costs a Fatigue level and needs Concentration, the specific Power is this:
+
+>**Mind-Reader**  
+InMe 35  
+**R**: Sight, **D**: Conc, **T**: Ind  
+**Pen:** 0, 1 charge  
+This power lets the character read the target's surface thoughts for Conc duration.  
+Mastery (3): -3 Might cost, Cost: 1 (Base 4, -3 mastery), Init: Qik - 4 (Base Qik - 4), Fatigue: 1 Level, Penetration: -5  
+*(Base 15, +1 Conc, +3 Sight)*
+
+There are similar potions that may grant the *Fiery Breath* Power or the *Tay al-Ard (Travel)* Power and many others but most of them are jinn powers that Panoub saw in his travels and adventures.  
+*(Base 20, +1 Sun)*
+
+### Tueor Salutem
+
+**Amulet of the Cautious Alchemist**  
+TuSa 15  
+**R**: Touch, **D**: Month, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet grants a +10 bonus to Soak Total against damage caused by a laboratory explosion. Learned magician can experiment in laboratory to achieve greater heights and reach the pinnacle of alchemy but this is dangerous and they need a *safety net* in case something goes wrong. This amulet may be crafted to grant a +20 bonus while lasting only Sun duration, in case the magician wants to experiment on chartae in that time frame.  
+*(Base 5, +2 Month)*
+
+**Amulet of Fire Quenching**  
+TuSa 35  
+**R**: Touch, **D**: Sun, **T**: Ind  
+**Pen:** 0, 1 charge  
+This amulet is positioned in the middle of a city and a fog-like smoke quickly fills all the streets and alleys. The fog grants a +20 bonus to Soak Total against fire, even someone completely engulfed by fire could survive.  
+*(Base 10, +1 Sun, +4 Boundary)*  
+
+### Succurro Salutem
+
+**Charta of Longevity**  
+SuSa 20  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 1 charge  
+This charta grants a +5 bonus to a person's Living Conditions modifier. For the charta to work, the target must use a new one every season for an entire year.  
+*(Base 5, +3 Season)*
+
+**Amulet of Longevity**  
+SuSa 25  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 4 charges  
+This amulet grants a +10 bonus to a person's Living Conditions modifier. For the amulet to work, the target must wear it every season for an entire year, so he needs 4 charges.  
+*(Minimum Lab Total: 41, Effect: Base 10, +3 Season)*
+
+**Charta of the Bedridden**  
+SuMa 5  
+**R**: Touch, **D**: Month, **T**: Ind  
+**Pen:** 0, 1 charge  
+This charta grants a +12 bonus to Recovery rolls for a single non-magical disease, poison, or injury and it's usually used when someone get hurt during working hours. There's a similar charta with Season duration used for Heavy Wounds. There are different powders for all common injuries, diseases, and poisons, which must be created individually. There are different formulae for specific areas of the body, as well.  
+*(Base 3, +2 Month)*
+
+**Elixir of the Soban Alchemist**  
+SuSa 30  
+**R**: Touch, **D**: Season, **T**: Ind  
+**Pen:** 0, 4 charges  
+This potion grants a +15 bonus to a person's Living Conditions modifier. One of the created charges will be the Lesser Elixir and the effects of the Elixir will remain active for 6 years. Aydamir found out that the legendary zoroastrian potion *Haoma* could be used in the brewing process, enhancing the potion of longevity. This Elixir costs 9 doses of Sovereign Reagents (or 9 pawns of vis) and, now, an additional 18 pawns of vis for the effects of the Lesser Elixir.  
+*(Minimum Lab Total: 46, Effect: Base 15, +3 Season)*
+
+### Vulnero Salutem
+
+**Charm of the Mortal Limb**  
+VuSa 30  
+**R**: Touch, **D**: Mom, **T**: Group  
+This charm rends the afflicted targets partially unable to walk by paralyzing one of the legs.  
+*(Base 15, +1 Touch, +2 Group)*
+
+**Fumes of the Sleeping City**  
+VuSa 35  
+**R**: Touch, **D**: Mom, **T**: Group  
+**Pen:** 0, 1 charge  
+This powder-like substance is usually ignited near the middle of a city, in the sewers or in a dark alley by some spies and a fog-like smoke quickly fills all the buildings and streets of the city. The fume is tremendously vicious because it doesn't harm nor has a bad odor but quickly fills the lungs of every person caught in the fog and causes the loss of a Fatigue Level each minute until the person reach the Unconscious Level, they can't be woken up until the fog remain.  
+*(Base 10, +1 Sun, +4 Boundary)*
+
 # Soqotran Magic (Rival Magic)
 
 ## Aloe

@@ -132,7 +132,7 @@ Mastery (3): -2 Might cost, +5 XP Penetration, Cost: 0 (Base 2, -2 mastery), Ini
 
 ## Talisman
 
-A spoon chisel made of iron with a blackthorn handle with bronze etchings.
+A spoon chisel made of iron with a blackthorn handle and bronze etchings.
 
 **Attunement:** +3 terram, +2 shape stone  
 **Talisman Powers:** Harder than Iron, Change Form  
@@ -140,14 +140,16 @@ A spoon chisel made of iron with a blackthorn handle with bronze etchings.
 >**Harder than Iron**  
 MuTe 24  
 **R**: Personal, **D**: Constant, **T**: Ind  
+**Pen**: 0, constant  
 This enchantment makes the chisel harder than iron, it is nearly unbreakable.  
-*(Base 5, +2 Sun, +1 extra hardness, +4 level to constant)*
+*(Base 3, +2 Sun, +2 metal, +1 extra hardness, +4 level to constant)*
 
 >**Change Form**  
-MuTe 24  
-**R**: Personal, **D**: Constant, **T**: Ind  
-This enchantment makes the chisel change shape to help the sculptor, it may become a toothed stone chisel, a flat chisel or a more curved chisel.     
-*(Base 4, +1 Conc, +1 complexity, +5 levels to maintain concentration)*
+ReTe 20  
+**R**: Personal, **D**: Mom, **T**: Ind  
+**Pen**: 0, unlimited uses  
+This enchantment makes the chisel change shape to help the sculptor, it may become a toothed stone chisel, a flat chisel or a more curved chisel and the chisel retain this new form after the change.     
+*(Base 3, +2 metal, +1 complexity, +10 level for unlimited uses)*
 
 ## New Spells
 

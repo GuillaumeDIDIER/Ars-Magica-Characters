@@ -1,3 +1,7 @@
+# Hermetic Grimoire
+
+This is an hermetic grimoire to store many custom spells, there are section for every technique-form combination and spells are ordered by their level.
+
 # Animal
 
 ## Creo Animal
@@ -186,9 +190,21 @@ This spell casts a foul curse on the target and make him completely obey the cas
 
 ## Rego Terram
 
+**Lord of the Statues**  
+ReTe 25  
+**R**: Touch, **D**: Conc, **T**: Part  
+This spell  make a stone or a clay statue move under the direct control of the caster with precise movements. A stone statue striking with an arm has Initiative +3, Attack +7, Damage +12. Normal weapons are practically useless against a stone statue (consider an high Soak if you want to really damage it). A clay statue is much weaker, reduce the Damage to +8 and normal weapons may damage it. For a Size +3 statue you should add +6 Damage and -4 Initiative and you might also add a bonus to Attack using the Aiming rules in ArM Core pp. 86. Part is necessary for statues that have a base to stand.  
+*(Base 3, +1 Touch, +1 Part, +1 Conc, +1 stone, +1 precise movements, +1 Size)*
+
 # Vim
 
 ## Creo Vim
+
+**The Warped Mannequin**  
+CrVi 10  
+**R**: Touch, **D**: Mom, **T**: Ind  
+This spell inflicts one Warping Point to its target. Lorenzo uses this spell when he creates a statue that he doesn't like, he repeteadly cast this spell to warp the statue into something different, some statues may gain consciousness through this weird process.
+*(Base 5, +1 Touch)*
 
 ## Intellego Vim
 

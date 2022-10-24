@@ -126,7 +126,7 @@ This process uses powdered gold and creates an explosive substance that, when in
 **Purified Haoma**  
 Reagent Level 15  
 Alteration: Substantial  
-This process purifies up to 50 inches³ of Haoma in liquid form, granting it a +2 bonus to his Material bonuses (it will have a "+7 promotes longevity").  
+This process purifies up to 50 inches³ of Haoma in liquid form, granting it a +2 bonus to its Material bonuses (it will have a "+7 promotes longevity").  
 *(Base 5, +2 Substantial)*
 
 **Tincture of Ammonium and Valerian**  
@@ -148,11 +148,11 @@ These books might have been written by Aydamir after reaching the top of the Sob
 ### Succurro Fortunam
 
 **Sapphire Powder of the Insightful Alchemist**  
-SuMa 15  
-**R**: Touch, **D**: Sun, **T**: Ind  
+SuFa 25  
+**R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy to experiment on alchemical components. This powder isn't useful for longer projects like potions, Aydamir needs to make a Season Duration powder to affect him long enough.   
-*(Base 10, +1 Sun)*
+This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy while experimenting on alchemical components, the Season duration is necessary to affect the roll done for Vulgar Alchemy. Sometimes he create this powder at Sun duration to find herbs and alchemical substances or to evaluate them. A similar powder could grant the *Puissant Magic Lore* Virtue that may also help in enriching Things of Virtue.  
+*(Base 10, +3 Season)*
 
 **Pastille of Combat Enhancement**  
 SuFa 20  
@@ -202,14 +202,14 @@ This powder grants the target the *Premonitions* Virtue and the corresponding Ab
 SuMa 25  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developped this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
+This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developed this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
 *(Base 10, +3 Season)*
 
 **Potion of Magical Empowerment**  
 SuMa 35  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Major Potent Magic* Virtue. Aydamir developped this potion to help him in brewing the Elixir and other very difficult potions or powders. He sometimes prepares one batch of potions to help his Soban Alchemy Ability but that is usually accomplished through powders because potions are very expensive. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
+This potion grants the target the *Major Potent Magic* Virtue. Aydamir developed this potion to help him in brewing the Elixir and other very difficult potions or powders. He sometimes prepares one batch of potions to help his Soban Alchemy Ability but that is usually accomplished through powders because potions are very expensive. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +3 Season)*
 
 **Azurine Powder of the Weightless Body**  
@@ -220,28 +220,28 @@ This powder grants the *Personal Power* Virtue and a corresponding *Flight of th
 *(Base 10, +1 Sun)*
 
 **Potion of Primordial Nature**  
-SuMa 35  
-**R**: Touch, **D**: Sun, **T**: Ind  
+SuMa 30  
+**R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
 This potion grants the target the *Shapeshifter* Virtue and the corresponding Ability with a score of 4. Aydamir sometimes used this potion to escape dire situations or to travel far distances by transforming into a bird. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
-*(Base 20, +1 Sun)*
+*(Base 20, +2 Month)*
 
 **Potion of Malevolence**  
-SuMa 35  
+SuMa 25  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
 This potion grants the target the *Hex* Virtue and the corresponding Ability with a score of 4. Aydamir used once this potion to curse a person but this tainted power was too much for him to handle, so he stopped using it. Using a *Potion of Magical Empowerment* and a powder to boost this power, you can achieve high totals. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
 *(Base 20, +1 Sun)*
 
 **Potion of the Undying One**  
-SuMa 35  
+SuMa 25  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
 This potion grants the target the *Corpse Magic* Virtue and the corresponding Ability with a score of 4. Aydamir learned of the existence of this power and of the Undying Ones when visiting Meroë, he had to bargain for his life when he was caught trespassing in a tomb. Using a *Potion of Magical Empowerment* and a powder to boost this power, you can achieve high totals. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.  
 *(Base 20, +1 Sun)*
 
 **Potion of the Telepath**  
-SuMa 35  
+SuMa 25  
 **R**: Touch, **D**: Sun, **T**: Ind  
 **Pen:** 0, 1 charge  
 This potion grants the target the *Greater Power* Virtue and a corresponding *Mind-Reader* Power for Sun duration. This potion is sometimes used when the alchemists need to spy on someone or to easily read the next move of an opponent. Activating the Power costs a Fatigue level and needs Concentration, the specific Power is this:
@@ -254,7 +254,7 @@ This power lets the character read the target's surface thoughts for Conc durati
 Mastery (3): -3 Might cost, Cost: 1 (Base 4, -3 mastery), Init: Qik - 4 (Base Qik - 4), Fatigue: 1 Level, Penetration: -5  
 *(Base 15, +1 Conc, +3 Sight)*
 
-There are similar potions that may grant the *Fiery Breath* Power or the *Tay al-Ard (Travel)* Power and many others but most of them are jinn powers that Aydamir saw in his travels and adventures. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
+There are similar potions that may grant the *Fiery Breath* Power or the *Tay al-Ard (Travel)* Power and many others but most of them are jinn powers or ancient egyptian powers that Aydamir saw in his travels and adventures. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +1 Sun)*
 
 ### Tueor Salutem
@@ -279,7 +279,7 @@ This powder-like substance is ignited in the middle of a city and a fog-like smo
 SuSa 20  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 5 hours to do.  
+This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 4 hours to do.  
 *(Base 5, +3 Season)*
 
 **Potion of Longevity**  
@@ -316,7 +316,7 @@ This potion grants a +15 bonus to a person's Living Conditions modifier. One of 
 VuSa 20  
 **R**: Touch, **D**: Mom, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille rend the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
+This pastille rends the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
 *(Base 15, +1 Group)*
 
 **Fumes of the Sleeping City**  
@@ -339,7 +339,7 @@ This powder-like substance is usually ignited near the middle of a city, in the 
 
 ## Aydamir's Laboratory
 
-His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+His laboratory was built under contract with the Ministry of Work but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
 
 **Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Precious Ingredients, Well Insulated, Assistants (2), Extensive Store, Lesser Feature (Mechanism), Faerie Ingredients¹  
 **Size:** +0  
@@ -351,7 +351,7 @@ His laboratory was built under contract with the Minister of Labor but under his
 **Health:** +0  
 **Aesthetics:** +5  
 
-**Specializations:** Experimentation +6, Items +1, Longevity +1, Vis Extraction +3, Terram +1
+**Specializations:** Experimentation +6, Vis Extraction +3, Terram +1
 
 ¹ Aydamir made a bargain with a Faerie Jinn to have these ingredients (faerie gems)  
 \* Assistants have Int + Soban Alchemy equal to 4
@@ -378,13 +378,13 @@ This laboratory was commissioned by Aydamir to be able to do some fieldwork, his
 
 *Vulgar Alchemy*  
 **Ease Factor:** 15  
-**Script Bonus:** +10  
+**Script Bonus:** +11  
 **Script Details:** The alchemist need to spend a season collecting powders and helping the Mystagogue in his laboratory (+1 Time), then he need to search for a Gem of Virtue usually protected by some jinn or magical creature (+3 Quest). He needs to grind the found gem into fine powder and then use expensive materials (+1 Goods) to experiment on a potion. The Mystagogue spends a Season to teach the alchemist more on the Soban Alchemist Lore and introduces the alchemist into the Soban Alchemist cult (+3 Mystagogue Time). The new member needs to swear a *Vow* to not share his knowledge with anyone outside the cult (+3 Minor Ordeal). [The benefit from Vulgar Alchemy may only be gained through Seasonal experimental activities.]
 
 *Soban Philosophical Alchemy (Minor)*  
 **Ease Factor:** 15 (-3 previous Ordeal)  
 **Script Bonus:** +6 (+2 Sympathetic bonus)  
-**Script Details:** During the summer solstice, the alchemist have to venture to Nabta Playa, a place in the Nubian desert where, thousand of years ago, the first magicians fashioned what may be among the earliest known archeoastronomical devices (+3 Place and Time) and the Soban alchemists think they are their descendants. Upon arrival, he needs to prepare a mobile laboratory in order to craft powders infused with the power of the stars where the main components are expensive grinded gems (+1 Goods), this ritual will grant him the *Soban Philosophical Alchemy* Virtue. [The alchemist have to arrive in the location prior to the summer solstice and find the suitable point to build the mobile laboratory (with a Int + Artes Liberales astronomy roll vs EF 9+) but when he brew the potions under the night sky, the power of the stars temporarily grants the Laboratory Total a +3 bonus to enhance magic and granting powers.]
+**Script Details:** During the summer solstice, the alchemist have to venture to Nabta Playa, a place in the Nubian desert where, thousand of years ago, the first magicians fashioned what may be among the earliest known archeoastronomical devices (+3 Place and Time) and the Soban alchemists think they are their descendants. Upon arrival, he needs to prepare a mobile laboratory in order to craft powders infused with the power of the stars where the main components are expensive grinded gems (+1 Goods), this ritual will grant him the *Soban Philosophical Alchemy* Virtue. [The alchemist have to arrive in the location prior to the summer solstice and find the suitable point to build the mobile laboratory (with a Int + Artes Liberales astronomy roll vs EF 9+) but if he creates powders under that night sky, the power of the stars temporarily grants the Laboratory Total a +5 bonus to enhance magic and granting powers.]
 
 *Lesser Elixir*  
 **Ease Factor:** 15 (-3 previous Ordeal)  
@@ -419,14 +419,14 @@ This virtue is similar to the hermetic *The Great Elixir* Virtue. The alchemist 
 TuSa(Ma) 50  
 **R**: Touch, **D**: Always On, **T**: Ind, Mystery Effect  
 **Pen:** 0, costant effect  
-If the Great Elixir works, the magus transforms into a being aligned to the Magic realm, making him a magical creature. This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
+If the Great Elixir works, the alchemist transforms into a being aligned to the Magic realm, making him a magical creature. This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
 *(Unique Mystery)*
 
 > **Grant Might**  
 SuMa Gen  
 **R**: Touch, **D**: Always On, **T**: Ind, Mystery Effect  
 **Pen:** 0, costant effect  
-If the Great Elixir works, the magus gains Magic Might equal to half (effect level–20). This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
+If the Great Elixir works, the alchemist gains Magic Might equal to half (effect level–20). This enchantment is instilled into the potion, so the alchemist gains the bonus for enchanting a potion and he may use Material and Shape bonuses as usual.  
 *(Unique Mystery)*
 
 The other rules for *The Great Elixir* are the same.
