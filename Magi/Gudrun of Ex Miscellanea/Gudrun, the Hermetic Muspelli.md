@@ -104,7 +104,8 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 + *Disarm the Warrior* (ReTe 10/+11)
 + *True form of the Muspelli* (PeVi 10/+13), As *The Heathen Witch Reborn*
 
-**Appearance:** Gudrun is a beautiful and charming woman when she's not 10 feet tall. She usually dresses with traditional Muspelli robes that her Pater gave her and she always keep a an heart-shaped pendant around her neck.
+**Appearance:** Gudrun is a beautiful and charming woman when she's not 10 feet tall. She usually dresses with traditional Muspelli robes that her Pater gave her and she always keep a an heart-shaped pendant around her neck.  
+**Sigil:** Her heart begins to glow red under her skin  
 
 ## Powers
 
