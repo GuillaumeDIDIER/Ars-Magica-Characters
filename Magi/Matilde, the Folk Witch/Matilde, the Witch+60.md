@@ -56,7 +56,7 @@
 + Awareness 2 (alertness)
 + Brawl 1 (dagger)
 + Chirurgy 2 (wounds)
-+ Chtonic Magic 1 (infernal vis)
++ Chthonic Magic 1 (infernal vis)
 + Craft: Wood 3 (toys)
 + Dowsing 4 (vis)
 + Flight 3 (at night)
@@ -163,11 +163,11 @@ This poppet was created by the Matilde using Lesser Craft Magic and then initial
 
 **Mistletoe of Virtue**  
 Magic Lore Laboratory Total 15  
-In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreated this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 5 pawns of Intellego.  
+In these fifteen years, Matilde found and enriched a Mistletoe of Virtue that granted her the Divination Ability but, after trying to recreate this herb, she created this new version of the Mistletoe of Virtue that grants the Premonitions Ability (with a score of 3) for 3 years because this new Mistletoe of Virtue was infused with 5 pawns of Intellego.  
 
 **Blackthorn of Virtue**  
 Magic Lore Laboratory Total 21  
-Matilde recreated a rather famous herb of Virtue often found in nature using a mundane blackthorn soaked in her blood for a season. This Blackthorn of Virtue functions in the same way of the usual one but contains 5 pawns of Perdo and so it last only 1 year.
+Matilde recreated a rather famous herb of Virtue often found in nature, she used a mundane blackthorn soaked in her own blood for a season. This Blackthorn of Virtue functions in the same way of the usual one but contains 5 pawns of Perdo and so it last only 1 year.
 
 **Animal Cloak**  
 Shapeshifter 15  
@@ -204,7 +204,7 @@ roll against an Ease Factor of 9. The effect of this potion last until the next 
 **Mixture of Herbs and Incense**  
 Theriac Level 10  
 Potency: Weak  
-This mixture help in soothing the spirit and relaxing the tense muscles of the body, it restores a Winded or Weary character to a non-fatiguing state.  
+This mixture help in soothing the spirit and relaxing the tense muscles of the body, it restores a Winded character to a non-fatiguing state or a Weary character to a Winded state.  
 *(Base 5, +1 Weak)*
 
 **Cataplasm of Feverfew and Sage**  

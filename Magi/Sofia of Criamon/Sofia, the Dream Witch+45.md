@@ -121,7 +121,7 @@
 + *Gift of the Oneiropomp<sup>F</sup>* (Re(Mu)Te(Me) 15/+24)
 + *The Oneiropomp's Treasure<sup>F</sup>* (CrIm 30/+41)
 + *Opening the Portal to the Imagination<sup>F</sup>* (Mu(In)Me 30/+35)
-+ *Mystical Secrets of the Veiled Court<sup>F</sup>* (CrMe 30/+39)
++ *Mystical Secrets of the Veiled Court* (CrMe 30/+29)
 + *Curse of Morpheus<sup>F</sup>* (CrMe 20/+39)
 
 \* +3 dreams, +3 spirits
@@ -132,10 +132,10 @@
 
 ## Familiar
 
-Phantasos, an Oneiros of the Gate of Horn and Ivory with Magic Might 10 (Imaginem) and dream related powers.
+Phantasos, an Oneiros of the Gate of Horn and Ivory with Magic Might 15 (Imaginem) and dream related powers.
 
-**Familiar Bonding (CrIm) Lab Total:** 36  
-**Hermes Cord:** +2, **Isis Cord:** +1, **Hekate Cord:** +2  
+**Familiar Bonding (CrIm) Lab Total:** 43  
+**Hermes Cord:** +3, **Isis Cord:** +1, **Hekate Cord:** +1  
 **Bond Powers:** Mental Communication (two ways, CrMe 15)
 
 ## Talisman
@@ -220,6 +220,22 @@ CrMe 20
 **R**: Touch, **D**: Sun, **T**: Ind  
 This spell brings a nightmare to a sleeping person, with the caster's sigil being a key feature of the nightmare. The victim of this spell wakes up with a Long TermFatigue level lost. These Long Term Fatigue Levels are cumulative, so several bad nights leave him in bad shape. This spell was in vogue during the early times of the Volshebnii Mechtateli and was used, during the numerous marches, to wear down the enemy magi. The origin of this spell date back to Raisa who based it on the Weight of Thousand Hells spell.  
 *(Base 4, +1 Touch, +2 Sun, +1 complex effect)*
+
+## Sofia's Dream Laboratory
+
+This laboratory was imagined and then created by Sofia using a Dream Magic Ritual in her Imagination. The evershifting nature of the dream makes the laboratory very unstable and difficult to control, however Sofia might use several spells to be able to use the lab to enchant items, to teach or even to make a Longevity Ritual.
+
+**Virtues and Flaws:** Greater Feature (Dream Orb), Mental Construct, Gallery, Lesser Feature (Dream Mirror), Greater Focus (Dream Orb), Mobile, Unstable (x2), Spacious, Chaotic, Greater Expansion
+**Size:** +3  
+**Refinement:** +0  
+**Safety:** -1  
+**General Quality:** +0  
+**Upkeep:** -  
+**Warping:** +3 (Sleepy)  
+**Health:** -  
+**Aesthetics:** -  
+
+**Specializations:** Experimentation +2, Teaching +1, Rego +3, Imaginem +6, Mentem +6
 
 ## Initiation Scripts
 

@@ -36,7 +36,8 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 **Reputations:** none
 
 **Combat:**  
-*Dodge*: Init -1, Attack +0, Defense -1, Damage +0  *Short Sword*: Init +0, Attack +6, Defense +2, Damage +4                                                                                                  
+*Dodge*: Init -1, Attack +0, Defense -1, Damage +0  
+*Short Sword*: Init +0, Attack +6, Defense +2, Damage +4                                                                                                  
 
 **Soak:** +1  
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  

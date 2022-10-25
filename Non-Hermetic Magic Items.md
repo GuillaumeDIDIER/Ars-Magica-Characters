@@ -1,3 +1,7 @@
+# Non-Hermetic Magic items
+
+This is a list of non-hermetic magic items, there are sections for various form of magic that can craft magic items and the items have no internal order.
+
 # Lesser Craft Magic
 
 ## Dowsing

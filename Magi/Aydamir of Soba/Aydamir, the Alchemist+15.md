@@ -77,7 +77,7 @@
 
 **Appearance:** Aydamir is young dark-skinned man who usually wears the traditional Soban alchemists clothes. Many people find his gaze a little disturbing but he doesn't care that much, even though he usually spends his time in the laboratory the Ministry of Work assigned him.
 
-**Activities in the last fifteen years:** In these fifteen years, Aydamir worked very hard for the Ministry of Work to show his loyalty and to partially repay his debt. He created numerous batches of Sovereign Reagents (creating 12 doses in a Season) and he created famous alchemical reagents from laboratory texts of other Soban alchemists. He obtained the formula of *Greek Fire* from an ancient greek text that he bought from a merchant and he started to craft the reagent but it's very difficult so he only has 8 points towards his project. He also started to meddle with theriacs and inceptions, beginning with simple things. He developped a handful of powders to help him in doing his job as an alchemist but, for now, he refrain to create potions because they're very expensive and he doesn't have that much Sovereign Reagent stored. He lastly joined the Soban Alchemist cult and, after swearing a vow, he was taught a new way of experimenting with powders and alchemical components. In these fifteen years, Aydamir gained 150 Labor Points with his profession, he intends to become Wealthy to have more time for his experiments.
+**Activities in the last fifteen years:** In these fifteen years, Aydamir worked very hard for the Ministry of Work to show his loyalty and to partially repay his debt. He created numerous batches of Sovereign Reagents (creating 12 doses in a Season) and he created famous alchemical reagents from laboratory texts of other Soban alchemists. He obtained the formula of *Greek Fire* from an ancient greek text that he bought from a merchant and he started to craft the reagent but it's very difficult so he only has 8 points towards his project. He also started to meddle with theriacs and inceptions, beginning with simple things. He developed a handful of powders to help him in doing his job as an alchemist but, for now, he refrain to create potions because they're very expensive and he doesn't have that much Sovereign Reagent stored. He lastly joined the Soban Alchemist cult and, after swearing a vow, he was taught a new way of experimenting with powders and alchemical components. In these fifteen years, Aydamir gained 150 Labor Points with his profession, he intends to become Wealthy to have more time for his experiments.
 
 ## Inceptions Formulae
 
@@ -100,11 +100,11 @@
 ### Succurro Fortunam
 
 **Sapphire Powder of the Insightful Alchemist**  
-SuMa 15  
-**R**: Touch, **D**: Sun, **T**: Ind  
+SuFa 20  
+**R**: Touch, **D**: Month, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy to experiment on alchemical components. This powder isn't useful for longer projects like potions, Aydamir needs to make a Season Duration powder to affect him long enough.   
-*(Base 10, +1 Sun)*
+This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy while experimenting on alchemical components but Aydamir needs to create this powder quite a few times to affect him long enough when using Vulgar Alchemy. Sometimes he create this powder at Sun duration to find herbs and alchemical substances or to evaluate them. A similar powder could grant the *Puissant Magic Lore* Virtue that may also help in enriching Things of Virtue.  
+*(Base 10, +2 Month)*
 
 ### Succurro Magicam
 
@@ -129,15 +129,6 @@ SuMa 15
 This powder grants the *Natural Magician* Virtue. Aydamir and other alchemists usually use this powder before performing Soban Alchemy in a foreign aura.  
 *(Base 10, +1 Sun)*
 
-### Vulnero Magicam
-
-**Leaden Powder of Magical Protection**  
-VuMa 20  
-**R**: Touch, **D**: Sun, **T**: Ind  
-**Pen:** 0, 1 charge  
-This powder wards the target against creature from the Magic Realm with Magic Might equal or less than 20. Alchemists use this powder when they have to deal with jinn or they have to hunt magical creatures for specific alchemical ingredients. There are variants of this powder that ward the target from creatures from the Faerie, Infernal and Divine Realm and also with different Might.  
-*(Base 15, +1 Sun)*
-
 ### Tueor Salutem
 
 **Protective Powder of the Cautious Alchemist**
@@ -153,7 +144,7 @@ This powder grants a +10 bonus to Soak Total against damage caused by a laborato
 SuSa 20  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 5 hours to do.  
+This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 4 hours to do.  
 *(Base 5, +3 Season)*
 
 ## Vulgar Alchemy Materials and Shapes
@@ -174,11 +165,11 @@ His laboratory was built under contract with the Minister of Labor but under his
 **Health:** +0  
 **Aesthetics:** +3  
 
-**Specializations:** Experimentation +4, Items +1, Longevity +1, Vis Extraction +2
+**Specializations:** Experimentation +4, Vis Extraction +2
 
 ## Initiation Scripts
 
 *Vulgar Alchemy*  
 **Ease Factor:** 15  
-**Script Bonus:** +10  
+**Script Bonus:** +11  
 **Script Details:** The alchemist need to spend a season collecting powders and helping the Mystagogue in his laboratory (+1 Time), then he need to search for a Gem of Virtue usually protected by some jinn or magical creature (+3 Quest). He needs to grind the found gem into fine powder and then use expensive materials (+1 Goods) to experiment on a potion. The Mystagogue spends a Season to teach the alchemist more on the Soban Alchemist Lore and introduces the alchemist into the Soban Alchemist cult (+3 Mystagogue Time). The new member needs to swear a *Vow* to not share his knowledge with anyone outside the cult (+3 Minor Ordeal). [The benefit from Vulgar Alchemy may only be gained through Seasonal experimental activities.]

@@ -111,11 +111,11 @@
 ### Succurro Fortunam
 
 **Sapphire Powder of the Insightful Alchemist**  
-SuMa 15  
-**R**: Touch, **D**: Sun, **T**: Ind  
+SuFa 25  
+**R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy to experiment on alchemical components. This powder isn't useful for longer projects like potions, Aydamir needs to make a Season Duration powder to affect him long enough.   
-*(Base 10, +1 Sun)*
+This powder, crafted when needed, grants a +3 bonus to rolls for the Magic Lore Ability. Aydamir uses this powder to gain insight when using Vulgar Alchemy while experimenting on alchemical components, the Season duration is necessary to affect the roll done for Vulgar Alchemy. Sometimes he create this powder at Sun duration to find herbs and alchemical substances or to evaluate them. A similar powder could grant the *Puissant Magic Lore* Virtue that may also help in enriching Things of Virtue.  
+*(Base 10, +3 Season)*
 
 **Pastille of Combat Enhancement**  
 SuFa 20  
@@ -158,14 +158,14 @@ This powder grants the target the *Premonitions* Virtue and the corresponding Ab
 SuMa 25  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developped this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
+This potion grants the target the *Unaffected by the Gift* Virtue. Aydamir and other alchemists developed this potion to help them in working together when the penalties of the Gift were getting in the way of their work. This potion costs at least 5 doses of Sovereign Reagent or 5 pawns of vis but it's usually produced in a batch because additional doses only cost 1 additional pawn (or Sovereign Reagent dose).  
 *(Base 10, +3 Season)*
 
 **Potion of Magical Empowerment**  
 SuMa 35  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This potion grants the target the *Major Potent Magic* Virtue. Aydamir developped this potion to help him in brewing the Elixir and other very difficult potions or powders. He sometimes prepares one batch of potions to help his Soban Alchemy Ability but that is usually accomplished through powders because potions are very expensive. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
+This potion grants the target the *Major Potent Magic* Virtue. Aydamir developed this potion to help him in brewing the Elixir and other very difficult potions or powders. He sometimes prepares one batch of potions to help his Soban Alchemy Ability but that is usually accomplished through powders because potions are very expensive. This potion costs at least 7 doses of Sovereign Reagent or 7 pawns of vis.    
 *(Base 20, +3 Season)*
 
 ### Tueor Salutem
@@ -190,7 +190,7 @@ This powder-like substance is ignited in the middle of a city and a fog-like smo
 SuSa 20  
 **R**: Touch, **D**: Season, **T**: Ind  
 **Pen:** 0, 1 charge  
-This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 5 hours to do.  
+This powder grants a +5 bonus to a person's Living Conditions modifier. For the powder to work, the target must inhale a new dose every season for an entire year, so Aydamir needs to create a new batch of powder every season, this takes him 4 hours to do.  
 *(Base 5, +3 Season)*
 
 **Potion of Longevity**  
@@ -227,7 +227,7 @@ This potion grants a +15 bonus to a person's Living Conditions modifier. One of 
 VuSa 20  
 **R**: Touch, **D**: Mom, **T**: Group  
 **Pen:** 0, 1 charge  
-This pastille rend the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
+This pastille rends the afflicted targets partially unable to walk by paralyzing one of the legs. This pastille was commisioned by the Ministry of Work after the *Pastille of Combat Enhancement*, they used it sporadically against rebellious groups of people but they keep it in case of a war.  
 *(Base 15, +1 Group)*
 
 ## Vulgar Alchemy Materials and Shapes
@@ -241,7 +241,7 @@ This pastille rend the afflicted targets partially unable to walk by paralyzing 
 
 ## Aydamir's Laboratory
 
-His laboratory was built under contract with the Minister of Labor but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
+His laboratory was built under contract with the Ministry of Work but under his supervision. Aydamir asked for an alchemial still to be included for the production of Sovereign Reagent to be more effective, and the thick walls and well-constructed building made the facility safer from accidents caused by the various experiments.
 
 **Virtues and Flaws:** Greater Feature (Alchemical Still as Cauldron), Superior Construction, Greater Focus (Alchemical Still), Superior Tools, Precious Ingredients, Well Insulated, Assistants (2), Extensive Store  
 **Size:** +0  
@@ -253,7 +253,7 @@ His laboratory was built under contract with the Minister of Labor but under his
 **Health:** +0  
 **Aesthetics:** +4  
 
-**Specializations:** Experimentation +5, Items +1, Longevity +1, Vis Extraction +2
+**Specializations:** Experimentation +5, Vis Extraction +2
 
 \* Assistants have Int + Soban Alchemy equal to 4
 
@@ -261,13 +261,13 @@ His laboratory was built under contract with the Minister of Labor but under his
 
 *Vulgar Alchemy*  
 **Ease Factor:** 15  
-**Script Bonus:** +10  
+**Script Bonus:** +11  
 **Script Details:** The alchemist need to spend a season collecting powders and helping the Mystagogue in his laboratory (+1 Time), then he need to search for a Gem of Virtue usually protected by some jinn or magical creature (+3 Quest). He needs to grind the found gem into fine powder and then use expensive materials (+1 Goods) to experiment on a potion. The Mystagogue spends a Season to teach the alchemist more on the Soban Alchemist Lore and introduces the alchemist into the Soban Alchemist cult (+3 Mystagogue Time). The new member needs to swear a *Vow* to not share his knowledge with anyone outside the cult (+3 Minor Ordeal). [The benefit from Vulgar Alchemy may only be gained through Seasonal experimental activities.]
 
 *Soban Philosophical Alchemy (Minor)*  
 **Ease Factor:** 15 (-3 previous Ordeal)  
 **Script Bonus:** +6 (+2 Sympathetic bonus)  
-**Script Details:** During the summer solstice, the alchemist have to venture to Nabta Playa, a place in the Nubian desert where, thousand of years ago, the first magicians fashioned what may be among the earliest known archeoastronomical devices (+3 Place and Time) and the Soban alchemists think they are their descendants. Upon arrival, he needs to prepare a mobile laboratory in order to craft powders infused with the power of the stars where the main components are expensive grinded gems (+1 Goods), this ritual will grant him the *Soban Philosophical Alchemy* Virtue. [The alchemist have to arrive in the location prior to the summer solstice and find the suitable point to build the mobile laboratory (with a Int + Artes Liberales astronomy roll vs EF 9+) but when he brew the potions under the night sky, the power of the stars temporarily grants the Laboratory Total a +3 bonus to enhance magic and granting powers.]
+**Script Details:** During the summer solstice, the alchemist have to venture to Nabta Playa, a place in the Nubian desert where, thousand of years ago, the first magicians fashioned what may be among the earliest known archeoastronomical devices (+3 Place and Time) and the Soban alchemists think they are their descendants. Upon arrival, he needs to prepare a mobile laboratory in order to craft powders infused with the power of the stars where the main components are expensive grinded gems (+1 Goods), this ritual will grant him the *Soban Philosophical Alchemy* Virtue. [The alchemist have to arrive in the location prior to the summer solstice and find the suitable point to build the mobile laboratory (with a Int + Artes Liberales astronomy roll vs EF 9+) but if he creates powders under that night sky, the power of the stars temporarily grants the Laboratory Total a +5 bonus to enhance magic and granting powers.]
 
 *Lesser Elixir*  
 **Ease Factor:** 15 (-3 previous Ordeal)  

@@ -125,10 +125,10 @@
 
 ## Familiar
 
-Phantasos, an Oneiros of the Gate of Horn and Ivory with Magic Might 10 (Imaginem) and dream related powers.
+Phantasos, an Oneiros of the Gate of Horn and Ivory with Magic Might 15 (Imaginem) and dream related powers.
 
-**Familiar Bonding (CrIm) Lab Total:** 36  
-**Hermes Cord:** +2, **Isis Cord:** +1, **Hekate Cord:** +2
+**Familiar Bonding (CrIm) Lab Total:** 40  
+**Hermes Cord:** +3, **Isis Cord:** +1, **Hekate Cord:** +1
 
 ## New Spells
 
