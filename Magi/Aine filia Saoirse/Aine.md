@@ -98,7 +98,7 @@ This is an hermetic grimoire to store Aines spells, there are section for every 
 CrAq 10  
 **R:** Voice, **D:** Dia, **T:** Ind  
 Caster flics their finger and covers an individual in highly flamable oil. If it gets ignited it does +12 damage the first round, +6 damage the second round, +0 damage the third round.    
-**Mastery:** Multiple Casting    
+**Mastery 1 :** Multiple Casting    
 *(Base 3, +2 voice)*
 
 # Corpus
@@ -141,7 +141,7 @@ Increase one of a person’s Strength by one point, to no more than 0.
 PeCo 10  
 **R:** Voice, **D:** Dia, **T:** Ind  
 Causes target to start sneezing uncontrollably. Spellcasters who sneeze must make Intelligence + Concentration stress rolls of 12+ to maintain concentration, cant cast spells with a voice component and others get –1 on most activities at the moment of the sneeze.  
-**Mastery:** Multiple Casting, Quiet Casting
+**Mastery 2 :** Multiple Casting, Quiet Casting
 *(Base 3, Voice +2, Dia +1)*
 
 # Ignem
@@ -158,21 +158,21 @@ A small flame appears within voice range. Can ignite highly flamable items. Can 
 CrIg 15  
 **R:** Voice, **D:** Mom, **T:** Ind  
 A brilliant red flash explodes in the air where you designate. If you target a person’s face the target needs a Stamina stress roll of 9+ to avoid temporary blindness. If the target botches the roll, he is pemanently blinded. If temporarily blinded, he can try to make a simple Stamina roll of 9+ each minute to recover. The flash is equivalent to looking straight at the sun.  
-**Mastery:** Multiple Casting, Obfuscated Casting  
+**Mastery 2 :** Multiple Casting, Obfuscated Casting  
 *(Base 5, Voice +2)*
 
 **This Girl is on Fire**  
 CrIg lvl 15 (Req: Rego) 
 **R:** Personal, **D:** Dia, **T:** Ind  
 You become wreathed entirely in flames, held a fraction away from your body and clothes and causing no personal harm. Anyone who attempts to touch you or strike you with a weapon of sword-length or shorter takes +5 damage, as they scorch or burn their hand/arm. The fire is hot enough to ignite flammable materials, such as dry wood or charcoal.  
-**Mastery:** Fast Casting  
+**Mastery 1 :** Fast Casting  
 *(Base 5, +1 diameter, +1 Rego requisite to not harm caster)*  
 
 **Like Zeus, but Hotter**  
 CrIg 20  
 **R:** Voice, **D:** Mom, **T:** Ind  
 A 2-foot, thick, spear-shaped jet of fire flies from your palms, doing +15 damage to the individual it hits.  
-**Mastery:** Multiple Casting  
+**Mastery 1 :** Multiple Casting  
 *(Base 10, Voice +2)*
 
 **Dragon's Roar**  
@@ -216,7 +216,7 @@ The caster is enveloped in shadows making it somewhat more difficult to clearly 
 PeIg 10  
 **R:** Voice, **D:** Mom, **T:** Ind  
 Causes the target to feel a chill and lose body heat. The target loses a Fatigue level.  
-**Mastery:** Multiple Casting  
+**Mastery 1 :** Multiple Casting  
 *(Base 4, Voice +2)*
 
 **Enough**  
@@ -229,7 +229,7 @@ Extinguish a fire, cooling the ashes to merely warm.
 PeIg 25  
 **R:** Voice, **D:** Mom, **T:** Part  
 Cools the air within ten paces of the target, leaving it slightly below freezing. All nonliving things are chilled thoroughly, not just on the surface. All living things (except you, if youcast with a Rego requisite) lose one Fatigue level. House fires become as small as campfires, bonfires become as small as torch fires, and campfires and smaller fires go out.  
-**Mastery:** Magic Resistance  
+**Mastery 1 :** Magic Resistance  
 *(Base 4, voice +2, part +1, size +2)*
 
 ## Rego Ignem
@@ -258,7 +258,7 @@ Your image appears up to 1 pace from where you actually are, so attacks aimed th
 PeVi lvl 20 
 **R:** Voice, **D:** Mom, **T:** Ind  
 Weakens and possibly destroys a demon. If the spell penetrates the demon’s Magic Resistance, the demon loses Might Score equal to the spell lvl = 20.  
-**Mastery:** Penetration x2.  
+**Mastery 2 :** Penetration x2  
 *(Base effect, Voice +2)* 
 
 ## Rego Vim
@@ -267,7 +267,7 @@ Weakens and possibly destroys a demon. If the spell penetrates the demon’s Mag
 ReVi lvl 10  
 **R:** Voice, **D:** Con, **T:** Ind  
 Suppress a spell cast by another with level less than or equal to half the (level + 5 magnitudes) of the Vim spell = lvl 20.      
-**Mastery:** Fast cast  
+**Mastery 1 :** Fast cast  
 *(Base 3, Voice +2, con +1)*
 
 **Aegis of the Hearth (20)**  
