@@ -2,18 +2,6 @@
 
 This is an hermetic grimoire to store Aines spells, there are section for every technique-form combination and spells are ordered by their level.
 
-# Animal
-
-## Creo Animal
-
-## Intellego Animal
-
-## Muto Animal
-
-## Perdo Animal
-
-## Rego Animal
-
 # Aquam
 
 ## Creo Aquam
@@ -24,27 +12,6 @@ CrAq 10
 Caster flics their finger and covers an individual in highly flamable oil. If it gets ignited it does +12 damage the first round, +6 damage the second round, +0 damage the third round.    
 **Mastery:** Multi    
 *(Base 3, +2 voice)*
-
-
-## Intellego Aquam
-
-## Muto Aquam
-
-## Perdo Aquam
-
-## Rego Aquam
-
-# Auram
-
-## Creo Auram
-
-## Intellego Auram
-
-## Muto Auram
-
-## Perdo Auram
-
-## Rego Auram
 
 # Corpus
 
@@ -68,7 +35,7 @@ CrCo lvl 20
 This spell heals a single Light Wound suffered by the person touched. This spell does not heal damage from poison or disease.  
 (Base 15, +1 Touch)  
 
-**Im not done with you yet
+**Im not done with you yet**
 CrCo lvl 25  
 **R:** Touch, **D:** Moon, **T:** Ind  
 The target gains a +12 bonus to Recovery rolls to recover from injuries or diseases, as long as he has been under the influence of this spell for the whole of the recovery interval. The recovery interval is counted from the time that the spell is cast; any previous time is ignored.  
@@ -80,10 +47,6 @@ TeFo lvl 35
 Increase one of a person’s Strength by one point, to no more than 0.  
 *(Base 30, Touch +1)*
 
-## Intellego Corpus
-
-## Muto Corpus
-
 ## Perdo Corpus
 
 **Mr Hiccup**  
@@ -92,20 +55,6 @@ PeCo 10
 Causes target to start sneezing uncontrollably. Spellcasters who sneeze must make Intelligence + Concentration stress rolls of 12+ to maintain concentration, cant cast spells with a voice component and others get –1 on most activities at the moment of the sneeze.  
 **Mastery:** Multi, Quiet  
 *(Base 3, Voice +2, Dia +1)*
-
-## Rego Corpus
-
-# Herbam
-
-## Creo Herbam
-
-## Intellego Herbam
-
-## Muto Herbam
-
-## Perdo Herbam
-
-## Rego Herbam
 
 # Ignem
 
@@ -175,7 +124,7 @@ PeIg lvl 3
 The caster is enveloped in shadows making it somewhat more difficult to clearly distinguish details of the caster by sight.  
 *(Base 3)*  
 
-**Jackfrost says fuck you particularly**  
+**Jackfrost says I dont like you, at all**  
 PeIg 10  
 **R:** Voice, **D:** Mom, **T:** Ind  
 Causes the target to feel a chill and lose body heat. The target loses a Fatigue level.  
@@ -205,14 +154,6 @@ Gathers fire within sight range, shapes it into a wyvern. Send the wyvern to a t
 
 # Imaginem
 
-## Creo Imaginem
-
-## Intellego Imaginem
-
-## Muto Imaginem
-
-## Perdo Imaginem
-
 ## Rego Imaginem
 
 **Heh you cant find me**  
@@ -221,37 +162,7 @@ TeFo lvl 10
 Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.  
 *(Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)*  
 
-# Mentem
-
-## Creo Mentem
-
-## Intellego Mentem
-
-## Muto Mentem
-
-## Perdo Mentem
-
-## Rego Mentem
-
-# Terram
-
-## Creo Terram
-
-## Intellego Terram
-
-## Muto Terram
-
-## Perdo Terram
-
-## Rego Terram
-
 # Vim
-
-## Creo Vim
-
-## Intellego Vim
-
-## Muto Vim
 
 ## Perdo Vim
 
@@ -286,16 +197,7 @@ This ritual protects a covenant in the way a Parma Magica protects a magus. Look
 **Opening the Intangible Tunnel**  
 ReVi lvl 30  
 **R:** Arc, **D:** Con, **T:** Ind  
-You can open a magical channel from yourself to some target, allowing you to cast any spell with a range greater than Personal on that target. The tunnel does not, of itself, grant any sense impressions of the target — you must cast appropriate spells through it if you wish to see. Spells cast through the tunnel cannot be of higher level than that of this spell. You must make standard Concentration rolls to maintain concentration on the Opening spell as you cast
-other spells. A magus who magically recognizes the tunnel (through The Invisible Eye Revealed or a similar spell) may cast spells through the tunnel
-back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell. If the target of the spell has Magic Resistance, you must penetrate that resistance to open the tunnel. Spells cast through the tunnel must also penetrate Magic Resistance normally.  
+You can open a magical channel from yourself to some target, allowing you to cast any spell with a range greater than Personal on that target. The tunnel does not, of itself, grant any sense impressions of the target — you must cast appropriate spells through it if you wish to see. Spells cast through the tunnel cannot be of higher level than that of this spell. You must make standard Concentration rolls to maintain concentration on the Opening spell as you cast other spells. A magus who magically recognizes the tunnel (through The Invisible Eye Revealed or a similar spell) may cast spells through the tunnel back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell. If the target of the spell has Magic Resistance, you must penetrate that resistance to open the tunnel. Spells cast through the tunnel must also penetrate Magic Resistance normally.  
 Spells lvl 30 or less can be cast through.    
 *(Base effect, +4 Arc, +1 Conc)*
 
-
-**Name**  
-TeFo lvl  
-**R:** Touch, **D:** Mom, **T:** Ind  
-Description  
-**Mastery:** 
-*(Base x, mag description)*
