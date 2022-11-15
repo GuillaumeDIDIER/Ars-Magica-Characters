@@ -35,6 +35,20 @@ This potion is a powerful aphrodisiac that increases sexual desire, sexual attra
 roll against an Ease Factor of 9. The effect of this potion last until the next day.  
 *(Base 5, +0 Weak)*
 
+**Witch's Ointment**  
+Theriac Level 5  
+Potency: Mild  
+This potion wounds an unborn child, causing the fetus to abort. A Stamina stress roll against an Ease Factor of 9 must be made for the mother; if it fails she suffers a Medium Wound.  
+*(Base 4, +1 Mild)*  
+
+**The Mother's Kiss**  
+Theriac Level 5  
+Potency: Weak  
+This tonic helps the muscles of the woman to relax while also relieving the pain associated with childbirth, granting a +3 bonus to childbirth rolls.  
+
+The guideline for childbirth tries to follow the guidelines for childbirth for Hermetic Magic in relation to the Recovery guidelines of theriacs and Hermetic Magic.
+*(Base 5, +0 Weak)*
+
 **Mixture of Herbs and Incense**  
 Theriac Level 10  
 Potency: Weak  
