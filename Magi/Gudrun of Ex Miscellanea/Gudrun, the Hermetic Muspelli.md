@@ -112,7 +112,7 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 **Assume the Stature of the Jotnar**  
 MuCo 25  
 **R**: Personal, **D**: Sun, **T**: Ind  
-This power is similar to the *Assume the Stature of the Giant of Eld* spell but uses the base 4 guidelines to alter the Characteristics accordingly to the new Size +3, so with the modifiers +6 Strength and -3 Quickness. This is the powet granted by *Mythic Blood*.  
+This power is similar to the *Assume the Stature of the Giant of Eld* spell but uses the base 4 guidelines to alter the Characteristics accordingly to the new Size +3, so with the modifiers +6 Strength and -3 Quickness. This is the power granted by *Mythic Blood*.  
 *(Base 4, +2 Sun, +2 Sun, +1 to increase equipment as well)*
 
 **Ruler of Magic**  

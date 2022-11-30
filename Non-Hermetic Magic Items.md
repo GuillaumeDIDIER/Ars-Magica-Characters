@@ -33,7 +33,7 @@ Hex 33
 This poppet was created by the Matilde using Lesser Craft Magic and then initially given to one of her apprentices to deal with pesky boys in the village. When presented to a target and striken with a needle, the target feels an unbearable pain in the striked point. The pain is not sufficient to cause a Wound.  
 *(Base 18, +5 Sight, +10 unlimited)*
 
-**Precognition Amulet**  
+**Precognition Amulet**   
 Premonitions 24  
 **Pen:** 0, unlimited uses per day  
 **R:** Touch, **D:** Mom, **T:** Ind  
@@ -59,7 +59,6 @@ This wand transform the target in an hare for Sun duration.
 Flight 15  
 **Pen:** 0, 2 uses per day  
 **R:** Touch, **D:** Conc, **T:** Ind  
-
 Matilde crafted this flying broom for her apprentice Giovanna, so that they could fly together.  
 Once airborne the user can fly at about the same speed as a horse can gallop along the ground, and she can remain airborne for a number of hours equal to the crafter's Flight Ability score, but the flight ends if she touches the ground before this time.  
 *(Base 9, +5 Touch, +1 2/gg)*
@@ -71,3 +70,10 @@ Corpse Magic 35
 This jar contains hundreds of restless spirits that, when the jar is opened, seek a suitable corpse to animate. The corpses are under the control of the user for Sun duration and, when dusk/dawn arrives, all the spirits return into the jar leaving the corpses.  
 The jar contains 7 pawns of Corpus vis and it was found by a temple priest of the Cult of Dedun while searching the initiation script to become the Undying Ones, in a pyramid.  
 *(Base 15, +5 Sun, +10 Group, +5 Size)*
+
+**Detached Head of Wisdom**  
+Corpse Magic 31  
+**Pen:** 20, constant use  
+**R:** Touch, **D:** Conc, **T:** Ind  
+A Temple Priest enchanted the head of a powerful wizard to make him answer questions about magic and on how to gain more magical power. An enchanted amulet is placed in the mouth of the corpse and then the head animates to answer to the questions that the creator of the amulet asks.
+*(Base 12, +5 Sun, +4 constant, +10 Penetration)*
