@@ -64,7 +64,7 @@ Matilde crafted this flying broom for her apprentice Giovanna, so that they coul
 Once airborne the user can fly at about the same speed as a horse can gallop along the ground, and she can remain airborne for a number of hours equal to the crafter's Flight Ability score, but the flight ends if she touches the ground before this time.  
 *(Base 9, +5 Touch, +1 2/gg)*
 
-**Canopic Jar of the Restless Army**
+**Canopic Jar of the Restless Army**  
 Corpse Magic 35  
 **Pen:** 0, 2 uses per day  
 **R:** Touch, **D:** Sun, **T:** Group+1  
