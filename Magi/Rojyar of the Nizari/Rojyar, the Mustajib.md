@@ -76,7 +76,7 @@ Rojyar is now a powerful member of the Nizari summoners but, before becoming a m
 **Equipment:** none  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Naranjs Known:
 
 + *Summon Al-Wahdat* (Summoning 10/+15)
 + *Summon Yassin* (Summoning 15/+15)
@@ -106,3 +106,13 @@ Theriac Level 10
 Potency: Mild  
 This poison is based on a more potent poison extracted from arsenic. Rojyar created this poison such that its effects are difficult to resist but its dangerousness can be improved through his Solomonic Art. This poison inflict a Light Wound if a Stamina roll against an Ease Factor of 9 is failed.  
 *(Base 5, +1 Mild)*
+
+## New Naranjs
+
+**Sekmeth's Curse**  
+Solomonic Physic Level 15  
+Potency: Mighty
+
+The touched poison increases its potency to deal up to an Incapacitating Wound, the Ease Factor remains the same. This naranj is usually cast by poisoners on weak or mild poisons to enhance them to very powerful poisons.
+
+_(Base 3, +4 Mighty)_
