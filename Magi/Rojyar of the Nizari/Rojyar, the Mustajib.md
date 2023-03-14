@@ -109,6 +109,14 @@ This poison is based on a more potent poison extracted from arsenic. Rojyar crea
 
 ## New Naranjs
 
+**Let's catch a Breath**  
+Solomonic Physic Level 10  
+Potency: Mild
+
+The touched person regains a Fatigue level up to a Weary Level. This naranj is often used by sahir on themselves to be able to endure difficult moments. Other, more potent, naranj can restore other Fatigue levels.
+
+_(Base 5, +1 Mild)_
+
 **Sekmeth's Curse**  
 Solomonic Physic Level 15  
 Potency: Mighty
