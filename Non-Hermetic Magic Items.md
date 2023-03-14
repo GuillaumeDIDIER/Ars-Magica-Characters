@@ -33,7 +33,10 @@ Hex 33
 This poppet was created by the Matilde using Lesser Craft Magic and then initially given to one of her apprentices to deal with pesky boys in the village. When presented to a target and striken with a needle, the target feels an unbearable pain in the striked point. The pain is not sufficient to cause a Wound.  
 *(Base 18, +5 Sight, +10 unlimited)*
 
-**Precognition Amulet**  
+**Precognition Amulet**  <<<<<<< new-characters
+74
+ 
+
 Premonitions 24  
 **Pen:** 0, unlimited uses per day  
 **R:** Touch, **D:** Mom, **T:** Ind  
