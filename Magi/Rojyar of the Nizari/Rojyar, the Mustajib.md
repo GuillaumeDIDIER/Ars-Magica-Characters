@@ -94,3 +94,15 @@ Rojyar is now a powerful member of the Nizari summoners but, before becoming a m
 **Commanding:** Immovable Object, Defense against effects that try to control or manipulate him.
 
 **Appearance:** Rojyar is a skinny young man, usually covered in dark robes to hide his presence.
+
+## Theriac Formulas
+
+*Arsenic-based Poison*: Theriac Level 10
+
+## New Theriac Formulas
+
+**Arsenic-based Poison**  
+Theriac Level 10  
+Potency: Mild  
+This poison is based on a more potent poison extracted from arsenic. Rojyar created this poison such that its effects are difficult to resist but its dangerousness can be improved through his Solomonic Art. This poison inflict a Light Wound if a Stamina roll against an Ease Factor of 9 is failed.  
+*(Base 5, +1 Mild)*
