@@ -448,3 +448,127 @@ Olibanum 27
 **R**: Voice, **D**: Perpetual, **T**: Ind  
 This spell lets the sorcerer permanently control a Demon, provided that he penetrates his Magic Resistance. This is a more powerful version of *Chains of the Foul Being* but no sorcerer ever cast it because of the fear of demonic repercussions.    
 *(Base 9, +6 Voice, +12 Perpetual)*
+
+# Naranjs (The Cradle & The Crescent)
+
+## Alchemy
+
+**Winds, Bow to Me**  
+Alchemy 15 (Ritual)  
+Animate the wind to blow in the chosen direction.  
+*(Base 10, +1 Minor)*
+
+**From Stone to Sand**  
+Alchemy 15 (Ritual)  
+Trasform 10 cubic paces of stone into sand.  
+*(Base 5, +1 Minor, +1 Size)*
+
+**Let the Quicksand Eat You**  
+Alchemy 15  
+Transform 1000 cubic paces of sand into quicksand.  
+*(Base 3, +1 Minor, +3 Size)*
+
+**The Vapours of the Volcano**  
+Alchemy 20  
+Makes a volume of 100 cubic of air into volcano fumes dealing +15 damage to anyone caught in the vapours.  
+*(Base 3, +3 Major, +2 Size)*
+
+**Gather the Clouds**  
+Alchemy 20  
+Condense air into a cloud and possibly rain.  
+*(Base 4, +1 Minor, +3 Size)*
+
+**Moving Cloud**  
+Alchemy 35  
+Make a cloud cohesive and dense enough to support people.  
+*(Base 15, +2 Substantial, +2 Size)*
+
+## Physics
+
+**Let’s catch a breath**  
+Physic 10  
+Restore a Weary fatigue level.  
+*(Base 5, +1 Potency)*
+
+**Sekhmet's Curse**  
+Physic 15  
+The sahir or the jinn touches a poison and the its Potency increases by one step. This naranj can increase the Potency up to Mighty, and the corresponding poison can deal an Incapacitating Wound. Many Nizari summoners use this naranj to create powerful poisons.  
+*(Base 3, +4 Mighty)*
+
+**From Pious to Sinner**  
+Physic 15 (Ritual)  
+Change a Personality Trait related to Pious to one related to Sinner.  
+*(Base 5, +2 Moderate)*
+
+**Don’t be Fooled by your Master**  
+Physic 20 (Ritual)  
+Change a Loyal Personality Trait to Unloyal.  
+*(Base 5, +3 Strong)*
+
+**Let the eternal sleep catch you!**  
+Physic 25  
+Cause the target to lose an Unconscious Fatigue level.  
+*(Base 5, +4 Mighty)*
+
+# Infernal Powers (Realm of Power: Infernal)
+
+## Diablerie
+
+**Dark Sanctuary**  
+DeDi 40  
+Creates a small infernal regio of level 1.  
+*(Base 25, +1 Touch, +2 Sun)*
+
+**Infernal Corruption of Vis**  
+InDi 35  
+Taint the vis in the circle into vis prava.  
+*(Base 30, +1 Touch, +0 Circle)*
+
+**Ephemeral Gift of Demonic Protection**  
+InDi 25  
+Grants the touched person a Magic Resistance of 15.  
+*(Base 10, +1 Touch, +2 Sun)*
+
+**Binding Pact**  
+InDi 30  
+Bind a demon to a pact.  
+*(Base 4, +2 Voice, +4 Forsaken)*
+
+**Birth of the Demonic Seed**  
+InDi 60  
+Grants the Major Virtue Demonic Blood. It must be cast on a newborn baby.  
+*(Base 35, +1 Touch, +4 Forsaken)*
+
+## Phantasm
+
+**You can’t see me!**  
+Debauchery/Phantasm, Level 10  
+**R:** Per, **D:** Sun, **T:** Ind  
+The character becomes completely invisible until sunrise/sunset. Many infernalist use this maleficum to escape dire circumstances or to do something unspeakable.    
+*(Base 4, +2 Sun)*
+
+**The Flaming Dragon arrives! Roar!**  
+Debauchery/Phantasm, Level 10  
+**R:** Touch, **D:** Diam, **T:** Ind  
+The touched person gains the ability to breath fire for 2 minutes.  
+This Maleficium could grant any supernatural power similar to Lesser Powers, so mechanical details should be worked out as having a Lesser Power (Initiative, Cost in Fatigue levels, Penetration, Finesse rolls and such).  
+Appropriate powers should be chosen among the dream powers that Hilda thinks she have.  
+*(Base 4, +1 Touch, +1 Diam)*
+
+**Shut up, you dummy!**  
+Debauchery/Phantasm, Level 15  
+**R:** Voice, **D:** Sun, **T:** Ind  
+Hide all sounds made by the target, especially sounds from his mouth.  
+*(Base 3, +2 Voice, +2 Sun)*
+
+**The Scar opens Again! Ops!**  
+Debauchery/Phantasm, Level 15  
+**R:** Voice, **D:** Mom, **T:** Ind  
+The scars on the target briefly reopen and deal +5 Damage to him.  
+*(Base 5, +2 Voice)*
+
+**Go little puppy! Go play with him!**  
+Debauchery/Phantasm, Level 20  
+**R:** Touch, **D:** Mom, **T:** Ind  
+The touched animal become corrupted by the dark energies from Hilda’ mind and her patron. The corrupted creature gains an Infernal Might of 5, gaining the *Corrupted Beast* Supernatural Flaw, and a Lesser Power tied to his corrupted nature.  
+*(Base 10, +1 Touch, +1 Conc)*

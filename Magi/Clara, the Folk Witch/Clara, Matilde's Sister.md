@@ -1,7 +1,7 @@
 # Clara
 
-Clara was born unlucky. Her family rejected her and left her on the street when she was young, probably because they thought she brought misfortune on the family. Clara was marked from birth by unusual white hair and eyes with different colours and many said that those were marks of the Devil. When she was 9 years old, a Folk Witch named Catarina found here wandering in the woods and she took Clara to her home. Here she found two other young girls, Matilde and Ida, that were found in similar condition.  
-Clara grew as a Folk Witch skilled in entrancing people and creature to do her bidding and the continous challenge with her sister Matilde greatly improved her abilities. She doesn't know when but she was cursed with lycanthropy and now every full moon she transform into a white wolf. During one of these moons, she attacked a magical wolf, Baree, that after the fight took pity of her and decided to stay at her side.
+Clara was born unlucky. Her family rejected her and left her on the street when she was young, probably because they thought she brought misfortune on the family. Clara was marked from birth by unusual white hair and eyes with different colours and many said that those were marks of the Devil. When she was 9 years old, a Folk Witch named Catarina found her wandering in the woods and the witch took Clara to her home. Here Clara found two other young girls, Matilde and Ida, that were found in similar condition and that, from that moment, she would've called *sisters*.  
+Clara grew as a Folk Witch skilled in entrancing people and creatures to do her bidding and the continuous challenges with her sister Matilde greatly improved her abilities. She doesn't know when but she was cursed with lycanthropy and now every full moon she transform into a white wolf. During one of these moons, she attacked a magical wolf, Baree, that after the fight took pity of her and decided to stay at her side.
 
 **Characteristics:** Int +2, Per +0, Pre +2, Com +1, Str -1, Sta +1, Dex +1, Qik -1  
 **Size:** 0  
@@ -107,8 +107,8 @@ Clara grew as a Folk Witch skilled in entrancing people and creature to do her b
 - Virtue: Essential Virtue (Relentless Pursuer)
 - Personal Power
 
-**Personality Trait:**   
-**Reputations:** 
+**Personality Trait:** Hatred +3, Arrogant +3   
+**Reputations:** The Leader of the Swampy Forest 1 (wolves) 
 
 **Combat:**  
 *Dodge*: Init +2, Attack +0, Defense +7, Damage +0  

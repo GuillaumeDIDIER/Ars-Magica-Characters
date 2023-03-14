@@ -75,9 +75,9 @@ Appropriate powers should be chosen among the dream powers that Hilda thinks she
 
 *(Base 4, +1 Touch, +1 Diam)*
 
-**Shut up, you dummy!**
-Debauchery/Phantasm, Level 15
-**R:** Voice, **D:** Sun, **T:** Ind
+**Shut up, you dummy!**  
+Debauchery/Phantasm, Level 15  
+**R:** Voice, **D:** Sun, **T:** Ind  
  
 Hide all sounds made by the target, especially sounds from his mouth.
  
