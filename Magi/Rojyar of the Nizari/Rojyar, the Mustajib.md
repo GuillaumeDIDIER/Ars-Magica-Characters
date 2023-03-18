@@ -34,10 +34,10 @@ The Mulhidun is a Kurdish group of sorcerers in northern Persia, they are descri
 
 - **Bound Spells** _(major, supernatural)_ cf. TC&TC p31
 - **Infernal Spirit Companion** _(major, story)_ cf. TC&TC p31
-- Disfigured _(minor, general)_
-- Divine Stigmatic _(minor, supernatural)_ cf. Gr p83
-- Dutybound, *Minor, Personality*
-- Obsessed, *Minor, Personality*
+- **Disfigured** _(minor, general)_
+- **Divine Stigmatic** _(minor, supernatural)_ cf. Gr p83
+- **Dutybound**, *Minor, Personality*
+- **Obsessed**, *Minor, Personality*
 
 **Personality Trait:** Calm +2, Cruel +3, Selfish +2  
 **Reputations:** Nizari Summoner 1 (among the Suhhar Sulayman and the Nizari Isma'ili)
