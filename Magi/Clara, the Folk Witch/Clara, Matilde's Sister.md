@@ -10,22 +10,25 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 **Warping Score:** 1 (11)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Folk Witch
-- Entrancement
-- Life-Linked Folk Witch Magic
-- Herbalism
-- Independent Study
-- Lesser Craft Magic
-- Puissant Entracement
-- Lycanthrope
-- Necessary Condition (Must look into eyes)
-- Disfigured (White hair and heterochromia) 
-- Magical Animal Companion
-- Proud
-- Reckless
+- **The Gift** _(special)_
+- **Folk Witch** _(free, social status)_ cf. HMRE p34
+- **Entrancement** _(major, supernatural)_
+- **Life-Linked Folk Witch Magic** _(major, supernatural)_ cf. HMRE p35
+- **Herbalism** _(minor, general)_ cf. A&A p55
+- **Independent Study** _(minor, general)_ cf. HoH:MC p86
+- **Lesser Craft Magic** _(minor, supernatural)_ cf. RM p11
+- **Puissant Entracement** _(minor, general)_
+
+## Flaws
+
+- **Lycanthrope** _(major, supernatural)_
+- **Necessary Condition (Must look into eyes)** _(major, hermetic)_
+- **Disfigured (White hair and heterochromia)** _(minor, generak)_
+- **Magical Animal Companion** _(minor, story)_
+- **Proud** _(minor, personality)_
+- **Reckless** _(minor, personality)_
 
 **Personality Trait:** Reckless +3, Proud +3, Cruel +1   
 **Reputations:** The White Witch 1 (local)
@@ -36,7 +39,7 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Animal Handling 1 (wolves)
 + Animal Ken 3 (wolves)
@@ -71,15 +74,32 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 
 # Baree, the Wolf
 
+Baree is a magical wolf that leads the wolves in the forests north of Venice, she's very independent but a few years ago he took a little girl under his wing, this girl was Clara. From that moment she follows and protects her, Clara reminds her of one of her own young… killed by a group of hunting men when she was younger.
+
 **Magic Might:** 5 (Animal)  
 **Characteristics:** Int +2, Per +0, Pre -2, Com +0, Str -1, Sta +3, Dex +2, Qik +2,   
 **Size:** 0  
 **Season:** Summer  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- Magical Animal
+- **Magical Animal** _(special)_
+- **Long-Winded** _(minor, general)_
+- **Sharp Ears** _(minor, general)_
+- **Improved Characteristics (x2)** _(minor, general)_
+- **Ferocity (when hungry)** _(minor, beasts)_ cf. HoH:MC p40
+- **Unaffected by the Gift** _(minor, general)_ cf. RoP:M p47
+
+## Flaws
+- **Essential Flaw (Hunger)** _(minor, general)_ cf. RoP:M p48 
+- **Infamous** _(minor, general)_
+- **Arrogant** _(minor, personality)_
+- **Hatred** _(minor, personality)_
+- **Baneful Circumstances (being wet)** _(minor, supernatural)_ cf. RoP:M p47
+- **Magical Friend** _(minor, social status)_ cf. RoP:M p49
+
+## Animal Qualities (HoH:MC p40)
 - Aggressive
 - Hardy
 - Keen Sense of Smell
@@ -88,26 +108,15 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 - Sharp Ears
 - Thick Fur
 - Vocal
-- Long-Winded
-- Sharp Ears
-- Improved Characteristics (x2)
-- Ferocity (when hungry)
-- Unaffected by the Gift
-- Essential Flaw
-- Infamous
-- Arrogant
-- Hatred
-- Baneful Circumstances (being wet) 
-- Magical Friend
 
-## Magic Qualities and Inferiorities:
+## Magic Qualities and Inferiorities (RoP:M p36)
 
-- Gift of Speech
-- Lesser Power
-- Virtue: Essential Virtue (Relentless Pursuer)
-- Personal Power
+- **Gift of Speech** _(minor)_
+- **Lesser Power** _(minor)_
+- **Personal Power** _(minor)_
+- **Virtue: Essential Virtue (Relentless Pursuer)** _(minor)_
 
-**Personality Trait:** Hatred +3, Arrogant +3   
+**Personality Trait:** Hatred (towards men) +3, Arrogant +3   
 **Reputations:** The Leader of the Swampy Forest 1 (wolves) 
 
 **Combat:**  
@@ -117,10 +126,10 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Forest of North Italy 2 (creatures)
-+ Atheltics 5 (chasing)
++ Atheltics 5 (chasing) [+3 if pursuing relentlessly]
 + Awareness 3 (alertness)
 + Brawl 5 (teeth)
 + Hunt 4 (tracking)

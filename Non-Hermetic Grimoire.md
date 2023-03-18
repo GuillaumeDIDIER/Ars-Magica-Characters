@@ -64,7 +64,7 @@ When applied to a wound, this cataplasm grants a +6 to the patient’s next Woun
 **Tincture of Ammonium and Valerian**  
 Theriac Level 10  
 Potency: Strong  
-Similar to the *Cataplasme of Mandrake*, this theriac causes the character to become Dazed (loss of four Fatigue levels), but reduces any Wound and Disease Penalty by 5. The body part remains numb until the lost Fatigue levels are recovered. Aydamir commisioned this tincture to his personal Apothecary to be able to create powders even when injured, reducing the Wound Penalty to -1 or -2 makes him able to do the necessary Lab work (More doses are needed to be able to create powders for several hours).  
+Similar to the *Cataplasme of Mandrake*, this theriac causes the character to become Dazed (loss of four Fatigue levels), but reduces any Wound and Disease Penalty by 5. The body part remains numb until the lost Fatigue levels are recovered. Aydamir commissioned this tincture to his personal Apothecary to be able to create powders even when injured, reducing the Wound Penalty to -1 or -2 makes him able to do the necessary Lab work (More doses are needed to be able to create powders for several hours).  
 *(Base 3, +3 Strong)*
 
 # Learned Magic (Hedge Magic)
@@ -454,89 +454,105 @@ This spell lets the sorcerer permanently control a Demon, provided that he penet
 ## Alchemy
 
 **Winds, Bow to Me**  
-Alchemy 15 (Ritual)  
-Animate the wind to blow in the chosen direction.  
+Solomonic Alchemy Level 15  
+Alteration: Minor, Ritual  
+This naranj quicky animate the wind to blow in a chosen direction. Many sahirs use this naraSolomonicnj to help navigate the sea, to clear a room from smoke while others use this naranj with *The Moving Cloud* to surf the sky.  
 *(Base 10, +1 Minor)*
 
 **From Stone to Sand**  
-Alchemy 15 (Ritual)  
-Trasform 10 cubic paces of stone into sand.  
+Solomonic Alchemy Level 15  
+Alteration: Minor, Ritual  
+This naranj instantly trasform 10 cubic paces of stone into sand. This can be used, and has been, offensively by sahirs to win battle. With this naranjs it's easy to make a stone wall crumble to sand or to open passages between walls.  
 *(Base 5, +1 Minor, +1 Size)*
 
 **Let the Quicksand Eat You**  
-Alchemy 15  
-Transform 1000 cubic paces of sand into quicksand.  
+Solomonic Alchemy Level 15  
+Alteration: Minor  
+This naranj instantly transform an area in front of the sahir equivalent to 1000 cubic paces of sand into quicksand, this can be used effectively as a defense against most troops, mounted or not, or to control specific focal points in a battle.  
 *(Base 3, +1 Minor, +3 Size)*
 
 **The Vapours of the Volcano**  
-Alchemy 20  
-Makes a volume of 100 cubic of air into volcano fumes dealing +15 damage to anyone caught in the vapours.  
+Solomonic Alchemy Level 20  
+Alteration: Major  
+This naranjs heats the air near the sahir, creating a circle of hot vapours equivalent to a volume of 100 cubic of air. The vapours deal +15 damage to anyone caught in the circle.  
 *(Base 3, +3 Major, +2 Size)*
 
 **Gather the Clouds**  
-Alchemy 20  
-Condense air into a cloud and possibly rain.  
+Solomonic Alchemy Level 20  
+Alteration: Minor  
+With this naranj a sahir can condense the air up in the sky into a cloud and, if sufficient water is gathered, it might cause a rain. This naranj is usually held dormant and the cast when the spirit reaches a suitable height in the sky.  
 *(Base 4, +1 Minor, +3 Size)*
 
-**Moving Cloud**  
-Alchemy 35  
-Make a cloud cohesive and dense enough to support people.  
+**The Moving Cloud**  
+Solomonic Alchemy Level 35  
+Alteration: Substantial  
+This naranj makes a cloud cohesive and dense enough to support people. Some sahirs really enjoy traveling the desert aboard a rainy cloud and coupled with *Winds, Bow to Me* they can cover far distances.  
 *(Base 15, +2 Substantial, +2 Size)*
 
 ## Physics
 
-**Let’s catch a breath**  
-Physic 10  
-Restore a Weary fatigue level.  
-*(Base 5, +1 Potency)*
+**Let's catch a Breath**  
+Solomonic Physic Level 10  
+Potency: Mild  
+The touched person regains a Fatigue level up to a Weary Level. This naranj is often used by sahir on themselves to be able to endure difficult moments. Other, more potent, naranj can restore other Fatigue levels.  
+_(Base 5, +1 Mild)_*
 
 **Sekhmet's Curse**  
-Physic 15  
-The sahir or the jinn touches a poison and the its Potency increases by one step. This naranj can increase the Potency up to Mighty, and the corresponding poison can deal an Incapacitating Wound. Many Nizari summoners use this naranj to create powerful poisons.  
-*(Base 3, +4 Mighty)*
+Solomonic Physic Level 15  
+Potency: Mighty  
+The touched poison increases its potency to deal up to an Incapacitating Wound, the Ease Factor remains the same. This naranj is usually cast by poisoners on weak or mild poisons to enhance them to very powerful poisons.  
+_(Base 3, +4 Mighty)_*
 
 **From Pious to Sinner**  
-Physic 15 (Ritual)  
-Change a Personality Trait related to Pious to one related to Sinner.  
+Solomonic Physic Level 15  
+Potency: Moderate, Ritual  
+This naranj changes a Personality Trait related to Pious to one related to Sinner.  This naranj is sometimes used by Nizari summoners to help them in an assassination or it's used by the sahirs to frame a person that the Suhhar targeted.  
 *(Base 5, +2 Moderate)*
 
 **Don’t be Fooled by your Master**  
-Physic 20 (Ritual)  
-Change a Loyal Personality Trait to Unloyal.  
+Solomonic Physic Level 20  
+Potency: Strong, Ritual  
+This powerful naranj forcefully changes a Loyal Personality Trait to Unloyal. This is usually used by sahirs to undermine a leader or to incite people against their masters, sometimes coupled with a suitable Storytelling naranj.  
 *(Base 5, +3 Strong)*
 
 **Let the eternal sleep catch you!**  
-Physic 25  
-Cause the target to lose an Unconscious Fatigue level.  
+Solomonic Physic Level 25  
+Potency: Mighty  
+This naranj causes the target to lose an Unconscious Fatigue level and immediatly faint. It's a powerful naranj that some of the elderly sahirs know but it isn't used often.  
 *(Base 5, +4 Mighty)*
 
 # Infernal Powers (Realm of Power: Infernal)
 
 ## Diablerie
 
-**Dark Sanctuary**  
-DeDi 40  
-Creates a small infernal regio of level 1.  
-*(Base 25, +1 Touch, +2 Sun)*
-
-**Infernal Corruption of Vis**  
-InDi 35  
-Taint the vis in the circle into vis prava.  
-*(Base 30, +1 Touch, +0 Circle)*
-
 **Ephemeral Gift of Demonic Protection**  
-InDi 25  
-Grants the touched person a Magic Resistance of 15.  
+Incantation/Diablerie, Level 25  
+**R:** Touch, **D:** Sun, **T:** Ind
+With a single touch, a diabolist can grant a person a Magic Resistance of 15 that last until the sun set. Diabolists use this maleficium on themselves when battling with other sorcerers or priests and sometimes against other diabolists or demons.  
 *(Base 10, +1 Touch, +2 Sun)*
 
 **Binding Pact**  
-InDi 30  
-Bind a demon to a pact.  
+Incantation/Dialberie, Level 30  
+**R:** Voice, **D:** Forsaken, **T:** Ind  
+Diabolists usually try to strike bargains and pacts with powerful demons and, by using this maleficium, they make sure that the demon is bound by the rules of the bargain.  
 *(Base 4, +2 Voice, +4 Forsaken)*
 
+**Infernal Corruption of Vis**  
+Incantation/Diablerie, Level 35  
+**R:** Touch, **D**: Mom, **T:** Circle  
+This maleficium taints the vis in the circle into vis prava. This maleficium is very useful to diabolists because they can turn vis into a more powerful version of itself, granting a +5 to a Casting roll if effectively used.  
+*(Base 30, +1 Touch, +0 Circle)*
+
+**Dark Sanctuary**  
+Debauchery/Diablerie, Level 40  
+**R**: Touch, **D:** Sun, **T:** Ind  
+This powerful maleficium creates a small infernal regio of level 1. A diabolist can use this maleficium to create an easy escape for himself but the sheer difficulty of the spell it's too much for a novice. This maleficium is from SR#7p.55.  
+*(Base 25, +1 Touch, +2 Sun)*
+
 **Birth of the Demonic Seed**  
-InDi 60  
-Grants the Major Virtue Demonic Blood. It must be cast on a newborn baby.  
+Incantation/Diablerie, Level 60  
+**R:** Touch, **D:** Forsaken, **T:** Ind  
+Using this maleficium a group of diabolist can grant the Major Virtue Demonic Blood. This ritual must be cast on a newborn baby and he will grow as a spawn of a demon. This maleficium is usually cast using Ceremony given its high level.  
 *(Base 35, +1 Touch, +4 Forsaken)*
 
 ## Phantasm
