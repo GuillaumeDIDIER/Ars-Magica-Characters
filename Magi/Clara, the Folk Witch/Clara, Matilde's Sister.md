@@ -74,7 +74,7 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 
 # Baree, the Wolf
 
-Baree is a magical wolf that leads the wolves in the forests north of Venice, she's very independent but a few years ago he took a little girl under his wing, this girl was Clara. From that moment she follows and protects her, Clara reminds her of one of her own young… killed by a group of hunting men when she was younger.
+Baree is a magical wolf that leads the wolves in the forests north of Venice, she's very independent but a few years ago she took a little girl under his wing, this girl was Clara. From that moment she follows and protects her, Clara reminds her of one of her own young… killed by a group of hunting men when she was younger.
 
 **Magic Might:** 5 (Animal)  
 **Characteristics:** Int +2, Per +0, Pre -2, Com +0, Str -1, Sta +3, Dex +2, Qik +2,   

@@ -385,7 +385,7 @@ This spell inflicts the Traditional Ward (iron) Flaw. Some Myrrh sorcerer like t
 Myrrh 24  
 **R**: Voice, **D**: Sun, **T**: Ind  
 This spell inflicts the Sovereign Ward (folk charms/sunlight) Faerie Flaw.  This spell is the pinnacle of Myrrh cursing, inflicting a powerful curse on the target.  
-*(Base 12, +6 Voce, +6 Sun)*
+*(Base 12, +6 Voice, +6 Sun)*
 
 ## Olibanum
 
@@ -410,7 +410,7 @@ This spell prevents demons from exiting or entering the circle or destroying it 
 **Rise of the Corpses**  
 Olibanum 18  
 **R**: Touch, **D**: Censer, **T**: Incensed  
-This spell animates corpses touched by the the smoke of the censer and controls their movements, a sorcerer, who usually stays in the rear, may use this spell during a battle to make the fallen warriors raise again against the enemies. This spell is one of the spells kept by the elder in case of an internal war, they fear the powers of the Myrrh Tribe so much that they may use this wicked spell.  
+This spell animates corpses touched by the the smoke of the censer and controls their movements. A sorcerer, who usually stays in the rear, may use this spell during a battle to make the fallen warriors raise again against the enemies. This spell is one of the spells kept by the elder in case of an internal war, they fear the powers of the Myrrh Tribe so much that they may use this wicked spell.  
 *(Base 6, +3 Touch, +3 Censer, +6 Incensed)*
 
 **Chains of the Foul Being**  
@@ -428,7 +428,7 @@ This spell permanently grants a carpet the ability to fly. Because flying with a
 **This land will be your Tomb**  
 Olibanum 21  
 **R**: Touch, **D**: Mom, **T**: Ind  
-Create a hole in the earth and, when the enemies are swallowed, cover it. This spell is for Olibanum sorcerers when they want to literally cover thir misdeeds, spies and enemies.  
+Create a hole in the earth and, when the enemies are swallowed, cover it. This spell is for Olibanum sorcerers when they want to literally cover their misdeeds, spies and enemies.  
 *(Base 18, +3 Touch)*
 
 **Summoning the Demonic Beast**  
