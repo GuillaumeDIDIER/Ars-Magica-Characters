@@ -9,25 +9,28 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 **Warping Score:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Major Magical Focus (physical transportation)
-- Affinity with Rego
-- Cautious Sorcerer
-- Deft Form (Corpus)
-- Life Boost
-- Mutantum Magic*
-- Privileged Upbringing
-- Skilled Parens
-- Study Bonus
-- Feud
-- Study Requirement
-- Ambitious
-- Difficult Spontaneous Magic
-- Motion Sickness
-- Pious
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Major Magical Focus (physical transportation)** _(major, hermetic)_
+- **Affinity with Rego** _(minor, hermetic)_
+- **Cautious Sorcerer** _(minor, hermetic)_
+- **Deft Form (Corpus)** _(minor, hermetic)_
+- **Life Boost** _(minor, hermetic)_
+- **Mutantum Magic**\* _(free Mercere, hermetic)_ cf. HoH:TL p107 
+- **Privileged Upbringing** _(minor, general)_
+- **Skilled Parens** _(minor, hermetic)_
+- **Study Bonus** _(minor, hermetic)_
+
+## Flaws
+
+- **Feud** _(major, story)_
+- **Study Requirement** _(major, hermetic)_
+- **Ambitious** _(minor, personality)_
+- **Difficult Spontaneous Magic** _(minor, hermetic)_
+- **Motion Sickness** _(minor, general)_
+- **Pious** _(minor, personality)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -43,7 +46,7 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Artes Liberales 1 (geometry)
 + Atheltics 1 (running)
@@ -65,7 +68,7 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 + Profession: Scribe 1 (copying)
 + Single Weapon 1 (short sword)
 
-## Arts:
+## Arts
 
 + Creo 6
 + Intellego 0
@@ -88,7 +91,7 @@ Felix was born in the *cadet branch* of the Mercere bloodline that passes the Mu
 **Equipment:** Parchment, some ink and a feather  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Curse of the Unruly Tongue* (ReCo 5/+25)
 + *Spasm of the Uncontrolled Hand* (ReCo 5/+25)

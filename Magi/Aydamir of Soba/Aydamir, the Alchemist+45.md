@@ -7,27 +7,30 @@
 **Warping Score:** 5 (89)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Learned Magician
-- Soban Alchemy
-- Strong Alchemical Magic¹
-- Alchemist of Soba
-- Inventive Genius
-- Minor Magical Focus (longevity)
-- Privileged Upbringing
-- Vulgar Alchemy*
-- Soban Philosophical Alchemy*
-- Lesser Elixir*
-- Laboratory Magician
-- Favors (Ministry of Work)
-- Greedy
-- No Text Casting
-- Overconfident
-- Susceptibility to Faerie Power
-- Obsessed**
-- Monstrous Blood*
+- **The Gift** _(special)_
+- **Learned Magician** _(free, social status)_ cf. HMRE p80
+- **Soban Alchemy** _(major, supernatural)_ cf. LotN p94
+- **Strong Alchemical Magic¹** _(major, supernatural)_ cf. HMRE p82
+- **Alchemist of Soba** _(minor, social status)_ cf. LotN p94
+- **Inventive Genius** _(minor, hermetic)_
+- **Minor Magical Focus (longevity)** _(minor, hermetic)_
+- **Privileged Upbringing** _(minor, general)_
+- **Vulgar Alchemy**\* _(minor, hermetic)_ cf. TMRE p32
+- **Soban Philosophical Alchemy**\* _(minor, supernatural mystery)_ cf. Bottom page
+- **Lesser Elixir**\* _(minor, supernatural mystery)_ cf. Bottom page
+
+## Flaws
+
+- **Laboratory Magician** _(major, supernatural)_ cf. HMRE p83
+- **Favors (Ministry of Work)** _(major, story)_
+- **Greedy** _(minor, personality)_
+- **No Text Casting** _(minor, supernatural)_ cf. HMRE p83
+- **Overconfident** _(minor, personality)_
+- **Susceptibility to Faerie Power** _(minor, hermetic)_
+- **Obsessed**\*\* _(minor, personality)_
+- **Monstrous Blood**\* _(minor, supernatural)_ cf. RoP:M p49
 
 \* Mystery Initiations and Ordeals  
 ** Warping  

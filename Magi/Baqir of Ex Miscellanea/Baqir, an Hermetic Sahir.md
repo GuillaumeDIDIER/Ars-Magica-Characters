@@ -9,25 +9,27 @@ Baqir was born near the Covenant of Almunecar, a covenant of hermetic sahirs. He
 **Warping Score:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Greater Immunity (Fire)
-- Sihr*
-- Ways of the Dunes
-- Apt Student
-- Minor Magical Focus (jinn)*
-- Puissant Bargain
-- Personal Vis Source (Ignem)
-- Second Sight
-- Plagued by Supernatural Entity (Ifrit)
-- Study Requirement
-- Twilight Prone*
-- Driven (find the knowledge of the ancient sahirs)
-- Hedge Wizard
-- Pious
-- Weird Magic (objects become hot)
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Greater Immunity (Fire)** _(major, supernatural)_
+- **Sihr**\* _(free major Ex Misc, supernatural)_ cf. HoH:S p133
+- **Ways of the Dunes** _(major, general)_
+- **Apt Student** _(minor, general)_
+- **Minor Magical Focus (jinn)**\* _(free Ex Misc, hermetic)_
+- **Puissant Bargain** _(minor, general)_
+- **Personal Vis Source (Ignem)** _(minor, hermetic)_
+- **Second Sight** _(minor, supernatural)_
+
+## Flaws
+- **Plagued by Supernatural Entity (Ifrit)** _(major, story)_
+- **Study Requirement** _(major, hermetic)_
+- **Twilight Prone**\* _(free Ex Misc, hermetic)_
+- **Driven (find the knowledge of the ancient sahirs)** _(minor, personality)_
+- **Hedge Wizard** _(minor, hermetic)_
+- **Pious** _(minor, personality)_
+- **Weird Magic (objects become hot)** _(minor, hermetic)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -42,7 +44,7 @@ Baqir was born near the Covenant of Almunecar, a covenant of hermetic sahirs. He
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Covenant of Almunecar 1 (personalities)
 + Area Lore: Morocco 1 (geography)
@@ -64,7 +66,7 @@ Baqir was born near the Covenant of Almunecar, a covenant of hermetic sahirs. He
 + Survival 2 (desert)
 + Theology: Islam 1 (incantations)
 
-## Arts:
+## Arts
 
 + Creo 5
 + Intellego 3
@@ -88,7 +90,7 @@ Baqir was born near the Covenant of Almunecar, a covenant of hermetic sahirs. He
 **Equipment:** Sand Robes, a knife, a staff and an amulet with water from Almunecar (Arcane Connection to a spring near Almunecar, outside the Aegis)  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Call of the Rushing River* (InAq 15/+6)
 + *True Sight of the Air* (InAu 15/+6)

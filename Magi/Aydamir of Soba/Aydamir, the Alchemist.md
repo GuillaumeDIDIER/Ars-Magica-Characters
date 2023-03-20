@@ -11,22 +11,25 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 **Warping Score:** 1 (6)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Learned Magician
-- Soban Alchemy
-- Strong Alchemical Magic¹
-- Alchemist of Soba
-- Inventive Genius
-- Minor Magical Focus (longevity)
-- Privileged Upbringing
-- Laboratory Magician
-- Favors (Ministry of Work)
-- Greedy
-- No Text Casting
-- Overconfident
-- Susceptibility to Faerie Power
+- **The Gift** _(special)_
+- **Learned Magician** _(free, social status)_ cf. HMRE p80
+- **Soban Alchemy** _(major, supernatural)_ cf. LotN p94
+- **Strong Alchemical Magic¹** _(major, supernatural)_ cf. HMRE p82
+- **Alchemist of Soba** _(minor, social status)_ cf. LotN p94
+- **Inventive Genius** _(minor, hermetic)_
+- **Minor Magical Focus (longevity)** _(minor, hermetic)_
+- **Privileged Upbringing** _(minor, general)_
+
+## Flaws
+
+- **Laboratory Magician** _(major, supernatural)_ cf. HMRE p83
+- **Favors (Ministry of Work)** _(major, story)_
+- **Greedy** _(minor, personality)_
+- **No Text Casting** _(minor, supernatural)_ cf. HMRE p83
+- **Overconfident** _(minor, personality)_
+- **Susceptibility to Faerie Power** _(minor, hermetic)_
 
 \* Mystery Initiations and Ordeals  
 ¹ It is Strong Amulet Magic for Alchemist
@@ -41,7 +44,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Alodia 1 (geography)
 + Area Lore: Meroë 1 (magical areas)
@@ -65,7 +68,7 @@ Aydamir is built as a Mythic Alchemist (HM:RE pp. 101), with some changes: he ca
 + Soban Alchemist Lore 1 (history)
 + Soban Alchemy 4 (solidity)
 
-## Arts:
+## Arts
 
 + Tueor 2
 + Succurro 4

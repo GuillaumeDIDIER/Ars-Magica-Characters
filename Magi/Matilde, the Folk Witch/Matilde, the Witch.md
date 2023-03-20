@@ -9,24 +9,27 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 **Warping Score:** 1 (10)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Folk Witch
-- Chthonic Magic
-- Affinity with Hex
-- Cautious Witch
-- Herbalism
-- Independent Study
-- Inventive Genius
-- Lesser Craft Magic
-- Premonitions
-- Dependents
-- Restriction (having long free hair)
-- Nocturnal
-- Proud
-- Susceptibility to Divine Power
-- Weird Magic (food rotting)
+- **The Gift** _(special)_
+- **Folk Witch** _(free, social status)_
+- **Sorginak Chthonic Magic** _(major, supernatural)_ cf. F&F p93
+- **Affinity with Hex** _(minor, general)_
+- **Cautious Witch** _(minor, hermetic)_
+- **Herbalism** _(minor, general)_ cf. A&A p55
+- **Independent Study** _(minor, general)_ cf. HoH:MC p86
+- **Inventive Genius** _(minor, hermetic)_
+- **Lesser Craft Magic** _(minor, supernatural)_ cf. RM p11
+- **Premonitions** _(minor, supernatural)_
+
+## Flaws
+
+- **Dependents** _(major, story)_
+- **Restriction (having long free hair)** _(major, hermetic)_
+- **Nocturnal** _(minor, personality)_
+- **Proud** _(minor, personality)_
+- **Susceptibility to Divine Power** _(minor, hermetic)_
+- **Weird Magic (food rotting)** _(minor, hermetic)_
 
 **Personality Trait:** Brave +3, Proud +3, Caring for young witches +2  
 **Reputations:** none
@@ -38,7 +41,7 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Animal Handling 1 (ravens)
 + Animal Ken 2 (ravens)
@@ -75,7 +78,7 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 
 **Coven:** Matilde lives in a little cottage in the woods in the outskirts of the swamp of Venice, near the village of Torcello. With her there are three young girls, Fiammetta, 13 years old, that can talk with animals, Violante, 11 years old, that can see the spirits, and Camilla, 9 years old, with the ability to shapeshift.
 
-## Hexes and Curses:
+## Hexes and Curses
 
 + *Curse of Warts* (Hex 18/+19), Casting Item: Twisted branch of a tree
 + *Curse of Cataracts* (Hex 18/+19), Casting Item: Orange woods
@@ -92,7 +95,7 @@ Matilde was born into a poor family and his parents blamed her for every mistake
 *Cataplasm of Mandrake Formula*: Theriac Level 5  
 *Mustard Plaster Formula*: Theriac Level 5
 
-## New Hexes and Curses:
+## New Hexes and Curses
 
 **Curse of Warts**  
 Hex 18  

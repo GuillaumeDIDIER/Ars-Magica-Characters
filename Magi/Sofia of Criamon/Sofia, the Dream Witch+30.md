@@ -7,27 +7,30 @@
 **Warping Score:** 4 (64)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Maga
-- Life-Linked Spontaneous Magic
-- Ways of the Dream
-- Affinity with Imaginem
-- Dream Magic
-- Minor Magical Focus (dreams)
-- Skilled Parens
-- The Enigma*
-- Greater Dream Grimoire**
-- Spirit Familiar**
-- Blatant Gift
-- Dark Secret (Dream Cult)
-- Clumsy
-- Covenant Upbringing
-- Proud
-- Weird Magic
-- No Sense of Direction**
-- Visions**
+- **The Gift** _(special)_
+- **Hermetic Maga** _(free, social status)_
+- **Life-Linked Spontaneous Magic** _(major, hermetic)_
+- **Ways of the Dream** _(major, general)_
+- **Affinity with Imaginem** _(minor, hermetic)_
+- **Dream Magic** _(minor, hermetic mystery)_ cf. TMRE p102
+- **Minor Magical Focus (dreams)** _(minor, hermetic)_
+- **Skilled Parens** _(minor, hermetic)_
+- **The Enigma**\* _(free Criamon, hermetic)_
+- **Greater Dream Grimoire**\*\* _(minor, hermetic mystery)_ cf. TMRE p107
+- **Spirit Familiar**\*\* _(minor, hermetic mystery)_ cf. TMRE p66
+
+## Flaws
+
+- **Blatant Gift** _(major, hermetic)_
+- **Dark Secret (Volshebnii Mechtateli)** _(major, story)_
+- **Clumsy** _(minor, general)_
+- **Covenant Upbringing** _(minor, personality)_
+- **Proud** _(minor, personaity)_
+- **Weird Magic** _(minor, hermetic)_
+- **No Sense of Direction**\*\* _(minor, general)
+- **Visions**\*\* _(minor, supernatural, story)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -42,7 +45,7 @@
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Covenant 2 (people)
 + Area Lore: Novgorod 1 (places)
@@ -68,7 +71,7 @@
 + Profession: Scribe 1 (copying)
 + Volshebnii Mechtateli Lore 5 (initiations)
 
-## Arts:
+## Arts
 
 + Creo 10
 + Intellego 8
@@ -90,7 +93,7 @@
 **Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Lucid Dreamer<sup>F</sup>* (Mu(In)Me 20/+32)
 + *Beginning of a Dream<sup>F</sup>* (CrMe 10/+36)

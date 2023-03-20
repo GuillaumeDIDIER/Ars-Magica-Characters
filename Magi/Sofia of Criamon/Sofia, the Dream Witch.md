@@ -9,23 +9,26 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Warping Score:** 0 (2)  
 **Confidence Score:** 1 (3)  
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Maga
-- Life-Linked Spontaneous Magic
-- Ways of the Dream
-- Affinity with Imaginem
-- Dream Magic
-- Minor Magical Focus (dreams)
-- Skilled Parens
-- The Enigma*
-- Blatant Gift
-- Dark Secret (Volshebnii Mechtateli)
-- Clumsy
-- Covenant Upbringing
-- Proud
-- Weird Magic
+- **The Gift** _(special)_
+- **Hermetic Maga** _(free, social status)_
+- **Life-Linked Spontaneous Magic** _(major, hermetic)_
+- **Ways of the Dream** _(major, general)_
+- **Affinity with Imaginem** _(minor, hermetic)_
+- **Dream Magic** _(minor, hermetic mystery)_ cf. TMRE p102
+- **Minor Magical Focus (dreams)** _(minor, hermetic)_
+- **Skilled Parens** _(minor, hermetic)_
+- **The Enigma**\* _(free Criamon, hermetic)_
+
+## Flaws
+
+- **Blatant Gift** _(major, hermetic)_
+- **Dark Secret (Volshebnii Mechtateli)** _(major, story)_
+- **Clumsy** _(minor, general)_
+- **Covenant Upbringing** _(minor, personality)_
+- **Proud** _(minor, personaity)_
+- **Weird Magic** _(minor, hermetic)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -40,7 +43,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Covenant 2 (people)
 + Art of Memory 2 (short messages)
@@ -63,7 +66,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Profession: Scribe 1 (copying)
 + Volshebnii Mechtateli Lore 1 (initiations)
 
-## Arts:
+## Arts
 
 + Creo 7
 + Intellego 6
@@ -82,10 +85,10 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Vim 4
 
 **Twilight Scar:** none  
-**Equipment:** none  
+**Equipment:** none  Weird Magic
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Lucid Dreamer<sup>F</sup>* (Mu(In)Me 20/+25)
 + *Beginning of a Dream<sup>F</sup>* (CrMe 10/+24)

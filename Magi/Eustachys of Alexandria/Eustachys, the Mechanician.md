@@ -8,22 +8,25 @@ Eustachys was born into a wealthy family and has never lacked for anything from 
 **Decrepitude:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Mechanica of Heron
-- Wealthy
-- Inventive Genius
-- Linguist
-- Mechanician of Heron
-- Premonitions*
-- Puissant Mechanica of Heron
-- Dependent
-- Enfeebled
-- Fickle Nature (Ambitious/Unambitious)
-- Flashbacks
-- Lame
-- Lost Love
+- **The Gift** _(special)_
+- **Mechanica of Heron** _(major, supernatural)_ cf. AM p76
+- **Wealthy** _(major, general)_
+- **Inventive Genius** _(minor, hermetic)_
+- **Linguist** _(minor, general)_ cf. HoH:TL p25
+- **Mechanician of Heron** _(minor, social status)_ cf. Bottom page
+- **Premonitions**\* _(free, supernatural)_
+- **Puissant Mechanica of Heron** _(minor, general)_
+
+## Flaws
+
+- **Dependent** _(major, story)_
+- **Enfeebled** _(major, general)_
+- **Fickle Nature (Ambitious/Unambitious)** _(minor, personality)_ cf. A&A p134
+- **Flashbacks** _(minor, general)_ cf. Gr p79
+- **Lame** _(minor, general)_
+- **Lost Love** _(minor, personality)_
 
 \* Free Gift Virtue  
 ** Mystery Initiations and Ordeals
@@ -39,7 +42,7 @@ Eustachys was born into a wealthy family and has never lacked for anything from 
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Alexandria 3 (personalities)
 + Area Lore: Egypt 2 (geography)

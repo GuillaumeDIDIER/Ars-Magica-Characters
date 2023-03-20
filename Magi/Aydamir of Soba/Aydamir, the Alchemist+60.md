@@ -7,32 +7,35 @@
 **Warping Score:** 6 (119)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Learned Magician
-- Soban Alchemy
-- Strong Alchemical Magic
-- Alchemist of Soba
-- Inventive Genius
-- Minor Magical Focus (longevity)
-- Privileged Upbringing
-- Vulgar Alchemy*
-- Soban Philosophical Alchemy*
-- Lesser Elixir*
-- Unaging*
-- The Great Elixir*
-- Laboratory Magician
-- Favors (Ministry of Work)
-- Greedy
-- No Text Casting
-- Overconfident
-- Susceptibility to Faerie Power
-- Obsessed**
-- Monstrous Blood*
-- Paranoid**
-- Enfeebled*
-- Hunger for Vim Magic*
+- **The Gift** _(special)_
+- **Learned Magician** _(free, social status)_ cf. HMRE p80
+- **Soban Alchemy** _(major, supernatural)_ cf. LotN p94
+- **Strong Alchemical Magic¹** _(major, supernatural)_ cf. HMRE p82
+- **Alchemist of Soba** _(minor, social status)_ cf. LotN p94
+- **Inventive Genius** _(minor, hermetic)_
+- **Minor Magical Focus (longevity)** _(minor, hermetic)_
+- **Privileged Upbringing** _(minor, general)_
+- **Vulgar Alchemy**\* _(minor, hermetic)_ cf. TMRE p32
+- **Soban Philosophical Alchemy**\* _(minor, supernatural mystery)_ cf. Bottom page
+- **Lesser Elixir**\* _(minor, supernatural mystery)_ cf. Bottom page
+- **Unanging**\* _(minor, supernatural)_
+- **The Great Elixir** _(major, supernatural mystery)_ cf. Bottom page
+
+## Flaws
+
+- **Laboratory Magician** _(major, supernatural)_ cf. HMRE p83
+- **Favors (Ministry of Work)** _(major, story)_
+- **Greedy** _(minor, personality)_
+- **No Text Casting** _(minor, supernatural)_ cf. HMRE p83
+- **Overconfident** _(minor, personality)_
+- **Susceptibility to Faerie Power** _(minor, hermetic)_
+- **Obsessed**\*\* _(minor, personality)_
+- **Monstrous Blood**\* _(minor, supernatural)_ cf. RoP:M p49
+- **Paranoid**\*\* _(minor, personality)_
+- **Enfeebled**\* _(major, general)_
+- **Hunger for Vim Magic**\* _(major, supernatural)_ cf. RoP:M p49
 
 \* Mystery Initiations and Ordeals  
 ** Warping  
@@ -48,7 +51,7 @@
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Alodia 2 (geography)
 + Area Lore: Meroë 2 (magical areas)
@@ -75,7 +78,7 @@
 + Soban Alchemy 6 (vis usage)
 + Teaching 2 (one on one)
 
-## Arts:
+## Arts
 
 + Tueor 3
 + Succurro 6
@@ -412,7 +415,7 @@ This virtue is similar to the hermetic *Philosophical Alchemy* Virtue. The alche
 This virtue is similar to the hermetic *Lesser Elixir* Virtue. When the alchemist brews a potion that promotes longevity he may exceed the usual +10 limit to the Living Condition's modifier, but only for potions and when he creates such a potion, he may design one of the charges he created to be a Lesser Elixir by spending additional pawns of vis equal to (Age / 5), rounded up (this cost may not be paid with Sovereign Reagent). If the alchemist brews these potion through a Laboratory Text, the number of pawns of vis he can use is limited by Salutem and not Soban Alchemy. As per the hermetic virtue, the Lesser Elixir is brewed by adding special ingredients and the Elixir Level is determined by the Elixir Points, limited by Soban Alchemy score (as in TM:RE pp. 42). The Aging Bonus will be Living Condition's Modifier + Other Bonuses + Elixir Level and the Lesser Elixir remains active for a number of years equal to the alchemist's Soban Alchemy score or until the next Crisis, whichever comes first.
 
 **The Great Elixir**  
-*Minor Supernatural Virtue*  
+*Major Supernatural Virtue*  
 This virtue is similar to the hermetic *The Great Elixir* Virtue. The alchemist may open a potion-like device as Hermetic Magi do, this will be the Great Elixir. The Lesser Elixir, that needs to be bound to the Great Elixir, uses up (Elixir of the Soban Alchemist Level / 5) enchantment space on the device. The alchemist also has to devise two special enchantments:
 
 > **Become a Being  of Magic**  
