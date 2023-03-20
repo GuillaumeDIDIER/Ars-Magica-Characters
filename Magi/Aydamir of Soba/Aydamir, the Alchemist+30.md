@@ -7,25 +7,28 @@
 **Warping Score:** 4 (59)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Learned Magician
-- Soban Alchemy
-- Strong Alchemical Magic¹
-- Alchemist of Soba
-- Inventive Genius
-- Minor Magical Focus (longevity)
-- Privileged Upbringing
-- Vulgar Alchemy*
-- Soban Philosophical Alchemy*
-- Laboratory Magician
-- Favors (Ministry of Work)
-- Greedy
-- No Text Casting
-- Overconfident
-- Susceptibility to Faerie Power
-- Obsessed**
+- **The Gift** _(special)_
+- **Learned Magician** _(free, social status)_ cf. HMRE p80
+- **Soban Alchemy** _(major, supernatural)_ cf. LotN p94
+- **Strong Alchemical Magic¹** _(major, supernatural)_ cf. HMRE p82
+- **Alchemist of Soba** _(minor, social status)_ cf. LotN p94
+- **Inventive Genius** _(minor, hermetic)_
+- **Minor Magical Focus (longevity)** _(minor, hermetic)_
+- **Privileged Upbringing** _(minor, general)_
+- **Vulgar Alchemy**\* _(minor, hermetic)_ cf. TMRE p32
+- **Soban Philosophical Alchemy**\* _(minor, supernatural mystery)_ cf. Bottom page
+
+## Flaws
+
+- **Laboratory Magician** _(major, supernatural)_ cf. HMRE p83
+- **Favors (Ministry of Work)** _(major, story)_
+- **Greedy** _(minor, personality)_
+- **No Text Casting** _(minor, supernatural)_ cf. HMRE p83
+- **Overconfident** _(minor, personality)_
+- **Susceptibility to Faerie Power** _(minor, hermetic)_
+- **Obsessed**\*\* _(minor, personality)_
 
 \* Mystery Initiations and Ordeals  
 ** Warping  
@@ -41,7 +44,7 @@
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Alodia 2 (geography)
 + Area Lore: Meroë 1 (magical areas)
@@ -66,7 +69,7 @@
 + Soban Alchemists Lore 3 (initiations)
 + Soban Alchemy 4 (solidity)
 
-## Arts:
+## Arts
 
 + Tueor 2
 + Succurro 4

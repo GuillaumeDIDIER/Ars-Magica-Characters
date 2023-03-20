@@ -9,30 +9,32 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 **Warping Score:** 1 (5)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Maga
-- Faerie-Raised Magic
-- Strong Faerie Blood (Huldra)
-- Faerie Magic*
-- Familiarity with the Fae
-- Independent Study
-- Inoffensive to Faerie Beings
-- Minor Magical Focus (animating objects)
-- Second Sight¹
-- Faerie Background²
-- Diluted Vis
-- Vulnerable Magic (Divine places)
-- Faerie Friend
-- Faerie Upbringing
-- Small Frame
-- Weird Magic
+- **The Gift** _(special)_
+- **Hermetic Maga** _(free, social status)_
+- **Faerie-Raised Magic** _(major, hermetic)_
+- **Strong Faerie Blood (Huldra)** _(major, supernatural)_
+- **Faerie Magic**\* _(free Merinita, hermetic)_
+- **Familiarity with the Fae** _(minor, supernatural)_ cf. RoP:F p113
+- **Independent Study** _(minor, general)_ cf. HoH:MC p86
+- **Inoffensive to Faerie Beings** _(minor, general)_ cf. HoH:MC p86
+- **Minor Magical Focus (animating objects)** _(minor, hermetic)_
+- **Second Sight¹** _(free, supernatural)_
+
+## Flaws
+
+- **Faerie Background** _(free, supernatural)_ cf. RoP:F p112
+- **Diluted Vis** _(major, hermetic)_
+- **Vulnerable Magic (Divine places)** _(major, hermetic)_ cf. HoH:MC p87
+- **Faerie Friend** _(minor, story)_
+- **Faerie Upbringing** _(minor, personality)_
+- **Small Frame** _(minor, general)_
+- **Weird Magic (objects starts to bend)** _(minor, hermetic)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals  
 ¹ Free virtue with Strong Faerie Blood  
-² Free virtue
 
 **Personality Trait:** Curious +3, Envious +2, Brave -2  
 **Reputations:** none
@@ -44,7 +46,7 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-4), -3 (5-8), -5 (9-12), Incapacitated (13-16), Dead (17+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Alps 2 (places)
 + Artes Liberales 1 (ceremonial magic)
@@ -70,7 +72,7 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 + Stealth 1 (hiding)
 + Survival 2 (finding food)
 
-## Arts:
+## Arts
 
 + Creo 4
 + Intellego 2
@@ -93,7 +95,7 @@ Dilwen was born in particular circumnstances in a village of South Scandinavia. 
 **Equipment:** none  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Piercing Shaft of Wood* (Mu(Re)He 10/+13)
 + *Aura of Ennobled Presence* (MuIm 10/+8)

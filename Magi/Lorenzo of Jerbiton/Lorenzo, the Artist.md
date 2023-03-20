@@ -9,24 +9,27 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 **Warping Score:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Gentle Gift
-- Affinity with Craft: Sculptor
-- Affinity with Rego
-- Artistic Renown (x2)
-- Free Expression*
-- Privileged Upbringing
-- Prolific Artist
-- Puissant Craft: Sculptor
-- Painful Magic
-- True Love (NPC)
-- Deficient Form (Aquam)
-- Fickle Nature (Confident/Diffident)
-- Noncombatant
-- Slow Caster
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Gentle Gift** _(major, hermetic)_
+- **Affinity with Craft: Sculptor** _(minor, general)_
+- **Affinity with Rego** _(minor, hermetic)_
+- **Artistic Renown (x2)** _(minor, general)_ cf. A&A p133
+- **Free Expression**\* _(free Jerbiton, general)_
+- **Privileged Upbringing** _(minor, general)_
+- **Prolific Artist** _(minor, supernatural)_ cf. A&A p134
+- **Puissant Craft: Sculptor** _(minor, general)_
+
+## Flaws
+
+- **Painful Magic** _(major, hermetic)_
+- **True Love (NPC)** _(major, story)_
+- **Deficient Form (Aquam)** _(minor, hermetic)_
+- **Fickle Nature (Confident/Diffident)** _(minor, personality)_ cf. A&A p134
+- **Noncombatant** _(minor, personality)_
+- **Slow Caster** _(minor, hermetic)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -41,7 +44,7 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Venice 2 (personalities)
 + Artes Liberales 1 (geometry)
@@ -61,7 +64,7 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 + Profession: Scribe 1 (copying)
 + Ride 1 (speed)
 
-## Arts:
+## Arts
 
 + Creo 5
 + Intellego 0
@@ -84,7 +87,7 @@ Lorenzo was born into a wealthy family that raised him in an artistic environmen
 **Equipment:** Sculpting tools, a piece of rock to sculpt, some ceremonial props  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Bind Wound* (CrCo 10/+7)
 + *Prying Eyes* (InIm 5/+2)

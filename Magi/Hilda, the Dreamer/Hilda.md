@@ -9,21 +9,23 @@ Hilda is a young girl tormented by some pesky demons. The demons slipped into he
 **Warping Score:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- Orphan
-- Debauchery
-- Phantasm
-- Free Expression
-- Incospicous
-- Mentored by Demons
-- Phantasm Puissant
-- Magical Air
-- Plagued by Demons
-- Delusion (the demons are her imaginary friends)
-- Drive (make her friends real)
-- Late Bloomer
-- Night Terrors
+- **Orphan** _(free, social status)_ cf. App p9
+- **Debauchery** _(major, unholy method)_ cf. RoP:I p84
+- **Phantasm** _(major, unholy power)_ cf. RoP:I p86
+- **Free Expression** _(minor, general)_
+- **Incospicous** _(minor, child)_ cf. App p11
+- **Mentored by Demons** _(minor, general, tainted)_ cf. RoP:I p86
+- **Puissant Phantasm** _(minor, general)_
+
+## Flaws
+- **Magical Air** _(major, supernatural)_
+- **Plagued by Demons** _(major, story)_
+- **Delusion (the demons are her imaginary friends)** _(minor, personality)_
+- **Drive (make her friends real)** _(minor, personality)_
+- **Late Bloomer** _(minor, child)_ cf. App p12
+- **Night Terrors** _(minor, general)_ cf. Gr p82
 
 **Personality Trait:** Carefree +3, Angry +3, Naive +2   
 **Reputations:** none
@@ -35,7 +37,7 @@ Hilda is a young girl tormented by some pesky demons. The demons slipped into he
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-4), -3 (5-8), -5 (9-12), Incapacitated (13-16), Dead (17+)
 
-## Abilities:
+## Abilities
 
 + Animal Handling 1 (birds)
 + Area Lore 1 (infernal areas)
@@ -54,7 +56,7 @@ Hilda is a young girl tormented by some pesky demons. The demons slipped into he
 **Equipment:** knife and some colored stones and sticks  
 **Encumbrance:** 0 (0)
 
-## Maleficium:
+## Maleficium
 
 **You can’t see me!**  
 Debauchery/Phantasm, Level 10  

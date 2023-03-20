@@ -9,25 +9,28 @@ Grigorii is a young magus born into a family of animal breeder. He has always be
 **Warping Score:** 0 (0)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Gentle Gift
-- Alluring to Magical Beings
-- Animal Ken
-- Inventive Genius
-- Minor Magical Focus (taming animals)
-- Puissant Animal Handling
-- Puissant Magic Theory*
-- Skilled Parens
-- Student of Magic Realm
-- Chaotic Magic
-- Driven (build a menagerie)
-- Magical Animal Companion
-- Obese
-- Weak Enchanter
-- Weakness
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Gentle Gift** _(major, hermetic)_
+- **Alluring to Magical Beings** _(minor, supernatural)_ cf. HoH:MC p86
+- **Animal Ken** _(minor, supernatural)_
+- **Inventive Genius** _(minor, hermetic)_
+- **Minor Magical Focus (taming animals)** _(minor, hermetic)_
+- **Puissant Animal Handling** _(minor, general)_
+- **Puissant Magic Theory**\* _(free Bonisagus, hermetic)_
+- **Skilled Parens** _(minor, hermetic)_
+- **Student of Magic Realm** _(minor, general)_
+
+## Flaws
+
+- **Chaotic Magic** _(major, hermetic)_
+- **Driven (build a menagerie)** _(major, personality)_
+- **Magical Animal Companion** _(minor, story)_
+- **Obese** _(minor, general)_
+- **Weak Enchanter** _(minor, hermetic)_
+- **Weakness** _(minor, personality)_
 
 \* House Virtue  
 ** Mystery Initiations and Ordeals
@@ -42,7 +45,7 @@ Grigorii is a young magus born into a family of animal breeder. He has always be
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Animal Handling 4+2 (magic animals)
 + Animal Ken 4 (birds)
@@ -65,7 +68,7 @@ Grigorii is a young magus born into a family of animal breeder. He has always be
 + Profession: Scribe 1 (copying)
 + Survival 2 (forest)
 
-## Arts:
+## Arts
 
 + Creo 4
 + Intellego 3
@@ -88,7 +91,7 @@ Grigorii is a young magus born into a family of animal breeder. He has always be
 **Equipment:** Some tools to help him with animals, berries and a sack of herbs.  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *True Rest of the Injured Brute* (CrAn 20/+13)
 + *Image of the Beast* (InAn 5/+12)

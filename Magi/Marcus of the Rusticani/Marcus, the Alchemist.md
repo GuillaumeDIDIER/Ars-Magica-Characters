@@ -9,25 +9,28 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 **Warping Score:** 0 (2)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Craft Magic*
-- Flawless Magic
-- Mythic Alchemy
-- Affinity with Finesse
-- Independent Study
-- Inventive Genius
-- Puissant Finesse
-- Spell Foci*
-- Deficient Technique (Perdo)
-- Enemies (Claudius of Verditius)
-- Weak Spontaneous Magic*
-- Gender Nonconforming
-- Noncombatant
-- Slow Caster
-- Small Frame
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Craft Magic**\* _(free major Ex Misc, supernatural)_ cf. HoH:S p131
+- **Flawless Magic** _(major, hermetic)_
+- **Mythic Alchemy** _(major, supernatural)_ cf. HMRE p81
+- **Affinity with Finesse** _(minor, general)_
+- **Independent Study** _(minor, general)_ cf. HoH:MC p86
+- **Inventive Genius** _(minor, hermetic)_
+- **Puissant Finesse** _(minor, general)_
+- **Spell Foci**\* _(free Ex Misc, hermetic)_ cf. HoH:S p131
+
+## Flaws
+
+- **Deficient Technique (Perdo)** _(major, hermetic)_
+- **Enemies (Claudius of Verditius)** _(major, story)_
+- **Weak Spontaneous Magic**\* _(free major Ex Misc, hermetic)_ 
+- **Gender Nonconforming** _(minor, personality)_
+- **Noncombatant** _(minor, personality)_
+- **Slow Caster** _(minor, hermetic)_
+- **Small Frame** _(minor, general)_
 
 \* House Virtue and Flaw  
 ** Mystery Initiations and Ordeals
@@ -42,7 +45,7 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-4), -3 (5-8), -5 (9-12), Incapacitated (13-16), Dead (17+)
 
-## Abilities:
+## Abilities
 
 + Artes Liberales 1 (ceremonial magic)
 + Athletics 1 (running)
@@ -62,7 +65,7 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 + Profession: Scribe 1 (copying)
 + Stealth 2 (hiding)
 
-## Arts:
+## Arts
 
 + Creo 3
 + Intellego 2
@@ -84,7 +87,7 @@ Marcus was born in a relatively safe place, in an hermetic covenant. From young 
 **Equipment:** Some Casting Items to help him, and some ceremonial props.  
 **Encumbrance:** 1 (1)
 
-## Spells Known:
+## Spells Known
 
 + *Bind Wound* (CrCo 10/+9), Mastery 1 (Still Casting), Casting Item: Bandage
 + *Hunt for the Wild Herb* (InHe 5/+11), Mastery 1 (Imperturbable Casting)

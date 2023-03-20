@@ -7,28 +7,31 @@
 **Warping Score:** 4 (55)  
 **Confidence Score:** 1 (3)  
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Folk Witch
-- Chthonic Magic
-- Affinity with Hex
-- Cautious Witch
-- Herbalism
-- Independent Study
-- Inventive Genius
-- Lesser Craft Magic
-- Premonitions
-- Enriching Infusion**
-- Cyclic Magic (positive, Night)*
-- Dependents
-- Restriction (having long free hair)
-- Nocturnal
-- Proud
-- Susceptibility to Divine Power
-- Weird Magic (food rotting)
-- Hallucinations**
-- Deleterious Circumstances (during a thunderstorm)*
+- **The Gift** _(special)_
+- **Folk Witch** _(free, social status)_
+- **Sorginak Chthonic Magic** _(major, supernatural)_ cf. F&F p93
+- **Affinity with Hex** _(minor, general)_
+- **Cautious Witch** _(minor, hermetic)_
+- **Herbalism** _(minor, general)_ cf. A&A p55
+- **Independent Study** _(minor, general)_ cf. HoH:MC p86
+- **Inventive Genius** _(minor, hermetic)_
+- **Lesser Craft Magic** _(minor, supernatural)_ cf. RM p11
+- **Premonitions** _(minor, supernatural)_
+- **Enriching Cultivation**\*\* _(minor, supernatural)_ cf. Bottom page
+- **Cyclic Magic (positive, Night)**\* _(minor, hermetic)_
+
+## Flaws
+
+- **Dependents** _(major, story)_
+- **Restriction (having long free hair)** _(major, hermetic)_
+- **Nocturnal** _(minor, personality)_
+- **Proud** _(minor, personality)_
+- **Susceptibility to Divine Power** _(minor, hermetic)_
+- **Weird Magic (food rotting)** _(minor, hermetic)_
+- **Hallucinations**\*\* _(minor, general)_ cf. Gr p80
+- **Deleterious Circumstances (during a thunderstorm)**\* _(minor, hermetic)_
 
 \* Witch Moon  
 ** Mystery Initiations and Ordeals
@@ -43,7 +46,7 @@
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Animal Handling 1 (ravens)
 + Animal Ken 3 (ravens)
@@ -144,7 +147,7 @@ Matilde recreated a rather famous herb of Virtue often found in nature, she used
 *Mustard Plaster*: Theriac Level 5  
 *Aphrodisiac*: Theriac Level 5
 
-## New Hexes and Curses:
+## New Hexes and Curses
 
 **Curse of Slaying**  
 Hex 36  

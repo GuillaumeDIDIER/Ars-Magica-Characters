@@ -9,26 +9,28 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 **Warping Score:** 1 (5)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Soqotran Sorcerer
-- Major Potent Magic (Spirits)
-- Strong Faerie Blood (Jinniyah)
-- Apt Student
-- Cautious Sorcerer
-- Faerie Sight¹
-- Special Circumstances (through Omoch touch)
-- Puissant Olibanum*
-- Second Sight²
-- Well-Trained Sorcerer³
-- Faerie Background°
-- Curse of Venus
-- Greater Malediction (bound by bargains)
-- Disfigured
-- Driven (break his curse)
-- Greedy
-- Warped Magic (objects tremble)
+- **The Gift** _(special)_
+- **Soqotran Sorcerer** _(free, social status)_ cf. RM p114
+- **Major Potent Magic (Spirits)** _(major, supernatural)_ cf. TMRE p31
+- **Strong Faerie Blood (Jinniyah)** _(major, supernatural)_
+- **Apt Student** _(minor, general)_
+- **Cautious Sorcerer** _(minor, hermetic)_
+- **Faerie Sight¹** _(free, supernatural)_ cf. RoP:F p50
+- **Special Circumstances (through Omoch touch)** _(minor, hermetic)_
+- **Puissant Olibanum**\* _(free, general)_
+- **Second Sight²** _(free, supernatural)_
+- **Well-Trained Sorcerer³** _(minor, general)_ cf. HMRE p35
+
+## Flaws
+- **Faerie Background°** _(free, supernatural)_ cf. RoP:F p112
+- **Curse of Venus** _(major, story)_
+- **Greater Malediction (bound by bargains)** _(major, supernatural)_
+- **Disfigured** _(minor, general)_
+- **Driven (break his curse)** _(minor, personality)_
+- **Greedy** _(minor, personality)_
+- **Warped Magic (objects tremble)** _(minor, hermetic)_
 
 \* Soqotran Tribe Virtue  
 ** Mystery Initiations and Ordeals  
@@ -47,7 +49,7 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Aloe Magic 2 (wounds)
 + Animal Handling 1 (worms)
@@ -82,7 +84,7 @@ Malik was born from the union of a man and a Jinniyah. One of them, seeking vita
 **Equipment:** His Harvesting Knife, a censer and a handful of prepared incenses (mostly Olibanum and Myrrh).  
 **Encumbrance:** 1 (1)
 
-## Spells Known:
+## Spells Known
 
 + *Closing Lacerations of the Skin* (Aloe 9/+6)
 + *Restoring the Injured Warrior* (Aloe 18/+5)

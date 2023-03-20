@@ -11,27 +11,30 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 **Warping Score:** 0 (0)  
 **Confidence Score:** 2 (6)
 
-## Virtues and Flaws:
+## Virtues
 
-- The Gift
-- Hermetic Magus
-- Spiritual Pact (Gullveig)*
-- Mythic Blood (Gullveig)
-- Affinity with Magic Lore
-- Great Presence
-- Independent Study
-- Lesser Immunity to Poisons
-- Life Boost*
-- Minor Magical Focus (heart)**
-- Self-Confident
-- Student of the Magic Realm
-- Twilight Prone*
-- Enemies (muspelli survivors)
-- Study Requirement
-- Deceitful**
-- Hedge Wizard
-- Overconfident
-- Susceptible to the Faerie Realm
+- **The Gift** _(special)_
+- **Hermetic Magus** _(free, social status)_
+- **Spiritual Pact (Gullveig)**\* _(free major Ex Misc, supernatural)_
+- **Mythic Blood (Gullveig)** _(major, hermetic)_
+- **Affinity with Magic Lore** _(minor, general)_
+- **Great Presence** _(minor, general)_
+- **Independent Study** _(minor, general)_
+- **Lesser Immunity to Poisons** _(minor, supernatural)_
+- **Life Boost**\* _(free Ex Misc, hermetic)_
+- **Minor Magical Focus (heart)**\*\* _(free, hermetic)_
+- **Self-Confident** _(minor, general)_
+- **Student of the Magic Realm** _(minor, general)_
+
+## Flaws
+
+- **Twilight Prone**\* _(free Ex Misc, hermetic)_
+- **Enemies (muspelli survivors)** _(major, story)_
+- **Study Requirement** _(major, hermetic)_
+- **Deceitful**\*\* _(free, personality)_
+- **Hedge Wizard** _(minor, hermetic)_
+- **Overconfident** _(minor, personality)_
+- **Susceptible to the Faerie Realm** _(minor, hermetic)_
 
 \* House Virtue  
 ** Granted by Mythic Blood
@@ -46,7 +49,7 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
-## Abilities:
+## Abilities
 
 + Area Lore: Covenant 1 (people)
 + Area Lore: Denmark 1 (magical sites)
@@ -68,7 +71,7 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 + Stealth 1 (hiding)
 + Survival 2 (finding food)
 
-## Arts:
+## Arts
 
 + Creo 3
 + Intellego 0
@@ -91,7 +94,7 @@ Svend and the other hermetic muspelli created a Mystery Cult around their Muspel
 **Equipment:** an ornate knife  
 **Encumbrance:** 0 (0)
 
-## Spells Known:
+## Spells Known
 
 + *Bind Wound* (CrCo 10/+10)
 + *Avalanche of Flesh and Steel* (MuCo 10/+11)
