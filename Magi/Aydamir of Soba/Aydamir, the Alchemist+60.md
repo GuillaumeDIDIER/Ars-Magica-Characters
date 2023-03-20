@@ -7,33 +7,6 @@
 **Warping Score:** 6 (119)  
 **Confidence Score:** 1 (3)
 
-## Virtues and Flaws:
-
-- The Gift
-- Learned Magician
-- Soban Alchemy
-- Strong Alchemical Magic
-- Alchemist of Soba
-- Inventive Genius
-- Minor Magical Focus (longevity)
-- Privileged Upbringing
-- Vulgar Alchemy*
-- Soban Philosophical Alchemy*
-- Lesser Elixir*
-- Unaging*
-- The Great Elixir*
-- Laboratory Magician
-- Favors (Ministry of Work)
-- Greedy
-- No Text Casting
-- Overconfident
-- Susceptibility to Faerie Power
-- Obsessed**
-- Monstrous Blood*
-- Paranoid**
-- Enfeebled*
-- Hunger for Vim Magic*
-
 ## Virtues
 
 - **The Gift** _(special)_
