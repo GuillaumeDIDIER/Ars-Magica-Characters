@@ -495,13 +495,13 @@ This naranj makes a cloud cohesive and dense enough to support people. Some sahi
 Solomonic Physic Level 10  
 Potency: Mild  
 The touched person regains a Fatigue level up to a Weary Level. This naranj is often used by sahir on themselves to be able to endure difficult moments. Other, more potent, naranj can restore other Fatigue levels.  
-_(Base 5, +1 Mild)_*
+_(Base 5, +1 Mild)_
 
 **Sekhmet's Curse**  
 Solomonic Physic Level 15  
 Potency: Mighty  
 The touched poison increases its potency to deal up to an Incapacitating Wound, the Ease Factor remains the same. This naranj is usually cast by poisoners on weak or mild poisons to enhance them to very powerful poisons.  
-_(Base 3, +4 Mighty)_*
+_(Base 3, +4 Mighty)_
 
 **From Pious to Sinner**  
 Solomonic Physic Level 15  
