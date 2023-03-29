@@ -456,7 +456,7 @@ This spell lets the sorcerer permanently control a Demon, provided that he penet
 **Winds, Bow to Me**  
 Solomonic Alchemy Level 15  
 Alteration: Minor, Ritual  
-This naranj quicky animate the wind to blow in a chosen direction. Many sahirs use this naraSolomonicnj to help navigate the sea, to clear a room from smoke while others use this naranj with *The Moving Cloud* to surf the sky.  
+This naranj quicky animate the wind to blow in a chosen direction. Many sahirs use this naranj to help navigate the sea, to clear a room from smoke while others use this naranj with *The Moving Cloud* to surf the sky.  
 *(Base 10, +1 Minor)*
 
 **From Stone to Sand**  
