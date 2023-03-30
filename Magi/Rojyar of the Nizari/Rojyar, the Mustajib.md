@@ -2,7 +2,7 @@
 
 Rojyar is now a powerful member of the Nizari summoners but, before becoming a mustajib, he was initiated into the summoning arts bythe Mulhidun to be able to control demons and spirits. These initiations bound his magic to specific demons and one of them become really close to Royjar, she call herself Yassin. Royjar is a skilled poisoner, he can concoct poisons and then increase their potency using Physic, he is also able to change the humors in someone’s body to make them react in a predictable way. His goal is to serve the Nizari, while slowly but eventually becoming one of the most powerful *imam-qa’im*.
 
-The Mulhidun is a Kurdish group of sorcerers in northern Persia, they are described in RoP:Ip.136-137.
+This character is build as an unGifted Sahir and a member of the Mulhidun, a group of Kurdish sorcerers in northern Persia, they are described in RoP:I p.136-137. 
 
 **Characteristics:** Int +2, Per +0, Pre +2, Com +2, Str -2, Sta +0, Dex +1, Qik +0  
 **Size:** 0  
@@ -88,12 +88,12 @@ The Mulhidun is a Kurdish group of sorcerers in northern Persia, they are descri
 + *Summon Al-Wahdat* (Summoning 10/+16)\*
 + *Summon Yassin* (Summoning 15/+16)\*
 + *Summon Al-Haydar* (Summoning 20/+16)\*
-+ *Balm of the barmakids* (Solomonic Physic 10/+10) cf. TC&TC p.54
-+ *Rend his flesh and tear his organs* (Solomonic Physic 15/+10) cf. TC&TCp.54
-+ *Strings of the phlegmatic heart* (Solomonic Physic 15/+10) cf. TC&TCp.54
-+ *Strings of the choleric heart* (Solomonic Physic 20/+10) cf. TC&TCp.54
-+ *Let’s catch a Breath* (Solomonic Physic 10/+10)
-+ *Sekhmet's Curse* (Solomonic Physic 15/+10)
++ *Balm of the barmakids* (Solomonic Physic 10/+10) cf. TC&TC p.54, Bound to Al-Wahdat
++ *Rend his flesh and tear his organs* (Solomonic Physic 15/+10) cf. TC&TCp.54, Bound to Yassin
++ *Strings of the phlegmatic heart* (Solomonic Physic 15/+10) cf. TC&TCp.54, Bound to Yassin
++ *Strings of the choleric heart* (Solomonic Physic 20/+10) cf. TC&TCp.54, Bound to Al-Haydar
++ *Let’s catch a Breath* (Solomonic Physic 10/+10), Bound to Al-Wahdat
++ *Sekhmet's Curse* (Solomonic Physic 15/+10), Bound to Al-Haydar
 
 \* These are custom summoning naranjs for demonic spirits.
 
