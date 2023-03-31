@@ -111,8 +111,8 @@
 + *Posing the Silent Question* (InMe 20/+24)
 + *Lay to Rest the Haunting Spirit* (PeMe 10/+24)
 + *Demon's Eternal Oblivion* (PeVi 10/+17)
-+ *Opening the Portal to the Dreamscape* (Mu(In)Me 30/+32)
-+ *Blissful Dreams* (ReMe 20/+34)
++ *Opening the Portal to the Dreamscape*<sup>F</sup> (Mu(In)Me 30/+32)
++ *Blissful Dreams*<sup>F</sup> (ReMe 20/+34)
 + *Recalling the Dream* (InMe 20/+24)
 + *Dreadful Bane of the Fae* (PeVi 10/+17)
 + *Sap the Griffon’s Strength* (PeVi 10/+17)
@@ -120,7 +120,9 @@
 + *Memory Palace of the Sage* (CrMe 25/+26)
 + *Maintaining the Oneiromantic Spell* (ReVi 20/+18)
 + *Coerce the Spirit of Imaginem* (ReIm 20/+27)
-+ *Erect the Dream Fortification* (ReMe 25/+34)
++ *Erect the Dream Fortification*<sup>F</sup> (ReMe 25/+34)
+
+<sup>F</sup> means that the Focus applies.
 
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
 **Sigil:** Her hairs fluctuate while she is casting.  
@@ -170,7 +172,7 @@ Similar spells exist that create portals to one’s imagination and memory, so t
 **Blissful Dreams**  
 ReMe 20  
 **R**: Touch, **D**: Sun, **T**: Ind  
-This spell changes the dream of the sleeping person into a peaceful and calm dream. When he wakes up, the target gains a +2 bonus to rolls that require thought or concentration until the he sleeps again. There's an opposing version of this spell called Dreary Dreams that results in a -2 penalty.  
+This spell changes the dream of the sleeping person into a peaceful and calm dream. When he wakes up, the target gains a +2 bonus to rolls that require thought or concentration until he sleeps again. There's an opposing version of this spell called Dreary Dreams that results in a -2 penalty.  
 *(Base 5, +1 Touch, +2 Sun)*
 
 **Recalling the Dream**  

@@ -127,7 +127,8 @@
 + *Mystical Secrets of the Veiled Court* (CrMe 30/+29)
 + *Curse of Morpheus<sup>F</sup>* (CrMe 20/+39)
 
-\* +3 dreams, +3 spirits
+\* Talisman: +3 dreams, +3 spirits
+<sup>F</sup> means that the Focus applies.
 
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
 **Sigil:** Her hairs fluctuate while she is casting.  
@@ -191,7 +192,7 @@ Similar spells exist that create portals to one’s imagination and memory, so t
 **Blissful Dreams**  
 ReMe 20  
 **R**: Touch, **D**: Sun, **T**: Ind  
-This spell changes the dream of the sleeping person into a peaceful and calm dream. When he wakes up, the target gains a +2 bonus to rolls that require thought or concentration until the he sleeps again. There's an opposing version of this spell called Dreary Dreams that results in a -2 penalty.  
+This spell changes the dream of the sleeping person into a peaceful and calm dream. When he wakes up, the target gains a +2 bonus to rolls that require thought or concentration until he sleeps again. There's an opposing version of this spell called Dreary Dreams that results in a -2 penalty.  
 *(Base 5, +1 Touch, +2 Sun)*
 
 **Recalling the Dream**  
