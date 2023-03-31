@@ -109,7 +109,9 @@
 + *Posing the Silent Question* (InMe 20/+20)
 + *Lay to Rest the Haunting Spirit* (PeMe 10/+18)
 + *Demon's Eternal Oblivion* (PeVi 10/+13)
-+ *Opening the Portal to the Dreamscape* (Mu(In)Me 30/+27)
++ *Opening the Portal to the Dreamscape*<sup>F</sup> (Mu(In)Me 30/+27)
+
+<sup>F</sup> means that the Focus applies.
 
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
 **Sigil:** Her hairs fluctuate while she is casting.  
