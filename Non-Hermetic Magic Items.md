@@ -33,7 +33,7 @@ Hex 33
 This poppet was created by the Matilde using Lesser Craft Magic and then initially given to one of her apprentices to deal with pesky boys in the village. When presented to a target and striken with a needle, the target feels an unbearable pain in the striked point. The pain is not sufficient to cause a Wound.  
 *(Base 18, +5 Sight, +10 unlimited)*
 
-**Precognition Amulet**   
+**Precognition Amulet**  
 Premonitions 24  
 **Pen:** 0, unlimited uses per day  
 **R:** Touch, **D:** Mom, **T:** Ind  
@@ -65,7 +65,7 @@ Once airborne the user can fly at about the same speed as a horse can gallop alo
 
 **Canopic Jar of the Restless Army**  
 Corpse Magic 35  
-**Pen:** 0, 2 uses per day  
+**Pen:** 0, 1 use per day  
 **R:** Touch, **D:** Sun, **T:** Group+1  
 This jar contains hundreds of restless spirits that, when the jar is opened, seek a suitable corpse to animate. The corpses are under the control of the user for Sun duration and, when dusk/dawn arrives, all the spirits return into the jar leaving the corpses.  
 The jar contains 7 pawns of Corpus vis and it was found by a temple priest of the Cult of Dedun while searching the initiation script to become the Undying Ones, in a pyramid.  
