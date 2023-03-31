@@ -90,7 +90,7 @@
 + Vim 7
 
 **Twilight Scar:** Her pupils are pitch black with little white and yellow dots resembling a starry night.  
-**Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
+**Equipment:** A colored dice and a pouch of dream-sand containing 6 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
 ## Spells Known

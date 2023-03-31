@@ -90,7 +90,7 @@
 + Vim 8
 
 **Twilight Scar:** Her pupils are pitch black with little white and yellow dots resembling a starry night.  
-**Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
+**Equipment:** A colored dice and a pouch of dream-sand containing 10 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
 ## Spells Known
@@ -127,7 +127,7 @@
 + *Mystical Secrets of the Veiled Court* (CrMe 30/+29)
 + *Curse of Morpheus<sup>F</sup>* (CrMe 20/+39)
 
-\* Talisman: +3 dreams, +3 spirits
+\* Talisman: +3 dreams, +3 spirits  
 <sup>F</sup> means that the Focus applies.
 
 **Appearance:** Sofia is a thin woman with long silver-like hair, usually gathered together. She seems to always have her heads in the clouds, so she's clumsy and sometimes she doesn't seems to listen.   
@@ -229,7 +229,7 @@ This spell brings a nightmare to a sleeping person, with the caster's sigil bein
 
 This laboratory was imagined and then created by Sofia using a Dream Magic Ritual in her Imagination. The evershifting nature of the dream makes the laboratory very unstable and difficult to control, however Sofia might use several spells to be able to use the lab to enchant items, to teach or even to make a Longevity Ritual.
 
-**Virtues and Flaws:** Greater Feature (Dream Orb), Mental Construct, Gallery, Lesser Feature (Dream Mirror), Greater Focus (Dream Orb), Mobile, Unstable (x2), Spacious, Chaotic, Greater Expansion
+**Virtues and Flaws:** Greater Feature (Dream Orb), Mental Construct, Gallery, Lesser Feature (Dream Mirror), Greater Focus (Dream Orb), Mobile, Unstable (x2), Spacious, Chaotic, Greater Expansion  
 **Size:** +3  
 **Refinement:** +0  
 **Safety:** -1  
