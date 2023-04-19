@@ -61,7 +61,7 @@ Under the teachings of the witch, Milia refined her ability to summon animals an
 + Herbalism 3 (theriacs)  
 + Hex 2 (face to face)  
 + Hunt 1 (traces)  
-+ Language (native):  5 ()  
+-  Language (native): South Slavonic 5 (Serbian)
 + Magic Lore 2 (magical animals)  
 + Music 3 (flute)  
 + Profession: Apothecary 3 (find herbs)  
