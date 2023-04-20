@@ -88,7 +88,7 @@
 + Vim 6
 
 **Twilight Scar:** none  
-**Equipment:** A pouch of dream-sand containing 6 pawns of Imaginem vis.  
+**Equipment:** A colored dice and a pouch of dream-sand containing 6 pawns of Imaginem vis.  
 **Encumbrance:** 0 (0)
 
 ## Spells Known

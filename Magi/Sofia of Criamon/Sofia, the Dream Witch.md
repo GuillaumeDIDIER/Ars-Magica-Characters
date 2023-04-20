@@ -85,7 +85,7 @@ Sofia was born into a covenant family, her parents are custos in the Lecyzca cov
 + Vim 4
 
 **Twilight Scar:** none  
-**Equipment:** none  Weird Magic
+**Equipment:** some parchment and a colored dice  
 **Encumbrance:** 0 (0)
 
 ## Spells Known

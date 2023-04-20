@@ -25,7 +25,7 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 
 - **Lycanthrope** _(major, supernatural)_
 - **Necessary Condition (Must look into eyes)** _(major, hermetic)_
-- **Disfigured (White hair and heterochromia)** _(minor, generak)_
+- **Disfigured (White hair and heterochromia)** _(minor, general)_
 - **Magical Animal Companion** _(minor, story)_
 - **Proud** _(minor, personality)_
 - **Reckless** _(minor, personality)_
