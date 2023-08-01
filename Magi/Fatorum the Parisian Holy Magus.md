@@ -17,7 +17,7 @@ A more detailed backstory and story seeds are given, Adam has been built as any 
 Virtues and Flaws with an Asterisk (*) are House Virtues and Flaws
 
 - The Gift
-- Death Prophecy*
+- Death Prophecy* (Will die defending someone who needs no defense)
 - Personal Vis Source* (Creo Divine Vis, gathers as small malformations on his chest wound)
 - Holy Magic
 - Skilled Parens
