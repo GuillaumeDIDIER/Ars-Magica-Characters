@@ -55,7 +55,7 @@ Virtues and Flaws with an Asterisk (*) are House Virtues and Flaws
 + Code of Hermes (Normandy Tribunal) 2  
 + Parma Magica (Corpus) 1  
 + Folk Ken (Parisians) 4  
-+ Guile(Disguises) 1   
++ Guile(Disguises) 1    
 + Area Lore: Paris (Argotiers) 2  
 + Holy Magic (Familiar Bond) 4  
 + Sense Holiness & Unholiness (Unholiness) 2  
