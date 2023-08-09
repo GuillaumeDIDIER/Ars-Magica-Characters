@@ -18,24 +18,24 @@ A more detailed backstory and story seeds are given, Adam has been built as any 
 Virtues and Flaws with an Asterisk (*) are House Virtues and Flaws  
   
 - The Gift  
-- Death Prophecy* (Will die defending someone who needs no defense)  
-- Personal Vis Source* (Creo Divine Vis, gathers as small malformations on his chest wound)  
-- Holy Magic  
-- Skilled Parens  
-- Skilled Parens  
-- Sense Holiness & Unholiness  
-- Lesser Benediction (Inert Familiar: Can have a Magic Thing as a Familiar)  
-- Subtle Magic  
-- Protection (Parisian Church)  
-- Side Effect (Increases the Presence Characteristic according to the magnitude of the spell, manifesting Stigmata in the shape of the Five Holy Wounds and an illusory Crown of Thorns)  
+- Death Prophecy* (Will die defending someone who needs no defense) [Major, General]  
+- Personal Vis Source* (Creo Divine Vis, gathers as small malformations on his chest wound) [Minor, Hermetic]  
+- Holy Magic [Major, Hermetic & Supernatural]  
+- Skilled Parens [Minor, Hermetic]  
+- Skilled Parens [Minor, Hermetic] 
+- Sense Holiness & Unholiness [Minor, Supernatural]    
+- Lesser Benediction (Inert Familiar: Can have a Magic Thing as a Familiar) [Minor, Supernatural]   
+- Subtle Magic [Minor, Hermetic]  
+- Protection (Parisian Church) [Minor, General]  
+- Side Effect (Increases the Presence Characteristic according to the magnitude of the spell, manifesting Stigmata in the shape of the Five Holy Wounds and an illusory Crown of Thorns) [Minor, Hermetic]  
   
-- Painful Magic*  
-- Necessary Condition (Holds a book with Religious content, due to his Holy Magic it can't be of a Religion that Adam is against)  
-- Raised from the Dead   
-- Warped Magic (The same Stigmata caused by his magic is also extremely painful, giving him a penalty to Concentration or Intelligence rolls of -3 or more if succesive castings are done)  
-- Lingering Injury (A spear wound on his chest from the Opening of his Gift refuses to heal even with Hermetic Magic)  
-- Generous (Minor)  
-- Pious (Minor)  
+- Painful Magic*  [Major, Hermetic]    
+- Necessary Condition (Holds a book with Religious content, due to his Holy Magic it can't be of a Religion that Adam is against) [Major, Hermetic]    
+- Raised from the Dead [Major, Supernatural & Story]    
+- Warped Magic (The same Stigmata caused by his magic is also extremely painful, giving him a penalty to Concentration or Intelligence rolls of -3 or more if succesive castings are done) [Minor, Hermetic]  
+- Lingering Injury (A spear wound on his chest from the Opening of his Gift refuses to heal even with Hermetic Magic) [Minor, General]    
+- Generous [Minor, Personality]    
+- Pious [Minor, Personality]   
   
   
 **Personality Trait:** Loyal to everyone +3, Inquisitive +3, Clement +2, *True Friend (Gestia) +3*, *Pious & Generous +3*  
