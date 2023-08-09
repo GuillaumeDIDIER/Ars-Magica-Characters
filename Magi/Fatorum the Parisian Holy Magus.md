@@ -4,12 +4,13 @@ A Holy Magus in Paris, member of the Covenant of *Eboris*, Hermetic Filius of An
 Adam has no specialty, but due to his status as a Holy Magus you will probably see him trying to learn Rituals in the future, or just immerse himself in the intrigues of Parisian, Hermetic, or even more occult societies.   
 
 A more detailed backstory and story seeds are given, Adam has been built as any character using standard rules but is intended to be used as an NPC.   
-   
-**Characteristics:** Int +3, Per 0, Pre +3, Com 0, Str -2, Sta -2, Dex 0, Qik 0   
+  
+**House:** Ex Miscellanea  
+**Characteristics:** Int +3, Per 0, Pre +3, Com 1, Str -2, Sta -2, Dex 0, Qik 0   
 **Size:** 0    
 **Age:** 27   
 **Decrepitude:** 0 (0)    
-**Warping Score:** 2 (28) (Adam suffers *Divine Form* rather than regular Wizard's Twilight, as such he gains some benefits. See RoP:D 63 to 65 for details)  
+**Warping Score:** 2 (28) (Adam suffers *Divine Form* rather than regular Wizard's Twilight, as such his benefits and drawbacks are different from regular Hermetic Magi. See RoP:D 63 to 65 for details)  
 **Confidence Score:** 1 (3)  
   
 ## Virtues and Flaws:  
@@ -110,7 +111,7 @@ Intended as a last strike against a demon for when his Might Score is already da
 *(General Base 3, +2 Presence)*  
   
 **The Evening Bell tolls for the Accursed**    
-PeVi 5  
+PeVi 5  Mastery Score: 2 (Silent Casting, Apotropaic Casting)
 **R:** Presence, **D:** Mom, **T:** Sin  
 Reduces a demon's Might Score by 5. The Sin Target is redundant.  
 Two Scores in Mastery, one in Silent Casting and another in Apotropaic Mastery (Augments the amount of Infernal Might stripped by Mastery Score times Hierarchy Score, in this case 2 times 4, meaning 8)  
@@ -178,7 +179,7 @@ Used by Adam so that his Painful Magic won't hinder him too much, due to the eve
 ReCo 20  
 **R:** Presence, **D:** Con, **T:** Individual   
 Holds the body of a Corpus target (Size of -1 to +1) motionless for as long as the Caster concentrates.   
-Made so that Adam could stop an agressor from hitting a victim, this spell has only been used once so that an assault may be stopped.   
+Made so that Adam could stop an agressor from hitting a victim, this spell has only been used but once, for the intended purpose.   
 *(Base Effect 5, +2 Presence, +1 Concentration)*   
     
     
