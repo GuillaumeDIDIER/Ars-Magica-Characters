@@ -10,7 +10,6 @@ Brunhilde is a witch living in a cavern, deep inside the Black Forest. She somet
 **Confidence Score:** 1 (3)
 
 ## Virtues
-
 - **The Gift** _(special)_
 - **Folk Witch** _(free, social status)_ cf. HMRE p34
 - **Corpse Magic** _(major, supernatural)_ cf. LoTN p102
@@ -19,9 +18,7 @@ Brunhilde is a witch living in a cavern, deep inside the Black Forest. She somet
 - **Herbalism** _(minor, general)_ cf. A&A p55
 - **Independent Study** _(minor, general)_ cf. HoH:MC p86
 - **Lesser Craft Magic** _(minor, supernatural)_ cf. RM p11
- 
 ## Flaws
-
 - **Enemies (Church)** _(major, story)_
 - **Rarefied Tradition** _(major, supernatural)_ cf. HMRE p35
 - **Ambitious** _(minor, personality)_
@@ -33,21 +30,20 @@ Brunhilde is a witch living in a cavern, deep inside the Black Forest. She somet
 **Reputations:** The Bone Witch 1 (among the peasants)
 
 **Combat:**  
-*Dodge*: Init -1, Attack +0, Defense -1, Damage +0                                                                                                    
+*Dodge*: Init -1, Attack +0, Defense -1, Damage +0                                                                         
 
 **Soak:** +0  
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
 ## Abilities
-
 + Animal Handling 1 (chickens)
 + Animal Ken 3 (crows)
 + Area Lore: Black Forest 2 (vis sources)
 + Awareness 2 (alertness)
 + Brawl 2 (dagger)
 + Corpse Magic 4 (animating the dead)
-+ Craft: Bones 1 (wands)
++ Craft: Poppets 1 (men)
 + Dowsing 2 (vis)
 + Flight 1 (take to air)
 + Folk Ken 1 (peasants)
