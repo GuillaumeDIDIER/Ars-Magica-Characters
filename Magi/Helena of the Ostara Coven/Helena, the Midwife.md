@@ -11,7 +11,7 @@ When Helena was fifteen, the village midwife passed away, leaving a void in the 
 ## Virtues  
 - **The Gift** _(special)_  
 - **Folk Witch** _(free, social status)_ cf. HMRE p34
-- **Control Fertility** _(major, supernatural)_ cf. HoH:Soc p106
+- **Control Fertility** _(major, supernatural)_ cf. HoH:S p106
 - **Feminine Gift** _(minor, supernatural)_ cf. F&F p29
 - **Herbalism** _(minor, general)_ cf. A&A p55
 - **Astrological Minor Potent Magic (Nati)** _(minor, hermetic)_ cf. TMRE p37

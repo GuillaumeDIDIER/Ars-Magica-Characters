@@ -30,7 +30,7 @@ Brunhilde is a witch living in a cavern, deep inside the Black Forest. She somet
 **Reputations:** The Bone Witch 1 (among the peasants)
 
 **Combat:**  
-*Dodge*: Init -1, Attack +0, Defense -1, Damage +0                                                                         
+*Dodge*: Init -1, Attack +0, Defense -1, Damage +0
 
 **Soak:** +0  
 **Fatigue Leves:** OK, 0, -1, -3, -5, Unconscious  
