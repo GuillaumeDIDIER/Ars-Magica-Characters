@@ -9,9 +9,7 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 **Decrepitude:** 0 (0)  
 **Warping Score:** 1 (11)  
 **Confidence Score:** 1 (3)
-
 ## Virtues
-
 - **The Gift** _(special)_
 - **Folk Witch** _(free, social status)_ cf. HMRE p34
 - **Entrancement** _(major, supernatural)_
@@ -20,9 +18,7 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 - **Independent Study** _(minor, general)_ cf. HoH:MC p86
 - **Lesser Craft Magic** _(minor, supernatural)_ cf. RM p11
 - **Puissant Entracement** _(minor, general)_
-
 ## Flaws
-
 - **Lycanthrope** _(major, supernatural)_
 - **Necessary Condition (Must look into eyes)** _(major, hermetic)_
 - **Disfigured (White hair and heterochromia)** _(minor, general)_
@@ -40,7 +36,6 @@ Clara grew as a Folk Witch skilled in entrancing people and creatures to do her 
 **Wound Penalties:** -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
 
 ## Abilities
-
 + Animal Handling 1 (wolves)
 + Animal Ken 3 (wolves)
 + Area Lore 2 (creatures)
