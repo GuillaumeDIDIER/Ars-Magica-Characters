@@ -1,6 +1,8 @@
 # Helena, the Midwife
 Helena was born into a humble family in a small village nestled in a secluded valley. From a young age, she displayed an uncanny connection with nature and an innate talent for understanding the rhythms of life and death. Her mother, a respected herbalist and a witch, recognized Helena's gift and began teaching her the secrets of plants, potions, and remedies. By the time she was twelve, she could identify almost every herb in the surrounding woods and knew their uses. Her Feminine Gift allowed her to form strong bonds with the village’s wives and mothers, although men were often wary and distrustful of her.
-When Helena was fifteen, the village midwife passed away, leaving a void in the community. During a difficult childbirth soon after, Helena’s mother brought her along to assist. Helena's calm determination and herbal knowledge helped deliver a healthy baby, solidifying her reputation. Seeking to enhance her abilities, Helena discovered an ancient text in her mother’s collection, guiding her to learn the power to Control Fertility. This, combined with her midwifery skills, made her a renowned healer and witch.
+When Helena was fifteen, the village midwife passed away, leaving a void in the community. During a difficult childbirth soon after, Helena’s mother brought her along to assist and, thank to Helena's calm determination and herbal knowledge, they delivered a healthy baby, solidifying their reputation. Seeking to enhance her abilities, Helena discovered an ancient text in her mother’s collection, guiding her to learn the power to Control Fertility. This, combined with her midwifery skills, made her a renowned healer and witch.
+
+Another place where Helena, or Héloise, could come from is the Ardeché, in particular there could be a coven linked to a fertility cult near the Chauvet-Pont-d'Arc Caves. The coven may have discovered how to use their Fertility Control ability to create Fertility Rituals as described in Ancient Magic. The Laboratory Total used is a Control Fertility Lab Total, as all the Lab Totals for Folk Witches described in Hedge Magic. However, knowledge of the Fertility Ritual is not complete and therefore during the Ritual it is not possible to choose major virtues or flaws, nor is it possible to choose whether the unborn child will have the Gift.
 
 **Characteristics:** Int +2, Per +0, Pre +2, Com +1, Str +0, Sta +0, Dex +1, Qik -1  
 **Size:** 0  
@@ -66,4 +68,4 @@ When Helena was fifteen, the village midwife passed away, leaving a void in the 
 **Equipment:** 2 pawns of Corpus vis, a fertility amulet, a pouch of herbs  
 **Encumbrance:** 0 (0)  
   
-**Appearance:**
+**Appearance:** Helena is of average height, with striking blue eyes that reflect a deep understanding of nature. Her long, blonde hair, often adorned with wildflowers and herbs, frames a face marked by serene determination and gentle kindness.  
