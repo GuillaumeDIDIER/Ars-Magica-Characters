@@ -70,10 +70,10 @@ At the age of eight, Maldea was drawn into a nearby cave during a fierce storm. 
   
 **Force of Nature**  
 Variable points, Init - (Might cost), Auram/Terram  
-Duplicates any non-Ritual spell pertaining to natural phenomenons (Auram and Terram) no greater than 25th level, at a cost of 1 Might point per magnitude of the effect.
+Duplicates any non-Ritual spell pertaining to natural phenomenons (Auram and Terram) no greater than 25th level, at a cost of 1 Might point per magnitude of the effect.  
 *(Focus Power x2*)
   
 **Confession of the Penitent**  
 3 points, Init -6, Mentem  
-Imbues the target with the desire to confess. This power may cause someone to admit to a crime different to the one requiring vengeance; it is usually the most burning crime that is blurted out. If the target is not given the opportunity to confess immediately after this power is used, the desire passes. 
+Imbues the target with the desire to confess. This power may cause someone to admit to a crime different to the one requiring vengeance; it is usually the most burning crime that is blurted out. If the target is not given the opportunity to confess immediately after this power is used, the desire passes.  
 *ReMe 20 (Base 10, +2 Voice) Lesser Power (20 levels, –1 Might cost)*
