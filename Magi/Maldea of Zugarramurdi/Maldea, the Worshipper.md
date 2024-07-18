@@ -65,17 +65,15 @@ At the age of eight, Maldea was drawn into a nearby cave during a fierce storm. 
   
 **Equipment:** 2 pawns of Corpus vis, a handful of herbs, a straw poppet   
 **Encumbrance:** 0 (0)  
-**Appearance:**  
+**Appearance:** Maldea has piercing green eyes and long, dark hair adorned with beads and feathers. Her slender, agile build and fair, sun-kissed skin give her an ethereal presence. She wears earth-toned garments and a fur cloak, with a serpent pendant symbolizing her pact with the earth goddess Mari. Maldea's mysterious aura and quiet power make her captivating and intimidating.
 ## Powers
   
 **Force of Nature**  
-Auram/Terram  
-**R**: , **D**: , **T**:  
-Focus Power x2  
-*()*  
+Variable points, Init - (Might cost), Auram/Terram  
+Duplicates any non-Ritual spell pertaining to natural phenomenons (Auram and Terram) no greater than 25th level, at a cost of 1 Might point per magnitude of the effect.  
+*(Focus Power x2*)
   
 **Confession of the Penitent**  
-Mentem  
-**R**: , **D**: , **T**:  
-- Confession of the Penitent, 3 point, Init Qik –6, Me: Imbues the target with the desire to confess. This power may cause someone to admit to a crime different to the one requiring vengeance; it is usually the most burning crime that is blurted out. If the target is not given the opportunity to confess immediately after this power is used, the desire passes. ReMe 20 (Base 10, +2 Voice) Lesser Power (20 levels, –1 Might cost)
-*()*
+3 points, Init -6, Mentem  
+Imbues the target with the desire to confess. This power may cause someone to admit to a crime different to the one requiring vengeance; it is usually the most burning crime that is blurted out. If the target is not given the opportunity to confess immediately after this power is used, the desire passes.  
+*ReMe 20 (Base 10, +2 Voice) Lesser Power (20 levels, –1 Might cost)*
