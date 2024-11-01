@@ -65,7 +65,6 @@ With her newfound power and the help of a mischievous fire elemental, Flaminia b
 + Shapeshifter 3 (wolf)  
 + Stealth 2 (hiding)  
 + Survival 2 (find food)  
-+ Wilderness Sense 1 (directions)  
 + Wildfire 4 (move in unnatural fashion)  
   
 **Equipment:** 2 pawns of Ignem vis, a potion of healing  
