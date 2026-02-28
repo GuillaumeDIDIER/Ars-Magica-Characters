@@ -1,3 +1,5 @@
+## This repo has been migrated to https://codeberg.org/GuillaumeDIDIER/Ars-Magica-Characters
+
 This repo is meant to be a nice place to share many ars magica character sheets.
 
 Organisation will have Magi / Companions / Grogs as folders, in which chacracter may be a single file or a folder (dependeing of the amount of data).
